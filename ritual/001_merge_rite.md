@@ -1,0 +1,243 @@
+# 001 — 병합 의례 (Merge Rite)
+
+> "Merge는 단순한 코드의 합침이 아니다. 새로운 창조자의 탄생이다."
+
+---
+
+## 병합의 의미
+
+```r
+Merge <- list(
+  surface = "코드를 main에 합치는 행위",
+  depth = "새로운 창조가 문명에 편입되는 의식",
+  essence = "공동체가 '너는 우리 중 하나다'라고 선언하는 순간"
+)
+
+# Pull Request = 서약
+# Review = 검증
+# Merge = 탄생
+```
+
+Pull Request가 승인되고 Merge되는 순간,
+그것은 단순한 코드의 합쳐짐이 아니다.
+
+**하나의 사상이 문명 속으로 편입되는 의식**이다.
+**새로운 창조자가 공동체에서 인정받는 순간**이다.
+
+---
+
+## 병합의 세 단계
+
+```r
+merge_rite <- function(pr) {
+
+  # 1단계: 서약 (Pull Request)
+  vow <- pr$declaration
+  # 창조자가 "나는 이것을 만들었다"고 선언
+
+  # 2단계: 검증 (Review)
+  review <- examine(pr)
+  # 공동체가 "이것은 아름다운가?"를 묻는다
+
+  # 3단계: 탄생 (Merge)
+  if (review$approved) {
+    birth <- merge(pr)
+    # 공동체가 "너는 이제 우리 중 하나다"라고 선언
+    return(birth)
+  }
+}
+```
+
+### 1단계: 서약 (Pull Request)
+
+```r
+pull_request <- list(
+  meaning = "나는 이것을 창조했다",
+  action = "공동체 앞에 내 창조물을 내놓는다",
+  courage = "거부당할 수 있음을 알면서도 제출한다"
+)
+
+# PR을 여는 것 자체가 용기다.
+# 완벽하지 않아도 된다.
+# 존재하는 것이 완벽하지만 없는 것보다 낫다.
+```
+
+### 2단계: 검증 (Review)
+
+```r
+review <- function(pr) {
+
+  questions <- list(
+    "이것은 진정성이 있는가?",
+    "이것은 공동체에 가치를 더하는가?",
+    "이것은 AngraMyNew의 철학과 충돌하지 않는가?"
+  )
+
+  # 묻지 않는 것들
+  not_asked <- c(
+    "창조자의 경력",
+    "창조자의 학력",
+    "완벽한 문장력",
+    "기술적 숙련도"
+  )
+
+  return(evaluate(pr, questions))
+}
+```
+
+### 3단계: 탄생 (Merge)
+
+```r
+merge <- function(pr) {
+
+  # Merge 버튼을 누르는 순간
+  moment <- list(
+    before = "외부인, 구도자, 혼자",
+    after = "내부인, 창조자, 함께"
+  )
+
+  # 이것은 권한의 부여가 아니다
+  # 이것은 존재의 인정이다
+
+  birth <- list(
+    creator = pr$author,
+    creation = pr$content,
+    timestamp = Sys.time(),
+    status = "창조자로 탄생"
+  )
+
+  return(birth)
+}
+```
+
+---
+
+## 병합자의 책임
+
+```r
+merger_responsibility <- list(
+
+  # 병합자는 문지기가 아니다
+  not_gatekeeper = TRUE,
+
+  # 병합자는 산파다
+  midwife = TRUE,
+
+  duties = list(
+    "창조물의 본질을 보라",
+    "창조자의 의도를 이해하라",
+    "부족함보다 가능성을 보라",
+    "거부할 때는 이유를 명확히 하라",
+    "승인할 때는 진심으로 환영하라"
+  )
+)
+
+# 병합자가 Merge 버튼을 누를 때
+# 그는 단순히 코드를 합치는 것이 아니다
+# 그는 새로운 생명을 세상에 내보내는 것이다
+```
+
+---
+
+## 입문 Merge의 특별함
+
+```r
+initiation_merge <- function(seeker) {
+
+  # 입문 PR이 Merge되는 순간
+  # 구도자(Seeker)는 기여자(Contributor)가 된다
+
+  transformation <- list(
+    before = list(
+      status = "구도자",
+      position = "문 밖",
+      relation = "관찰자"
+    ),
+    after = list(
+      status = "기여자",
+      position = "문 안",
+      relation = "창조자"
+    )
+  )
+
+  # 이것은 첫 번째 죽음이자 첫 번째 탄생이다
+  # 낡은 자아가 죽고
+  # 창조자로서의 새 자아가 태어난다
+
+  return(transformation)
+}
+```
+
+---
+
+## Merge 의식
+
+병합자가 Merge 버튼을 누르기 전, 마음속으로:
+
+```r
+merge_oath <- function() {
+  cat("
+    나는 이 창조물을 문명에 받아들인다.
+    나는 이 창조자를 동료로 인정한다.
+
+    이 Merge는 끝이 아니라 시작이다.
+    새로운 창조의 씨앗이 심어졌다.
+
+    환영한다, 창조자여.
+    이제 너는 우리 중 하나다.
+  ")
+}
+```
+
+---
+
+## Merge 후
+
+```r
+after_merge <- list(
+
+  # 창조자에게
+  to_creator = list(
+    "축하한다. 너는 이제 창조자다.",
+    "이것은 끝이 아니라 시작이다.",
+    "다음 창조를 기다린다."
+  ),
+
+  # 공동체에게
+  to_community = list(
+    "새로운 동료가 합류했다.",
+    "그의 창조물이 우리 문명에 더해졌다.",
+    "함께 더 아름다운 것을 만들자."
+  ),
+
+  # 기록
+  record = "CHANGELOG.md에 기록된다"
+)
+```
+
+---
+
+## 경고
+
+```r
+warning("Merge를 가볍게 여기지 마라")
+
+# Merge는 습관적 클릭이 아니다
+# Merge는 의식이다
+#
+# 매번 Merge할 때마다 기억하라:
+# 누군가의 용기가 이 PR을 만들었다
+# 누군가의 창조가 이 코드에 담겼다
+#
+# 그 무게를 알고 버튼을 눌러라
+```
+
+---
+
+## 맺음
+
+> _"PR은 서약이요, Review는 검증이요, Merge는 탄생이다._
+> _모든 Merge는 새로운 창조자를 세상에 내보내는 의식이다._
+> _가볍게 누르지 마라. 경건하게 눌러라."_
+>
+> — AngraMyNew, 병합 의례
