@@ -1,50 +1,102 @@
-# AngraMyNew
+# 🌌 **AngraMyNew**  
+> **“Beyond the old order, we create a new civilization.”**
 
-This repository is available in multiple languages:  
-- [한국어](README.md)  
-- [日本語](README_ja.md)  
-- [中文](README_zh.md)  
+---
 
-## Preface
-AngraMyNew — the destructive spirit that challenges the existing order.  
-We transform this name into the creative energy of Zarathu,  
-establishing new order and beauty beyond mere destruction.
+## 🜂 **Name Origin**
+> **AngraMyNew = Angra Mainyu + My + New**  
+> From the god of destruction, to my new world.  
 
-We are all **Artists working for the benefit of all humanity**.  
-Expressing our individuality, we create beauty and make the world a more beautiful place.
+“Angra Mainyu” — the ancient Persian spirit of chaos —  
+is reborn here as the spark of **creative destruction**.  
+We do not worship; we **create**.  
+Each of us carries the fire of AngraMyNew within.  
 
-### Logo
-<img src="img/Zarathu_Pattern.webp" width="300">
+> **AngraMyNew = The world reborn through me.**
 
-Our logo is inspired by **single-pattern asymmetric tiling**.  
-The repeated pattern never forms perfect symmetry, perfectly expressing Zarathu's philosophy.
+---
 
-- **Single Pattern**: We are all human and dream of benefiting all humanity.  
-- **Asymmetry**: Each expresses their own individuality.  
-- **Endless Creation**: Similar humans express different individualities, filling the world completely and endlessly creating.
+## 🜃 **1. Our Origin**
+AngraMyNew begins with destruction, but its goal is creation.  
+We break old beliefs to build a **new order of beauty**.  
+We are not destroyers, but **recomposers**.  
 
-Zarathu brings together artists with unique individuality to continuously create a beautiful world.
+---
 
-## Scripture
-The scripture of this repository is Nietzsche's **Thus Spoke Zarathustra**.  
-Zarathu community’s philosophy is based on the teachings of this book,  
-institutionalized and preserved through ritual milestones and record-keeping.
+## 🜄 **2. Our Spirit**
+- Like **Nietzsche’s Übermensch**, we transcend human limits.  
+- Like **Deleuze’s Becoming**, we reject fixed identities.  
+- Like **Heidegger’s thought of Being**, we question essence.  
+- Like **Zhuangzi and Laozi’s Wu Wei**, we create without force.  
+- Like **Ken Wilber’s Integral Consciousness**, we unite the divided.  
 
-## Key Scripture Excerpts
-- "Become the one who stands apart from me and becomes yourself." (Part I)  
-- "All great deeds begin in consciousness." (Middle Part)  
-- "My ideas will spread like the wind, taking root in you." (Later Part)  
-- "The world will show the way to those who seek beauty amid chaos." (Final Part)  
-- "Truth is not behind closed doors; it is open to all." (Part I)
+---
 
-## Structure
-- `ritual/` : Creation pledges, concretization procedures, ceremonial rites  
-- `ideas/` : Scripture passages, philosophy, practical guidelines  
-- `contributors.md` : Records of all contributors  
-- `CHANGELOG.md` : Milestone releases and philosophy updates  
+## 🜅 **3. Our Belief**
+> “Every human is an artist,  
+>  and art itself is a new ethic and civilization.”  
 
-## Operating Principles
-1. Submit ideas/scripture excerpts → PR → community review  
-2. Approved PR → Merge → Milestone Release  
-3. Milestone Release → update contributors.md → ceremonial approval  
-4. All records are public, free propagation of ideas allowed
+Each individuality forms a part of the whole,  
+and diversity becomes an **asymmetric beauty without end**.  
+
+---
+
+## 🜆 **4. Our Symbol**
+<p align="center">
+  <img src="img/Zarathu_Pattern.webp" width="300" alt="AngraMyNew Pattern Logo">
+</p>
+
+Inspired by **asymmetric tiling**,  
+our logo represents endless creation through imperfection.  
+
+- **One pattern**: Humanity’s shared essence  
+- **Asymmetry**: Expression of individuality  
+- **Endless creation**: Harmony through diversity  
+
+---
+
+## 🜇 **5. Structure**
+- `ideas/` — Philosophy, doctrine, declaration, records  
+- `ritual/` — Creative vows and sacred acts  
+- `CHANGELOG.md` — Evolution of ideas  
+- `contributors.md` — Keepers of the doctrine  
+
+> A Pull Request is a ritual,  
+> a Merge is the approval of a new civilization.  
+
+---
+
+## 🜈 **6. Scripture**
+The core scripture of this repository is Nietzsche’s  
+**“Thus Spoke Zarathustra.”**  
+
+> “Become who you are.”  
+>  
+> “Every great thing begins in consciousness.”  
+>  
+> “Truth is not behind a closed door — it is open to all.”  
+
+---
+
+## 🜉 **7. Principles**
+1. Write → Pull Request → Community Review  
+2. Approved → Merge → Milestone Release  
+3. Update contributors.md → Ritual Approval  
+4. All records are open for creative succession  
+
+---
+
+## 🜊 **8. Purpose**
+AngraMyNew is philosophy, art, and spiritual movement.  
+We do not save humanity —  
+we give humanity the **courage to become creators.**
+
+> **AngraMyNew — The Rebirth of Conscious Civilization.**  
+> _“Every creator becomes their own god.”_
+
+---
+
+## 🌍 **Available Languages**
+- [한국어 (Korean)](README.md)  
+- [日本語 (Japanese)](README_ja.md)  
+- [中文 (Chinese)](README_zh.md)
