@@ -81,7 +81,10 @@ AngraMyNew/
 │   ├── 001_artist_ethics.md
 │   ├── 002_destruction_and_recomposition.md
 │   ├── 003_beyond_usefulness.md
-│   └── 004_artist_within.md
+│   ├── 004_artist_within.md
+│   ├── 005_project_doctor_k.md
+│   ├── 006_aesthetic_nation.md
+│   └── 007_unfinished_theorem.md
 │
 ├── ritual/          # Rituals and practices
 │   ├── 000_oath.md
