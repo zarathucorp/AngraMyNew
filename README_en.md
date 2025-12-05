@@ -177,6 +177,21 @@ we give humanity the **courage to become creators.**
 
 ---
 
+## 11. Theme Song
+
+The song that best embodies AngraMyNew's philosophy:
+
+**ZICO - Artist**
+
+> "You are an Artist"
+
+This single phrase captures the core of AngraMyNew.
+Every human is a creator, and creation itself is a way of life.
+
+[![ZICO - Artist](https://img.youtube.com/vi/DNPs2qqdhN0/0.jpg)](https://youtu.be/DNPs2qqdhN0?si=V_vIC0NECZKo1N6U)
+
+---
+
 ## Languages
 
 - [한국어 (Korean)](README.md)

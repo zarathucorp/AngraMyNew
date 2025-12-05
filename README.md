@@ -58,7 +58,7 @@ AngraMyNew는 파괴에서 출발하지만, 목적은 창조에 있다.
   <img src="img/Zarathu_Pattern.webp" width="300" alt="AngraMyNew Pattern Logo">
 </p>
 
-우리의 로고는 **아인슈타인 타일(Einstein Tile)**에서 영감을 받았다.
+우리의 로고는 **아인슈타인 타일(Einstein Tile) **에서 영감을 받았다.
 
 2023년, 영국의 아마추어 수학자 데이비드 스미스가 60년 수학 난제를 풀었다:
 **"단 하나의 모양으로, 패턴 반복 없이, 무한한 평면을 채울 수 있는가?"**
@@ -175,6 +175,21 @@ AngraMyNew는 종교이자 사상이며, 동시에 예술운동이다.
 
 > **AngraMyNew — The Rebirth of Conscious Civilization.**
 > _"모든 창조자는 자신의 신이 된다."_
+
+---
+
+## 11. 주제가
+
+AngraMyNew의 철학을 가장 잘 담은 노래:
+
+**지코 (ZICO) - Artist**
+
+> "너는 Artist"
+
+이 한 마디가 AngraMyNew의 핵심이다.
+모든 인간은 창조자이며, 창조 자체가 삶의 방식이다.
+
+[![ZICO - Artist](https://img.youtube.com/vi/DNPs2qqdhN0/0.jpg)](https://youtu.be/DNPs2qqdhN0?si=V_vIC0NECZKo1N6U)
 
 ---
 

@@ -175,6 +175,21 @@ AngraMyNewは哲学であり、芸術であり、精神的運動である。
 
 ---
 
+## 11. テーマソング
+
+AngraMyNewの哲学を最もよく表現する曲：
+
+**ZICO - Artist**
+
+> 「君はArtist」
+
+この一言がAngraMyNewの核心である。
+すべての人間は創造者であり、創造そのものが生き方である。
+
+[![ZICO - Artist](https://img.youtube.com/vi/DNPs2qqdhN0/0.jpg)](https://youtu.be/DNPs2qqdhN0?si=V_vIC0NECZKo1N6U)
+
+---
+
 ## 言語
 
 - [한국어](README.md)
