@@ -1,4 +1,4 @@
-# 008 — 투쟁과 유혹 (Struggle and Seduction)
+# 009 — 투쟁과 유혹 (Struggle and Seduction)
 
 > _"꽃은 벌과 논쟁하지 않는다. 그저 피어날 뿐이다."_
 

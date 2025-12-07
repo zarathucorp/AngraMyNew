@@ -1,4 +1,4 @@
-# 007 — 미완의 정리 (The Unfinished Theorem)
+# 008 — 미완의 정리 (The Unfinished Theorem)
 
 > _"정답을 맞힌 자는 점수를 얻지만, 질문을 바꾼 자는 세계를 얻는다."_
 
