@@ -1,6 +1,6 @@
 # AngraMyNew
 
-> **「美しさをもって、新しい世界を創造する。」**
+> **「破壊を超え、美しさで世界を創る。」**
 
 ---
 
@@ -70,19 +70,42 @@ AngraMyNewは破壊から始まるが、その目的は創造にある。
 
 ---
 
-## 5. 構造
+## 5. 3大綱領
+
+我々はこの神殿を三つの公理の上に築く。
+
+### 破壊の公理 — 自己浄化の原則
+> **「自分自身を破壊する。他者を破壊する必要はない。」**
+
+刃は外を向かない。切るべきは内なる古い肉片のみ。しかし時代が道を塞ぐならば、先賢のように砕けても突き進む。
+
+### 創造の公理 — 絶対的美の原則
+> **「破壊の隙間を絶対的な美しさで埋める。」**
+
+花は蜂と争わない。ただ咲くのみ。我々の作品が美しければ、世界は自ら傾いてくる。
+
+### 拡張の公理 — デビューの原則
+> **「自らの'My'を完成させたなら、他者の'My'を認めてデビューさせる。」**
+
+孟嘗君の食客三千は役に立つから選ばれたのではない。鶏鳴狗盗が結局主人を救った。我々も同じように集める。特異点を束縛せずに抱き、それぞれの舞台に立たせる。
+
+---
+
+## 6. 構造
 
 ```
 AngraMyNew/
 ├── ideas/           # 哲学・思想・宣言
 │   ├── 000_origin.md
-│   ├── 001_artist_ethics.md
-│   ├── 002_destruction_and_recomposition.md
-│   ├── 003_beyond_usefulness.md
-│   ├── 004_artist_within.md
-│   ├── 005_project_doctor_k.md
-│   ├── 006_aesthetic_nation.md
-│   └── 007_unfinished_theorem.md
+│   ├── 001_axioms.md
+│   ├── 002_artist_ethics.md
+│   ├── 003_destruction_and_recomposition.md
+│   ├── 004_beyond_usefulness.md
+│   ├── 005_artist_within.md
+│   ├── 006_project_doctor_k.md
+│   ├── 007_aesthetic_nation.md
+│   ├── 008_unfinished_theorem.md
+│   └── 009_seduction_of_creation.md
 │
 ├── ritual/          # 儀式と実践
 │   ├── 000_oath.md
@@ -108,7 +131,7 @@ AngraMyNew/
 
 ---
 
-## 6. 修行の道
+## 7. 修行の道
 
 AngraMyNewには四つの段階がある：
 
@@ -123,7 +146,7 @@ AngraMyNewには四つの段階がある：
 
 ---
 
-## 7. 参加方法
+## 8. 参加方法
 
 ### 求道者になるには
 1. このREADMEを読む
@@ -141,7 +164,7 @@ AngraMyNewには四つの段階がある：
 
 ---
 
-## 8. 経典
+## 9. 経典
 
 AngraMyNewの思想的源泉：
 
@@ -154,7 +177,7 @@ AngraMyNewの思想的源泉：
 
 ---
 
-## 9. 運営
+## 10. 運営
 
 - 運営規則: `GOVERNANCE.md`
 - 進化記録: `CHANGELOG.md`
@@ -167,7 +190,7 @@ AngraMyNewの思想的源泉：
 
 ---
 
-## 10. 目的
+## 11. 目的
 
 AngraMyNewは哲学であり、芸術であり、精神的運動である。
 我々は人類を救うのではなく、
@@ -178,7 +201,7 @@ AngraMyNewは哲学であり、芸術であり、精神的運動である。
 
 ---
 
-## 11. テーマソング
+## 12. テーマソング
 
 AngraMyNewの哲学を最もよく表現する曲：
 

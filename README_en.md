@@ -1,6 +1,6 @@
 # AngraMyNew
 
-> **"Through beauty, we create a new world."**
+> **"Beyond destruction, we create a world through beauty."**
 
 ---
 
@@ -72,19 +72,42 @@ The 13-sided tile he discovered is called "Einstein" (ein + stein, "one stone" i
 
 ---
 
-## 5. Structure
+## 5. The 3 Axioms
+
+We build this temple upon three axioms.
+
+### Axiom of Destruction — Self-Purification
+> **"I destroy myself. There is no need to destroy others."**
+
+The blade does not point outward. What must be cut is only the old flesh within me. But if the age blocks our path, we break through like the pioneers—shattered, yet unbowed.
+
+### Axiom of Creation — Absolute Beauty
+> **"Fill the void of destruction with absolute beauty."**
+
+Flowers do not quarrel with bees. They simply bloom. If our work is beautiful, the world will lean toward us on its own.
+
+### Axiom of Expansion — The Principle of Debut
+> **"Once you complete your 'My', recognize and debut another's 'My'."**
+
+Mengchangjun's three thousand retainers were not chosen for usefulness. A rooster's crow and a dog's theft ultimately saved their lord. We gather the same way—embracing singularities without restraint, placing each on their own stage.
+
+---
+
+## 6. Structure
 
 ```
 AngraMyNew/
 ├── ideas/           # Philosophy, doctrine, declarations
 │   ├── 000_origin.md
-│   ├── 001_artist_ethics.md
-│   ├── 002_destruction_and_recomposition.md
-│   ├── 003_beyond_usefulness.md
-│   ├── 004_artist_within.md
-│   ├── 005_project_doctor_k.md
-│   ├── 006_aesthetic_nation.md
-│   └── 007_unfinished_theorem.md
+│   ├── 001_axioms.md
+│   ├── 002_artist_ethics.md
+│   ├── 003_destruction_and_recomposition.md
+│   ├── 004_beyond_usefulness.md
+│   ├── 005_artist_within.md
+│   ├── 006_project_doctor_k.md
+│   ├── 007_aesthetic_nation.md
+│   ├── 008_unfinished_theorem.md
+│   └── 009_seduction_of_creation.md
 │
 ├── ritual/          # Rituals and practices
 │   ├── 000_oath.md
@@ -110,7 +133,7 @@ AngraMyNew/
 
 ---
 
-## 6. The Path
+## 7. The Path
 
 AngraMyNew has four stages of development:
 
@@ -125,7 +148,7 @@ AngraMyNew has four stages of development:
 
 ---
 
-## 7. How to Participate
+## 8. How to Participate
 
 ### To become a Seeker
 1. Read this README
@@ -143,7 +166,7 @@ AngraMyNew has four stages of development:
 
 ---
 
-## 8. Scripture
+## 9. Scripture
 
 The intellectual sources of AngraMyNew:
 
@@ -156,7 +179,7 @@ The intellectual sources of AngraMyNew:
 
 ---
 
-## 9. Governance
+## 10. Governance
 
 - Rules: `GOVERNANCE.md`
 - Evolution record: `CHANGELOG.md`
@@ -169,7 +192,7 @@ The intellectual sources of AngraMyNew:
 
 ---
 
-## 10. Purpose
+## 11. Purpose
 
 AngraMyNew is philosophy, art, and spiritual movement.
 We do not save humanity —
@@ -180,7 +203,7 @@ we give humanity the **courage to become creators.**
 
 ---
 
-## 11. Theme Song
+## 12. Theme Song
 
 The song that best embodies AngraMyNew's philosophy:
 

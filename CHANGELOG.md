@@ -1,5 +1,26 @@
 # Changelog
 
+## v2.8 — 공리 체계 정립 및 구조 재편 (2025-12-07)
+
+### 추가
+- `ideas/001_axioms.md` — AngraMyNew 3 Axioms
+  - 파괴의 공리: 자기정화의 원칙
+  - 창조의 공리: 절대적 아름다움의 원칙
+  - 확장의 공리: 데뷔의 원칙
+- README (한/영/일/중) — "5. 3대 공리" 섹션 추가
+
+### 변경
+- ideas/ 파일 번호 재정렬 (001~008 → 002~009)
+- `ideas/005_artist_within.md` — 3장 야성의 기억 추상화 (개인 특화 내용 제거)
+- `ideas/009_seduction_of_creation.md` — 투쟁과 유혹
+- README 메인 인용구 변경: "파괴를 넘어, 아름다움으로 세계를 만든다."
+
+### 삭제
+- `ideas/000_doctrine.md` — 001_axioms.md로 통합
+- 구 `ideas/009_axioms.md` — 001로 이동
+
+---
+
 ## v2.7 — ideas 확장 및 구조 정비 (2025-12-05)
 
 ### 추가

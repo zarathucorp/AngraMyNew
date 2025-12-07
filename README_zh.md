@@ -1,6 +1,6 @@
 # AngraMyNew
 
-> **"以美为道，创造新世界。"**
+> **"超越破坏，以美创造世界。"**
 
 ---
 
@@ -71,19 +71,42 @@ AngraMyNew始于破坏，但目标是创造。
 
 ---
 
-## 5. 结构
+## 5. 三大纲领
+
+我们在三条公理之上建造这座神殿。
+
+### 破坏的公理 — 自我净化的原则
+> **"破坏自己。无需破坏他人。"**
+
+刀刃不指向外。该切的只是内心陈旧的血肉。然而若时代阻塞前路，我们将如先贤般粉身碎骨也要冲破。
+
+### 创造的公理 — 绝对之美的原则
+> **"用绝对的美填补破坏的裂隙。"**
+
+花不与蜂争辩，只管绽放。若我们的作品足够美丽，世界自会倾向我们。
+
+### 扩展的公理 — 出道的原则
+> **"完成自己的'My'后，认可并让他人的'My'出道。"**
+
+孟尝君的三千门客并非因有用而被选中。鸡鸣狗盗最终救了主人。我们也如此聚集。将奇点不加束缚地拥入怀中，让他们各自登上舞台。
+
+---
+
+## 6. 结构
 
 ```
 AngraMyNew/
 ├── ideas/           # 哲学、思想、宣言
 │   ├── 000_origin.md
-│   ├── 001_artist_ethics.md
-│   ├── 002_destruction_and_recomposition.md
-│   ├── 003_beyond_usefulness.md
-│   ├── 004_artist_within.md
-│   ├── 005_project_doctor_k.md
-│   ├── 006_aesthetic_nation.md
-│   └── 007_unfinished_theorem.md
+│   ├── 001_axioms.md
+│   ├── 002_artist_ethics.md
+│   ├── 003_destruction_and_recomposition.md
+│   ├── 004_beyond_usefulness.md
+│   ├── 005_artist_within.md
+│   ├── 006_project_doctor_k.md
+│   ├── 007_aesthetic_nation.md
+│   ├── 008_unfinished_theorem.md
+│   └── 009_seduction_of_creation.md
 │
 ├── ritual/          # 仪式与实践
 │   ├── 000_oath.md
@@ -109,7 +132,7 @@ AngraMyNew/
 
 ---
 
-## 6. 修行之道
+## 7. 修行之道
 
 AngraMyNew有四个阶段：
 
@@ -124,7 +147,7 @@ AngraMyNew有四个阶段：
 
 ---
 
-## 7. 参与方式
+## 8. 参与方式
 
 ### 成为求道者
 1. 阅读本README
@@ -142,7 +165,7 @@ AngraMyNew有四个阶段：
 
 ---
 
-## 8. 经典
+## 9. 经典
 
 AngraMyNew的思想源泉：
 
@@ -155,7 +178,7 @@ AngraMyNew的思想源泉：
 
 ---
 
-## 9. 运营
+## 10. 运营
 
 - 运营规则: `GOVERNANCE.md`
 - 演化记录: `CHANGELOG.md`
@@ -168,7 +191,7 @@ AngraMyNew的思想源泉：
 
 ---
 
-## 10. 目标
+## 11. 目标
 
 AngraMyNew 是哲学、艺术与精神运动。
 我们不拯救人类，
@@ -179,7 +202,7 @@ AngraMyNew 是哲学、艺术与精神运动。
 
 ---
 
-## 11. 主题曲
+## 12. 主题曲
 
 最能体现AngraMyNew哲学的歌曲：
 

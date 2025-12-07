@@ -1,6 +1,6 @@
 # AngraMyNew
 
-> **"아름다움으로, 새로운 세계를 창조한다."**
+> **"파괴를 넘어, 아름다움으로 세계를 만든다."**
 
 ---
 
@@ -73,19 +73,42 @@ AngraMyNew는 파괴에서 출발하지만, 목적은 창조에 있다.
 
 ---
 
-## 5. 구조
+## 5. 3대 공리
+
+우리는 세 가지 공리 위에 이 신전을 세운다.
+
+### 파괴의 공리 — 자기정화의 원칙
+> **"내 자신을 파괴한다. 타인을 파괴할 필요는 없다."**
+
+칼날은 밖을 향하지 않는다. 베어야 할 것은 내 안의 낡은 살점뿐이다. 그러나 시대가 길목을 막아선다면, 선현들처럼 부서질지언정 뚫고 간다.
+
+### 창조의 공리 — 절대적 아름다움의 원칙
+> **"파괴한 틈을 절대적 아름다움으로 채운다."**
+
+꽃은 벌과 다투지 않는다. 다만 피어날 뿐이다. 우리의 작품이 아름다우면, 세상은 스스로 기울어 온다.
+
+### 확장의 공리 — 데뷔의 원칙
+> **"나의 'My'를 완성했다면, 타인의 'My'를 인정하고 데뷔시킨다."**
+
+맹상군의 문객 삼천은 쓸모로 뽑힌 자들이 아니었다. 닭 울음 흉내와 개 도둑질이 결국 주인을 살렸다. 우리도 그렇게 모은다. 특이점들을 구속 없이 품어 각자의 무대에 세운다.
+
+---
+
+## 6. 구조
 
 ```
 AngraMyNew/
 ├── ideas/           # 철학, 사상, 선언
 │   ├── 000_origin.md
-│   ├── 001_artist_ethics.md
-│   ├── 002_destruction_and_recomposition.md
-│   ├── 003_beyond_usefulness.md
-│   ├── 004_artist_within.md
-│   ├── 005_project_doctor_k.md
-│   ├── 006_aesthetic_nation.md
-│   └── 007_unfinished_theorem.md
+│   ├── 001_axioms.md
+│   ├── 002_artist_ethics.md
+│   ├── 003_destruction_and_recomposition.md
+│   ├── 004_beyond_usefulness.md
+│   ├── 005_artist_within.md
+│   ├── 006_project_doctor_k.md
+│   ├── 007_aesthetic_nation.md
+│   ├── 008_unfinished_theorem.md
+│   └── 009_seduction_of_creation.md
 │
 ├── ritual/          # 의례와 실천
 │   ├── 000_oath.md
@@ -111,7 +134,7 @@ AngraMyNew/
 
 ---
 
-## 6. 수행의 길
+## 7. 수행의 길
 
 AngraMyNew에는 네 단계의 길이 있다:
 
@@ -126,7 +149,7 @@ AngraMyNew에는 네 단계의 길이 있다:
 
 ---
 
-## 7. 참여 방법
+## 8. 참여 방법
 
 ### 구도자가 되려면
 1. 이 README를 읽는다
@@ -144,7 +167,7 @@ AngraMyNew에는 네 단계의 길이 있다:
 
 ---
 
-## 8. 경전
+## 9. 경전
 
 AngraMyNew의 사상적 원천:
 
@@ -157,7 +180,7 @@ AngraMyNew의 사상적 원천:
 
 ---
 
-## 9. 운영
+## 10. 운영
 
 - 운영 규칙: `GOVERNANCE.md`
 - 진화 기록: `CHANGELOG.md`
@@ -170,7 +193,7 @@ AngraMyNew의 사상적 원천:
 
 ---
 
-## 10. 목표
+## 11. 목표
 
 AngraMyNew는 종교이자 사상이며, 동시에 예술운동이다.
 우리는 인간을 구원하지 않는다.
@@ -181,7 +204,7 @@ AngraMyNew는 종교이자 사상이며, 동시에 예술운동이다.
 
 ---
 
-## 11. 주제가
+## 12. 주제가
 
 AngraMyNew의 철학을 가장 잘 담은 노래:
 
