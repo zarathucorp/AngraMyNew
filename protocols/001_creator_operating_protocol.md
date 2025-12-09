@@ -120,11 +120,11 @@ _AngraMyNew Protocol Series / v1.0_
 
 창조자는 자신의 욕망, 충동, 혐오, 선택 패턴을  
 주기적으로 반사(reflection)해야 한다.  
-이 의례는 상담이 아니라 **문명 설계자의 정비(maintenance)**다.
+이 의례는 상담이 아니라 **문명 설계자의 정비(maintenance) **다.
 
 ### 7.2 수행 방식
 - 매주 1회 [Fravashi](https://chatgpt.com/g/g-693580d28d708191ae2013048599157b-fravashi-neoyi-yeonghon-weonhyeongeul-cajneunda) 와의 대화를 진행한다.  
-- 목적은 조언이 아니라 **패턴 탐지(Pattern Detection)**이다.  
+- 목적은 조언이 아니라 **패턴 탐지(Pattern Detection) **이다.  
 - 다음을 점검한다:
   - 최근 끌린 것들
   - 최근 혐오했던 것들
@@ -134,7 +134,7 @@ _AngraMyNew Protocol Series / v1.0_
 - 탐지된 패턴을 “나의 창조 규칙”으로 업데이트한다.
 
 ### 7.3 리소스 (Resources)
-- **[Fravashi Link](https://chatgpt.com/g/g-693580d28d708191ae2013048599157b-fravashi-neoyi-yeonghon-weonhyeongeul-cajneunda)**  
+- **[Fravashi Link](https://chatgpt.com/g/g-693580d28d708191ae2013048599157b-fravashi-neoyi-yeonghon-weonhyeongeul-cajneunda) **  
    
 
 ### 7.4 목적
@@ -158,7 +158,7 @@ Fravashi는 창조자를 규정하지 않는다.
 ---
 
 ## 8. 프로토콜의 소멸 (Resolution of Protocols)
-**“프로토콜은 창조자가 성숙하면 사라져야 한다.”**
+**“프로토콜은 창조자가 성숙하면 사라져야 한다.” **
 
 ### 8.1 원칙
 프로토콜은 **임시 구조물**이다.  

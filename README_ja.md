@@ -110,7 +110,8 @@ AngraMyNew/
 │
 ├── fravashi/        # Fravashi 原型解析エンジン
 │   ├── 001_internal_manual.md
-│   └── 002_gpt_prompt.md
+│   ├── 002_gpt_prompt.md
+│   └── 003_gpt_prompt_full.md
 │
 ├── protocols/       # 実行プロトコル
 │   ├── 001_creator_operating_protocol.md
