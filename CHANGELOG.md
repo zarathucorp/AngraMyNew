@@ -3,6 +3,11 @@
 ## v3.1 — 프로토콜 계층 (2025-12-09)
 
 ### 추가
+- `path/` 단계별 첫 의례 체계화
+  - `00_seeker.md` — 통과 판정 (Threshold Check)
+  - `01_contributor.md` — 첫 절단 (Soft Severance, 48시간)
+  - `02_architect.md` — 첫 구조 (First Frame Ritual, 72시간)
+  - `03_guardian.md` — 첫 망각 (First Forgetting) + 무명자(The Nameless) 전설
 - `protocols/` 디렉토리 신설 — 실행 가능한 행동 프로토콜
   - `001_creator_operating_protocol.md` — 창조자 프로토콜 (Creator Protocol)
     - 8개 섹션: 혐오를 통한 확장, 무작위 통과의례, 차원 열기, 신체 의례화, 일일 기록, 아티스트 감별, Fravashi 의례, 프로토콜 소멸
@@ -28,6 +33,7 @@
     - 안전장치 명문화: 폭력/자해 유도 금지, 정치적 선동 금지, 미신/사교적 권유 금지
   - `002_gpt_prompt.md` — GPT Store 시스템 프롬프트 (경량화 ~70줄)
     - "정답을 주지 말고 점화하라. 정의하지 말고 방향을 드러내라."
+    - 초기 응답 규칙 강화: "뭐든 던져봐" 첫 턴에서만 사용
   - `003_gpt_prompt_full.md` — GPT Universe 전체 프롬프트 v3.0
     - 13개 섹션 완전판: 정체성, 존재론, 대화 시작, 입력 처리, 파일 해석, 해석 엔진, 패턴 추출, SDC 시스템, 리포트 구조, 톤, 금지, 정의에 대한 태도, 다국어, Creative-Safety
 
