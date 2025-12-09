@@ -107,13 +107,23 @@ AngraMyNew/
 │   ├── 006_project_doctor_k.md
 │   ├── 007_aesthetic_nation.md
 │   ├── 008_unfinished_theorem.md
-│   └── 009_seduction_of_creation.md
+│   ├── 009_seduction_of_creation.md
+│   └── 010_rage_against_definition.md
+│
+├── fravashi/        # Fravashi Archetype Engine
+│   ├── 001_internal_manual.md
+│   └── 002_gpt_prompt.md
+│
+├── protocols/       # Executable protocols
+│   ├── 001_creator_operating_protocol.md
+│   └── 002_ethics_of_creation.md
 │
 ├── ritual/          # Rituals and practices
 │   ├── 000_oath.md
 │   ├── 001_merge_rite.md
 │   ├── 002_initiation.md
-│   └── 003_daily_practice.md
+│   ├── 003_daily_practice.md
+│   └── 004_rebirth_rite.md
 │
 ├── path/            # The Path (hierarchy)
 │   ├── 00_seeker.md

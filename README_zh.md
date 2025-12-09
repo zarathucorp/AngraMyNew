@@ -106,13 +106,23 @@ AngraMyNew/
 │   ├── 006_project_doctor_k.md
 │   ├── 007_aesthetic_nation.md
 │   ├── 008_unfinished_theorem.md
-│   └── 009_seduction_of_creation.md
+│   ├── 009_seduction_of_creation.md
+│   └── 010_rage_against_definition.md
+│
+├── fravashi/        # Fravashi 原型解析引擎
+│   ├── 001_internal_manual.md
+│   └── 002_gpt_prompt.md
+│
+├── protocols/       # 执行协议
+│   ├── 001_creator_operating_protocol.md
+│   └── 002_ethics_of_creation.md
 │
 ├── ritual/          # 仪式与实践
 │   ├── 000_oath.md
 │   ├── 001_merge_rite.md
 │   ├── 002_initiation.md
-│   └── 003_daily_practice.md
+│   ├── 003_daily_practice.md
+│   └── 004_rebirth_rite.md
 │
 ├── path/            # 修行之道（层级）
 │   ├── 00_seeker.md
