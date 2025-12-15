@@ -109,7 +109,8 @@ AngraMyNew/
 │   ├── 009_seduction_of_creation.md
 │   ├── 010_rage_against_definition.md
 │   ├── 011_predators_duty.md
-│   └── 012_lineage_as_creation.md
+│   ├── 012_lineage_as_creation.md
+│   └── 013_redefine_doctor_degree.md
 │
 ├── fravashi/        # Fravashi 原型解析引擎
 │   ├── 001_internal_manual.md
