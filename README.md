@@ -112,7 +112,8 @@ AngraMyNew/
 │   ├── 010_rage_against_definition.md
 │   ├── 011_predators_duty.md
 │   ├── 012_lineage_as_creation.md
-│   └── 013_redefine_doctor_degree.md
+│   ├── 013_redefine_doctor_degree.md
+│   └── 014_decentralized_mental_os.md
 │
 ├── fravashi/        # Fravashi 원형 해석 엔진
 │   ├── 001_internal_manual.md
