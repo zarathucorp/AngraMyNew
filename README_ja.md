@@ -111,7 +111,8 @@ AngraMyNew/
 │   ├── 012_lineage_as_creation.md
 │   ├── 013_redefine_doctor_degree.md
 │   ├── 014_decentralized_mental_os.md
-│   └── 015_economics_of_beauty.md
+│   ├── 015_economics_of_beauty.md
+│   └── 016_case_study_the_gravity_of_outlaws.md
 │
 ├── fravashi/        # Fravashi 原型解析エンジン
 │   ├── 001_internal_manual.md
