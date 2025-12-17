@@ -112,7 +112,8 @@ AngraMyNew/
 │   ├── 011_predators_duty.md
 │   ├── 012_lineage_as_creation.md
 │   ├── 013_redefine_doctor_degree.md
-│   └── 014_decentralized_mental_os.md
+│   ├── 014_decentralized_mental_os.md
+│   └── 015_economics_of_beauty.md
 │
 ├── fravashi/        # Fravashi Archetype Engine
 │   ├── 001_internal_manual.md
