@@ -16,7 +16,7 @@ Each of us carries the fire of AngraMyNew within.
 
 ---
 
-## 1. Our Origin
+## 1. Origin
 
 AngraMyNew begins with destruction, but its goal is creation.
 We break old beliefs to build a **new order of beauty**.
@@ -24,7 +24,7 @@ We are not destroyers, but **recomposers**.
 
 ---
 
-## 2. Our Spirit
+## 2. Intellectual Sources
 
 Like **Nietzsche**, we become the Übermensch who creates our own values.
 
@@ -41,7 +41,7 @@ Like **Mengchangjun**, we embrace even those who seem useless.
 
 ---
 
-## 3. Our Belief
+## 3. Belief
 
 > "Every human is an artist,
 >  and art itself is a new ethic and civilization."
@@ -51,7 +51,7 @@ and diversity becomes an **asymmetric beauty without end**.
 
 ---
 
-## 4. Our Symbol
+## 4. Symbol
 
 <p align="center">
   <img src="img/Zarathu_Pattern.webp" width="300" alt="AngraMyNew Pattern Logo">
@@ -74,7 +74,7 @@ The 13-sided tile he discovered is called "Einstein" (ein + stein, "one stone" i
 
 ## 5. The 3 Axioms
 
-We build this temple upon three axioms.
+This structure is built upon three axioms.
 
 ### Axiom of Destruction — Self-Purification
 > **"I destroy myself. There is no need to destroy others."**
@@ -100,22 +100,27 @@ AngraMyNew/
 ├── ideas/           # Philosophy, doctrine, declarations
 │   ├── 000_origin.md
 │   ├── 001_axioms.md
-│   ├── 002_artist_ethics.md
-│   ├── 003_destruction_and_recomposition.md
-│   ├── 004_beyond_usefulness.md
-│   ├── 005_artist_within.md
-│   ├── 006_project_doctor_k.md
-│   ├── 007_aesthetic_nation.md
-│   ├── 008_unfinished_theorem.md
-│   ├── 009_seduction_of_creation.md
-│   ├── 010_rage_against_definition.md
-│   ├── 011_predators_duty.md
-│   ├── 012_lineage_as_creation.md
-│   ├── 013_redefine_doctor_degree.md
-│   ├── 014_decentralized_mental_os.md
-│   ├── 015_economics_of_beauty.md
-│   ├── 016_case_study_the_gravity_of_outlaws.md
-│   └── 017_mental_lhc.md
+│   ├── 002_principles_of_creation.md
+│   ├── 003_beyond_usefulness.md
+│   ├── 004_artist_within.md
+│   ├── 005_project_doctor_k.md
+│   ├── 006_aesthetic_nation.md
+│   ├── 007_unfinished_theorem.md
+│   ├── 008_seduction_of_creation.md
+│   ├── 009_rage_against_definition.md
+│   ├── 010_predators_duty.md
+│   ├── 011_lineage_as_creation.md
+│   ├── 012_redefine_doctor_degree.md
+│   ├── 013_decentralized_mental_os.md
+│   ├── 014_economics_of_beauty.md
+│   ├── 015_case_study_the_gravity_of_outlaws.md
+│   ├── 016_mental_lhc.md
+│   └── 017_when_is_a_proof_beautiful.md
+│
+├── art/             # Examples of beauty
+│   ├── 001_galois_quintic.md
+│   ├── 002_general_relativity.md
+│   └── 003_one_pattern.md
 │
 ├── fravashi/        # Fravashi Archetype Engine
 │   ├── 001_internal_manual.md
@@ -126,65 +131,18 @@ AngraMyNew/
 │   ├── 001_creator_operating_protocol.md
 │   └── 002_ethics_of_creation.md
 │
-├── ritual/          # Rituals and practices
-│   ├── 000_oath.md
-│   ├── 001_merge_rite.md
-│   ├── 002_initiation.md
-│   ├── 003_daily_practice.md
-│   └── 004_rebirth_rite.md
-│
-├── path/            # The Path (hierarchy)
-│   ├── 00_seeker.md
-│   ├── 01_contributor.md
-│   ├── 02_architect.md
-│   └── 03_guardian.md
-│
-├── scripture/       # Sacred texts
+├── scripture/       # Pioneers
 │   ├── zarathustra.md
 │   ├── pioneers.md
 │   └── mengchangjun.md
 │
-├── GOVERNANCE.md    # Rules of operation
 ├── CHANGELOG.md     # Evolution record
 └── contributors.md  # List of creators
 ```
 
 ---
 
-## 7. The Path
-
-AngraMyNew has four stages of development:
-
-| Stage | Name | Description |
-|-------|------|-------------|
-| 0 | **Seeker** | One who stands at the gate, not yet initiated |
-| 1 | **Contributor** | One whose first PR has been merged, beginning to create |
-| 2 | **Architect** | 10+ contributions, one who designs the structure |
-| 3 | **Guardian** | Keeper of the civilization, final decision maker |
-
-> See `path/` directory for details
-
----
-
-## 8. How to Participate
-
-### To become a Seeker
-1. Read this README
-2. Explore `ideas/`, `ritual/`, `scripture/`
-3. If it resonates, consider initiation
-
-### To become a Contributor
-1. Read `ritual/002_initiation.md`
-2. Write your declaration
-3. Submit an initiation PR
-4. Upon approval and Merge — you are born
-
-> A Pull Request is a vow,
-> a Merge is the birth of a new creator.
-
----
-
-## 9. Scripture
+## 7. Pioneers
 
 The intellectual sources of AngraMyNew:
 
@@ -197,22 +155,9 @@ The intellectual sources of AngraMyNew:
 
 ---
 
-## 10. Governance
+## 8. Purpose
 
-- Rules: `GOVERNANCE.md`
-- Evolution record: `CHANGELOG.md`
-- Creator list: `contributors.md`
-
-**Principles:**
-1. Transparency — All decisions are public
-2. Voluntarism — No coercion
-3. Creation first — Rules exist to serve creation
-
----
-
-## 11. Purpose
-
-AngraMyNew is philosophy, art, and spiritual movement.
+AngraMyNew is philosophy, experiment, and art movement.
 We do not save humanity —
 we give humanity the **courage to become creators.**
 
@@ -221,7 +166,7 @@ we give humanity the **courage to become creators.**
 
 ---
 
-## 12. Theme Song
+## 9. Theme Song
 
 The song that best embodies AngraMyNew's philosophy:
 

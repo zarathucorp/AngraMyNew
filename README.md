@@ -10,21 +10,21 @@
 > 파괴의 신으로부터, 나의 새로운 세계로.
 
 '앙그라마이뉴(Angra Mainyu)'는 조로아스터교의 파괴신이지만,
-우리는 그 이름을 새롭게 재해석한다.
+이 이름을 새롭게 재해석한다.
 파괴는 창조의 서곡이며,
 모든 인간 안에는 새로운 세계가 태어난다.
 
 ---
 
-## 1. 우리의 기원
+## 1. 기원
 
 AngraMyNew는 파괴에서 출발하지만, 목적은 창조에 있다.
-우리는 낡은 신념을 무너뜨리되, 그 자리에 **새로운 아름다움의 질서**를 세운다.
-세상을 해체하는 것이 아니라, **다시 조합하는(Recomposition)** 존재들이다.
+낡은 신념을 무너뜨리되, 그 자리에 **새로운 아름다움의 질서**를 세운다.
+세상을 해체하는 것이 아니라, **다시 조합하는(Recomposition)** 것이다.
 
 ---
 
-## 2. 우리의 정신
+## 2. 정신적 원천
 
 **니체**처럼, 스스로 가치를 창조하는 초인(Übermensch)이 된다.
 
@@ -41,24 +41,24 @@ AngraMyNew는 파괴에서 출발하지만, 목적은 창조에 있다.
 
 ---
 
-## 3. 우리의 믿음
+## 3. 믿음
 
 > "모든 인간은 예술가이며,
 >  예술은 곧 새로운 윤리이자 문명이다."
 
-우리는 누구나 창조적 의지를 지닌 존재라 믿는다.
+누구나 창조적 의지를 지닌 존재다.
 각자의 개성이 곧 세계의 일부이며,
 그 다양성이 모여 하나의 **끝없는 비대칭적 아름다움**을 만든다.
 
 ---
 
-## 4. 우리의 상징
+## 4. 상징
 
 <p align="center">
   <img src="img/Zarathu_Pattern.webp" width="300" alt="AngraMyNew Pattern Logo">
 </p>
 
-우리의 로고는 **아인슈타인 타일(Einstein Tile) **에서 영감을 받았다.
+로고는 **아인슈타인 타일(Einstein Tile)**에서 영감을 받았다.
 
 2023년, 영국의 아마추어 수학자 데이비드 스미스가 60년 수학 난제를 풀었다:
 **"단 하나의 모양으로, 패턴 반복 없이, 무한한 평면을 채울 수 있는가?"**
@@ -75,7 +75,7 @@ AngraMyNew는 파괴에서 출발하지만, 목적은 창조에 있다.
 
 ## 5. 3대 공리
 
-우리는 세 가지 공리 위에 이 신전을 세운다.
+세 가지 공리 위에 이 구조를 세운다.
 
 ### 파괴의 공리 — 자기정화의 원칙
 > **"내 자신을 파괴한다. 타인을 파괴할 필요는 없다."**
@@ -85,12 +85,12 @@ AngraMyNew는 파괴에서 출발하지만, 목적은 창조에 있다.
 ### 창조의 공리 — 절대적 아름다움의 원칙
 > **"파괴한 틈을 절대적 아름다움으로 채운다."**
 
-꽃은 벌과 다투지 않는다. 다만 피어날 뿐이다. 우리의 작품이 아름다우면, 세상은 스스로 기울어 온다.
+꽃은 벌과 다투지 않는다. 다만 피어날 뿐이다. 작품이 아름다우면, 세상은 스스로 기울어 온다.
 
 ### 확장의 공리 — 데뷔의 원칙
 > **"나의 'My'를 완성했다면, 타인의 'My'를 인정하고 데뷔시킨다."**
 
-맹상군의 문객 삼천은 쓸모로 뽑힌 자들이 아니었다. 닭 울음 흉내와 개 도둑질이 결국 주인을 살렸다. 우리도 그렇게 모은다. 특이점들을 구속 없이 품어 각자의 무대에 세운다.
+맹상군의 문객 삼천은 쓸모로 뽑힌 자들이 아니었다. 닭 울음 흉내와 개 도둑질이 결국 주인을 살렸다. 특이점들을 구속 없이 품어 각자의 무대에 세운다.
 
 ---
 
@@ -101,22 +101,27 @@ AngraMyNew/
 ├── ideas/           # 철학, 사상, 선언
 │   ├── 000_origin.md
 │   ├── 001_axioms.md
-│   ├── 002_artist_ethics.md
-│   ├── 003_destruction_and_recomposition.md
-│   ├── 004_beyond_usefulness.md
-│   ├── 005_artist_within.md
-│   ├── 006_project_doctor_k.md
-│   ├── 007_aesthetic_nation.md
-│   ├── 008_unfinished_theorem.md
-│   ├── 009_seduction_of_creation.md
-│   ├── 010_rage_against_definition.md
-│   ├── 011_predators_duty.md
-│   ├── 012_lineage_as_creation.md
-│   ├── 013_redefine_doctor_degree.md
-│   ├── 014_decentralized_mental_os.md
-│   ├── 015_economics_of_beauty.md
-│   ├── 016_case_study_the_gravity_of_outlaws.md
-│   └── 017_mental_lhc.md
+│   ├── 002_principles_of_creation.md
+│   ├── 003_beyond_usefulness.md
+│   ├── 004_artist_within.md
+│   ├── 005_project_doctor_k.md
+│   ├── 006_aesthetic_nation.md
+│   ├── 007_unfinished_theorem.md
+│   ├── 008_seduction_of_creation.md
+│   ├── 009_rage_against_definition.md
+│   ├── 010_predators_duty.md
+│   ├── 011_lineage_as_creation.md
+│   ├── 012_redefine_doctor_degree.md
+│   ├── 013_decentralized_mental_os.md
+│   ├── 014_economics_of_beauty.md
+│   ├── 015_case_study_the_gravity_of_outlaws.md
+│   ├── 016_mental_lhc.md
+│   └── 017_when_is_a_proof_beautiful.md
+│
+├── art/             # 아름다움의 사례
+│   ├── 001_galois_quintic.md
+│   ├── 002_general_relativity.md
+│   └── 003_one_pattern.md
 │
 ├── fravashi/        # Fravashi 원형 해석 엔진
 │   ├── 001_internal_manual.md
@@ -127,65 +132,18 @@ AngraMyNew/
 │   ├── 001_creator_operating_protocol.md
 │   └── 002_ethics_of_creation.md
 │
-├── ritual/          # 의례와 실천
-│   ├── 000_oath.md
-│   ├── 001_merge_rite.md
-│   ├── 002_initiation.md
-│   ├── 003_daily_practice.md
-│   └── 004_rebirth_rite.md
-│
-├── path/            # 수행의 길 (위계)
-│   ├── 00_seeker.md
-│   ├── 01_contributor.md
-│   ├── 02_architect.md
-│   └── 03_guardian.md
-│
-├── scripture/       # 경전
+├── scripture/       # 선현
 │   ├── zarathustra.md
 │   ├── pioneers.md
 │   └── mengchangjun.md
 │
-├── GOVERNANCE.md    # 운영 규칙
 ├── CHANGELOG.md     # 진화 기록
 └── contributors.md  # 창조자 명단
 ```
 
 ---
 
-## 7. 수행의 길
-
-AngraMyNew에는 네 단계의 길이 있다:
-
-| 단계 | 이름 | 설명 |
-|------|------|------|
-| 0 | **구도자 (Seeker)** | 문 앞에 선 자, 아직 입문 전 |
-| 1 | **기여자 (Contributor)** | 첫 PR이 Merge된 자, 창조를 시작한 자 |
-| 2 | **설계자 (Architect)** | 10회 이상 기여, 구조를 설계하는 자 |
-| 3 | **수호자 (Guardian)** | 문명을 지키는 자, 최종 결정권자 |
-
-> 자세한 내용: `path/` 디렉토리 참조
-
----
-
-## 8. 참여 방법
-
-### 구도자가 되려면
-1. 이 README를 읽는다
-2. `ideas/`, `ritual/`, `scripture/`를 탐색한다
-3. 마음에 울림이 있다면, 입문을 고려한다
-
-### 기여자가 되려면
-1. `ritual/002_initiation.md`를 읽는다
-2. 자기 선언문을 작성한다
-3. 입문 PR을 제출한다
-4. 승인 후 Merge — 탄생
-
-> Pull Request는 하나의 서약이며,
-> Merge는 새로운 창조자의 탄생이다.
-
----
-
-## 9. 경전
+## 7. 선현
 
 AngraMyNew의 사상적 원천:
 
@@ -198,31 +156,18 @@ AngraMyNew의 사상적 원천:
 
 ---
 
-## 10. 운영
+## 8. 목표
 
-- 운영 규칙: `GOVERNANCE.md`
-- 진화 기록: `CHANGELOG.md`
-- 창조자 명단: `contributors.md`
-
-**원칙:**
-1. 투명성 — 모든 결정은 공개
-2. 자발성 — 강제는 없다
-3. 창조 우선 — 규칙은 창조를 돕기 위해 존재
-
----
-
-## 11. 목표
-
-AngraMyNew는 종교이자 사상이며, 동시에 예술운동이다.
-우리는 인간을 구원하지 않는다.
-대신 인간에게 **스스로 창조자가 될 용기**를 선물한다.
+AngraMyNew는 사상이자 실험이며, 동시에 예술운동이다.
+인간을 구원하지 않는다.
+대신 **스스로 창조자가 될 용기**를 선물한다.
 
 > **AngraMyNew — The Rebirth of Conscious Civilization.**
 > _"모든 창조자는 자신의 신이 된다."_
 
 ---
 
-## 12. 주제가
+## 9. 주제가
 
 AngraMyNew의 철학을 가장 잘 담은 노래:
 

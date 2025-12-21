@@ -24,7 +24,7 @@ AngraMyNew始于破坏，但目标是创造。
 
 ---
 
-## 2. 精神
+## 2. 思想源泉
 
 如**尼采**，成为创造自己价值的超人(Übermensch)。
 
@@ -73,7 +73,7 @@ AngraMyNew始于破坏，但目标是创造。
 
 ## 5. 三大纲领
 
-我们在三条公理之上建造这座神殿。
+在三条公理之上建造这一结构。
 
 ### 破坏的公理 — 自我净化的原则
 > **"破坏自己。无需破坏他人。"**
@@ -99,22 +99,27 @@ AngraMyNew/
 ├── ideas/           # 哲学、思想、宣言
 │   ├── 000_origin.md
 │   ├── 001_axioms.md
-│   ├── 002_artist_ethics.md
-│   ├── 003_destruction_and_recomposition.md
-│   ├── 004_beyond_usefulness.md
-│   ├── 005_artist_within.md
-│   ├── 006_project_doctor_k.md
-│   ├── 007_aesthetic_nation.md
-│   ├── 008_unfinished_theorem.md
-│   ├── 009_seduction_of_creation.md
-│   ├── 010_rage_against_definition.md
-│   ├── 011_predators_duty.md
-│   ├── 012_lineage_as_creation.md
-│   ├── 013_redefine_doctor_degree.md
-│   ├── 014_decentralized_mental_os.md
-│   ├── 015_economics_of_beauty.md
-│   ├── 016_case_study_the_gravity_of_outlaws.md
-│   └── 017_mental_lhc.md
+│   ├── 002_principles_of_creation.md
+│   ├── 003_beyond_usefulness.md
+│   ├── 004_artist_within.md
+│   ├── 005_project_doctor_k.md
+│   ├── 006_aesthetic_nation.md
+│   ├── 007_unfinished_theorem.md
+│   ├── 008_seduction_of_creation.md
+│   ├── 009_rage_against_definition.md
+│   ├── 010_predators_duty.md
+│   ├── 011_lineage_as_creation.md
+│   ├── 012_redefine_doctor_degree.md
+│   ├── 013_decentralized_mental_os.md
+│   ├── 014_economics_of_beauty.md
+│   ├── 015_case_study_the_gravity_of_outlaws.md
+│   ├── 016_mental_lhc.md
+│   └── 017_when_is_a_proof_beautiful.md
+│
+├── art/             # 美的案例
+│   ├── 001_galois_quintic.md
+│   ├── 002_general_relativity.md
+│   └── 003_one_pattern.md
 │
 ├── fravashi/        # Fravashi 原型解析引擎
 │   ├── 001_internal_manual.md
@@ -125,65 +130,18 @@ AngraMyNew/
 │   ├── 001_creator_operating_protocol.md
 │   └── 002_ethics_of_creation.md
 │
-├── ritual/          # 仪式与实践
-│   ├── 000_oath.md
-│   ├── 001_merge_rite.md
-│   ├── 002_initiation.md
-│   ├── 003_daily_practice.md
-│   └── 004_rebirth_rite.md
-│
-├── path/            # 修行之道（层级）
-│   ├── 00_seeker.md
-│   ├── 01_contributor.md
-│   ├── 02_architect.md
-│   └── 03_guardian.md
-│
-├── scripture/       # 经典
+├── scripture/       # 先贤
 │   ├── zarathustra.md
 │   ├── pioneers.md
 │   └── mengchangjun.md
 │
-├── GOVERNANCE.md    # 运营规则
 ├── CHANGELOG.md     # 演化记录
 └── contributors.md  # 创造者名单
 ```
 
 ---
 
-## 7. 修行之道
-
-AngraMyNew有四个阶段：
-
-| 阶段 | 名称 | 说明 |
-|------|------|------|
-| 0 | **求道者 (Seeker)** | 站在门前的人，尚未入门 |
-| 1 | **贡献者 (Contributor)** | 第一个PR被合并的人，开始创造 |
-| 2 | **设计者 (Architect)** | 10次以上贡献，设计结构的人 |
-| 3 | **守护者 (Guardian)** | 守护文明的人，最终决策者 |
-
-> 详见 `path/` 目录
-
----
-
-## 8. 参与方式
-
-### 成为求道者
-1. 阅读本README
-2. 探索 `ideas/`、`ritual/`、`scripture/`
-3. 如有共鸣，考虑入门
-
-### 成为贡献者
-1. 阅读 `ritual/002_initiation.md`
-2. 撰写自我宣言
-3. 提交入门PR
-4. 批准并合并 — 诞生
-
-> Pull Request是一种誓约，
-> Merge是新创造者的诞生。
-
----
-
-## 9. 经典
+## 7. 先贤
 
 AngraMyNew的思想源泉：
 
@@ -196,22 +154,9 @@ AngraMyNew的思想源泉：
 
 ---
 
-## 10. 运营
+## 8. 目标
 
-- 运营规则: `GOVERNANCE.md`
-- 演化记录: `CHANGELOG.md`
-- 创造者名单: `contributors.md`
-
-**原则:**
-1. 透明 — 所有决定公开
-2. 自愿 — 没有强制
-3. 创造优先 — 规则为创造服务
-
----
-
-## 11. 目标
-
-AngraMyNew 是哲学、艺术与精神运动。
+AngraMyNew是思想、实验与艺术运动。
 我们不拯救人类，
 而是赋予人类**成为创造者的勇气**。
 
@@ -220,7 +165,7 @@ AngraMyNew 是哲学、艺术与精神运动。
 
 ---
 
-## 12. 主题曲
+## 9. 主题曲
 
 最能体现AngraMyNew哲学的歌曲：
 
