@@ -114,7 +114,8 @@ AngraMyNew/
 │   ├── 014_economics_of_beauty.md
 │   ├── 015_case_study_the_gravity_of_outlaws.md
 │   ├── 016_mental_lhc.md
-│   └── 017_when_is_a_proof_beautiful.md
+│   ├── 017_when_is_a_proof_beautiful.md
+│   └── 018_why_strange_systems_persist.md
 │
 ├── art/             # 美的案例
 │   ├── 001_galois_quintic.md
