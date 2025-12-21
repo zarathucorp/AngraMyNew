@@ -1,4 +1,4 @@
-# 011 — 정의에 대한 분노 (Rage Against Definition)
+# 009 — 정의에 대한 분노 (Rage Against Definition)
 
 > _"나는 왜 아직도 정의 가능한가?"_
 

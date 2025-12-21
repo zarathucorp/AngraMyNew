@@ -1,4 +1,4 @@
-# 014. 탈중앙화 정신체계 OS (Decentralized Mental OS)
+# 013 — 탈중앙화 정신체계 OS (Decentralized Mental OS)
 
 > _"화폐가 해방되었다면, 정신도 해방될 수 있다."_
 

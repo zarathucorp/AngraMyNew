@@ -1,4 +1,4 @@
-# 박사학위의 재정의 (Redefining the Doctorate)
+# 012 — 박사학위의 재정의 (Redefining the Doctorate)
 
 > *“박사는 자격이 아니다.  
 > 박사는 하나의 형식이다.”*
