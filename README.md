@@ -117,7 +117,9 @@ AngraMyNew/
 │   ├── 015_case_study_the_gravity_of_outlaws.md
 │   ├── 016_mental_lhc.md
 │   ├── 017_when_is_a_proof_beautiful.md
-│   └── 018_why_strange_systems_persist.md
+│   ├── 018_why_strange_systems_persist.md
+│   ├── 019_causality_question.md
+│   └── 020_causality_quantum.md
 │
 ├── art/             # 아름다움의 사례
 │   ├── 001_galois_quintic.md
