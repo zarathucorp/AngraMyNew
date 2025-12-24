@@ -1,5 +1,7 @@
 # AngraMyNew
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18046476.svg)](https://doi.org/10.5281/zenodo.18046476)
+
 > **"Beyond destruction, we create a world through beauty."**
 
 ---

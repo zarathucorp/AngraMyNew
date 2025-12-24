@@ -1,5 +1,7 @@
 # AngraMyNew
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18046476.svg)](https://doi.org/10.5281/zenodo.18046476)
+
 > **"超越破坏，以美创造世界。"**
 
 ---
