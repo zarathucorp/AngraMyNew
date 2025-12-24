@@ -119,7 +119,8 @@ AngraMyNew/
 │   ├── 017_when_is_a_proof_beautiful.md
 │   ├── 018_why_strange_systems_persist.md
 │   ├── 019_causality_question.md
-│   └── 020_causality_quantum.md
+│   ├── 020_causality_quantum.md
+│   └── 021_case_study_dawn_money.md
 │
 ├── art/             # 美的案例
 │   ├── 001_galois_quintic.md
