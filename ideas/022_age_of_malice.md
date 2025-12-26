@@ -174,16 +174,24 @@ AI는 그 위를 증폭시킨다.
 
 ## 결론
 
-문제는 더 이상  
+문제는 더 이상
 답을 얻는 것이 아니다.
+질문을 찾는 것도 아니다.
 
-문제는  
-아직 답도 질문도 아닌 상태에서  
+문제는
+아직 답도 질문도 아닌 상태에서
 무언가를 **뿜어낼 수 있는가**다.
 
 그리고 이 능력조차  
 언젠가는 사라질 것이다.
 
-AngraMyNew는  
-그 사라지기 전의 순간을  
+AngraMyNew는
+그 사라지기 전의 순간을
 조용히 기록한다.
+
+---
+
+## 관련 문서
+
+→ [015_case_study_the_gravity_of_outlaws.md](015_case_study_the_gravity_of_outlaws.md) — 악상을 뿜어내는 자들
+→ [014_economics_of_beauty.md](014_economics_of_beauty.md) — 면세인, 징세인, 그리고 견딤의 경제학
