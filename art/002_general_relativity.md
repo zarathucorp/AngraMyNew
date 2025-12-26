@@ -85,3 +85,10 @@ $$G_{\mu\nu} = 8\pi T_{\mu\nu}$$
 
 > **가장 아름다운 이론은
 > 설명해야 할 것 자체를 없애버린다.**
+
+---
+
+## 관련 문서
+
+→ [004_principia_geometry.md](004_principia_geometry.md) — 뉴턴: 중력은 그려졌다
+→ [../ideas/019_causality_question.md](../ideas/019_causality_question.md) — 인과관계에 대한 의문

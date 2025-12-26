@@ -119,12 +119,14 @@ AngraMyNew/
 │   ├── 018_why_strange_systems_persist.md
 │   ├── 019_causality_question.md
 │   ├── 020_causality_quantum.md
-│   └── 021_case_study_dawn_money.md
+│   ├── 021_case_study_dawn_money.md
+│   └── 022_age_of_malice.md
 │
 ├── art/             # 美の事例
 │   ├── 001_galois_quintic.md
 │   ├── 002_general_relativity.md
-│   └── 003_one_pattern.md
+│   ├── 003_one_pattern.md
+│   └── 004_principia_geometry.md
 │
 ├── fravashi/        # Fravashi 原型解析エンジン
 │   ├── 001_internal_manual.md

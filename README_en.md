@@ -121,12 +121,14 @@ AngraMyNew/
 │   ├── 018_why_strange_systems_persist.md
 │   ├── 019_causality_question.md
 │   ├── 020_causality_quantum.md
-│   └── 021_case_study_dawn_money.md
+│   ├── 021_case_study_dawn_money.md
+│   └── 022_age_of_malice.md
 │
 ├── art/             # Examples of beauty
 │   ├── 001_galois_quintic.md
 │   ├── 002_general_relativity.md
-│   └── 003_one_pattern.md
+│   ├── 003_one_pattern.md
+│   └── 004_principia_geometry.md
 │
 ├── fravashi/        # Fravashi Archetype Engine
 │   ├── 001_internal_manual.md
