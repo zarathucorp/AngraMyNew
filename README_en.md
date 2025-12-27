@@ -128,7 +128,8 @@ AngraMyNew/
 │   ├── 001_galois_quintic.md
 │   ├── 002_general_relativity.md
 │   ├── 003_one_pattern.md
-│   └── 004_principia_geometry.md
+│   ├── 004_principia_geometry.md
+│   └── 005_hangul_two_states.md
 │
 ├── fravashi/        # Fravashi Archetype Engine
 │   ├── 001_internal_manual.md
