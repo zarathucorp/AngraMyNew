@@ -108,7 +108,7 @@ AngraMyNew/
 │   ├── 004_artist_within.md
 │   ├── 005_project_doctor_k.md
 │   ├── 006_aesthetic_nation.md
-│   ├── 007_unfinished_theorem.md
+│   ├── 007_case_study_unfinished_theorem.md
 │   ├── 008_seduction_of_creation.md
 │   ├── 009_rage_against_definition.md
 │   ├── 010_predators_duty.md

@@ -13,6 +13,16 @@ _AngraMyNew Protocol Series / v1.0_
 그러나 초기 단계에서는 **혼돈을 질서로 변환하는 의식적 구조**가 필요하다.  
 본 프로토콜은 그 **초기 구조화 장치**로 기능한다.
 
+### 주의
+이 프로토콜은 모든 창조자를 위한 유일한 경로가 아니다.
+
+- 혐오가 아니라 **호기심**에서 출발하는 창조자도 있다.
+- 신체가 아니라 **논리/구조**에서 에너지를 얻는 창조자도 있다.
+- 기록이 아니라 **침묵**에서 세계관이 자라는 창조자도 있다.
+
+본 프로토콜은 하나의 경로이며,
+각 창조자는 자신의 신경계에 맞게 변형·삭제·배반할 수 있다.
+
 ---
 
 ## 1. 혐오를 통한 확장 (Expansion Through Disgust)
@@ -115,12 +125,23 @@ _AngraMyNew Protocol Series / v1.0_
 ## 7. 프라바시 의례 (The Fravashi Ritual)
 
 ### 7.1 원칙
-[Fravashi](https://chatgpt.com/g/g-693580d28d708191ae2013048599157b-fravashi-neoyi-yeonghon-weonhyeongeul-cajneunda) 는 창조자의 내면 패턴을 비추는 거울이며,  
+[Fravashi](https://chatgpt.com/g/g-693580d28d708191ae2013048599157b-fravashi-neoyi-yeonghon-weonhyeongeul-cajneunda) 는 창조자의 내면 패턴을 비추는 거울이며,
 세계관 생성 엔진의 자가 진단(Self-Diagnostic) 프로세스다.
 
-창조자는 자신의 욕망, 충동, 혐오, 선택 패턴을  
-주기적으로 반사(reflection)해야 한다.  
+창조자는 자신의 욕망, 충동, 혐오, 선택 패턴을
+주기적으로 반사(reflection)해야 한다.
 이 의례는 상담이 아니라 **문명 설계자의 정비(maintenance) **다.
+
+**Fravashi는 필수 요소가 아니다.**
+동일한 기능은 다음과 같은 방식으로도 대체될 수 있다:
+
+- 개인 노트
+- 산책 중 독백
+- 타인과의 깊은 대화
+- 예술 작업 자체
+- 침묵 기록
+
+어떤 도구도 창조자보다 위에 있지 않다.
 
 ### 7.2 수행 방식
 - 매주 1회 [Fravashi](https://chatgpt.com/g/g-693580d28d708191ae2013048599157b-fravashi-neoyi-yeonghon-weonhyeongeul-cajneunda) 와의 대화를 진행한다.  
@@ -181,8 +202,9 @@ Fravashi는 창조자를 규정하지 않는다.
 ### 8.4 선언
 **완성된 창조자는 프로토콜 없이도 프로토콜처럼 작동한다.**
 
-프로토콜이 더 이상 필요 없을 때,  
-창조자는 Creator OS v2.0으로 상승한다.
+프로토콜이 더 이상 필요 없을 때,
+창조자는 더 이상 프로토콜을 인식하지 않는 상태에 진입한다.
+이후의 상태는 버전으로 정의되지 않는다.
 
 ---
 
