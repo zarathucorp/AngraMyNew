@@ -122,7 +122,8 @@ AngraMyNew/
 │   ├── 019_causality_question.md
 │   ├── 020_causality_quantum.md
 │   ├── 021_case_study_dawn_money.md
-│   └── 022_age_of_malice.md
+│   ├── 022_age_of_malice.md
+│   └── 023_successful_lens.md
 │
 ├── art/             # Examples of beauty
 │   ├── 001_galois_quintic.md
