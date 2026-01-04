@@ -143,7 +143,8 @@ AngraMyNew/
 ├── scripture/       # 先贤
 │   ├── zarathustra.md
 │   ├── pioneers.md
-│   └── mengchangjun.md
+│   ├── mengchangjun.md
+│   └── na_hye_suk.md
 │
 ├── CHANGELOG.md     # 演化记录
 └── contributors.md  # 创造者名单

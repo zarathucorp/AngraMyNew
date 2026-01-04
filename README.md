@@ -145,7 +145,8 @@ AngraMyNew/
 ├── scripture/       # 선현
 │   ├── zarathustra.md
 │   ├── pioneers.md
-│   └── mengchangjun.md
+│   ├── mengchangjun.md
+│   └── na_hye_suk.md
 │
 ├── CHANGELOG.md     # 진화 기록
 └── contributors.md  # 창조자 명단

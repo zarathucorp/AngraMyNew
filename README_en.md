@@ -144,7 +144,8 @@ AngraMyNew/
 ├── scripture/       # Pioneers
 │   ├── zarathustra.md
 │   ├── pioneers.md
-│   └── mengchangjun.md
+│   ├── mengchangjun.md
+│   └── na_hye_suk.md
 │
 ├── CHANGELOG.md     # Evolution record
 └── contributors.md  # List of creators
