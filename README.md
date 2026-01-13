@@ -124,7 +124,8 @@ AngraMyNew/
 │   ├── 020_causality_quantum.md
 │   ├── 021_case_study_dawn_money.md
 │   ├── 022_age_of_malice.md
-│   └── 023_successful_lens.md
+│   ├── 023_successful_lens.md
+│   └── 024_when_critical_care_needs_witness.md
 │
 ├── art/             # 아름다움의 사례
 │   ├── 001_galois_quintic.md
