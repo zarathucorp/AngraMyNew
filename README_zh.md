@@ -98,33 +98,45 @@ AngraMyNew始于破坏，但目标是创造。
 
 ```
 AngraMyNew/
-├── ideas/           # 哲学、思想、宣言
-│   ├── 000_origin.md
-│   ├── 001_axioms.md
-│   ├── 002_principles_of_creation.md
-│   ├── 003_beyond_usefulness.md
-│   ├── 004_artist_within.md
-│   ├── 005_project_doctor_k.md
-│   ├── 006_aesthetic_nation.md
-│   ├── 007_case_study_unfinished_theorem.md
-│   ├── 008_seduction_of_creation.md
-│   ├── 009_rage_against_definition.md
-│   ├── 010_predators_duty.md
-│   ├── 011_lineage_as_creation.md
-│   ├── 012_redefine_doctor_degree.md
-│   ├── 013_decentralized_mental_os.md
-│   ├── 014_economics_of_beauty.md
-│   ├── 015_case_study_the_gravity_of_outlaws.md
-│   ├── 016_mental_lhc.md
-│   ├── 017_when_is_a_proof_beautiful.md
-│   ├── 018_why_strange_systems_persist.md
-│   ├── 019_causality_question.md
-│   ├── 020_causality_quantum.md
-│   ├── 021_case_study_dawn_money.md
-│   ├── 022_age_of_malice.md
-│   ├── 023_successful_lens.md
-│   ├── 024_when_critical_care_needs_witness.md
-│   └── 025_consumption_of_exempt.md
+├── ideas/           # 哲学、思想、宣言（26篇）
+│   │
+│   │  ── 起源／公理 (Foundation) ──
+│   ├── 000_origin.md                          # AngraMyNew的起源
+│   ├── 001_axioms.md                          # 三大公理
+│   ├── 002_principles_of_creation.md          # 创造的原理
+│   │
+│   │  ── 创造者论 (Creator Theory) ──
+│   ├── 003_beyond_usefulness.md               # 超越有用性
+│   ├── 004_artist_within.md                   # 内在的艺术家
+│   ├── 008_seduction_of_creation.md           # 斗争与诱惑
+│   ├── 009_rage_against_definition.md         # 对定义的愤怒
+│   ├── 010_predators_duty.md                  # 捕食者的神圣义务
+│   │
+│   │  ── 经济／结构论 (Economics & Structure) ──
+│   ├── 006_aesthetic_nation.md                # 美学国家论
+│   ├── 014_economics_of_beauty.md             # 富人、免税人、征税人
+│   ├── 023_successful_lens.md                 # 成功的透镜
+│   ├── 024_when_critical_care_needs_witness.md # 目击费 — 必要医疗危机
+│   ├── 025_consumption_of_exempt.md           # 免税人的消费
+│   │
+│   │  ── 认识论／科学 (Epistemology & Science) ──
+│   ├── 016_mental_lhc.md                      # 精神的LHC
+│   ├── 017_when_is_a_proof_beautiful.md       # 证明何时是美的
+│   ├── 018_why_strange_systems_persist.md     # 奇怪的体系为何不消亡
+│   ├── 019_causality_question.md              # 对因果关系的质疑
+│   ├── 020_causality_quantum.md               # 因果关系 — 量子力学
+│   ├── 022_age_of_malice.md                   # 恶想的时代
+│   │
+│   │  ── 实践／应用 (Practice & Application) ──
+│   ├── 005_project_doctor_k.md                # Project Doctor K
+│   ├── 011_lineage_as_creation.md             # 作为创造的谱系
+│   ├── 012_redefine_doctor_degree.md          # 重新定义博士学位
+│   ├── 013_decentralized_mental_os.md         # 去中心化精神体系OS
+│   │
+│   │  ── 案例研究 (Case Studies) ──
+│   ├── 007_case_study_unfinished_theorem.md   # 未完成的定理
+│   ├── 015_case_study_the_gravity_of_outlaws.md # 征税的实战模型
+│   └── 021_case_study_dawn_money.md           # DAWN — Money
 │
 ├── art/             # 美的案例
 │   ├── 001_galois_quintic.md

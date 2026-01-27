@@ -100,33 +100,45 @@ AngraMyNew는 파괴에서 출발하지만, 목적은 창조에 있다.
 
 ```
 AngraMyNew/
-├── ideas/           # 철학, 사상, 선언
-│   ├── 000_origin.md
-│   ├── 001_axioms.md
-│   ├── 002_principles_of_creation.md
-│   ├── 003_beyond_usefulness.md
-│   ├── 004_artist_within.md
-│   ├── 005_project_doctor_k.md
-│   ├── 006_aesthetic_nation.md
-│   ├── 007_case_study_unfinished_theorem.md
-│   ├── 008_seduction_of_creation.md
-│   ├── 009_rage_against_definition.md
-│   ├── 010_predators_duty.md
-│   ├── 011_lineage_as_creation.md
-│   ├── 012_redefine_doctor_degree.md
-│   ├── 013_decentralized_mental_os.md
-│   ├── 014_economics_of_beauty.md
-│   ├── 015_case_study_the_gravity_of_outlaws.md
-│   ├── 016_mental_lhc.md
-│   ├── 017_when_is_a_proof_beautiful.md
-│   ├── 018_why_strange_systems_persist.md
-│   ├── 019_causality_question.md
-│   ├── 020_causality_quantum.md
-│   ├── 021_case_study_dawn_money.md
-│   ├── 022_age_of_malice.md
-│   ├── 023_successful_lens.md
-│   ├── 024_when_critical_care_needs_witness.md
-│   └── 025_consumption_of_exempt.md
+├── ideas/           # 철학, 사상, 선언 (26편)
+│   │
+│   │  ── 기원/공리 (Foundation) ──
+│   ├── 000_origin.md                          # AngraMyNew의 기원
+│   ├── 001_axioms.md                          # 3대 공리
+│   ├── 002_principles_of_creation.md          # 창조의 원리
+│   │
+│   │  ── 창조자론 (Creator Theory) ──
+│   ├── 003_beyond_usefulness.md               # 쓸모를 넘어서
+│   ├── 004_artist_within.md                   # 내면의 예술가
+│   ├── 008_seduction_of_creation.md           # 투쟁과 유혹
+│   ├── 009_rage_against_definition.md         # 정의에 대한 분노
+│   ├── 010_predators_duty.md                  # 포식자의 신성한 의무
+│   │
+│   │  ── 경제/구조론 (Economics & Structure) ──
+│   ├── 006_aesthetic_nation.md                # 미학 국가론
+│   ├── 014_economics_of_beauty.md             # 부자, 면세인, 징세인
+│   ├── 023_successful_lens.md                 # 성공한 렌즈
+│   ├── 024_when_critical_care_needs_witness.md # 목격료 — 필수의료 위기
+│   ├── 025_consumption_of_exempt.md           # 면세인의 소비
+│   │
+│   │  ── 인식론/과학 (Epistemology & Science) ──
+│   ├── 016_mental_lhc.md                      # 정신의 LHC
+│   ├── 017_when_is_a_proof_beautiful.md       # 증명은 언제 아름다운가
+│   ├── 018_why_strange_systems_persist.md     # 이상한 체계들은 왜 사라지지 않는가
+│   ├── 019_causality_question.md              # 인과관계에 대한 의문
+│   ├── 020_causality_quantum.md               # 인과관계 — 양자역학
+│   ├── 022_age_of_malice.md                   # 악상의 시대
+│   │
+│   │  ── 실천/적용 (Practice & Application) ──
+│   ├── 005_project_doctor_k.md                # Project Doctor K
+│   ├── 011_lineage_as_creation.md             # 계보로서의 창조
+│   ├── 012_redefine_doctor_degree.md          # 박사학위의 재정의
+│   ├── 013_decentralized_mental_os.md         # 탈중앙화 정신체계 OS
+│   │
+│   │  ── 사례연구 (Case Studies) ──
+│   ├── 007_case_study_unfinished_theorem.md   # 미완의 정리
+│   ├── 015_case_study_the_gravity_of_outlaws.md # 징세의 실전 모델
+│   └── 021_case_study_dawn_money.md           # DAWN — Money
 │
 ├── art/             # 아름다움의 사례
 │   ├── 001_galois_quintic.md
