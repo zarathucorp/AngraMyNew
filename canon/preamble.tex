@@ -1,0 +1,45 @@
+% Font setup for Korean and English
+\usepackage{xeCJK}
+\setCJKmainfont{AppleSDGothicNeo-Regular}
+\setCJKsansfont{AppleSDGothicNeo-Bold}
+\setCJKmonofont{Courier New}
+
+% Page margins
+\usepackage[top=1in,right=1in,left=1.5in,bottom=1in]{geometry}
+
+% Colors and formatting
+\usepackage{xcolor}
+\usepackage{fancyhdr}
+\usepackage{booktabs}
+
+% Line spacing
+\usepackage{setspace}
+\onehalfspacing
+
+% Graphics
+\usepackage{graphicx}
+\usepackage{float}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+
+% Allow broken images
+\usepackage{tikz}
+\let\includegraphics\relax
+
+% URLs
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=blue,
+  urlcolor=blue,
+  citecolor=blue,
+  pdftitle=AngraMyNew,
+  pdfauthor=Angra Collective
+}
+
+% Code highlighting
+\usepackage{listings}
+\lstset{
+  basicstyle=\ttfamily,
+  breaklines=true,
+  postbreak=\mbox{\textcolor{red}{$\hookrightarrow$}\space}
+}

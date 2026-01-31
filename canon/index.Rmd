@@ -1,0 +1,19 @@
+---
+title: "AngraMyNew: The Art of Creation and Being"
+author: "Angra Collective"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib]
+biblio-style: apalike
+link-citations: yes
+description: "A comprehensive exploration of creation, aesthetics, and the nature of existence. 창조와 아름다움, 존재의 본질에 관한 탐구."
+---
+
+# 서문 {-}
+
+이 책은 창조와 아름다움, 존재의 본질에 관한 탐구입니다.
+
+우리 시대의 가장 중요한 질문들을 마주하고, 새로운 관점을 제시합니다.
+
+각 장은 우리가 발견한 원리와 아이디어들을 담고 있습니다.
