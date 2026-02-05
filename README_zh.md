@@ -160,6 +160,10 @@ AngraMyNew/
 │   ├── mengchangjun.md
 │   └── na_hye_suk.md
 │
+├── canon/           # PDF书籍生成 (Quarto)
+│   ├── book.qmd     # 主文档 (包含所有md)
+│   └── _quarto.yml  # 渲染配置
+│
 ├── CHANGELOG.md     # 演化记录
 └── contributors.md  # 创造者名单
 ```

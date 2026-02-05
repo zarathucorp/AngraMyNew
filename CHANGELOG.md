@@ -1,5 +1,23 @@
 # Changelog
 
+## v5.12 — Doctor K 강화 & 첫 PR: Quarto Canon (2026-02-05)
+
+### 추가
+- `canon/` — **첫 PR (YoungjunNa)**: PDF 책 생성 시스템
+  - bookdown에서 Quarto로 전환
+  - `book.qmd` 단일 파일로 모든 md include
+  - PDF 렌더링: `quarto render book.qmd`
+
+### 변경
+- `ideas/005_project_doctor_k.md` — 현실 문제와 기술적 해법 추가
+  - 병원 소속 의사(3분 진료, 매출 압박), 개원의(심평원 삭감) 현실 문제 기술
+  - AI 진단, Starlink, 원격 로봇 등 기술적 가능성 추가
+  - 후원 모델: "수가 대신 존경과 후원"
+- `fravashi/002_gpt_prompt.md` — 헤딩 레벨 조정 (# → ##)
+- README — 구조 섹션에 canon/ 폴더 추가
+
+---
+
 ## v5.11 — 면세인의 소비: 조공하지 않는 삶 (2026-01-26)
 
 ### 추가

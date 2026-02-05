@@ -162,6 +162,10 @@ AngraMyNew/
 │   ├── mengchangjun.md
 │   └── na_hye_suk.md
 │
+├── canon/           # PDF 책 생성 (Quarto)
+│   ├── book.qmd     # 메인 문서 (모든 md include)
+│   └── _quarto.yml  # 렌더링 설정
+│
 ├── CHANGELOG.md     # 진화 기록
 └── contributors.md  # 창조자 명단
 ```

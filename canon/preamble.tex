@@ -1,11 +1,11 @@
 % Font setup for Korean and English
 \usepackage{xeCJK}
-\setCJKmainfont{AppleSDGothicNeo-Regular}
-\setCJKsansfont{AppleSDGothicNeo-Bold}
-\setCJKmonofont{Courier New}
+\setCJKmainfont{NanumGothic}
+\setCJKsansfont{NanumGothicBold}
+\setCJKmonofont{NanumGothicCoding}
 
 % Page margins
-\usepackage[top=1in,right=1in,left=1.5in,bottom=1in]{geometry}
+\usepackage[top=1in,right=1in,left=1.2in,bottom=1in]{geometry}
 
 % Colors and formatting
 \usepackage{xcolor}
@@ -19,19 +19,19 @@
 % Graphics
 \usepackage{graphicx}
 \usepackage{float}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
 \setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
-
-% Allow broken images
-\usepackage{tikz}
-\let\includegraphics\relax
 
 % URLs
 \usepackage{hyperref}
 \hypersetup{
   colorlinks=true,
-  linkcolor=blue,
-  urlcolor=blue,
-  citecolor=blue,
+  linkcolor=black,
+  urlcolor=black,
+  citecolor=black,
   pdftitle=AngraMyNew,
   pdfauthor=Angra Collective
 }
