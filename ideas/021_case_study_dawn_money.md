@@ -3,7 +3,7 @@
 
 *Case Study: DAWN*
 
-[![DAWN - Money](https://img.youtube.com/vi/m3aeC8V9GCo/0.jpg)](https://youtu.be/m3aeC8V9GCo)
+[![DAWN - Money](../img/yt_dawn_money.jpg)](https://youtu.be/m3aeC8V9GCo)
 
 > 이 글은 가사를 해석하지 않는다.
 > 이 글은 가사와 무대가 드러낸 **구조를 관측**한다.
