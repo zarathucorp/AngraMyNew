@@ -96,77 +96,63 @@ AngraMyNew始于破坏，但目标是创造。
 
 ## 6. 结构
 
-```
-AngraMyNew/
-├── ideas/           # 哲学、思想、宣言（26篇）
-│   │
-│   │  ── 起源／公理 (Foundation) ──
-│   ├── 000_origin.md                          # AngraMyNew的起源
-│   ├── 001_axioms.md                          # 三大公理
-│   ├── 002_principles_of_creation.md          # 创造的原理
-│   │
-│   │  ── 创造者论 (Creator Theory) ──
-│   ├── 003_beyond_usefulness.md               # 超越有用性
-│   ├── 004_artist_within.md                   # 内在的艺术家
-│   ├── 008_seduction_of_creation.md           # 斗争与诱惑
-│   ├── 009_rage_against_definition.md         # 对定义的愤怒
-│   ├── 010_predators_duty.md                  # 捕食者的神圣义务
-│   │
-│   │  ── 经济／结构论 (Economics & Structure) ──
-│   ├── 006_aesthetic_nation.md                # 美学国家论
-│   ├── 014_economics_of_beauty.md             # 富人、免税人、征税人
-│   ├── 023_successful_lens.md                 # 成功的透镜
-│   ├── 024_when_critical_care_needs_witness.md # 目击费 — 必要医疗危机
-│   ├── 025_consumption_of_exempt.md           # 免税人的消费
-│   │
-│   │  ── 认识论／科学 (Epistemology & Science) ──
-│   ├── 016_mental_lhc.md                      # 精神的LHC
-│   ├── 017_when_is_a_proof_beautiful.md       # 证明何时是美的
-│   ├── 018_why_strange_systems_persist.md     # 奇怪的体系为何不消亡
-│   ├── 019_causality_question.md              # 对因果关系的质疑
-│   ├── 020_causality_quantum.md               # 因果关系 — 量子力学
-│   ├── 022_age_of_malice.md                   # 恶想的时代
-│   │
-│   │  ── 实践／应用 (Practice & Application) ──
-│   ├── 005_project_doctor_k.md                # Project Doctor K
-│   ├── 011_lineage_as_creation.md             # 作为创造的谱系
-│   ├── 012_redefine_doctor_degree.md          # 重新定义博士学位
-│   ├── 013_decentralized_mental_os.md         # 去中心化精神体系OS
-│   │
-│   │  ── 案例研究 (Case Studies) ──
-│   ├── 007_case_study_unfinished_theorem.md   # 未完成的定理
-│   ├── 015_case_study_the_gravity_of_outlaws.md # 征税的实战模型
-│   └── 021_case_study_dawn_money.md           # DAWN — Money
-│
-├── art/             # 美的案例
-│   ├── 001_galois_quintic.md
-│   ├── 002_general_relativity.md
-│   ├── 003_one_pattern.md
-│   ├── 004_principia_geometry.md
-│   └── 005_hangul_two_states.md
-│
-├── fravashi/        # Fravashi 原型解析引擎
-│   ├── 001_internal_manual.md
-│   ├── 002_gpt_prompt.md
-│   └── 003_gpt_prompt_full.md
-│
-├── protocols/       # 执行协议
-│   ├── 001_creator_operating_protocol.md
-│   └── 002_ethics_of_creation.md
-│
-├── scripture/       # 先贤
-│   ├── zarathustra.md
-│   ├── pioneers.md
-│   ├── mengchangjun.md
-│   └── na_hye_suk.md
-│
-├── canon/           # PDF书籍生成 (Quarto)
-│   ├── book.qmd     # 主文档 (包含所有md)
-│   └── _quarto.yml  # 渲染配置
-│
-├── CHANGELOG.md     # 演化记录
-└── contributors.md  # 创造者名单
-```
+- 📂 **[ideas/](ideas/)** — 哲学、思想、宣言（27篇）
+    - **── 起源／公理 (Foundation) ──**
+    - 📄 [000_origin.md](ideas/000_origin.md) — AngraMyNew的起源
+    - 📄 [001_axioms.md](ideas/001_axioms.md) — 三大公理
+    - 📄 [002_principles_of_creation.md](ideas/002_principles_of_creation.md) — 创造的原理
+    - **── 创造者论 (Creator Theory) ──**
+    - 📄 [003_beyond_usefulness.md](ideas/003_beyond_usefulness.md) — 超越有用性
+    - 📄 [004_artist_within.md](ideas/004_artist_within.md) — 内在的艺术家
+    - 📄 [008_seduction_of_creation.md](ideas/008_seduction_of_creation.md) — 斗争与诱惑
+    - 📄 [009_rage_against_definition.md](ideas/009_rage_against_definition.md) — 对定义的愤怒
+    - 📄 [010_predators_duty.md](ideas/010_predators_duty.md) — 捕食者的神圣义务
+    - **── 经济／结构论 (Economics & Structure) ──**
+    - 📄 [006_aesthetic_nation.md](ideas/006_aesthetic_nation.md) — 美学国家论
+    - 📄 [014_economics_of_beauty.md](ideas/014_economics_of_beauty.md) — 富人、免税人、征税人
+    - 📄 [023_successful_lens.md](ideas/023_successful_lens.md) — 成功的透镜
+    - 📄 [024_when_critical_care_needs_witness.md](ideas/024_when_critical_care_needs_witness.md) — 目击费 — 必要医疗危机
+    - 📄 [025_consumption_of_exempt.md](ideas/025_consumption_of_exempt.md) — 免税人的消费
+    - 📄 [026_three_kingdoms_of_beauty.md](ideas/026_three_kingdoms_of_beauty.md) — 真·善·美的三国志
+    - **── 认识论／科学 (Epistemology & Science) ──**
+    - 📄 [016_mental_lhc.md](ideas/016_mental_lhc.md) — 精神的LHC
+    - 📄 [017_when_is_a_proof_beautiful.md](ideas/017_when_is_a_proof_beautiful.md) — 证明何时是美的
+    - 📄 [018_why_strange_systems_persist.md](ideas/018_why_strange_systems_persist.md) — 奇怪的体系为何不消亡
+    - 📄 [019_causality_question.md](ideas/019_causality_question.md) — 对因果关系的质疑
+    - 📄 [020_causality_quantum.md](ideas/020_causality_quantum.md) — 因果关系 — 量子力学
+    - 📄 [022_age_of_malice.md](ideas/022_age_of_malice.md) — 恶想的时代
+    - **── 实践／应用 (Practice & Application) ──**
+    - 📄 [005_project_doctor_k.md](ideas/005_project_doctor_k.md) — Project Doctor K
+    - 📄 [011_lineage_as_creation.md](ideas/011_lineage_as_creation.md) — 作为创造的谱系
+    - 📄 [012_redefine_doctor_degree.md](ideas/012_redefine_doctor_degree.md) — 重新定义博士学位
+    - 📄 [013_decentralized_mental_os.md](ideas/013_decentralized_mental_os.md) — 去中心化精神体系OS
+    - **── 案例研究 (Case Studies) ──**
+    - 📄 [007_case_study_unfinished_theorem.md](ideas/007_case_study_unfinished_theorem.md) — 未完成的定理
+    - 📄 [015_case_study_the_gravity_of_outlaws.md](ideas/015_case_study_the_gravity_of_outlaws.md) — 征税的实战模型
+    - 📄 [021_case_study_dawn_money.md](ideas/021_case_study_dawn_money.md) — DAWN — Money
+- 🎨 **[art/](art/)** — 美的案例
+    - 📄 [001_galois_quintic.md](art/001_galois_quintic.md)
+    - 📄 [002_general_relativity.md](art/002_general_relativity.md)
+    - 📄 [003_one_pattern.md](art/003_one_pattern.md)
+    - 📄 [004_principia_geometry.md](art/004_principia_geometry.md)
+    - 📄 [005_hangul_two_states.md](art/005_hangul_two_states.md)
+- 🧠 **[fravashi/](fravashi/)** — Fravashi 原型解析引擎
+    - 📄 [001_internal_manual.md](fravashi/001_internal_manual.md)
+    - 📄 [002_gpt_prompt.md](fravashi/002_gpt_prompt.md)
+    - 📄 [003_gpt_prompt_full.md](fravashi/003_gpt_prompt_full.md)
+- 📜 **[protocols/](protocols/)** — 执行协议
+    - 📄 [001_creator_operating_protocol.md](protocols/001_creator_operating_protocol.md)
+    - 📄 [002_ethics_of_creation.md](protocols/002_ethics_of_creation.md)
+- 📖 **[scripture/](scripture/)** — 先贤
+    - 📄 [zarathustra.md](scripture/zarathustra.md)
+    - 📄 [pioneers.md](scripture/pioneers.md)
+    - 📄 [mengchangjun.md](scripture/mengchangjun.md)
+    - 📄 [na_hye_suk.md](scripture/na_hye_suk.md)
+- 📚 **[canon/](canon/)** — PDF书籍生成 (Quarto)
+    - 📄 [book.qmd](canon/book.qmd) — 主文档 (包含所有md)
+    - 📄 [_quarto.yml](canon/_quarto.yml) — 渲染配置
+- 📝 **[CHANGELOG.md](CHANGELOG.md)** — 演化记录
+- 👥 **[contributors.md](contributors.md)** — 创造者名单
 
 ---
 
@@ -174,9 +160,9 @@ AngraMyNew/
 
 AngraMyNew的思想源泉：
 
-- **尼采** — 《查拉图斯特拉如是说》 → `scripture/zarathustra.md`
-- **五位先贤** — 金玉均、马光洙、许筠、成在基、约翰·劳 → `scripture/pioneers.md`
-- **孟尝君** — 食客三千、包容哲学 → `scripture/mengchangjun.md`
+- **尼采** — 《查拉图斯特拉如是说》 → [scripture/zarathustra.md](scripture/zarathustra.md)
+- **五位先贤** — 金玉均、马光洙、许筠、成在基、约翰·劳 → [scripture/pioneers.md](scripture/pioneers.md)
+- **孟尝君** — 食客三千、包容哲学 → [scripture/mengchangjun.md](scripture/mengchangjun.md)
 
 > "人生就是寻找死亡之地的旅程。"
 > — AngraMyNew

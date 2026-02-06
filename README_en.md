@@ -97,77 +97,63 @@ Mengchangjun's three thousand retainers were not chosen for usefulness. A rooste
 
 ## 6. Structure
 
-```
-AngraMyNew/
-├── ideas/           # Philosophy, doctrine, declarations (26 essays)
-│   │
-│   │  ── Foundation ──
-│   ├── 000_origin.md                          # Origin of AngraMyNew
-│   ├── 001_axioms.md                          # 3 Axioms
-│   ├── 002_principles_of_creation.md          # Principles of Creation
-│   │
-│   │  ── Creator Theory ──
-│   ├── 003_beyond_usefulness.md               # Beyond Usefulness
-│   ├── 004_artist_within.md                   # The Artist Within
-│   ├── 008_seduction_of_creation.md           # Struggle and Seduction
-│   ├── 009_rage_against_definition.md         # Rage Against Definition
-│   ├── 010_predators_duty.md                  # The Predator's Divine Duty
-│   │
-│   │  ── Economics & Structure ──
-│   ├── 006_aesthetic_nation.md                # The Aesthetic Nation
-│   ├── 014_economics_of_beauty.md             # The Rich, The Exempt, The Collector
-│   ├── 023_successful_lens.md                 # The Successful Lens
-│   ├── 024_when_critical_care_needs_witness.md # Witness Fee — Essential Care Crisis
-│   ├── 025_consumption_of_exempt.md           # Consumption of the Exempt
-│   │
-│   │  ── Epistemology & Science ──
-│   ├── 016_mental_lhc.md                      # The Mental LHC
-│   ├── 017_when_is_a_proof_beautiful.md       # When Is a Proof Beautiful?
-│   ├── 018_why_strange_systems_persist.md     # Why Strange Systems Persist
-│   ├── 019_causality_question.md              # Questioning Causality
-│   ├── 020_causality_quantum.md               # Causality — Quantum Mechanics
-│   ├── 022_age_of_malice.md                   # The Age of Malice
-│   │
-│   │  ── Practice & Application ──
-│   ├── 005_project_doctor_k.md                # Project Doctor K
-│   ├── 011_lineage_as_creation.md             # Lineage as Creation
-│   ├── 012_redefine_doctor_degree.md          # Redefining the Doctorate
-│   ├── 013_decentralized_mental_os.md         # Decentralized Mental OS
-│   │
-│   │  ── Case Studies ──
-│   ├── 007_case_study_unfinished_theorem.md   # The Unfinished Theorem
-│   ├── 015_case_study_the_gravity_of_outlaws.md # The Gravity of Outlaws
-│   └── 021_case_study_dawn_money.md           # DAWN — Money
-│
-├── art/             # Examples of beauty
-│   ├── 001_galois_quintic.md
-│   ├── 002_general_relativity.md
-│   ├── 003_one_pattern.md
-│   ├── 004_principia_geometry.md
-│   └── 005_hangul_two_states.md
-│
-├── fravashi/        # Fravashi Archetype Engine
-│   ├── 001_internal_manual.md
-│   ├── 002_gpt_prompt.md
-│   └── 003_gpt_prompt_full.md
-│
-├── protocols/       # Executable protocols
-│   ├── 001_creator_operating_protocol.md
-│   └── 002_ethics_of_creation.md
-│
-├── scripture/       # Pioneers
-│   ├── zarathustra.md
-│   ├── pioneers.md
-│   ├── mengchangjun.md
-│   └── na_hye_suk.md
-│
-├── canon/           # PDF book generation (Quarto)
-│   ├── book.qmd     # Main document (includes all md)
-│   └── _quarto.yml  # Rendering config
-│
-├── CHANGELOG.md     # Evolution record
-└── contributors.md  # List of creators
-```
+- 📂 **[ideas/](ideas/)** — Philosophy, doctrine, declarations (27 essays)
+    - **── Foundation ──**
+    - 📄 [000_origin.md](ideas/000_origin.md) — Origin of AngraMyNew
+    - 📄 [001_axioms.md](ideas/001_axioms.md) — 3 Axioms
+    - 📄 [002_principles_of_creation.md](ideas/002_principles_of_creation.md) — Principles of Creation
+    - **── Creator Theory ──**
+    - 📄 [003_beyond_usefulness.md](ideas/003_beyond_usefulness.md) — Beyond Usefulness
+    - 📄 [004_artist_within.md](ideas/004_artist_within.md) — The Artist Within
+    - 📄 [008_seduction_of_creation.md](ideas/008_seduction_of_creation.md) — Struggle and Seduction
+    - 📄 [009_rage_against_definition.md](ideas/009_rage_against_definition.md) — Rage Against Definition
+    - 📄 [010_predators_duty.md](ideas/010_predators_duty.md) — The Predator's Divine Duty
+    - **── Economics & Structure ──**
+    - 📄 [006_aesthetic_nation.md](ideas/006_aesthetic_nation.md) — The Aesthetic Nation
+    - 📄 [014_economics_of_beauty.md](ideas/014_economics_of_beauty.md) — The Rich, The Exempt, The Collector
+    - 📄 [023_successful_lens.md](ideas/023_successful_lens.md) — The Successful Lens
+    - 📄 [024_when_critical_care_needs_witness.md](ideas/024_when_critical_care_needs_witness.md) — Witness Fee — Essential Care Crisis
+    - 📄 [025_consumption_of_exempt.md](ideas/025_consumption_of_exempt.md) — Consumption of the Exempt
+    - 📄 [026_three_kingdoms_of_beauty.md](ideas/026_three_kingdoms_of_beauty.md) — Three Kingdoms of Truth, Good, and Beauty
+    - **── Epistemology & Science ──**
+    - 📄 [016_mental_lhc.md](ideas/016_mental_lhc.md) — The Mental LHC
+    - 📄 [017_when_is_a_proof_beautiful.md](ideas/017_when_is_a_proof_beautiful.md) — When Is a Proof Beautiful?
+    - 📄 [018_why_strange_systems_persist.md](ideas/018_why_strange_systems_persist.md) — Why Strange Systems Persist
+    - 📄 [019_causality_question.md](ideas/019_causality_question.md) — Questioning Causality
+    - 📄 [020_causality_quantum.md](ideas/020_causality_quantum.md) — Causality — Quantum Mechanics
+    - 📄 [022_age_of_malice.md](ideas/022_age_of_malice.md) — The Age of Malice
+    - **── Practice & Application ──**
+    - 📄 [005_project_doctor_k.md](ideas/005_project_doctor_k.md) — Project Doctor K
+    - 📄 [011_lineage_as_creation.md](ideas/011_lineage_as_creation.md) — Lineage as Creation
+    - 📄 [012_redefine_doctor_degree.md](ideas/012_redefine_doctor_degree.md) — Redefining the Doctorate
+    - 📄 [013_decentralized_mental_os.md](ideas/013_decentralized_mental_os.md) — Decentralized Mental OS
+    - **── Case Studies ──**
+    - 📄 [007_case_study_unfinished_theorem.md](ideas/007_case_study_unfinished_theorem.md) — The Unfinished Theorem
+    - 📄 [015_case_study_the_gravity_of_outlaws.md](ideas/015_case_study_the_gravity_of_outlaws.md) — The Gravity of Outlaws
+    - 📄 [021_case_study_dawn_money.md](ideas/021_case_study_dawn_money.md) — DAWN — Money
+- 🎨 **[art/](art/)** — Examples of beauty
+    - 📄 [001_galois_quintic.md](art/001_galois_quintic.md)
+    - 📄 [002_general_relativity.md](art/002_general_relativity.md)
+    - 📄 [003_one_pattern.md](art/003_one_pattern.md)
+    - 📄 [004_principia_geometry.md](art/004_principia_geometry.md)
+    - 📄 [005_hangul_two_states.md](art/005_hangul_two_states.md)
+- 🧠 **[fravashi/](fravashi/)** — Fravashi Archetype Engine
+    - 📄 [001_internal_manual.md](fravashi/001_internal_manual.md)
+    - 📄 [002_gpt_prompt.md](fravashi/002_gpt_prompt.md)
+    - 📄 [003_gpt_prompt_full.md](fravashi/003_gpt_prompt_full.md)
+- 📜 **[protocols/](protocols/)** — Executable protocols
+    - 📄 [001_creator_operating_protocol.md](protocols/001_creator_operating_protocol.md)
+    - 📄 [002_ethics_of_creation.md](protocols/002_ethics_of_creation.md)
+- 📖 **[scripture/](scripture/)** — Pioneers
+    - 📄 [zarathustra.md](scripture/zarathustra.md)
+    - 📄 [pioneers.md](scripture/pioneers.md)
+    - 📄 [mengchangjun.md](scripture/mengchangjun.md)
+    - 📄 [na_hye_suk.md](scripture/na_hye_suk.md)
+- 📚 **[canon/](canon/)** — PDF book generation (Quarto)
+    - 📄 [book.qmd](canon/book.qmd) — Main document (includes all md)
+    - 📄 [_quarto.yml](canon/_quarto.yml) — Rendering config
+- 📝 **[CHANGELOG.md](CHANGELOG.md)** — Evolution record
+- 👥 **[contributors.md](contributors.md)** — List of creators
 
 ---
 
@@ -175,9 +161,9 @@ AngraMyNew/
 
 The intellectual sources of AngraMyNew:
 
-- **Nietzsche** — "Thus Spoke Zarathustra" → `scripture/zarathustra.md`
-- **The Five Pioneers** — Kim Ok-kyun, Ma Kwang-soo, Heo Gyun, Sung Jae-ki, John Law → `scripture/pioneers.md`
-- **Mengchangjun** — Lord of 3000 Retainers, Philosophy of Embrace → `scripture/mengchangjun.md`
+- **Nietzsche** — "Thus Spoke Zarathustra" → [scripture/zarathustra.md](scripture/zarathustra.md)
+- **The Five Pioneers** — Kim Ok-kyun, Ma Kwang-soo, Heo Gyun, Sung Jae-ki, John Law → [scripture/pioneers.md](scripture/pioneers.md)
+- **Mengchangjun** — Lord of 3000 Retainers, Philosophy of Embrace → [scripture/mengchangjun.md](scripture/mengchangjun.md)
 
 > "Life is a journey to find the place where you will die."
 > — AngraMyNew

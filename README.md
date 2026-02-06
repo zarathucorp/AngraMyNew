@@ -98,77 +98,63 @@ AngraMyNew는 파괴에서 출발하지만, 목적은 창조에 있다.
 
 ## 6. 구조
 
-```
-AngraMyNew/
-├── ideas/           # 철학, 사상, 선언 (26편)
-│   │
-│   │  ── 기원/공리 (Foundation) ──
-│   ├── 000_origin.md                          # AngraMyNew의 기원
-│   ├── 001_axioms.md                          # 3대 공리
-│   ├── 002_principles_of_creation.md          # 창조의 원리
-│   │
-│   │  ── 창조자론 (Creator Theory) ──
-│   ├── 003_beyond_usefulness.md               # 쓸모를 넘어서
-│   ├── 004_artist_within.md                   # 내면의 예술가
-│   ├── 008_seduction_of_creation.md           # 투쟁과 유혹
-│   ├── 009_rage_against_definition.md         # 정의에 대한 분노
-│   ├── 010_predators_duty.md                  # 포식자의 신성한 의무
-│   │
-│   │  ── 경제/구조론 (Economics & Structure) ──
-│   ├── 006_aesthetic_nation.md                # 미학 국가론
-│   ├── 014_economics_of_beauty.md             # 부자, 면세인, 징세인
-│   ├── 023_successful_lens.md                 # 성공한 렌즈
-│   ├── 024_when_critical_care_needs_witness.md # 목격료 — 필수의료 위기
-│   ├── 025_consumption_of_exempt.md           # 면세인의 소비
-│   │
-│   │  ── 인식론/과학 (Epistemology & Science) ──
-│   ├── 016_mental_lhc.md                      # 정신의 LHC
-│   ├── 017_when_is_a_proof_beautiful.md       # 증명은 언제 아름다운가
-│   ├── 018_why_strange_systems_persist.md     # 이상한 체계들은 왜 사라지지 않는가
-│   ├── 019_causality_question.md              # 인과관계에 대한 의문
-│   ├── 020_causality_quantum.md               # 인과관계 — 양자역학
-│   ├── 022_age_of_malice.md                   # 악상의 시대
-│   │
-│   │  ── 실천/적용 (Practice & Application) ──
-│   ├── 005_project_doctor_k.md                # Project Doctor K
-│   ├── 011_lineage_as_creation.md             # 계보로서의 창조
-│   ├── 012_redefine_doctor_degree.md          # 박사학위의 재정의
-│   ├── 013_decentralized_mental_os.md         # 탈중앙화 정신체계 OS
-│   │
-│   │  ── 사례연구 (Case Studies) ──
-│   ├── 007_case_study_unfinished_theorem.md   # 미완의 정리
-│   ├── 015_case_study_the_gravity_of_outlaws.md # 징세의 실전 모델
-│   └── 021_case_study_dawn_money.md           # DAWN — Money
-│
-├── art/             # 아름다움의 사례
-│   ├── 001_galois_quintic.md
-│   ├── 002_general_relativity.md
-│   ├── 003_one_pattern.md
-│   ├── 004_principia_geometry.md
-│   └── 005_hangul_two_states.md
-│
-├── fravashi/        # Fravashi 원형 해석 엔진
-│   ├── 001_internal_manual.md
-│   ├── 002_gpt_prompt.md
-│   └── 003_gpt_prompt_full.md
-│
-├── protocols/       # 실행 프로토콜
-│   ├── 001_creator_operating_protocol.md
-│   └── 002_ethics_of_creation.md
-│
-├── scripture/       # 선현
-│   ├── zarathustra.md
-│   ├── pioneers.md
-│   ├── mengchangjun.md
-│   └── na_hye_suk.md
-│
-├── canon/           # PDF 책 생성 (Quarto)
-│   ├── book.qmd     # 메인 문서 (모든 md include)
-│   └── _quarto.yml  # 렌더링 설정
-│
-├── CHANGELOG.md     # 진화 기록
-└── contributors.md  # 창조자 명단
-```
+- 📂 **[ideas/](ideas/)** — 철학, 사상, 선언 (27편)
+    - **── 기원/공리 (Foundation) ──**
+    - 📄 [000_origin.md](ideas/000_origin.md) — AngraMyNew의 기원
+    - 📄 [001_axioms.md](ideas/001_axioms.md) — 3대 공리
+    - 📄 [002_principles_of_creation.md](ideas/002_principles_of_creation.md) — 창조의 원리
+    - **── 창조자론 (Creator Theory) ──**
+    - 📄 [003_beyond_usefulness.md](ideas/003_beyond_usefulness.md) — 쓸모를 넘어서
+    - 📄 [004_artist_within.md](ideas/004_artist_within.md) — 내면의 예술가
+    - 📄 [008_seduction_of_creation.md](ideas/008_seduction_of_creation.md) — 투쟁과 유혹
+    - 📄 [009_rage_against_definition.md](ideas/009_rage_against_definition.md) — 정의에 대한 분노
+    - 📄 [010_predators_duty.md](ideas/010_predators_duty.md) — 포식자의 신성한 의무
+    - **── 경제/구조론 (Economics & Structure) ──**
+    - 📄 [006_aesthetic_nation.md](ideas/006_aesthetic_nation.md) — 미학 국가론
+    - 📄 [014_economics_of_beauty.md](ideas/014_economics_of_beauty.md) — 부자, 면세인, 징세인
+    - 📄 [023_successful_lens.md](ideas/023_successful_lens.md) — 성공한 렌즈
+    - 📄 [024_when_critical_care_needs_witness.md](ideas/024_when_critical_care_needs_witness.md) — 목격료 — 필수의료 위기
+    - 📄 [025_consumption_of_exempt.md](ideas/025_consumption_of_exempt.md) — 면세인의 소비
+    - 📄 [026_three_kingdoms_of_beauty.md](ideas/026_three_kingdoms_of_beauty.md) — 진·선·미의 삼국지
+    - **── 인식론/과학 (Epistemology & Science) ──**
+    - 📄 [016_mental_lhc.md](ideas/016_mental_lhc.md) — 정신의 LHC
+    - 📄 [017_when_is_a_proof_beautiful.md](ideas/017_when_is_a_proof_beautiful.md) — 증명은 언제 아름다운가
+    - 📄 [018_why_strange_systems_persist.md](ideas/018_why_strange_systems_persist.md) — 이상한 체계들은 왜 사라지지 않는가
+    - 📄 [019_causality_question.md](ideas/019_causality_question.md) — 인과관계에 대한 의문
+    - 📄 [020_causality_quantum.md](ideas/020_causality_quantum.md) — 인과관계 — 양자역학
+    - 📄 [022_age_of_malice.md](ideas/022_age_of_malice.md) — 악상의 시대
+    - **── 실천/적용 (Practice & Application) ──**
+    - 📄 [005_project_doctor_k.md](ideas/005_project_doctor_k.md) — Project Doctor K
+    - 📄 [011_lineage_as_creation.md](ideas/011_lineage_as_creation.md) — 계보로서의 창조
+    - 📄 [012_redefine_doctor_degree.md](ideas/012_redefine_doctor_degree.md) — 박사학위의 재정의
+    - 📄 [013_decentralized_mental_os.md](ideas/013_decentralized_mental_os.md) — 탈중앙화 정신체계 OS
+    - **── 사례연구 (Case Studies) ──**
+    - 📄 [007_case_study_unfinished_theorem.md](ideas/007_case_study_unfinished_theorem.md) — 미완의 정리
+    - 📄 [015_case_study_the_gravity_of_outlaws.md](ideas/015_case_study_the_gravity_of_outlaws.md) — 징세의 실전 모델
+    - 📄 [021_case_study_dawn_money.md](ideas/021_case_study_dawn_money.md) — DAWN — Money
+- 🎨 **[art/](art/)** — 아름다움의 사례
+    - 📄 [001_galois_quintic.md](art/001_galois_quintic.md)
+    - 📄 [002_general_relativity.md](art/002_general_relativity.md)
+    - 📄 [003_one_pattern.md](art/003_one_pattern.md)
+    - 📄 [004_principia_geometry.md](art/004_principia_geometry.md)
+    - 📄 [005_hangul_two_states.md](art/005_hangul_two_states.md)
+- 🧠 **[fravashi/](fravashi/)** — Fravashi 원형 해석 엔진
+    - 📄 [001_internal_manual.md](fravashi/001_internal_manual.md)
+    - 📄 [002_gpt_prompt.md](fravashi/002_gpt_prompt.md)
+    - 📄 [003_gpt_prompt_full.md](fravashi/003_gpt_prompt_full.md)
+- 📜 **[protocols/](protocols/)** — 실행 프로토콜
+    - 📄 [001_creator_operating_protocol.md](protocols/001_creator_operating_protocol.md)
+    - 📄 [002_ethics_of_creation.md](protocols/002_ethics_of_creation.md)
+- 📖 **[scripture/](scripture/)** — 선현
+    - 📄 [zarathustra.md](scripture/zarathustra.md)
+    - 📄 [pioneers.md](scripture/pioneers.md)
+    - 📄 [mengchangjun.md](scripture/mengchangjun.md)
+    - 📄 [na_hye_suk.md](scripture/na_hye_suk.md)
+- 📚 **[canon/](canon/)** — PDF 책 생성 (Quarto)
+    - 📄 [book.qmd](canon/book.qmd) — 메인 문서 (모든 md include)
+    - 📄 [_quarto.yml](canon/_quarto.yml) — 렌더링 설정
+- 📝 **[CHANGELOG.md](CHANGELOG.md)** — 진화 기록
+- 👥 **[contributors.md](contributors.md)** — 창조자 명단
 
 ---
 
@@ -176,9 +162,9 @@ AngraMyNew/
 
 AngraMyNew의 사상적 원천:
 
-- **니체** — 『차라투스트라는 이렇게 말했다』 → `scripture/zarathustra.md`
-- **5인의 선현** — 김옥균, 마광수, 허균, 성재기, 존 로 → `scripture/pioneers.md`
-- **맹상군** — 식객 3000, 포용의 철학 → `scripture/mengchangjun.md`
+- **니체** — 『차라투스트라는 이렇게 말했다』 → [scripture/zarathustra.md](scripture/zarathustra.md)
+- **5인의 선현** — 김옥균, 마광수, 허균, 성재기, 존 로 → [scripture/pioneers.md](scripture/pioneers.md)
+- **맹상군** — 식객 3000, 포용의 철학 → [scripture/mengchangjun.md](scripture/mengchangjun.md)
 
 > "인생이란 곧 죽을 자리를 찾아 떠나는 여행이다."
 > — AngraMyNew
