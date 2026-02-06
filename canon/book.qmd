@@ -70,6 +70,8 @@ format: pdf
 
 {{< include ../ideas/025_consumption_of_exempt.md >}}
 
+{{< include ../ideas/026_three_kingdoms_of_beauty.md >}}
+
 \newpage
 
 # Part II: Art {.unnumbered}
