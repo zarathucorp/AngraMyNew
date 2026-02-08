@@ -141,6 +141,7 @@ Mengchangjun's three thousand retainers were not chosen for usefulness. A rooste
     - 📄 [001_internal_manual.md](fravashi/001_internal_manual.md)
     - 📄 [002_gpt_prompt.md](fravashi/002_gpt_prompt.md)
     - 📄 [003_gpt_prompt_full.md](fravashi/003_gpt_prompt_full.md)
+    - 📄 [004_agent_prompt.md](fravashi/004_agent_prompt.md)
 - 📜 **[protocols/](protocols/)** — Executable protocols
     - 📄 [001_creator_operating_protocol.md](protocols/001_creator_operating_protocol.md)
     - 📄 [002_ethics_of_creation.md](protocols/002_ethics_of_creation.md)
