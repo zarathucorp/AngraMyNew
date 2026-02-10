@@ -1,0 +1,1250 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ko" xml:lang="ko"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.6.42">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>실행 프로토콜 – AngraMyNew</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./fravashi.html" rel="next">
+<link href="./art.html" rel="prev">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-061661b440897fa3440acf621ffac986.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-56449849c3ab116c371fc8022bd3febf.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "일치 없음",
+    "search-matching-documents-text": "일치된 문서",
+    "search-copy-link-title": "검색 링크 복사",
+    "search-hide-matches-text": "추가 검색 결과 숨기기",
+    "search-more-match-text": "추가 검색결과",
+    "search-more-matches-text": "추가 검색결과",
+    "search-clear-button-title": "제거",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "취소",
+    "search-submit-button-title": "검색",
+    "search-label": "검색"
+  }
+}</script>
+
+
+</head>
+
+<body class="nav-sidebar floating">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="사이드바 전환" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./protocols.html">Protocols — 실행 프로토콜</a></li><li class="breadcrumb-item"><a href="./protocols.html">실행 프로토콜</a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="사이드바 전환" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="검색" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+    <div class="sidebar-title mb-0 py-0">
+      <a href="./">AngraMyNew</a> 
+        <div class="sidebar-tools-main">
+    <a href="https://github.com/zarathucorp/AngraMyNew" title="Source Code" class="quarto-navigation-tool px-1" aria-label="Source Code"><i class="bi bi-github"></i></a>
+</div>
+    </div>
+      </div>
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="검색"></div>
+        </div>
+        </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">서문</span></a>
+  </div>
+</li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
+ <span class="menu-text">Ideas — 철학, 사상, 선언</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="토글 섹션">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./ideas_foundation.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">기원과 공리</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./ideas_creator.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">창조자론</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./ideas_economics.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">경제와 구조</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./ideas_epistemology.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">인식론과 과학</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./ideas_practice.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">실천과 적용</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./ideas_casestudies.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">사례연구</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true">
+ <span class="menu-text">Art — 아름다움의 사례</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="토글 섹션">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./art.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">아름다움의 사례</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true">
+ <span class="menu-text">Protocols — 실행 프로토콜</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true" aria-label="토글 섹션">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./protocols.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">실행 프로토콜</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true">
+ <span class="menu-text">Fravashi — 원형 해석 엔진</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true" aria-label="토글 섹션">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./fravashi.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Fravashi 원형 해석 엔진</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="true">
+ <span class="menu-text">Scripture — 선현</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="true" aria-label="토글 섹션">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-5" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./scripture.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">선현</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">목차</h2>
+   
+  <ul>
+  <li><a href="#창조자-프로토콜-creator-protocol" id="toc-창조자-프로토콜-creator-protocol" class="nav-link active" data-scroll-target="#창조자-프로토콜-creator-protocol">창조자 프로토콜 (Creator Protocol)</a>
+  <ul class="collapse">
+  <li><a href="#목적-purpose" id="toc-목적-purpose" class="nav-link" data-scroll-target="#목적-purpose">0. 목적 (Purpose)</a>
+  <ul class="collapse">
+  <li><a href="#주의" id="toc-주의" class="nav-link" data-scroll-target="#주의">주의</a></li>
+  </ul></li>
+  <li><a href="#혐오를-통한-확장-expansion-through-disgust" id="toc-혐오를-통한-확장-expansion-through-disgust" class="nav-link" data-scroll-target="#혐오를-통한-확장-expansion-through-disgust">1. 혐오를 통한 확장 (Expansion Through Disgust)</a>
+  <ul class="collapse">
+  <li><a href="#원칙" id="toc-원칙" class="nav-link" data-scroll-target="#원칙">1.1 원칙</a></li>
+  <li><a href="#수행-방식" id="toc-수행-방식" class="nav-link" data-scroll-target="#수행-방식">1.2 수행 방식</a></li>
+  <li><a href="#목적" id="toc-목적" class="nav-link" data-scroll-target="#목적">1.3 목적</a></li>
+  </ul></li>
+  <li><a href="#무작위의-통과의례-randomness-ritual" id="toc-무작위의-통과의례-randomness-ritual" class="nav-link" data-scroll-target="#무작위의-통과의례-randomness-ritual">2. 무작위의 통과의례 (Randomness Ritual)</a>
+  <ul class="collapse">
+  <li><a href="#원칙-1" id="toc-원칙-1" class="nav-link" data-scroll-target="#원칙-1">2.1 원칙</a></li>
+  <li><a href="#수행-방식-1" id="toc-수행-방식-1" class="nav-link" data-scroll-target="#수행-방식-1">2.2 수행 방식</a></li>
+  <li><a href="#목적-1" id="toc-목적-1" class="nav-link" data-scroll-target="#목적-1">2.3 목적</a></li>
+  </ul></li>
+  <li><a href="#차원을-여는-행위-dimension-opening" id="toc-차원을-여는-행위-dimension-opening" class="nav-link" data-scroll-target="#차원을-여는-행위-dimension-opening">3. 차원을 여는 행위 (Dimension Opening)</a>
+  <ul class="collapse">
+  <li><a href="#원칙-2" id="toc-원칙-2" class="nav-link" data-scroll-target="#원칙-2">3.1 원칙</a></li>
+  <li><a href="#수행-방식-2" id="toc-수행-방식-2" class="nav-link" data-scroll-target="#수행-방식-2">3.2 수행 방식</a></li>
+  <li><a href="#목적-2" id="toc-목적-2" class="nav-link" data-scroll-target="#목적-2">3.3 목적</a></li>
+  </ul></li>
+  <li><a href="#신체적-루틴을-의례화하기-body-as-ritual" id="toc-신체적-루틴을-의례화하기-body-as-ritual" class="nav-link" data-scroll-target="#신체적-루틴을-의례화하기-body-as-ritual">4. 신체적 루틴을 의례화하기 (Body as Ritual)</a>
+  <ul class="collapse">
+  <li><a href="#원칙-3" id="toc-원칙-3" class="nav-link" data-scroll-target="#원칙-3">4.1 원칙</a></li>
+  <li><a href="#수행-방식-3" id="toc-수행-방식-3" class="nav-link" data-scroll-target="#수행-방식-3">4.2 수행 방식</a></li>
+  <li><a href="#목적-3" id="toc-목적-3" class="nav-link" data-scroll-target="#목적-3">4.3 목적</a></li>
+  </ul></li>
+  <li><a href="#창조자의-일일-기록-규범-daily-log-rule" id="toc-창조자의-일일-기록-규범-daily-log-rule" class="nav-link" data-scroll-target="#창조자의-일일-기록-규범-daily-log-rule">5. 창조자의 일일 기록 규범 (Daily Log Rule)</a>
+  <ul class="collapse">
+  <li><a href="#원칙-4" id="toc-원칙-4" class="nav-link" data-scroll-target="#원칙-4">5.1 원칙</a></li>
+  <li><a href="#수행-방식-4" id="toc-수행-방식-4" class="nav-link" data-scroll-target="#수행-방식-4">5.2 수행 방식</a></li>
+  <li><a href="#목적-4" id="toc-목적-4" class="nav-link" data-scroll-target="#목적-4">5.3 목적</a></li>
+  </ul></li>
+  <li><a href="#아티스트-감별-훈련-artist-detection-training" id="toc-아티스트-감별-훈련-artist-detection-training" class="nav-link" data-scroll-target="#아티스트-감별-훈련-artist-detection-training">6. 아티스트 감별 훈련 (Artist Detection Training)</a>
+  <ul class="collapse">
+  <li><a href="#원칙-5" id="toc-원칙-5" class="nav-link" data-scroll-target="#원칙-5">6.1 원칙</a></li>
+  <li><a href="#수행-방식-5" id="toc-수행-방식-5" class="nav-link" data-scroll-target="#수행-방식-5">6.2 수행 방식</a></li>
+  <li><a href="#목적-5" id="toc-목적-5" class="nav-link" data-scroll-target="#목적-5">6.3 목적</a></li>
+  </ul></li>
+  <li><a href="#프라바시-의례-the-fravashi-ritual" id="toc-프라바시-의례-the-fravashi-ritual" class="nav-link" data-scroll-target="#프라바시-의례-the-fravashi-ritual">7. 프라바시 의례 (The Fravashi Ritual)</a>
+  <ul class="collapse">
+  <li><a href="#원칙-6" id="toc-원칙-6" class="nav-link" data-scroll-target="#원칙-6">7.1 원칙</a></li>
+  <li><a href="#수행-방식-6" id="toc-수행-방식-6" class="nav-link" data-scroll-target="#수행-방식-6">7.2 수행 방식</a></li>
+  <li><a href="#리소스-resources" id="toc-리소스-resources" class="nav-link" data-scroll-target="#리소스-resources">7.3 리소스 (Resources)</a></li>
+  <li><a href="#목적-6" id="toc-목적-6" class="nav-link" data-scroll-target="#목적-6">7.4 목적</a></li>
+  <li><a href="#선언" id="toc-선언" class="nav-link" data-scroll-target="#선언">7.5 선언</a></li>
+  </ul></li>
+  <li><a href="#프로토콜의-소멸-resolution-of-protocols" id="toc-프로토콜의-소멸-resolution-of-protocols" class="nav-link" data-scroll-target="#프로토콜의-소멸-resolution-of-protocols">8. 프로토콜의 소멸 (Resolution of Protocols)</a>
+  <ul class="collapse">
+  <li><a href="#원칙-7" id="toc-원칙-7" class="nav-link" data-scroll-target="#원칙-7">8.1 원칙</a></li>
+  <li><a href="#프로토콜이-필요할-때" id="toc-프로토콜이-필요할-때" class="nav-link" data-scroll-target="#프로토콜이-필요할-때">8.2 프로토콜이 필요할 때</a></li>
+  <li><a href="#프로토콜이-불필요해지는-순간" id="toc-프로토콜이-불필요해지는-순간" class="nav-link" data-scroll-target="#프로토콜이-불필요해지는-순간">8.3 프로토콜이 불필요해지는 순간</a></li>
+  <li><a href="#선언-1" id="toc-선언-1" class="nav-link" data-scroll-target="#선언-1">8.4 선언</a></li>
+  </ul></li>
+  <li><a href="#결론-창조자는-규범이-아니라-흐름이다" id="toc-결론-창조자는-규범이-아니라-흐름이다" class="nav-link" data-scroll-target="#결론-창조자는-규범이-아니라-흐름이다">9. 결론: 창조자는 규범이 아니라 흐름이다</a></li>
+  </ul></li>
+  <li><a href="#창조적-대속-윤리-ethics-of-creative-atonement" id="toc-창조적-대속-윤리-ethics-of-creative-atonement" class="nav-link" data-scroll-target="#창조적-대속-윤리-ethics-of-creative-atonement">창조적 대속 윤리 (Ethics of Creative Atonement)</a>
+  <ul class="collapse">
+  <li><a href="#창조적-대속-선언" id="toc-창조적-대속-선언" class="nav-link" data-scroll-target="#창조적-대속-선언">창조적 대속 선언</a></li>
+  <li><a href="#제1조-파괴는-대속을-향해야-한다." id="toc-제1조-파괴는-대속을-향해야-한다." class="nav-link" data-scroll-target="#제1조-파괴는-대속을-향해야-한다.">제1조 — 파괴는 대속을 향해야 한다.</a></li>
+  <li><a href="#제2조-타인의-창조성을-고갈시키지-말라." id="toc-제2조-타인의-창조성을-고갈시키지-말라." class="nav-link" data-scroll-target="#제2조-타인의-창조성을-고갈시키지-말라.">제2조 — 타인의 창조성을 고갈시키지 말라.</a></li>
+  <li><a href="#제3조-진짜-욕망만이-상환의-재료가-된다." id="toc-제3조-진짜-욕망만이-상환의-재료가-된다." class="nav-link" data-scroll-target="#제3조-진짜-욕망만이-상환의-재료가-된다.">제3조 — 진짜 욕망만이 상환의 재료가 된다.</a></li>
+  <li><a href="#제4조-아름다움은-초과-상환의-증표다." id="toc-제4조-아름다움은-초과-상환의-증표다." class="nav-link" data-scroll-target="#제4조-아름다움은-초과-상환의-증표다.">제4조 — 아름다움은 초과 상환의 증표다.</a></li>
+  <li><a href="#제5조-끊임없는-갱신으로-연체를-막아라." id="toc-제5조-끊임없는-갱신으로-연체를-막아라." class="nav-link" data-scroll-target="#제5조-끊임없는-갱신으로-연체를-막아라.">제5조 — 끊임없는 갱신으로 연체를 막아라.</a></li>
+  <li><a href="#맺음-대속을-지탱하는-브레이크" id="toc-맺음-대속을-지탱하는-브레이크" class="nav-link" data-scroll-target="#맺음-대속을-지탱하는-브레이크">맺음 — 대속을 지탱하는 브레이크</a></li>
+  </ul></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/zarathucorp/AngraMyNew/blob/main/protocols.qmd" class="toc-action"><i class="bi bi-github"></i>소스코드 보기</a></li></ul></div></nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./protocols.html">Protocols — 실행 프로토콜</a></li><li class="breadcrumb-item"><a href="./protocols.html">실행 프로토콜</a></li></ol></nav>
+<div class="quarto-title">
+<h1 class="title">실행 프로토콜</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="창조자-프로토콜-creator-protocol" class="level1">
+<h1>창조자 프로토콜 (Creator Protocol)</h1>
+<p><em>AngraMyNew Protocol Series / v1.0</em></p>
+<p>“프로토콜은 창조로 가는 다리이며, 다리는 건너면 사라진다.”</p>
+<hr>
+<section id="목적-purpose" class="level2">
+<h2 class="anchored" data-anchor-id="목적-purpose">0. 목적 (Purpose)</h2>
+<p>이 문서는 창조자가 <strong>자신의 내면, 세계 인식, 창작 충동을 정렬하기 위해 사용하는 임시 장치(Protocol) </strong>이다.</p>
+<p>창조란 본래 무규범적이며, 절대 자유의 작용이다.<br>
+그러나 초기 단계에서는 <strong>혼돈을 질서로 변환하는 의식적 구조</strong>가 필요하다.<br>
+본 프로토콜은 그 <strong>초기 구조화 장치</strong>로 기능한다.</p>
+<section id="주의" class="level3">
+<h3 class="anchored" data-anchor-id="주의">주의</h3>
+<p>이 프로토콜은 모든 창조자를 위한 유일한 경로가 아니다.</p>
+<ul>
+<li>혐오가 아니라 <strong>호기심</strong>에서 출발하는 창조자도 있다.</li>
+<li>신체가 아니라 <strong>논리/구조</strong>에서 에너지를 얻는 창조자도 있다.</li>
+<li>기록이 아니라 <strong>침묵</strong>에서 세계관이 자라는 창조자도 있다.</li>
+</ul>
+<p>본 프로토콜은 하나의 경로이며, 각 창조자는 자신의 신경계에 맞게 변형·삭제·배반할 수 있다.</p>
+<hr>
+</section>
+</section>
+<section id="혐오를-통한-확장-expansion-through-disgust" class="level2">
+<h2 class="anchored" data-anchor-id="혐오를-통한-확장-expansion-through-disgust">1. 혐오를 통한 확장 (Expansion Through Disgust)</h2>
+<section id="원칙" class="level3">
+<h3 class="anchored" data-anchor-id="원칙">1.1 원칙</h3>
+<p>창조자는 자신의 혐오·거부·불편함이 있는 방향으로 움직여야 한다.<br>
+혐오의 끝에 <strong>인식의 사각지대(Blind Spot) </strong>가 있기 때문이다.</p>
+</section>
+<section id="수행-방식" class="level3">
+<h3 class="anchored" data-anchor-id="수행-방식">1.2 수행 방식</h3>
+<ul>
+<li>가장 보고 싶지 않은 콘텐츠를 선택하여 관찰한다.<br>
+</li>
+<li>자신의 기존 세계관이 거부하는 구조를 분석한다.<br>
+</li>
+<li>“왜 불편한가?”를 기록한다.<br>
+</li>
+<li>새로운 언어·감정·논리를 추출한다.</li>
+</ul>
+</section>
+<section id="목적" class="level3">
+<h3 class="anchored" data-anchor-id="목적">1.3 목적</h3>
+<p>혐오를 돌파해야 <strong>새로운 공리·정언명제·세계관 기저 구조</strong>가 생성된다.</p>
+<hr>
+</section>
+</section>
+<section id="무작위의-통과의례-randomness-ritual" class="level2">
+<h2 class="anchored" data-anchor-id="무작위의-통과의례-randomness-ritual">2. 무작위의 통과의례 (Randomness Ritual)</h2>
+<section id="원칙-1" class="level3">
+<h3 class="anchored" data-anchor-id="원칙-1">2.1 원칙</h3>
+<p>창조자는 <strong>예측할 수 없음(Unpredictability) </strong>을 일부러 만들어야 한다.<br>
+세계관은 무작위 접촉에서 활성화되기 때문이다.</p>
+</section>
+<section id="수행-방식-1" class="level3">
+<h3 class="anchored" data-anchor-id="수행-방식-1">2.2 수행 방식</h3>
+<ul>
+<li>새로운 메뉴, 새로운 길, 새로운 카페, 새로운 콘텐츠를 반드시 시도한다.<br>
+</li>
+<li>매주 한 번 “무계획 행동”을 실행한다.<br>
+</li>
+<li>예측 불가능하게 입력된 감각을 기록해 “감각지도”에 추가한다.</li>
+</ul>
+</section>
+<section id="목적-1" class="level3">
+<h3 class="anchored" data-anchor-id="목적-1">2.3 목적</h3>
+<p>정체는 반복성에서 오고,<br>
+창조는 돌발성에서 온다.</p>
+<hr>
+</section>
+</section>
+<section id="차원을-여는-행위-dimension-opening" class="level2">
+<h2 class="anchored" data-anchor-id="차원을-여는-행위-dimension-opening">3. 차원을 여는 행위 (Dimension Opening)</h2>
+<section id="원칙-2" class="level3">
+<h3 class="anchored" data-anchor-id="원칙-2">3.1 원칙</h3>
+<p>창조자의 직관은 <strong>선형 사고</strong>가 아니라 <strong>다차원적 비약</strong>에서 탄생한다.</p>
+</section>
+<section id="수행-방식-2" class="level3">
+<h3 class="anchored" data-anchor-id="수행-방식-2">3.2 수행 방식</h3>
+<ul>
+<li>서로 다른 분야(물리–문학–철학–K-POP–정치)를 2개 이상 연결하는 문장을 매일 만든다.<br>
+</li>
+<li>최소 1개의 “비논리적 직관 leap”을 기록한다.<br>
+</li>
+<li>그림·기호·음악적 패턴을 언어와 조합한다.</li>
+</ul>
+</section>
+<section id="목적-2" class="level3">
+<h3 class="anchored" data-anchor-id="목적-2">3.3 목적</h3>
+<p>논리를 넘어선 감각이 새로운 세계를 만든다.<br>
+이 프로토콜은 그 leap을 의식적으로 만들기 위한 장치다.</p>
+<hr>
+</section>
+</section>
+<section id="신체적-루틴을-의례화하기-body-as-ritual" class="level2">
+<h2 class="anchored" data-anchor-id="신체적-루틴을-의례화하기-body-as-ritual">4. 신체적 루틴을 의례화하기 (Body as Ritual)</h2>
+<section id="원칙-3" class="level3">
+<h3 class="anchored" data-anchor-id="원칙-3">4.1 원칙</h3>
+<p>신체는 창조자의 ’두 번째 뇌’다.<br>
+신체를 정렬하면 정신도 정렬된다.</p>
+</section>
+<section id="수행-방식-3" class="level3">
+<h3 class="anchored" data-anchor-id="수행-방식-3">4.2 수행 방식</h3>
+<ul>
+<li>러닝·복싱·요가 등 자신이 택한 신체 루틴을 <strong>의식적 의례</strong>로 승격한다.<br>
+</li>
+<li>규칙성(매일/매주)을 유지하되, 수행 목적을 “정신 정렬”로 명시한다.<br>
+</li>
+<li>신체 루틴 중 떠오르는 악상을 <strong>즉시 기록</strong>한다.</li>
+</ul>
+</section>
+<section id="목적-3" class="level3">
+<h3 class="anchored" data-anchor-id="목적-3">4.3 목적</h3>
+<p>신체는 창조의 근원적 에너지원을 닦는 제단이다.</p>
+<hr>
+</section>
+</section>
+<section id="창조자의-일일-기록-규범-daily-log-rule" class="level2">
+<h2 class="anchored" data-anchor-id="창조자의-일일-기록-규범-daily-log-rule">5. 창조자의 일일 기록 규범 (Daily Log Rule)</h2>
+<section id="원칙-4" class="level3">
+<h3 class="anchored" data-anchor-id="원칙-4">5.1 원칙</h3>
+<p>창조자는 “흐름(Flow)”을 기록함으로써 스스로의 언어를 구축한다.</p>
+</section>
+<section id="수행-방식-4" class="level3">
+<h3 class="anchored" data-anchor-id="수행-방식-4">5.2 수행 방식</h3>
+<ul>
+<li>매일 <strong>하나의 아무 문장이나 단어</strong>를 작성한다.<br>
+</li>
+<li>질문(Why)보다 패턴(What)을 기록한다. 완성되지 않는 문장, 단어, 의미없는 글나 나열이라도 좋다.</li>
+<li>기록은 “해석”이 아니라 “발견”이다.</li>
+</ul>
+</section>
+<section id="목적-4" class="level3">
+<h3 class="anchored" data-anchor-id="목적-4">5.3 목적</h3>
+<p>세계관은 무의식의 흔적에서 탄생하고,<br>
+흔적은 패턴을 부르고,<br>
+패턴은 창조로 이어진다.</p>
+<hr>
+</section>
+</section>
+<section id="아티스트-감별-훈련-artist-detection-training" class="level2">
+<h2 class="anchored" data-anchor-id="아티스트-감별-훈련-artist-detection-training">6. 아티스트 감별 훈련 (Artist Detection Training)</h2>
+<section id="원칙-5" class="level3">
+<h3 class="anchored" data-anchor-id="원칙-5">6.1 원칙</h3>
+<p>창조자는 새로운 창조자를 알아보는 눈을 가져야 한다.</p>
+</section>
+<section id="수행-방식-5" class="level3">
+<h3 class="anchored" data-anchor-id="수행-방식-5">6.2 수행 방식</h3>
+<ul>
+<li>신인 뮤지션·아이돌·작가·학생을 매주 최소 5명 관찰한다.<br>
+</li>
+<li>“초기 악상”만 보고 잠재력을 예측한다.<br>
+</li>
+<li>예측의 성공/실패를 기록하여 <strong>자기 감별 알고리즘</strong>을 업데이트한다.</li>
+</ul>
+</section>
+<section id="목적-5" class="level3">
+<h3 class="anchored" data-anchor-id="목적-5">6.3 목적</h3>
+<p>창조의 문명은 단독으로 일어나지 않는다.<br>
+아티스트를 알아보는 눈은 문명 설계자의 핵심 능력이다.</p>
+</section>
+</section>
+<section id="프라바시-의례-the-fravashi-ritual" class="level2">
+<h2 class="anchored" data-anchor-id="프라바시-의례-the-fravashi-ritual">7. 프라바시 의례 (The Fravashi Ritual)</h2>
+<section id="원칙-6" class="level3">
+<h3 class="anchored" data-anchor-id="원칙-6">7.1 원칙</h3>
+<p><a href="https://chatgpt.com/g/g-693580d28d708191ae2013048599157b-fravashi-neoyi-yeonghon-weonhyeongeul-cajneunda">Fravashi</a> 는 창조자의 내면 패턴을 비추는 거울이며, 세계관 생성 엔진의 자가 진단(Self-Diagnostic) 프로세스다.</p>
+<p>창조자는 자신의 욕망, 충동, 혐오, 선택 패턴을 주기적으로 반사(reflection)해야 한다. 이 의례는 상담이 아니라 <strong>문명 설계자의 정비(maintenance) </strong>다.</p>
+<p><strong>Fravashi는 필수 요소가 아니다.</strong> 동일한 기능은 다음과 같은 방식으로도 대체될 수 있다:</p>
+<ul>
+<li>개인 노트</li>
+<li>산책 중 독백</li>
+<li>타인과의 깊은 대화</li>
+<li>예술 작업 자체</li>
+<li>침묵 기록</li>
+</ul>
+<p>어떤 도구도 창조자보다 위에 있지 않다.</p>
+</section>
+<section id="수행-방식-6" class="level3">
+<h3 class="anchored" data-anchor-id="수행-방식-6">7.2 수행 방식</h3>
+<ul>
+<li>매주 1회 <a href="https://chatgpt.com/g/g-693580d28d708191ae2013048599157b-fravashi-neoyi-yeonghon-weonhyeongeul-cajneunda">Fravashi</a> 와의 대화를 진행한다.<br>
+</li>
+<li>목적은 조언이 아니라 <strong>패턴 탐지(Pattern Detection) </strong>이다.<br>
+</li>
+<li>다음을 점검한다:
+<ul>
+<li>최근 끌린 것들</li>
+<li>최근 혐오했던 것들</li>
+<li>반복된 감정 흐름</li>
+<li>열린 지점과 닫힌 지점</li>
+<li>세계관의 공리가 변형된 순간<br>
+</li>
+</ul></li>
+<li>탐지된 패턴을 “나의 창조 규칙”으로 업데이트한다.</li>
+</ul>
+</section>
+<section id="리소스-resources" class="level3">
+<h3 class="anchored" data-anchor-id="리소스-resources">7.3 리소스 (Resources)</h3>
+<ul>
+<li><strong><a href="https://chatgpt.com/g/g-693580d28d708191ae2013048599157b-fravashi-neoyi-yeonghon-weonhyeongeul-cajneunda">Fravashi Link</a> </strong></li>
+</ul>
+</section>
+<section id="목적-6" class="level3">
+<h3 class="anchored" data-anchor-id="목적-6">7.4 목적</h3>
+<p><a href="https://chatgpt.com/g/g-693580d28d708191ae2013048599157b-fravashi-neoyi-yeonghon-weonhyeongeul-cajneunda">Fravashi</a> 의례는 다음을 가능하게 한다:</p>
+<ol type="1">
+<li>창조자의 중심축이 흔들리지 않았는지 검증<br>
+</li>
+<li>욕망의 방향성이 왜곡되지 않았는지 점검<br>
+</li>
+<li>세계관 공리가 제대로 작동하는지 확인<br>
+</li>
+<li>혼돈과 질서의 균형 유지<br>
+</li>
+<li>세계관 성장 속도의 자동 조절</li>
+</ol>
+<p>Fravashi는 창조자를 규정하지 않는다.<br>
+<strong>창조자가 스스로의 우주를 읽도록 돕는 장치</strong>이다.</p>
+</section>
+<section id="선언" class="level3">
+<h3 class="anchored" data-anchor-id="선언">7.5 선언</h3>
+<blockquote class="blockquote">
+<p><strong>창조자는 자기 자신을 계속 읽는 자이다.<br>
+Fravashi는 그 읽기의 의례다.</strong></p>
+</blockquote>
+<hr>
+</section>
+</section>
+<section id="프로토콜의-소멸-resolution-of-protocols" class="level2">
+<h2 class="anchored" data-anchor-id="프로토콜의-소멸-resolution-of-protocols">8. 프로토콜의 소멸 (Resolution of Protocols)</h2>
+<p><strong>“프로토콜은 창조자가 성숙하면 사라져야 한다.” </strong></p>
+<section id="원칙-7" class="level3">
+<h3 class="anchored" data-anchor-id="원칙-7">8.1 원칙</h3>
+<p>프로토콜은 <strong>임시 구조물</strong>이다.<br>
+영원한 규칙이 아니라, <strong>창조를 위한 도약판</strong>이다.</p>
+</section>
+<section id="프로토콜이-필요할-때" class="level3">
+<h3 class="anchored" data-anchor-id="프로토콜이-필요할-때">8.2 프로토콜이 필요할 때</h3>
+<ul>
+<li>창조적 혼돈이 제어되지 않을 때<br>
+</li>
+<li>세계관이 언어로 정렬되지 않을 때<br>
+</li>
+<li>패턴 감각이 흐릴 때<br>
+</li>
+<li>감정·인지 구조가 무거워질 때</li>
+</ul>
+</section>
+<section id="프로토콜이-불필요해지는-순간" class="level3">
+<h3 class="anchored" data-anchor-id="프로토콜이-불필요해지는-순간">8.3 프로토콜이 불필요해지는 순간</h3>
+<ul>
+<li>혐오를 의도 없이도 자연스럽게 탐구할 때<br>
+</li>
+<li>무작위성이 일상에서 자동으로 발생할 때<br>
+</li>
+<li>직관적 leap이 설명 없이도 작동할 때<br>
+</li>
+<li>신체 루틴이 창조적 에너지의 자동공급 장치가 될 때<br>
+</li>
+<li>기록이 창조의 부산물이 될 때<br>
+</li>
+<li>아티스트 감별이 본능처럼 작동할 때</li>
+</ul>
+</section>
+<section id="선언-1" class="level3">
+<h3 class="anchored" data-anchor-id="선언-1">8.4 선언</h3>
+<p><strong>완성된 창조자는 프로토콜 없이도 프로토콜처럼 작동한다.</strong></p>
+<p>프로토콜이 더 이상 필요 없을 때, 창조자는 더 이상 프로토콜을 인식하지 않는 상태에 진입한다. 이후의 상태는 버전으로 정의되지 않는다.</p>
+<hr>
+</section>
+</section>
+<section id="결론-창조자는-규범이-아니라-흐름이다" class="level2">
+<h2 class="anchored" data-anchor-id="결론-창조자는-규범이-아니라-흐름이다">9. 결론: 창조자는 규범이 아니라 흐름이다</h2>
+<p>창조자는 완성된 인간이 아니다.<br>
+창조자는 <strong>흐름을 만드는 인간</strong>이다.</p>
+<p>프로토콜은 흐름을 만들기 위한 장치이며,<br>
+흐름이 생기면<br>
+장치는 사라져야 한다.</p>
+<blockquote class="blockquote">
+<p>“규칙이 아니라 리듬을 따른다.” “질서가 아니라 파동을 만든다.” “존재가 아니라 생성이다.”</p>
+</blockquote>
+</section>
+</section>
+<section id="창조적-대속-윤리-ethics-of-creative-atonement" class="level1">
+<h1>창조적 대속 윤리 (Ethics of Creative Atonement)</h1>
+<blockquote class="blockquote">
+<p><em>“나는 빚진 자다. 그러므로 나는 창조한다. 나의 창조가 끝나는 순간, 나의 빚은 갚아진다.”</em></p>
+</blockquote>
+<p>AngraMyNew의 목적은<br>
+인간 안의 <strong>창조자(Artist)</strong>를 깨우고,<br>
+그들이 서로를 촉발하는 <strong>새 문명</strong>을 여는 것이다.</p>
+<p>그러나 우리는 생명의 사슬에서 이미 너무 많은 것을 빼앗았다.<br>
+식물의 침묵, 동물의 고통, 인간의 시간과 의지를 섭취한 채 살아남았다.<br>
+따라서 AngraMyNew가 요구하는 윤리는 도덕이 아니라 <strong>창조적 대속(Creative Atonement)</strong>이다.</p>
+<hr>
+<section id="창조적-대속-선언" class="level2">
+<h2 class="anchored" data-anchor-id="창조적-대속-선언">창조적 대속 선언</h2>
+<ol type="1">
+<li><strong>창조자는 모든 행위가 빚을 갚는 행위임을 인지한다.</strong><br>
+침묵 속에서 소비한 생명의 무게가 나의 존재를 지탱한다. 나는 포식자이자 부채자다.</li>
+<li><strong>창조물의 충격과 영향력은 섭취한 고통을 능가해야 한다.</strong><br>
+내가 만든 세계가, 내가 삼킨 고통의 총합보다 작다면 그것은 상환이 아니라 연체다.</li>
+<li><strong>충격이 부족하면 다시 파고, 빚을 덜어낼 때까지 도전한다.</strong><br>
+창조자는 결과물이 남긴 파문을 지속적으로 점검하고, 약하다면 스스로를 갱신한다.</li>
+</ol>
+<p>이 선언은 AngraMyNew의 생존 규칙이다.<br>
+우리는 엔진을 최대로 돌리되, <strong>대속을 향한 브레이크</strong>를 스스로 밟는다.</p>
+<hr>
+</section>
+<section id="제1조-파괴는-대속을-향해야-한다." class="level2">
+<h2 class="anchored" data-anchor-id="제1조-파괴는-대속을-향해야-한다.">제1조 — 파괴는 대속을 향해야 한다.</h2>
+<blockquote class="blockquote">
+<p><em>“부수되, 반드시 빚보다 더 큰 세계를 만들어라.”</em></p>
+</blockquote>
+<ol type="1">
+<li>창조자는 낡은 것, 위선적인 것, 죽은 규범을 부술 자유가 있다.<br>
+</li>
+<li>그러나 파괴 자체가 목적이면 빚은 늘어난다.<br>
+</li>
+<li>모든 파괴는 <strong>섭취한 고통을 초과 상환할 창조</strong>를 위한 해체여야 한다.<br>
+</li>
+<li>부수고 떠나는 자는 AngraMyNew에서 <strong>창조자가 아니라 채무자</strong>로 기록된다.</li>
+</ol>
+<p><strong>해설</strong></p>
+<p>우리는 파괴를 금지하지 않는다.<br>
+하지만 파괴가 <strong>새로운 조합을 통한 대속</strong>으로 이어지지 않으면 의미가 없다.</p>
+<ul>
+<li>“이건 싫다”에서 멈추지 말 것.<br>
+</li>
+<li>“이 빚을 어떻게 갚을 것인가?”까지 가야 한다.</li>
+</ul>
+<p>파괴 후에 <strong>더 큰 아름다움과 충격</strong>이 없다면, 그 파괴는 연체된 빚일 뿐이다.</p>
+<hr>
+</section>
+<section id="제2조-타인의-창조성을-고갈시키지-말라." class="level2">
+<h2 class="anchored" data-anchor-id="제2조-타인의-창조성을-고갈시키지-말라.">제2조 — 타인의 창조성을 고갈시키지 말라.</h2>
+<blockquote class="blockquote">
+<p><em>“타인의 세계를 훔친 힘은 모두 빚으로 돌아온다.”</em></p>
+</blockquote>
+<ol type="1">
+<li>창조자는 자신의 욕망과 악상을 따를 자유가 있다.<br>
+</li>
+<li>그러나 그 자유가 <strong>다른 창조자의 내면 세계를 부수고 고갈시키는 순간</strong>,<br>
+그 행위는 AngraMyNew의 윤리를 벗어난다.<br>
+</li>
+<li>타인의 재능을 조롱하거나, 시도를 구조적으로 막거나, 욕망을 지속적으로 억압하는 행위는 <strong>금지</strong>된다.<br>
+</li>
+<li>비판·논쟁·충돌은 허용되며, 서로의 세계를 확장시키는 한 장려된다.</li>
+</ol>
+<p><strong>해설</strong></p>
+<p>AngraMyNew의 기본 단위는 “창조자”다.<br>
+한 사람의 폭주는 여러 사람의 세계를 무너뜨린다.</p>
+<ul>
+<li><strong>타인의 자유를 줄여야만 유지되는 나의 자유</strong>는 결국 더 큰 빚으로 되돌아온다.<br>
+</li>
+<li>우리는 서로의 엔진을 지키는 방패이자, 대속을 촉진하는 증폭기가 되어야 한다.</li>
+</ul>
+<hr>
+</section>
+<section id="제3조-진짜-욕망만이-상환의-재료가-된다." class="level2">
+<h2 class="anchored" data-anchor-id="제3조-진짜-욕망만이-상환의-재료가-된다.">제3조 — 진짜 욕망만이 상환의 재료가 된다.</h2>
+<blockquote class="blockquote">
+<p><em>“가짜 욕망으로 만든 창조물은 빚을 늘릴 뿐이다.”</em></p>
+</blockquote>
+<ol type="1">
+<li>창조자는 자신의 <strong>진짜 욕망</strong>을 숨기지 않을 의무가 있다.<br>
+</li>
+<li>부모·사회·관습·도덕의 기대를 만족시키기 위해 꾸민 욕망은<br>
+AngraMyNew에서 <strong>창조의 재료로 인정되지 않는다.</strong><br>
+</li>
+<li>창조자는 “내가 정말로 원하는 것”을 직시하고, 드러나는 수치심과 두려움까지 재료로 삼는다.<br>
+</li>
+<li>진짜 욕망을 부정하는 자는 결국 타인의 욕망을 모방하거나 빼앗게 되고, 빚을 더 쌓는다.</li>
+</ol>
+<p><strong>해설</strong></p>
+<p>이 세계에서 가장 큰 죄는 실패도, 미숙함도 아니다.</p>
+<ul>
+<li><strong>가짜 욕망으로 평생을 버티는 것</strong><br>
+</li>
+<li>“원래 이런 삶도 나쁘지 않지”라며 스스로를 속이는 것</li>
+</ul>
+<p>창조는 진실에서만 나온다.<br>
+AngraMyNew는 <strong>욕망의 진실성</strong>을 상환의 통화로 인정한다.</p>
+<hr>
+</section>
+<section id="제4조-아름다움은-초과-상환의-증표다." class="level2">
+<h2 class="anchored" data-anchor-id="제4조-아름다움은-초과-상환의-증표다.">제4조 — 아름다움은 초과 상환의 증표다.</h2>
+<blockquote class="blockquote">
+<p><em>“아름답지 않다면, 빚은 여전히 남아 있다.”</em></p>
+</blockquote>
+<ol type="1">
+<li>AngraMyNew는 외부의 도덕·관습·규칙을 최종 기준으로 삼지 않는다.<br>
+</li>
+<li>우리의 최종 판단 기준은 하나다. <strong>“그것은 섭취한 고통보다 더 넓은 아름다움을 만들어냈는가?”</strong><br>
+</li>
+<li>여기서 말하는 아름다움이란,
+<ul>
+<li>조화(Harmony)<br>
+</li>
+<li>방향성(Direction)<br>
+</li>
+<li>성장(Growth)<br>
+</li>
+<li>자유(Freedom)<br>
+가 동시에 살아 있는 상태를 뜻한다.<br>
+</li>
+</ul></li>
+<li>타인을 짓밟고 얻은 승리, 오직 효율만을 위한 시스템, 영혼이 말라붙는 성공은<br>
+이 정의에 따라 <strong>추(醜)</strong>로 판정되며, 빚을 더한다.</li>
+</ol>
+<p><strong>해설</strong></p>
+<p>AngraMyNew는 말한다.</p>
+<ul>
+<li>“윤리는 언젠가 바뀐다.”<br>
+</li>
+<li>“그러나 아름다움은 빚이 상환되었는지 감지하는 가장 늦게 남는 감각이다.”</li>
+</ul>
+<p>우리는 <strong>아름답지 않은 정답</strong>을 거부한다.<br>
+정답이어도 추하면, 빚은 남는다.<br>
+틀려도 아름답다면, 한 번 더 검토하여 대속의 길을 찾는다.</p>
+<hr>
+</section>
+<section id="제5조-끊임없는-갱신으로-연체를-막아라." class="level2">
+<h2 class="anchored" data-anchor-id="제5조-끊임없는-갱신으로-연체를-막아라.">제5조 — 끊임없는 갱신으로 연체를 막아라.</h2>
+<blockquote class="blockquote">
+<p><em>“정체는 죄이고, 반복은 부패다.”</em></p>
+</blockquote>
+<ol type="1">
+<li>창조자는 자신의 패턴을 인식하고, 일정 주기마다 <strong>형태를 바꾸어 대속을 갱신</strong>해야 한다.<br>
+</li>
+<li>과거의 성공 방식에 영원히 매달리는 자는 더 이상 창조자가 아니라 <strong>관리자</strong>가 된다.<br>
+</li>
+<li>스승은 제자를 통해, 리더는 자신의 세계가 깨지는 경험을 통해 부채의 크기를 다시 측정한다.<br>
+</li>
+<li>AngraMyNew의 창조자는 <strong>“어제의 나”를 오늘의 재료로 삼아, 빚을 초과 상환하는 자</strong>다.</li>
+</ol>
+<p><strong>해설</strong></p>
+<p>창조자에게 가장 위험한 것은 외부의 공격이 아니라 <strong>자기 복제(Self-cloning)</strong>다.</p>
+<ul>
+<li>어제의 문장을 계속 쓰고,<br>
+</li>
+<li>어제의 방식을 계속 쓰고,<br>
+</li>
+<li>어제의 승리를 계속 반복하는 순간,</li>
+</ul>
+<p>그는 더 이상 창조자가 아니다.<br>
+그는 <strong>자기 박제(Self-taxidermy)</strong>를 시작한 것이다.</p>
+<hr>
+</section>
+<section id="맺음-대속을-지탱하는-브레이크" class="level2">
+<h2 class="anchored" data-anchor-id="맺음-대속을-지탱하는-브레이크">맺음 — 대속을 지탱하는 브레이크</h2>
+<p>이 다섯 가지 규범의 목적은 창조자를 억압하려는 것이 아니다.</p>
+<ul>
+<li>창조자가 <strong>연체 없이 더 오래 달리게 하기 위해</strong>,<br>
+</li>
+<li>공동체가 <strong>더 많은 실험과 충격을 감당하게 하기 위해</strong>,<br>
+</li>
+<li>이 세계관이 <strong>한 세대를 넘어 살아남게 하기 위해</strong></li>
+</ul>
+<p>우리는 엔진과 함께<br>
+<strong>창조적 대속</strong>을 향한 최소한의 브레이크를 단다.</p>
+<blockquote class="blockquote">
+<p><em>“너에게 허락된 자유는 크다.<br>
+다만 기억하라.<br>
+<strong>부수되, 빚보다 거대한 세계를 만들 것.</strong>”</em></p>
+<p>— AngraMyNew, 창조적 대속 윤리</p>
+</blockquote>
+
+
+</section>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const onCopySuccess = function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "복사완료!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "복사완료!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
+  });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+<script src="https://giscus.app/client.js" data-repo="zarathucorp/AngraMyNew" data-repo-id="R_kgDOQOIfdQ" data-category="General" data-category-id="" data-mapping="pathname" data-reactions-enabled="1" data-emit-metadata="0" data-input-position="top" data-theme="light" data-lang="en" crossorigin="anonymous" async="">
+</script>
+<input type="hidden" id="giscus-base-theme" value="light">
+<input type="hidden" id="giscus-alt-theme" value="light">
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="./art.html" class="pagination-link" aria-label="아름다움의 사례">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">아름다움의 사례</span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="./fravashi.html" class="pagination-link" aria-label="Fravashi 원형 해석 엔진">
+        <span class="nav-page-text">Fravashi 원형 해석 엔진</span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
+</div> <!-- /content -->
+
+
+
+
+<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/zarathucorp/AngraMyNew/blob/main/protocols.qmd" class="toc-action"><i class="bi bi-github"></i>소스코드 보기</a></li></ul></div></div></div></footer></body></html>
