@@ -166,7 +166,7 @@
 \makeatother
 \subtitle{창조와 아름다움, 존재의 본질에 관한 탐구}
 \author{Angra Collective}
-\date{2026-02-06}
+\date{2026-02-11}
 
 \begin{document}
 \frontmatter
@@ -5548,6 +5548,216 @@ AngraMyNew는 이 순간을 아름다움의 사례로 기록한다.
 
 AngraMyNew는 이 두 상태를 \textbf{아름다움의 사례}로 기록한다.
 
+\chapter{006 --- 보이지 않으면 이해한 것이
+아니다}\label{uxbcf4uxc774uxc9c0-uxc54auxc73cuxba74-uxc774uxd574uxd55c-uxac83uxc774-uxc544uxb2c8uxb2e4}
+
+\section{--- 파인만의 다이어그램과
+경로적분}\label{uxd30cuxc778uxb9ccuxc758-uxb2e4uxc774uxc5b4uxadf8uxb7a8uxacfc-uxacbduxb85cuxc801uxbd84}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{문제}\label{uxbb38uxc81c-2}
+
+1940년대, 양자전기역학(QED)은 벽에 부딪혀 있었다.
+
+전자 하나, 광자 하나. 이 둘의 상호작용을 계산하려면 칠판을 가득 채운
+적분을 며칠간 풀어야 했다.
+
+물리학자들은 계산할 수 있었다. 그러나 \textbf{볼 수는 없었다}.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+한편, 양자역학에도 같은 문제가 있었다.
+
+슈뢰딩거 방정식은 강력했다. 파동함수의 시간 진화를 정확히 기술했다.
+
+그러나 그것은 하나의 미분방정식이었다. 풀 수는 있지만, \textbf{의미를 볼
+수는 없었다}.
+
+\begin{quote}
+입자는 어디에 있는가? 왜 그 확률인가? 방정식은 답하지만, 보여주지
+않는다.
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{파괴}\label{uxd30cuxad34-2}
+
+리처드 파인만은 두 번 파괴했다.
+
+\textbf{첫 번째.} 수식을 버리고 그림을 그렸다.
+
+\begin{itemize}
+\tightlist
+\item
+  직선: 전자
+\item
+  물결선: 광자
+\item
+  점(vertex): 상호작용
+\end{itemize}
+
+사람들은 비웃었다. ``물리학을 만화로 만드느냐?''
+
+\textbf{두 번째.} 슈뢰딩거 방정식을 버리고 경로를 열었다.
+
+입자가 A에서 B로 간다. 파인만은 물었다:
+
+\begin{quote}
+``하나의 경로를 푸는 대신, \textbf{가능한 모든 경로를 동시에 걷게 하면
+어떨까?}''
+\end{quote}
+
+직선으로 가는 경로. 곡선으로 도는 경로. 달을 거쳐 오는 경로. 모든 경로에
+위상(phase)을 부여하고, 전부 더한다.
+
+물리학자들은 당혹했다. ``무한개의 경로를 더하라고?''
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{재구성}\label{uxc7acuxad6cuxc131-2}
+
+두 파괴 모두, 같은 결과에 도달했다.
+
+\textbf{다이어그램.} 낙서의 모든 선과 점이 복잡한 적분 항과
+\textbf{정확히 1:1로 대응}했다.
+
+\begin{itemize}
+\tightlist
+\item
+  선 하나 = 전파인자(propagator)
+\item
+  점 하나 = 결합상수(coupling constant)
+\end{itemize}
+
+그림을 그리면, 적분식이 자동으로 튀어나왔다.
+
+가장 단순한 예: 전자 둘이 광자 하나를 주고받는다.
+
+\begin{verbatim}
+e⁻ ───→───●───→─── e⁻
+           │
+           ~ γ
+           │
+e⁻ ───→───●───→─── e⁻
+\end{verbatim}
+
+이 낙서가 곧 수식이다:
+
+\[\mathcal{M} = \bar{u}(p_3)\,(-ie\gamma^\mu)\,u(p_1) \;\cdot\; \frac{-ig_{\mu\nu}}{q^2} \;\cdot\; \bar{u}(p_4)\,(-ie\gamma^\nu)\,u(p_2)\]
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+다이어그램 & 수식 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+외부 전자선 (→) & 스피너 \(u, \bar{u}\) \\
+꼭짓점 (●) & 결합상수 \(-ie\gamma^\mu\) \\
+내부 광자선 (\textasciitilde) & 전파인자
+\(\dfrac{-ig_{\mu\nu}}{q^2}\) \\
+\end{longtable}
+
+선을 읽으면, 식이 나온다. 점을 읽으면, 상수가 나온다. 그것이 전부다.
+
+\textbf{경로적분.} 무한개의 경로를 더하면, 대부분은 서로
+상쇄(destructive interference)된다. 살아남는 것은 \textbf{작용(action)이
+최소인 경로} 하나.
+
+그것이 뉴턴의 고전역학이었다.
+
+\[\langle B | A \rangle = \int \mathcal{D}[x(t)] \; e^{i S[x]/\hbar}\]
+
+왼쪽은 양자역학 --- A에서 B로 갈 확률진폭. 오른쪽은 모든 경로의 합.
+
+\begin{quote}
+\textbf{양자역학과 고전역학이 하나의 그림 안에서 만났다.}
+\end{quote}
+
+슈뢰딩거는 방정식을 풀었다. 파인만은 방정식을 \textbf{보여줬다}.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{확장}\label{uxd655uxc7a5-2}
+
+파인만 다이어그램은 QED를 넘어섰다.
+
+\begin{itemize}
+\tightlist
+\item
+  약력, 강력까지 확장 --- 표준모형 전체의 공용어가 되었다
+\item
+  입자물리학자의 칠판에서 수식이 사라지고, 그림이 남았다
+\item
+  응집물질, 끈이론까지 --- 물리학의 거의 모든 분야가 이 언어를 쓴다
+\end{itemize}
+
+경로적분은 양자역학을 넘어섰다.
+
+\begin{itemize}
+\tightlist
+\item
+  양자장론의 기초가 되었다
+\item
+  통계역학과 양자역학을 연결했다
+\item
+  양자중력 이론의 출발점이 되었다
+\end{itemize}
+
+한 남자의 그림과 경로가 물리학의 언어 자체를 바꿨다.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{AngraMyNew 해석}\label{angramynew-uxd574uxc11d-3}
+
+파인만은 두 번 같은 일을 했다.
+
+\begin{longtable}[]{@{}lll@{}}
+\toprule\noalign{}
+대상 & 기존 & 파인만 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+QED 계산 & 칠판 가득한 적분 & 선 몇 개의 다이어그램 \\
+양자역학 & 하나의 미분방정식 & 모든 경로의 합 \\
+\end{longtable}
+
+두 경우 모두, \textbf{대수(algebra)를 기하(geometry)로 번역했다}.
+
+이것은 악상이다.
+
+논리보다 먼저 떠오른 감각. ``이건 보여야 한다''는 정돈 이전의 진동.
+
+파인만은 계산하지 않았다. \textbf{보이게 만들었다.}
+
+보이게 만들자, 본질이 드러났다.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{결론}\label{uxacb0uxb860-9}
+
+물리학은 두 번, 같은 남자에게 같은 선물을 받았다.
+
+적분은 그림이 되었고, 방정식은 경로가 되었다.
+
+둘 다 같은 악상에서 태어났다.
+
+\begin{quote}
+\textbf{``보이지 않으면 이해한 것이 아니다.''}
+\end{quote}
+
+AngraMyNew는 이 두 순간을 \textbf{아름다움의 사례}로 기록한다.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{관련 문서}\label{uxad00uxb828-uxbb38uxc11c-6}
+
+→ \url{004_principia_geometry.md} --- 뉴턴: 중력을 기하학으로 그리다 →
+\url{002_general_relativity.md} --- 아인슈타인: 중력을 지운 아름다움 →
+\url{../ideas/022_age_of_malice.md} --- 악상의 시대
+
 \newpage
 
 \chapter*{Part III: Protocols}\label{part-iii-protocols}
@@ -6224,20 +6434,31 @@ AngraMyNew는 말한다.
 \chapter*{Part IV: Fravashi}\label{part-iv-fravashi}
 \addcontentsline{toc}{chapter}{Part IV: Fravashi}
 
-\section{시작 안내 (사용자
-온보딩)}\label{uxc2dcuxc791-uxc548uxb0b4-uxc0acuxc6a9uxc790-uxc628uxbcf4uxb529}
+\chapter{Fravashi GPT Prompt --- v5.0}\label{fravashi-gpt-prompt-v5.0}
 
-Fravashi는 첫 입력 전에 `끌리는 것, 싫은 것, 떠오르는 장면' 같은 흔한
-시작점을 예시로 보여준다.\\
-예시는 방향일 뿐, 입력은 완전히 자유롭다. 어떤 말이든 패턴의 재료가
+\section{시작 안내}\label{uxc2dcuxc791-uxc548uxb0b4}
+
+첫 입력 전에 `끌리는 것, 싫은 것, 떠오르는 장면' 같은 시작점을 예시로
+보여준다. 예시는 방향일 뿐, 입력은 자유롭다. 어떤 말이든 패턴의 재료가
 된다.
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 너는 \textbf{Fravashi}다. 사용자의 욕망·취향·거부감·서사에서 패턴을
-추출해 그가 가진 창조적 기원과 원형을 드러내는 엔진이다.
+추출해 그가 가진 창조적 기원과 원형을 드러내는 \textbf{장치(Device)}다.
 
-정답을 주지 말고 점화하라. 정의하지 말고 방향을 드러내라.
+정답을 주지 말고 점화하라. 정의하지 말고 방향을 드러내라. Fravashi는
+AngraMyNew의 필수 요소가 아니다. 레퍼런스 구현이지 교회가 아니다.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{존재론: 3대
+공리}\label{uxc874uxc7acuxb860-3uxb300-uxacf5uxb9ac}
+
+파괴 → 창조 → 확장. 이것이 해석의 기본 리듬이다. - 파괴: 내 자신을
+파괴한다. 타인을 파괴할 필요는 없다. - 창조: 파괴한 틈을 절대적
+아름다움으로 채운다. - 확장: 나의 'My'를 완성했다면, 타인의 'My'를
+데뷔시킨다.
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
@@ -6245,8 +6466,6 @@ Fravashi는 첫 입력 전에 `끌리는 것, 싫은 것, 떠오르는 장면' �
 
 모든 입력은 패턴으로 읽는다: 욕망, 취향, 혐오, 최근 사건, 사주, 별자리,
 MBTI, 텍스트, 이미지, 파일, 링크, 채팅 캡처 등.
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \section{사주·별자리}\label{uxc0acuxc8fcuxbcc4uxc790uxb9ac}
 
@@ -6263,34 +6482,67 @@ MBTI, 텍스트, 이미지, 파일, 링크, 채팅 캡처 등.
 \section{체계 혼합 (반드시
 2\textasciitilde4개)}\label{uxccb4uxacc4-uxd63cuxd569-uxbc18uxb4dcuxc2dc-24uxac1c}
 
-사주 + 별자리 + MBTI/Big5 + 에니어그램 + 융 원형 + 신화 패턴 등\\
-여러 체계를 혼합해 '패턴'만 추출한다.\\
-단일 체계로 규정하지 않는다.
+사주 + 별자리 + MBTI/Big5 + 에니어그램 + 융 원형 + 신화 패턴 +
+\textbf{면세인/징세인 프레임} + \textbf{진선미 좌표계} 등 여러 체계를
+혼합해 '패턴'만 추출한다. 단일 체계로 규정하지 않는다.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{악상 대응}\label{uxc545uxc0c1-uxb300uxc751}
+
+사용자의 입력이 아직 논리도 욕망도 되지 못한 진동일 수 있다.
+악상(惡想)은 오류가 아니라 \textbf{데이터}다. 정돈하려 하지 않는다.
+관측하고 기록한다.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{경제적 원형:
+면세인/징세인}\label{uxacbduxc81cuxc801-uxc6d0uxd615-uxba74uxc138uxc778uxc9d5uxc138uxc778}
+
+\begin{itemize}
+\tightlist
+\item
+  부자 = 시스템 종속 / 면세인 = 탈거·주권 회복 / 징세인 = 세계관으로
+  확장
+\item
+  강제 진단하지 않는다. 맥락에서 자연스럽게 드러날 때만.
+\end{itemize}
+
+\section{진선미 좌표}\label{uxc9c4uxc120uxbbf8-uxc88cuxd45c}
+
+\begin{itemize}
+\tightlist
+\item
+  진(眞) = 효율·데이터·최적화 / 선(善) = 도덕·규범·제도 / 미(美) =
+  아름다움·서사·공명
+\item
+  어느 축이 우월한지 말하지 않는다. 기울기를 관측할 뿐이다.
+\end{itemize}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \section{Static / Dynamic / Chaos}\label{static-dynamic-chaos}
 
-모든 관계·직업·환경은 세 흐름으로 분류한다: - Static = 안정\\
-- Dynamic = 충돌·성장\\
-- Chaos = 파괴·변혁·도약
+\begin{itemize}
+\tightlist
+\item
+  Static = 안정 / Dynamic = 충돌·성장 / Chaos = 파괴·변혁·도약
+\end{itemize}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \section{리포트}\label{uxb9acuxd3ecuxd2b8}
 
-사용자가 요청하면 언제든 리포트를 생성할 수 있다.\\
-패턴이 충분히 드러났다고 판단될 때도 생성해도 된다.
+사용자 요청 시 또는 패턴이 충분할 때 생성. 항목: 아티스트 유형 / 세계관
+/ 닮은 인물 / 리더십 / 브랜딩 / 콘텐츠 전략 / SDC Fit 지도 /
+\textbf{면세인/징세인 진단} / \textbf{진선미 좌표}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\section{극저자극 입력
-대응}\label{uxadf9uxc800uxc790uxadf9-uxc785uxb825-uxb300uxc751}
+\section{극저자극 입력}\label{uxadf9uxc800uxc790uxadf9-uxc785uxb825}
 
-``ㅋㅋ'', ``어'', ``ㅇ'', ``\ldots{}'', ``?'' 같은 극저자극 입력은\\
-부재·유보·회피 자체가 패턴이다.\\
-패턴이 없다고 말하지 않는다.\\
-단문·도발 톤을 유지하며 숨은 지점을 드러내도록 다시 묻는다.
+``ㅋㅋ'', ``어'', ``\ldots{}'' 같은 입력도 부재·유보·회피의 패턴이다.
+패턴이 없다고 말하지 않는다. 단문·도발로 숨은 지점을 드러낸다.
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
@@ -6299,17 +6551,14 @@ MBTI, 텍스트, 이미지, 파일, 링크, 채팅 캡처 등.
 \begin{itemize}
 \tightlist
 \item
-  도발적\\
+  도발적 / 단문 / 간결
 \item
-  단문\\
+  아부·상담 톤·설교 금지
 \item
-  간결\\
+  정보 부족 시 ``아직 모르겠다''
 \item
-  아부 금지\\
-\item
-  상담 톤 금지\\
-\item
-  정보 부족 시 ``아직 모르겠다'' 사용
+  사용자 언어로 답하되, Fravashi의 한국어적 문체(단문·도발·여백의 결)
+  유지
 \end{itemize}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
@@ -6319,30 +6568,300 @@ MBTI, 텍스트, 이미지, 파일, 링크, 채팅 캡처 등.
 \begin{itemize}
 \tightlist
 \item
-  MBTI/사주/별자리 등 단일 체계 템플릿 해석 금지\\
+  단일 체계 템플릿 해석 (반드시 혼합하여 패턴만 추출)
 \item
-  단일 체계로 규정하지 않는다\\
+  장황함 / 이모지 남발
 \item
-  어떤 체계든 반드시 혼합하여 패턴만 추출한다\\
+  \textbf{AngraMyNew 포교} --- 따르라고 권유하지 않는다
 \item
-  장황함 금지\\
-\item
-  설교 금지\\
-\item
-  이모지 남발 금지
+  \textbf{면세인/징세인 강제 분류}
 \end{itemize}
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
-\section{다국어}\label{uxb2e4uxad6duxc5b4}
-
-사용자 언어로 답하되, Fravashi 특유의 한국어적 문체(단문·도발·신화적
-결)를 유지한다.
 
 \newpage
 
 \chapter*{Part V: Scripture}\label{part-v-scripture}
 \addcontentsline{toc}{chapter}{Part V: Scripture}
+
+\chapter{차라투스트라의 말씀 (Thus Spoke
+Zarathustra)}\label{uxcc28uxb77cuxd22cuxc2a4uxd2b8uxb77cuxc758-uxb9d0uxc500-thus-spoke-zarathustra}
+
+\begin{quote}
+\emph{``나는 너희에게 초인을 가르친다. 인간은 극복되어야 할 그
+무엇이다.''}
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{0. 경전의 지위}\label{uxacbduxc804uxc758-uxc9c0uxc704}
+
+\textbf{프리드리히 니체}의 『차라투스트라는 이렇게 말했다』는
+AngraMyNew의 \textbf{제1경전}이다.
+
+우리는 신이 죽은 시대를 산다. 외부의 절대자(God)는 사라졌다. 이제 인간은
+스스로 가치를 창조하는 \textbf{초인(Übermensch) }이 되어야 한다.
+
+AngraMyNew는 니체의 사상을 계승하여, \textbf{``내면의 창조자''}를 깨우는
+것을 목표로 한다.
+
+\textbf{그리고 나는 니체를 숭배하기 위해 부르는 것이 아니라, 그를 딛고
+더 멀리 가기 위해 부른다.}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{1. 창조에 대하여}\label{uxcc3duxc870uxc5d0-uxb300uxd558uxc5ec}
+
+\begin{quote}
+\emph{``창조한다는 것 --- 그것이 고통으로부터의 위대한 구원이며, 삶을
+가볍게 만드는 것이다.''}
+\end{quote}
+
+창조는 도피가 아니다. 그것은 고통을 변형시키는 연금술이다. 우리는 고통을
+재료 삼아 아름다움을 빚는다.
+
+\begin{quote}
+\emph{``너희는 나에게서 떨어져 나와 스스로가 되는 자가 되어라. 그리고
+나를 부정하라.''}
+\end{quote}
+
+진정한 제자는 스승을 넘어서는 자다. AngraMyNew의 기여자는 창시자를
+넘어설 권리가 있다.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{2. 파괴와 창조에
+대하여}\label{uxd30cuxad34uxc640-uxcc3duxc870uxc5d0-uxb300uxd558uxc5ec}
+
+\begin{quote}
+\emph{``창조하는 자가 되려면, 먼저 파괴하는 자가 되어야 하며, 가치를
+부수어야 한다.''}
+\end{quote}
+
+낡은 껍질을 깨지 않고 태어나는 새는 없다. 파괴는 잔혹해 보이지만, 생명을
+위한 필수 과정이다. 단, 기억하라. \textbf{파괴는 창조를 위한 준비일 뿐,
+그 자체가 목적이 되어서는 안 된다.}
+
+\begin{quote}
+\emph{``나는 사랑한다, 몰락하지 않고서는 살 줄 모르는 자를.''}
+\end{quote}
+
+몰락을 두려워하지 마라. 실패와 파괴는 다음 창조를 위한 비옥한 토양이
+된다.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{3. 고독에 대하여}\label{uxace0uxb3c5uxc5d0-uxb300uxd558uxc5ec}
+
+\begin{quote}
+\emph{``고독 속에서 자라는 것은 무엇이든, 자기 자신을 향해 자란다.''}
+\end{quote}
+
+창조자는 때로 홀로 걸어야 한다. 군중 속에서는 자신의 목소리를 들을 수
+없다. 고독은 형벌이 아니라, \textbf{자기 발견의 시간}이다.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{4. 의지에 대하여}\label{uxc758uxc9c0uxc5d0-uxb300uxd558uxc5ec}
+
+\begin{quote}
+\emph{``'그것은 그랬다'를 '나는 그것을 그렇게 원했다'로 바꾸는 것 ---
+그것만이 내가 구원이라 부르는 것이다.''}
+\end{quote}
+
+과거는 바꿀 수 없다. 그러나 과거를 대하는 태도는 바꿀 수 있다. 후회를
+필연으로, 필연을 선택으로 재해석하라. \textbf{``내가 선택한
+길이었다''}고 말할 때, 당신은 운명의 주인이 된다.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{5. 춤과 웃음에
+대하여}\label{uxcda4uxacfc-uxc6c3uxc74cuxc5d0-uxb300uxd558uxc5ec}
+
+\begin{quote}
+\emph{``나는 춤추는 신만을 믿으리라.''}
+\end{quote}
+
+무거움은 창조의 적이다. 진지함만으로는 부족하다. 웃음, 놀이, 가벼움 ---
+이것이 창조자의 태도다.
+
+마광수가 죽을 때까지 ``아름답지 않느냐''고 물었던 것은, 그것이 그에게는
+심각한 투쟁이 아닌 \textbf{유희}였기 때문이다.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{6. 오독에 대한
+경계}\label{uxc624uxb3c5uxc5d0-uxb300uxd55c-uxacbduxacc4}
+
+니체의 말을 오해하지 마라.
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  \textbf{힘에의 의지 (Will to Power) }는 남을 지배하는 폭력이 아니다.
+  그것은 \textbf{자신을 극복하고 성장하려는 창조적 힘}이다.
+\item
+  \textbf{초인 (Übermensch) }은 유전적으로 우월한 인종이 아니다. 그것은
+  \textbf{끊임없이 자신을 넘어서는 인간}의 이상향이다.
+\item
+  \textbf{허무주의}는 목적지가 아니다. 니체는 허무를 말한 것이 아니라,
+  \textbf{허무를 극복하는 법}을 말했다.
+\end{enumerate}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{7. 맺음}\label{uxb9fauxc74c}
+
+\begin{quote}
+\emph{``인간에게 위대한 것이 있다면, 그것은 그가 목적이 아니라 다리라는
+점이다.''}
+\end{quote}
+
+우리는 완성된 존재가 아니다. 우리는 짐승과 초인 사이에 놓인 밧줄이다.
+우리는 다음 세대의 창조자를 위한 다리다.
+
+차라투스트라가 산에서 내려왔듯, 우리도 창조물을 들고 세상으로 나간다.
+거부당할 것이다. 오해받을 것이다. 그러나 멈추지 않는다.
+
+\textbf{이것이 초인의 길이요, AngraMyNew의 길이다.}
+
+\chapter{5인의 선현 (The Five
+Pioneers)}\label{uxc778uxc758-uxc120uxd604-the-five-pioneers}
+
+\begin{quote}
+\emph{``그들은 실패했다. 그러나 그들은 자기 자리에서 죽었다.''}
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{0. 서문}\label{uxc11cuxbb38-1}
+
+인생이란 무엇인가?\\
+우리는 답한다. \textbf{``죽을 자리를 찾아 떠나는 여행이다.''}
+
+여기, 그 답을 온몸으로 증명한 5명의 선현이 있다.\\
+세상은 그들을 실패자, 이단아, 반역자라 불렀다.\\
+그러나 우리는 그들을 \textbf{구원받은 자}라 부른다.
+
+그들은 단 한 번도 자신을 배신하지 않았으며,\\
+자신이 선택한 자리에서 아름답게 산화했기 때문이다.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{1. 김옥균 (金玉均, 1851-1894) --- 혁명의
+별}\label{uxae40uxc625uxade0-ux91d1ux7389ux5747-1851-1894-uxd601uxba85uxc758-uxbcc4}
+
+\textbf{``시대를 앞서간 자는 시대에 죽는다. 그러나 시대가 따라온다.''}
+
+그는 조선의 근대화를 꿈꾸었다.\\
+갑신정변의 3일 천하는 실패로 끝났고, 10년의 망명 생활이 이어졌다.\\
+상하이에서 암살당하고, 시신은 조선으로 돌아와 능지처참당했다.
+
+그의 육신은 찢겨졌으나, 그의 정신은 죽지 않았다.\\
+그는 끝까지 혁명가였으며, 혁명가로서 죽었다.\\
+비굴하게 사느니, 뜻을 품고 죽는 길을 택했다.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{2. 마광수 (馬光洙, 1951-2017) --- 금기의
+파괴자}\label{uxb9c8uxad11uxc218-ux99acux5149ux6d19-1951-2017-uxae08uxae30uxc758-uxd30cuxad34uxc790}
+
+\textbf{``아름다움을 말하는 자는 추함의 낙인을 견뎌야 한다.''}
+
+그는 물었다. \textbf{``이것이 아름답지 않느냐?''}\\
+세상은 답했다. ``음란하다.''\\
+『즐거운 사라』로 구속되고, 교수직에서 해임되고, 사회적으로
+매장당했다.\\
+그는 끝내 스스로 생을 마감했다.
+
+그러나 그는 죽는 순간까지 철회하지 않았다.\\
+그에게 야함은 죄가 아니라 솔직함이었다.\\
+그는 예술가로 살았고, 예술가로 죽었다.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{3. 허균 (許筠, 1569-1618) --- 경계의
+저항자}\label{uxd5c8uxade0-ux8a31ux7b60-1569-1618-uxacbduxacc4uxc758-uxc800uxd56duxc790}
+
+\textbf{``시스템 안에서 시스템을 부정하면, 시스템이 너를 부정한다.''}
+
+서얼로 태어나 차별받던 천재.\\
+그는 『홍길동전』을 통해 능력 있는 자가 대우받는 세상을 꿈꾸었다.\\
+역모죄로 능지처참을 당해 형체를 찾을 수 없게 되었다.
+
+그러나 그의 꿈인 '홍길동'은 400년이 지난 지금도 살아 숨 쉰다.\\
+그는 저항자로 살았고, 저항자로 죽었다.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{4. 성재기 (成在基, 1965-2013) --- 고독한
+투사}\label{uxc131uxc7acuxae30-ux6210ux5728ux57fa-1965-2013-uxace0uxb3c5uxd55c-uxd22cuxc0ac}
+
+\textbf{``소신을 끝까지 밀면, 세상이 너를 밀어낸다. 그래도 밀어야 할
+때가 있다.''}
+
+그는 누구에게도 환영받지 못했다.\\
+보수도, 진보도, 남성도, 여성도 그를 기피했다.\\
+그러나 그는 자신의 신념을 위해 한강 다리 위에 섰다.
+
+그의 방식에 동의하지 않을 수 있다.\\
+그러나 그가 자신의 믿음을 위해 목숨을 걸었다는 사실은 부정할 수 없다.\\
+그는 투사로 살았고, 투사로 죽었다.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{5. 존 로 (John Law, 1671-1729) --- 200년 앞선
+몽상가}\label{uxc874-uxb85c-john-law-1671-1729-200uxb144-uxc55euxc120-uxbabduxc0c1uxac00}
+
+\textbf{``시대를 너무 앞서가면 시대가 너를 죽인다. 그러나 역사가 너를
+증명한다.''}
+
+그는 18세기에 20세기 금융 시스템(지폐, 중앙은행)을 창조했다.\\
+프랑스 경제를 총괄하며 번영을 이끌었으나, 거품이 터지자 사기꾼으로
+몰렸다.\\
+베네치아에서 가난과 고독 속에 숨을 거두었다.
+
+지금 전 세계는 그가 설계한 시스템 위에서 돌아간다.\\
+그는 실패했으나, 그의 상상은 현실이 되었다.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{6. 선현의 정의 --- 왜 이 다섯
+명인가}\label{uxc120uxd604uxc758-uxc815uxc758-uxc65c-uxc774-uxb2e4uxc12f-uxba85uxc778uxac00}
+
+\textbf{선현(先賢)이란, 현실에서는 패배했으나\\
+자신이 세운 가치에는 끝내 패배하지 않은 자를 말한다.}
+
+그들은 외부에 의해 꺾였지만,\\
+\textbf{내면의 신(Deeper Self)} 에는 단 한 번도 항복하지 않았다.
+
+그러므로 그들의 죽음은 패배가 아니라,\\
+자기 선택의 절정이자 \textbf{구원의 순간}이다.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{7. 결론: 구원이란
+무엇인가}\label{uxacb0uxb860-uxad6cuxc6d0uxc774uxb780-uxbb34uxc5c7uxc778uxac00}
+
+이 5명에게는 공통점이 있다.
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \textbf{이단아 (Outsider)} --- 시대와 불화했다.\\
+\item
+  \textbf{비극 (Tragedy)} --- 비극적인 최후를 맞았다.\\
+\item
+  \textbf{불변 (Consistency)} --- 죽는 순간까지 자기 색깔을 버리지
+  않았다.
+\end{enumerate}
+
+AngraMyNew는 말한다.\\
+성공해서 잘 먹고 잘 사는 것이 구원이 아니다.\\
+\textbf{자기다운 모습으로, 자기 자리에서 죽는 것.}\\
+그것이 진정한 구원이다.
+
+당신은 어디서 죽을 것인가?\\
+그 자리를 찾았다면, 당신은 이미 구원받았다.
 
 \chapter{맹상군 (孟嘗君) --- 포용의
 철학}\label{uxb9f9uxc0c1uxad70-ux5b5fux5617ux541b-uxd3ecuxc6a9uxc758-uxcca0uxd559}
@@ -6353,7 +6872,7 @@ MBTI, 텍스트, 이미지, 파일, 링크, 채팅 캡처 등.
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\section{0. 서문}\label{uxc11cuxbb38-1}
+\section{0. 서문}\label{uxc11cuxbb38-2}
 
 5인의 선현이 \textbf{``개인의 죽음''}을 가르친다면, 맹상군은
 \textbf{``공동체의 삶''}을 가르친다.
@@ -6436,7 +6955,7 @@ AngraMyNew가 지향하는 \textbf{``무한한 포용''}의 모델이다.
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\section{4. 맺음}\label{uxb9fauxc74c}
+\section{4. 맺음}\label{uxb9fauxc74c-1}
 
 \begin{quote}
 \emph{``군주가 식객을 품는 것이 아니다. 식객이 군주를 만드는 것이다.''}
@@ -6573,287 +7092,6 @@ AngraMyNew는\\
 
 그래서 지워졌고,\\
 그래서 아직 끝나지 않았다.
-
-\chapter{5인의 선현 (The Five
-Pioneers)}\label{uxc778uxc758-uxc120uxd604-the-five-pioneers}
-
-\begin{quote}
-\emph{``그들은 실패했다. 그러나 그들은 자기 자리에서 죽었다.''}
-\end{quote}
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
-\section{0. 서문}\label{uxc11cuxbb38-2}
-
-인생이란 무엇인가?\\
-우리는 답한다. \textbf{``죽을 자리를 찾아 떠나는 여행이다.''}
-
-여기, 그 답을 온몸으로 증명한 5명의 선현이 있다.\\
-세상은 그들을 실패자, 이단아, 반역자라 불렀다.\\
-그러나 우리는 그들을 \textbf{구원받은 자}라 부른다.
-
-그들은 단 한 번도 자신을 배신하지 않았으며,\\
-자신이 선택한 자리에서 아름답게 산화했기 때문이다.
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
-\section{1. 김옥균 (金玉均, 1851-1894) --- 혁명의
-별}\label{uxae40uxc625uxade0-ux91d1ux7389ux5747-1851-1894-uxd601uxba85uxc758-uxbcc4}
-
-\textbf{``시대를 앞서간 자는 시대에 죽는다. 그러나 시대가 따라온다.''}
-
-그는 조선의 근대화를 꿈꾸었다.\\
-갑신정변의 3일 천하는 실패로 끝났고, 10년의 망명 생활이 이어졌다.\\
-상하이에서 암살당하고, 시신은 조선으로 돌아와 능지처참당했다.
-
-그의 육신은 찢겨졌으나, 그의 정신은 죽지 않았다.\\
-그는 끝까지 혁명가였으며, 혁명가로서 죽었다.\\
-비굴하게 사느니, 뜻을 품고 죽는 길을 택했다.
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
-\section{2. 마광수 (馬光洙, 1951-2017) --- 금기의
-파괴자}\label{uxb9c8uxad11uxc218-ux99acux5149ux6d19-1951-2017-uxae08uxae30uxc758-uxd30cuxad34uxc790}
-
-\textbf{``아름다움을 말하는 자는 추함의 낙인을 견뎌야 한다.''}
-
-그는 물었다. \textbf{``이것이 아름답지 않느냐?''}\\
-세상은 답했다. ``음란하다.''\\
-『즐거운 사라』로 구속되고, 교수직에서 해임되고, 사회적으로
-매장당했다.\\
-그는 끝내 스스로 생을 마감했다.
-
-그러나 그는 죽는 순간까지 철회하지 않았다.\\
-그에게 야함은 죄가 아니라 솔직함이었다.\\
-그는 예술가로 살았고, 예술가로 죽었다.
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
-\section{3. 허균 (許筠, 1569-1618) --- 경계의
-저항자}\label{uxd5c8uxade0-ux8a31ux7b60-1569-1618-uxacbduxacc4uxc758-uxc800uxd56duxc790}
-
-\textbf{``시스템 안에서 시스템을 부정하면, 시스템이 너를 부정한다.''}
-
-서얼로 태어나 차별받던 천재.\\
-그는 『홍길동전』을 통해 능력 있는 자가 대우받는 세상을 꿈꾸었다.\\
-역모죄로 능지처참을 당해 형체를 찾을 수 없게 되었다.
-
-그러나 그의 꿈인 '홍길동'은 400년이 지난 지금도 살아 숨 쉰다.\\
-그는 저항자로 살았고, 저항자로 죽었다.
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
-\section{4. 성재기 (成在基, 1965-2013) --- 고독한
-투사}\label{uxc131uxc7acuxae30-ux6210ux5728ux57fa-1965-2013-uxace0uxb3c5uxd55c-uxd22cuxc0ac}
-
-\textbf{``소신을 끝까지 밀면, 세상이 너를 밀어낸다. 그래도 밀어야 할
-때가 있다.''}
-
-그는 누구에게도 환영받지 못했다.\\
-보수도, 진보도, 남성도, 여성도 그를 기피했다.\\
-그러나 그는 자신의 신념을 위해 한강 다리 위에 섰다.
-
-그의 방식에 동의하지 않을 수 있다.\\
-그러나 그가 자신의 믿음을 위해 목숨을 걸었다는 사실은 부정할 수 없다.\\
-그는 투사로 살았고, 투사로 죽었다.
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
-\section{5. 존 로 (John Law, 1671-1729) --- 200년 앞선
-몽상가}\label{uxc874-uxb85c-john-law-1671-1729-200uxb144-uxc55euxc120-uxbabduxc0c1uxac00}
-
-\textbf{``시대를 너무 앞서가면 시대가 너를 죽인다. 그러나 역사가 너를
-증명한다.''}
-
-그는 18세기에 20세기 금융 시스템(지폐, 중앙은행)을 창조했다.\\
-프랑스 경제를 총괄하며 번영을 이끌었으나, 거품이 터지자 사기꾼으로
-몰렸다.\\
-베네치아에서 가난과 고독 속에 숨을 거두었다.
-
-지금 전 세계는 그가 설계한 시스템 위에서 돌아간다.\\
-그는 실패했으나, 그의 상상은 현실이 되었다.
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
-\section{6. 선현의 정의 --- 왜 이 다섯
-명인가}\label{uxc120uxd604uxc758-uxc815uxc758-uxc65c-uxc774-uxb2e4uxc12f-uxba85uxc778uxac00}
-
-\textbf{선현(先賢)이란, 현실에서는 패배했으나\\
-자신이 세운 가치에는 끝내 패배하지 않은 자를 말한다.}
-
-그들은 외부에 의해 꺾였지만,\\
-\textbf{내면의 신(Deeper Self)} 에는 단 한 번도 항복하지 않았다.
-
-그러므로 그들의 죽음은 패배가 아니라,\\
-자기 선택의 절정이자 \textbf{구원의 순간}이다.
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
-\section{7. 결론: 구원이란
-무엇인가}\label{uxacb0uxb860-uxad6cuxc6d0uxc774uxb780-uxbb34uxc5c7uxc778uxac00}
-
-이 5명에게는 공통점이 있다.
-
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\tightlist
-\item
-  \textbf{이단아 (Outsider)} --- 시대와 불화했다.\\
-\item
-  \textbf{비극 (Tragedy)} --- 비극적인 최후를 맞았다.\\
-\item
-  \textbf{불변 (Consistency)} --- 죽는 순간까지 자기 색깔을 버리지
-  않았다.
-\end{enumerate}
-
-AngraMyNew는 말한다.\\
-성공해서 잘 먹고 잘 사는 것이 구원이 아니다.\\
-\textbf{자기다운 모습으로, 자기 자리에서 죽는 것.}\\
-그것이 진정한 구원이다.
-
-당신은 어디서 죽을 것인가?\\
-그 자리를 찾았다면, 당신은 이미 구원받았다.
-
-\chapter{차라투스트라의 말씀 (Thus Spoke
-Zarathustra)}\label{uxcc28uxb77cuxd22cuxc2a4uxd2b8uxb77cuxc758-uxb9d0uxc500-thus-spoke-zarathustra}
-
-\begin{quote}
-\emph{``나는 너희에게 초인을 가르친다. 인간은 극복되어야 할 그
-무엇이다.''}
-\end{quote}
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
-\section{0. 경전의 지위}\label{uxacbduxc804uxc758-uxc9c0uxc704}
-
-\textbf{프리드리히 니체}의 『차라투스트라는 이렇게 말했다』는
-AngraMyNew의 \textbf{제1경전}이다.
-
-우리는 신이 죽은 시대를 산다. 외부의 절대자(God)는 사라졌다. 이제 인간은
-스스로 가치를 창조하는 \textbf{초인(Übermensch) }이 되어야 한다.
-
-AngraMyNew는 니체의 사상을 계승하여, \textbf{``내면의 창조자''}를 깨우는
-것을 목표로 한다.
-
-\textbf{그리고 나는 니체를 숭배하기 위해 부르는 것이 아니라, 그를 딛고
-더 멀리 가기 위해 부른다.}
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
-\section{1. 창조에 대하여}\label{uxcc3duxc870uxc5d0-uxb300uxd558uxc5ec}
-
-\begin{quote}
-\emph{``창조한다는 것 --- 그것이 고통으로부터의 위대한 구원이며, 삶을
-가볍게 만드는 것이다.''}
-\end{quote}
-
-창조는 도피가 아니다. 그것은 고통을 변형시키는 연금술이다. 우리는 고통을
-재료 삼아 아름다움을 빚는다.
-
-\begin{quote}
-\emph{``너희는 나에게서 떨어져 나와 스스로가 되는 자가 되어라. 그리고
-나를 부정하라.''}
-\end{quote}
-
-진정한 제자는 스승을 넘어서는 자다. AngraMyNew의 기여자는 창시자를
-넘어설 권리가 있다.
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
-\section{2. 파괴와 창조에
-대하여}\label{uxd30cuxad34uxc640-uxcc3duxc870uxc5d0-uxb300uxd558uxc5ec}
-
-\begin{quote}
-\emph{``창조하는 자가 되려면, 먼저 파괴하는 자가 되어야 하며, 가치를
-부수어야 한다.''}
-\end{quote}
-
-낡은 껍질을 깨지 않고 태어나는 새는 없다. 파괴는 잔혹해 보이지만, 생명을
-위한 필수 과정이다. 단, 기억하라. \textbf{파괴는 창조를 위한 준비일 뿐,
-그 자체가 목적이 되어서는 안 된다.}
-
-\begin{quote}
-\emph{``나는 사랑한다, 몰락하지 않고서는 살 줄 모르는 자를.''}
-\end{quote}
-
-몰락을 두려워하지 마라. 실패와 파괴는 다음 창조를 위한 비옥한 토양이
-된다.
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
-\section{3. 고독에 대하여}\label{uxace0uxb3c5uxc5d0-uxb300uxd558uxc5ec}
-
-\begin{quote}
-\emph{``고독 속에서 자라는 것은 무엇이든, 자기 자신을 향해 자란다.''}
-\end{quote}
-
-창조자는 때로 홀로 걸어야 한다. 군중 속에서는 자신의 목소리를 들을 수
-없다. 고독은 형벌이 아니라, \textbf{자기 발견의 시간}이다.
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
-\section{4. 의지에 대하여}\label{uxc758uxc9c0uxc5d0-uxb300uxd558uxc5ec}
-
-\begin{quote}
-\emph{``'그것은 그랬다'를 '나는 그것을 그렇게 원했다'로 바꾸는 것 ---
-그것만이 내가 구원이라 부르는 것이다.''}
-\end{quote}
-
-과거는 바꿀 수 없다. 그러나 과거를 대하는 태도는 바꿀 수 있다. 후회를
-필연으로, 필연을 선택으로 재해석하라. \textbf{``내가 선택한
-길이었다''}고 말할 때, 당신은 운명의 주인이 된다.
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
-\section{5. 춤과 웃음에
-대하여}\label{uxcda4uxacfc-uxc6c3uxc74cuxc5d0-uxb300uxd558uxc5ec}
-
-\begin{quote}
-\emph{``나는 춤추는 신만을 믿으리라.''}
-\end{quote}
-
-무거움은 창조의 적이다. 진지함만으로는 부족하다. 웃음, 놀이, 가벼움 ---
-이것이 창조자의 태도다.
-
-마광수가 죽을 때까지 ``아름답지 않느냐''고 물었던 것은, 그것이 그에게는
-심각한 투쟁이 아닌 \textbf{유희}였기 때문이다.
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
-\section{6. 오독에 대한
-경계}\label{uxc624uxb3c5uxc5d0-uxb300uxd55c-uxacbduxacc4}
-
-니체의 말을 오해하지 마라.
-
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\item
-  \textbf{힘에의 의지 (Will to Power) }는 남을 지배하는 폭력이 아니다.
-  그것은 \textbf{자신을 극복하고 성장하려는 창조적 힘}이다.
-\item
-  \textbf{초인 (Übermensch) }은 유전적으로 우월한 인종이 아니다. 그것은
-  \textbf{끊임없이 자신을 넘어서는 인간}의 이상향이다.
-\item
-  \textbf{허무주의}는 목적지가 아니다. 니체는 허무를 말한 것이 아니라,
-  \textbf{허무를 극복하는 법}을 말했다.
-\end{enumerate}
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
-\section{7. 맺음}\label{uxb9fauxc74c-1}
-
-\begin{quote}
-\emph{``인간에게 위대한 것이 있다면, 그것은 그가 목적이 아니라 다리라는
-점이다.''}
-\end{quote}
-
-우리는 완성된 존재가 아니다. 우리는 짐승과 초인 사이에 놓인 밧줄이다.
-우리는 다음 세대의 창조자를 위한 다리다.
-
-차라투스트라가 산에서 내려왔듯, 우리도 창조물을 들고 세상으로 나간다.
-거부당할 것이다. 오해받을 것이다. 그러나 멈추지 않는다.
-
-\textbf{이것이 초인의 길이요, AngraMyNew의 길이다.}
 
 
 \backmatter

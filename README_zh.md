@@ -136,6 +136,7 @@ AngraMyNew始于破坏，但目标是创造。
     - 📄 [003_one_pattern.md](art/003_one_pattern.md)
     - 📄 [004_principia_geometry.md](art/004_principia_geometry.md)
     - 📄 [005_hangul_two_states.md](art/005_hangul_two_states.md)
+    - 📄 [006_feynman_diagram.md](art/006_feynman_diagram.md)
 - 🧠 **[fravashi/](fravashi/)** — Fravashi 原型解析引擎
     - 📄 [001_internal_manual.md](fravashi/001_internal_manual.md)
     - 📄 [002_gpt_prompt.md](fravashi/002_gpt_prompt.md)

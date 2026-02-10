@@ -86,6 +86,8 @@ format: pdf
 
 {{< include ../art/005_hangul_two_states.md >}}
 
+{{< include ../art/006_feynman_diagram.md >}}
+
 \newpage
 
 # Part III: Protocols {.unnumbered}
@@ -104,10 +106,10 @@ format: pdf
 
 # Part V: Scripture {.unnumbered}
 
-{{< include ../scripture/mengchangjun.md >}}
-
-{{< include ../scripture/na_hye_suk.md >}}
+{{< include ../scripture/zarathustra.md >}}
 
 {{< include ../scripture/pioneers.md >}}
 
-{{< include ../scripture/zarathustra.md >}}
+{{< include ../scripture/mengchangjun.md >}}
+
+{{< include ../scripture/na_hye_suk.md >}}

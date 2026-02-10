@@ -138,6 +138,7 @@ AngraMyNew는 파괴에서 출발하지만, 목적은 창조에 있다.
     - 📄 [003_one_pattern.md](art/003_one_pattern.md)
     - 📄 [004_principia_geometry.md](art/004_principia_geometry.md)
     - 📄 [005_hangul_two_states.md](art/005_hangul_two_states.md)
+    - 📄 [006_feynman_diagram.md](art/006_feynman_diagram.md)
 - 🧠 **[fravashi/](fravashi/)** — Fravashi 원형 해석 엔진
     - 📄 [001_internal_manual.md](fravashi/001_internal_manual.md)
     - 📄 [002_gpt_prompt.md](fravashi/002_gpt_prompt.md)
