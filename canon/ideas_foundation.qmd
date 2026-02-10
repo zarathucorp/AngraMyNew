@@ -1,0 +1,7 @@
+# 기원과 공리 {.unnumbered}
+
+{{< include ../ideas/000_origin.md >}}
+
+{{< include ../ideas/001_axioms.md >}}
+
+{{< include ../ideas/002_principles_of_creation.md >}}

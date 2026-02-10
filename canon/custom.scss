@@ -1,0 +1,55 @@
+/*-- scss:defaults --*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;600;700&display=swap');
+
+$font-family-sans-serif: 'Roboto Slab', serif;
+$font-family-monospace: 'NanumGothicCoding', monospace;
+
+$body-bg: #FCFCFC;
+$body-color: #1A1A1A;
+
+$primary: #4A774A;
+$link-color: #4A774A;
+
+$navbar-bg: #1E3C1E;
+$navbar-fg: #ffffff;
+$sidebar-bg: #F9FAED;
+
+$toc-active-border: #4A774A;
+$toc-color: #1A1A1A;
+
+/*-- scss:rules --*/
+.navbar {
+  background-color: #1E3C1E !important;
+  font-family: 'Roboto Slab', serif;
+}
+
+.navbar .navbar-brand {
+  font-weight: bold;
+  text-shadow: 1px 2px 3px #bebebe;
+}
+
+h1, h2, h3 {
+  color: #1E3C1E;
+}
+
+h4, h5 {
+  font-weight: 600;
+  color: #1E3C1E;
+}
+
+.sidebar nav[role=doc-toc] ul > li > a.active {
+  border-left-color: #4A774A;
+}
+
+table thead th {
+  background-color: #DDEDDD;
+  font-weight: bold;
+}
+
+table tbody tr:hover {
+  background-color: #E3F0E3;
+}
+
+blockquote {
+  border-left: 4px solid #4A774A;
+}

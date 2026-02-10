@@ -1,0 +1,13 @@
+# 인식론과 과학 {.unnumbered}
+
+{{< include ../ideas/016_mental_lhc.md >}}
+
+{{< include ../ideas/017_when_is_a_proof_beautiful.md >}}
+
+{{< include ../ideas/018_why_strange_systems_persist.md >}}
+
+{{< include ../ideas/019_causality_question.md >}}
+
+{{< include ../ideas/020_causality_quantum.md >}}
+
+{{< include ../ideas/022_age_of_malice.md >}}

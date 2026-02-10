@@ -96,7 +96,7 @@ AngraMyNew始于破坏，但目标是创造。
 
 ## 6. 结构
 
-- 📂 **[ideas/](ideas/)** — 哲学、思想、宣言（27篇）
+- 📂 **[ideas/](ideas/)** — 哲学、思想、宣言（28篇）
     - **── 起源／公理 (Foundation) ──**
     - 📄 [000_origin.md](ideas/000_origin.md) — AngraMyNew的起源
     - 📄 [001_axioms.md](ideas/001_axioms.md) — 三大公理
@@ -130,6 +130,7 @@ AngraMyNew始于破坏，但目标是创造。
     - 📄 [007_case_study_unfinished_theorem.md](ideas/007_case_study_unfinished_theorem.md) — 未完成的定理
     - 📄 [015_case_study_the_gravity_of_outlaws.md](ideas/015_case_study_the_gravity_of_outlaws.md) — 征税的实战模型
     - 📄 [021_case_study_dawn_money.md](ideas/021_case_study_dawn_money.md) — DAWN — Money
+    - 📄 [027_case_study_perfume.md](ideas/027_case_study_perfume.md) — 香水：刀刃朝外的男人
 - 🎨 **[art/](art/)** — 美的案例
     - 📄 [001_galois_quintic.md](art/001_galois_quintic.md)
     - 📄 [002_general_relativity.md](art/002_general_relativity.md)
@@ -150,8 +151,7 @@ AngraMyNew始于破坏，但目标是创造。
     - 📄 [pioneers.md](scripture/pioneers.md)
     - 📄 [mengchangjun.md](scripture/mengchangjun.md)
     - 📄 [na_hye_suk.md](scripture/na_hye_suk.md)
-- 📚 **[canon/](canon/)** — PDF书籍生成 (Quarto)
-    - 📄 [book.qmd](canon/book.qmd) — 主文档 (包含所有md)
+- 📚 **[canon/](canon/)** — Quarto Book (HTML · PDF · EPUB)
     - 📄 [_quarto.yml](canon/_quarto.yml) — 渲染配置
 - 📝 **[CHANGELOG.md](CHANGELOG.md)** — 演化记录
 - 👥 **[contributors.md](contributors.md)** — 创造者名单

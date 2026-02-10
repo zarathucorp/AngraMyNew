@@ -98,7 +98,7 @@ AngraMyNew는 파괴에서 출발하지만, 목적은 창조에 있다.
 
 ## 6. 구조
 
-- 📂 **[ideas/](ideas/)** — 철학, 사상, 선언 (27편)
+- 📂 **[ideas/](ideas/)** — 철학, 사상, 선언 (28편)
     - **── 기원/공리 (Foundation) ──**
     - 📄 [000_origin.md](ideas/000_origin.md) — AngraMyNew의 기원
     - 📄 [001_axioms.md](ideas/001_axioms.md) — 3대 공리
@@ -132,6 +132,7 @@ AngraMyNew는 파괴에서 출발하지만, 목적은 창조에 있다.
     - 📄 [007_case_study_unfinished_theorem.md](ideas/007_case_study_unfinished_theorem.md) — 미완의 정리
     - 📄 [015_case_study_the_gravity_of_outlaws.md](ideas/015_case_study_the_gravity_of_outlaws.md) — 징세의 실전 모델
     - 📄 [021_case_study_dawn_money.md](ideas/021_case_study_dawn_money.md) — DAWN — Money
+    - 📄 [027_case_study_perfume.md](ideas/027_case_study_perfume.md) — 향수: 칼날이 밖을 향한 남자
 - 🎨 **[art/](art/)** — 아름다움의 사례
     - 📄 [001_galois_quintic.md](art/001_galois_quintic.md)
     - 📄 [002_general_relativity.md](art/002_general_relativity.md)
@@ -152,8 +153,7 @@ AngraMyNew는 파괴에서 출발하지만, 목적은 창조에 있다.
     - 📄 [pioneers.md](scripture/pioneers.md)
     - 📄 [mengchangjun.md](scripture/mengchangjun.md)
     - 📄 [na_hye_suk.md](scripture/na_hye_suk.md)
-- 📚 **[canon/](canon/)** — PDF 책 생성 (Quarto)
-    - 📄 [book.qmd](canon/book.qmd) — 메인 문서 (모든 md include)
+- 📚 **[canon/](canon/)** — Quarto Book (HTML · PDF · EPUB)
     - 📄 [_quarto.yml](canon/_quarto.yml) — 렌더링 설정
 - 📝 **[CHANGELOG.md](CHANGELOG.md)** — 진화 기록
 - 👥 **[contributors.md](contributors.md)** — 창조자 명단

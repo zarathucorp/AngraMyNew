@@ -97,7 +97,7 @@ Mengchangjun's three thousand retainers were not chosen for usefulness. A rooste
 
 ## 6. Structure
 
-- 📂 **[ideas/](ideas/)** — Philosophy, doctrine, declarations (27 essays)
+- 📂 **[ideas/](ideas/)** — Philosophy, doctrine, declarations (28 essays)
     - **── Foundation ──**
     - 📄 [000_origin.md](ideas/000_origin.md) — Origin of AngraMyNew
     - 📄 [001_axioms.md](ideas/001_axioms.md) — 3 Axioms
@@ -131,6 +131,7 @@ Mengchangjun's three thousand retainers were not chosen for usefulness. A rooste
     - 📄 [007_case_study_unfinished_theorem.md](ideas/007_case_study_unfinished_theorem.md) — The Unfinished Theorem
     - 📄 [015_case_study_the_gravity_of_outlaws.md](ideas/015_case_study_the_gravity_of_outlaws.md) — The Gravity of Outlaws
     - 📄 [021_case_study_dawn_money.md](ideas/021_case_study_dawn_money.md) — DAWN — Money
+    - 📄 [027_case_study_perfume.md](ideas/027_case_study_perfume.md) — Perfume: The Man Whose Blade Faced Outward
 - 🎨 **[art/](art/)** — Examples of beauty
     - 📄 [001_galois_quintic.md](art/001_galois_quintic.md)
     - 📄 [002_general_relativity.md](art/002_general_relativity.md)
@@ -151,8 +152,7 @@ Mengchangjun's three thousand retainers were not chosen for usefulness. A rooste
     - 📄 [pioneers.md](scripture/pioneers.md)
     - 📄 [mengchangjun.md](scripture/mengchangjun.md)
     - 📄 [na_hye_suk.md](scripture/na_hye_suk.md)
-- 📚 **[canon/](canon/)** — PDF book generation (Quarto)
-    - 📄 [book.qmd](canon/book.qmd) — Main document (includes all md)
+- 📚 **[canon/](canon/)** — Quarto Book (HTML · PDF · EPUB)
     - 📄 [_quarto.yml](canon/_quarto.yml) — Rendering config
 - 📝 **[CHANGELOG.md](CHANGELOG.md)** — Evolution record
 - 👥 **[contributors.md](contributors.md)** — List of creators

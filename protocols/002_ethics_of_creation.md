@@ -1,4 +1,4 @@
-# 002 — 창조적 대속 윤리 (Ethics of Creative Atonement)
+# 창조적 대속 윤리 (Ethics of Creative Atonement)
 
 > _"나는 빚진 자다. 그러므로 나는 창조한다. 나의 창조가 끝나는 순간, 나의 빚은 갚아진다."_
 

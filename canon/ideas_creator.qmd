@@ -1,0 +1,11 @@
+# 창조자론 {.unnumbered}
+
+{{< include ../ideas/003_beyond_usefulness.md >}}
+
+{{< include ../ideas/004_artist_within.md >}}
+
+{{< include ../ideas/008_seduction_of_creation.md >}}
+
+{{< include ../ideas/009_rage_against_definition.md >}}
+
+{{< include ../ideas/010_predators_duty.md >}}

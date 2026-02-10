@@ -1,0 +1,9 @@
+# 사례연구 {.unnumbered}
+
+{{< include ../ideas/007_case_study_unfinished_theorem.md >}}
+
+{{< include ../ideas/015_case_study_the_gravity_of_outlaws.md >}}
+
+{{< include ../ideas/021_case_study_dawn_money.md >}}
+
+{{< include ../ideas/027_case_study_perfume.md >}}

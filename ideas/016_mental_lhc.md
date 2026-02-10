@@ -1,4 +1,4 @@
-# 016 — AngraMyNew는 정신의 LHC다
+# AngraMyNew는 정신의 LHC다
 ## — 고에너지 정신 실험을 위한 메모
 
 AngraMyNew는 사상을 제공하지 않는다.  

@@ -1,0 +1,3 @@
+# Fravashi 원형 해석 엔진 {.unnumbered}
+
+{{< include ../fravashi/002_gpt_prompt.md >}}

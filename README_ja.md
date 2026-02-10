@@ -95,7 +95,7 @@ AngraMyNewは破壊から始まるが、その目的は創造にある。
 
 ## 6. 構造
 
-- 📂 **[ideas/](ideas/)** — 哲学・思想・宣言（27編）
+- 📂 **[ideas/](ideas/)** — 哲学・思想・宣言（28編）
     - **── 起源／公理 (Foundation) ──**
     - 📄 [000_origin.md](ideas/000_origin.md) — AngraMyNewの起源
     - 📄 [001_axioms.md](ideas/001_axioms.md) — 三大公理
@@ -129,6 +129,7 @@ AngraMyNewは破壊から始まるが、その目的は創造にある。
     - 📄 [007_case_study_unfinished_theorem.md](ideas/007_case_study_unfinished_theorem.md) — 未完の定理
     - 📄 [015_case_study_the_gravity_of_outlaws.md](ideas/015_case_study_the_gravity_of_outlaws.md) — 徴税の実戦モデル
     - 📄 [021_case_study_dawn_money.md](ideas/021_case_study_dawn_money.md) — DAWN — Money
+    - 📄 [027_case_study_perfume.md](ideas/027_case_study_perfume.md) — 香水：刃が外を向いた男
 - 🎨 **[art/](art/)** — 美の事例
     - 📄 [001_galois_quintic.md](art/001_galois_quintic.md)
     - 📄 [002_general_relativity.md](art/002_general_relativity.md)
@@ -149,8 +150,7 @@ AngraMyNewは破壊から始まるが、その目的は創造にある。
     - 📄 [pioneers.md](scripture/pioneers.md)
     - 📄 [mengchangjun.md](scripture/mengchangjun.md)
     - 📄 [na_hye_suk.md](scripture/na_hye_suk.md)
-- 📚 **[canon/](canon/)** — PDF書籍生成 (Quarto)
-    - 📄 [book.qmd](canon/book.qmd) — メインドキュメント (全md含む)
+- 📚 **[canon/](canon/)** — Quarto Book (HTML · PDF · EPUB)
     - 📄 [_quarto.yml](canon/_quarto.yml) — レンダリング設定
 - 📝 **[CHANGELOG.md](CHANGELOG.md)** — 進化記録
 - 👥 **[contributors.md](contributors.md)** — 創造者名簿

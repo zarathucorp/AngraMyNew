@@ -1,4 +1,4 @@
-# 002 — 창조의 원리 (Principles of Creation)
+# 창조의 원리 (Principles of Creation)
 
 > "부수는 자는 많다. 그러나 다시 짓는 자는 드물다."
 

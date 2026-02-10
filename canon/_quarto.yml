@@ -1,7 +1,56 @@
 project:
-  type: default
+  type: book
+  output-dir: _book
+
+book:
+  title: "AngraMyNew"
+  subtitle: "창조와 아름다움, 존재의 본질에 관한 탐구"
+  author: "Angra Collective"
+  date: today
+  repo-url: https://github.com/zarathucorp/AngraMyNew
+  repo-actions: [source]
+  chapters:
+    - index.qmd
+    - part: "Ideas — 철학, 사상, 선언"
+      chapters:
+        - ideas_foundation.qmd
+        - ideas_creator.qmd
+        - ideas_economics.qmd
+        - ideas_epistemology.qmd
+        - ideas_practice.qmd
+        - ideas_casestudies.qmd
+    - part: "Art — 아름다움의 사례"
+      chapters:
+        - art.qmd
+    - part: "Protocols — 실행 프로토콜"
+      chapters:
+        - protocols.qmd
+    - part: "Fravashi — 원형 해석 엔진"
+      chapters:
+        - fravashi.qmd
+    - part: "Scripture — 선현"
+      chapters:
+        - scripture.qmd
+
+comments:
+  giscus:
+    repo: zarathucorp/AngraMyNew
+    category: "General"
+    mapping: pathname
+    reactions-enabled: true
+    theme: light
+
+filters:
+  - resolve-links.lua
 
 format:
+  html:
+    theme:
+      - cosmo
+      - custom.scss
+    lang: ko
+    toc: true
+    toc-depth: 3
   pdf:
     documentclass: book
     classoption:
@@ -20,19 +69,17 @@ format:
       - left=1.2in
       - bottom=1in
     include-in-header:
-      - text: |
-          \usepackage{xeCJK}
-          \xeCJKsetup{CJKspace=true}
-          \setCJKmainfont{NanumGothic}
-          \setCJKsansfont{NanumGothicBold}
-          \setCJKmonofont{NanumGothicCoding}
-          \usepackage{setspace}
-          \onehalfspacing
-    keep-tex: true
+      text: |
+        \usepackage{xeCJK}
+        \xeCJKsetup{CJKspace=true}
+        \setCJKmainfont{NanumGothic}
+        \setCJKsansfont{NanumGothicBold}
+        \setCJKmonofont{NanumGothicCoding}
+        \usepackage{setspace}
+        \onehalfspacing
+  epub:
+    toc: true
+    toc-depth: 3
+    lang: ko
 
 bibliography: book.bib
-biblio-style: apalike
-
-metadata:
-  title: "AngraMyNew: The Art of Creation and Being"
-  author: "Angra Collective"

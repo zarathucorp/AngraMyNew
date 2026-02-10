@@ -1,0 +1,13 @@
+# 경제와 구조 {.unnumbered}
+
+{{< include ../ideas/006_aesthetic_nation.md >}}
+
+{{< include ../ideas/014_economics_of_beauty.md >}}
+
+{{< include ../ideas/023_successful_lens.md >}}
+
+{{< include ../ideas/024_when_critical_care_needs_witness.md >}}
+
+{{< include ../ideas/025_consumption_of_exempt.md >}}
+
+{{< include ../ideas/026_three_kingdoms_of_beauty.md >}}
