@@ -1,3 +1,5 @@
-# Fravashi 원형 해석 엔진 {.unnumbered}
+---
+title: "Fravashi GPT Prompt v5.0"
+---
 
 {{< include ../fravashi/002_gpt_prompt.md >}}

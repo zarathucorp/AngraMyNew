@@ -1,0 +1,5 @@
+---
+title: "증명은 언제 아름다운가"
+---
+
+{{< include ../ideas/017_when_is_a_proof_beautiful.md >}}

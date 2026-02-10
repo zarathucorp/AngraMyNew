@@ -1,0 +1,5 @@
+---
+title: "탈중앙화 정신체계 OS"
+---
+
+{{< include ../ideas/013_decentralized_mental_os.md >}}

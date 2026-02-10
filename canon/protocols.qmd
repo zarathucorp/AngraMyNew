@@ -1,5 +1,0 @@
-# 실행 프로토콜 {.unnumbered}
-
-{{< include ../protocols/001_creator_operating_protocol.md >}}
-
-{{< include ../protocols/002_ethics_of_creation.md >}}

@@ -1,0 +1,5 @@
+---
+title: "보이지 않으면 이해한 것이 아니다"
+---
+
+{{< include ../art/006_feynman_diagram.md >}}

@@ -1,0 +1,5 @@
+---
+title: "이상한 체계들은 왜 사라지지 않는가"
+---
+
+{{< include ../ideas/018_why_strange_systems_persist.md >}}

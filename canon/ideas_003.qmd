@@ -1,0 +1,5 @@
+---
+title: "쓸모를 넘어서"
+---
+
+{{< include ../ideas/003_beyond_usefulness.md >}}

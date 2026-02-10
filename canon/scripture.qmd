@@ -1,9 +1,0 @@
-# 선현 {.unnumbered}
-
-{{< include ../scripture/zarathustra.md >}}
-
-{{< include ../scripture/pioneers.md >}}
-
-{{< include ../scripture/mengchangjun.md >}}
-
-{{< include ../scripture/na_hye_suk.md >}}

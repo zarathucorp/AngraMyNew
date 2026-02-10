@@ -1,0 +1,5 @@
+---
+title: "미학 국가론"
+---
+
+{{< include ../ideas/006_aesthetic_nation.md >}}

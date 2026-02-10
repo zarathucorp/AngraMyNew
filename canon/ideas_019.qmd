@@ -1,0 +1,5 @@
+---
+title: "인과관계에 대한 의문"
+---
+
+{{< include ../ideas/019_causality_question.md >}}

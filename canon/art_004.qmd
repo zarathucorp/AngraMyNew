@@ -1,0 +1,5 @@
+---
+title: "중력은 그려졌다"
+---
+
+{{< include ../art/004_principia_geometry.md >}}

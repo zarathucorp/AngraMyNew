@@ -1,0 +1,5 @@
+---
+title: "부자, 면세인, 그리고 징세인"
+---
+
+{{< include ../ideas/014_economics_of_beauty.md >}}

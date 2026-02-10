@@ -1,9 +1,0 @@
-# 실천과 적용 {.unnumbered}
-
-{{< include ../ideas/005_project_doctor_k.md >}}
-
-{{< include ../ideas/011_lineage_as_creation.md >}}
-
-{{< include ../ideas/012_redefine_doctor_degree.md >}}
-
-{{< include ../ideas/013_decentralized_mental_os.md >}}

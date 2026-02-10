@@ -1,6 +1,8 @@
 project:
   type: book
   output-dir: _book
+  resources:
+    - img/*
 
 book:
   title: "AngraMyNew"
@@ -12,28 +14,74 @@ book:
   repo-subdir: canon
   repo-actions: [source]
   downloads: [pdf, epub]
+  sidebar:
+    collapse-level: 1
   chapters:
     - index.qmd
-    - part: "Ideas — 철학, 사상, 선언"
+    - part: "Ideas — 기원과 공리"
       chapters:
-        - ideas_foundation.qmd
-        - ideas_creator.qmd
-        - ideas_economics.qmd
-        - ideas_epistemology.qmd
-        - ideas_practice.qmd
-        - ideas_casestudies.qmd
+        - ideas_000.qmd
+        - ideas_001.qmd
+        - ideas_002.qmd
+    - part: "Ideas — 창조자론"
+      chapters:
+        - ideas_003.qmd
+        - ideas_004.qmd
+        - ideas_008.qmd
+        - ideas_009.qmd
+        - ideas_010.qmd
+    - part: "Ideas — 경제와 구조"
+      chapters:
+        - ideas_006.qmd
+        - ideas_014.qmd
+        - ideas_023.qmd
+        - ideas_024.qmd
+        - ideas_025.qmd
+        - ideas_026.qmd
+    - part: "Ideas — 인식론과 과학"
+      chapters:
+        - ideas_016.qmd
+        - ideas_017.qmd
+        - ideas_018.qmd
+        - ideas_019.qmd
+        - ideas_020.qmd
+        - ideas_022.qmd
+    - part: "Ideas — 실천과 적용"
+      chapters:
+        - ideas_005.qmd
+        - ideas_011.qmd
+        - ideas_012.qmd
+        - ideas_013.qmd
+    - part: "Ideas — 사례연구"
+      chapters:
+        - ideas_007.qmd
+        - ideas_015.qmd
+        - ideas_021.qmd
+        - ideas_027.qmd
     - part: "Art — 아름다움의 사례"
       chapters:
-        - art.qmd
+        - art_001.qmd
+        - art_002.qmd
+        - art_003.qmd
+        - art_004.qmd
+        - art_005.qmd
+        - art_006.qmd
     - part: "Protocols — 실행 프로토콜"
       chapters:
-        - protocols.qmd
+        - protocols_001.qmd
+        - protocols_002.qmd
     - part: "Fravashi — 원형 해석 엔진"
       chapters:
-        - fravashi.qmd
+        - fravashi_002.qmd
     - part: "Scripture — 선현"
       chapters:
-        - scripture.qmd
+        - scripture_zarathustra.qmd
+        - scripture_pioneers.qmd
+        - scripture_mengchangjun.qmd
+        - scripture_na_hye_suk.qmd
+    - part: "Changelog — 진화 기록"
+      chapters:
+        - changelog.qmd
 
 comments:
   giscus:

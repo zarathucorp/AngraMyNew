@@ -1,0 +1,5 @@
+---
+title: "박사학위의 재정의"
+---
+
+{{< include ../ideas/012_redefine_doctor_degree.md >}}

@@ -1,0 +1,5 @@
+---
+title: "면세인의 소비"
+---
+
+{{< include ../ideas/025_consumption_of_exempt.md >}}

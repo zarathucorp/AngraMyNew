@@ -1,0 +1,5 @@
+---
+title: "인과관계 — 양자역학"
+---
+
+{{< include ../ideas/020_causality_quantum.md >}}

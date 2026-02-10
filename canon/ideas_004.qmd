@@ -1,0 +1,5 @@
+---
+title: "내면의 예술가"
+---
+
+{{< include ../ideas/004_artist_within.md >}}

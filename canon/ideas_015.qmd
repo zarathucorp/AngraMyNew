@@ -1,0 +1,5 @@
+---
+title: "징세의 실전 모델"
+---
+
+{{< include ../ideas/015_case_study_the_gravity_of_outlaws.md >}}

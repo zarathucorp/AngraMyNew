@@ -1,0 +1,5 @@
+---
+title: "일반상대성이론"
+---
+
+{{< include ../art/002_general_relativity.md >}}

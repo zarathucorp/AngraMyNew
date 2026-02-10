@@ -1,0 +1,5 @@
+---
+title: "필수의료 위기 — 목격료"
+---
+
+{{< include ../ideas/024_when_critical_care_needs_witness.md >}}

@@ -1,0 +1,5 @@
+---
+title: "갈루아와 5차방정식"
+---
+
+{{< include ../art/001_galois_quintic.md >}}

@@ -1,0 +1,5 @@
+---
+title: "계보로서의 창조"
+---
+
+{{< include ../ideas/011_lineage_as_creation.md >}}

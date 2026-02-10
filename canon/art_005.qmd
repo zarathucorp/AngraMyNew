@@ -1,0 +1,5 @@
+---
+title: "한글의 두 상태"
+---
+
+{{< include ../art/005_hangul_two_states.md >}}

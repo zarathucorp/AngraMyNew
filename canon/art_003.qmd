@@ -1,0 +1,5 @@
+---
+title: "하나의 무늬가 전부가 되다"
+---
+
+{{< include ../art/003_one_pattern.md >}}

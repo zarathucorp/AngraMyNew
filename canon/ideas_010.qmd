@@ -1,0 +1,5 @@
+---
+title: "포식자의 신성한 의무"
+---
+
+{{< include ../ideas/010_predators_duty.md >}}

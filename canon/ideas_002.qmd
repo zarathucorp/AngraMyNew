@@ -1,0 +1,5 @@
+---
+title: "창조의 원리"
+---
+
+{{< include ../ideas/002_principles_of_creation.md >}}
