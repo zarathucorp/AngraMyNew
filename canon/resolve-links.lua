@@ -50,6 +50,25 @@ local file_to_chapter = {
   ["002_gpt_prompt.md"] = "fravashi_002.qmd",
 }
 
+-- Remove the first H1 heading from each chapter
+-- (YAML title already provides the chapter heading; included file's H1 is duplicate)
+local first_h1_removed = false
+
+function Pandoc(doc)
+  first_h1_removed = false
+  local new_blocks = {}
+  for _, block in ipairs(doc.blocks) do
+    if block.t == "Header" and block.level == 1 and not first_h1_removed then
+      first_h1_removed = true
+      -- skip this block (remove duplicate H1)
+    else
+      table.insert(new_blocks, block)
+    end
+  end
+  doc.blocks = new_blocks
+  return doc
+end
+
 function Link(el)
   local target = el.target
 
