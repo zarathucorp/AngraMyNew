@@ -8,7 +8,10 @@ book:
   author: "Angra Collective"
   date: today
   repo-url: https://github.com/zarathucorp/AngraMyNew
+  repo-branch: master
+  repo-subdir: canon
   repo-actions: [source]
+  downloads: [pdf, epub]
   chapters:
     - index.qmd
     - part: "Ideas — 철학, 사상, 선언"
