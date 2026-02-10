@@ -55,7 +55,9 @@ AngraMyNew는 파괴에서 출발하지만, 목적은 창조에 있다.
 
 ## 상징
 
+::: {.content-visible when-format="html"}
 ![AngraMyNew Pattern Logo](img/Zarathu_Pattern.webp){width=300 fig-align="center"}
+:::
 
 로고는 **아인슈타인 타일(Einstein Tile)**에서 영감을 받았다.
 
@@ -115,4 +117,6 @@ AngraMyNew의 철학을 가장 잘 담은 노래:
 이 한 마디가 AngraMyNew의 핵심이다.
 모든 인간은 창조자이며, 창조 자체가 삶의 방식이다.
 
+::: {.content-visible when-format="html"}
 [![ZICO - Artist](img/yt_zico_artist.jpg)](https://youtu.be/DNPs2qqdhN0?si=V_vIC0NECZKo1N6U)
+:::
