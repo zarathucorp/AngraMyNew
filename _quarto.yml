@@ -71,6 +71,8 @@ book:
         - art/004_principia_geometry.md
         - art/005_hangul_two_states.md
         - art/006_feynman_diagram.md
+        - art/007_nagarjuna_emptiness.md
+        - art/008_klimt_kiss.md
     - part: "Protocols — 실행 프로토콜"
       chapters:
         - protocols/001_creator_operating_protocol.md
