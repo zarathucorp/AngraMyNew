@@ -12,11 +12,17 @@ book:
   repo-url: https://github.com/zarathucorp/AngraMyNew
   repo-branch: master
   repo-actions: [source]
-  downloads: [pdf, epub]
+  downloads: [pdf, epub, docx]
   sidebar:
     collapse-level: 1
   chapters:
     - index.qmd
+    - part: "Scripture — 선현"
+      chapters:
+        - scripture/zarathustra.md
+        - scripture/pioneers.md
+        - scripture/mengchangjun.md
+        - scripture/na_hye_suk.md
     - part: "Ideas — 기원과 공리"
       chapters:
         - ideas/000_origin.md
@@ -72,12 +78,6 @@ book:
     - part: "Fravashi — 원형 해석 엔진"
       chapters:
         - fravashi/002_gpt_prompt.md
-    - part: "Scripture — 선현"
-      chapters:
-        - scripture/zarathustra.md
-        - scripture/pioneers.md
-        - scripture/mengchangjun.md
-        - scripture/na_hye_suk.md
 
 comments:
   giscus:
@@ -121,6 +121,10 @@ format:
         \setCJKmonofont{NanumGothicCoding}
         \usepackage{setspace}
         \onehalfspacing
+  docx:
+    toc: true
+    toc-depth: 3
+    number-sections: true
   epub:
     toc: true
     toc-depth: 3
