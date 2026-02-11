@@ -1,5 +1,0 @@
----
-title: "Money: 빛나는 더러움의 구조"
----
-
-{{< include ../ideas/021_case_study_dawn_money.md >}}

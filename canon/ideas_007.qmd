@@ -1,5 +1,0 @@
----
-title: "미완의 정리"
----
-
-{{< include ../ideas/007_case_study_unfinished_theorem.md >}}

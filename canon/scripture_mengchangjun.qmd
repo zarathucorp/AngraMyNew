@@ -1,5 +1,0 @@
----
-title: "맹상군 — 포용의 철학"
----
-
-{{< include ../scripture/mengchangjun.md >}}

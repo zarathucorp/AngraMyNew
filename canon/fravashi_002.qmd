@@ -1,5 +1,0 @@
----
-title: "Fravashi GPT Prompt v5.0"
----
-
-{{< include ../fravashi/002_gpt_prompt.md >}}

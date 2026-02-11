@@ -1,5 +1,0 @@
----
-title: "진·선·미의 삼국지"
----
-
-{{< include ../ideas/026_three_kingdoms_of_beauty.md >}}

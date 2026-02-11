@@ -1,5 +1,0 @@
----
-title: "향수: 칼날이 밖을 향한 남자"
----
-
-{{< include ../ideas/027_case_study_perfume.md >}}

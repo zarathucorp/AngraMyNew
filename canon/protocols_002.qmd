@@ -1,5 +1,0 @@
----
-title: "창조적 대속 윤리"
----
-
-{{< include ../protocols/002_ethics_of_creation.md >}}

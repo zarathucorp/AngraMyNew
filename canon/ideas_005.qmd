@@ -1,5 +1,0 @@
----
-title: "Project Doctor K"
----
-
-{{< include ../ideas/005_project_doctor_k.md >}}

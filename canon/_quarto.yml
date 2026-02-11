@@ -20,68 +20,65 @@ book:
     - index.qmd
     - part: "Ideas — 기원과 공리"
       chapters:
-        - ideas_000.qmd
-        - ideas_001.qmd
-        - ideas_002.qmd
+        - ../ideas/000_origin.md
+        - ../ideas/001_axioms.md
+        - ../ideas/002_principles_of_creation.md
     - part: "Ideas — 창조자론"
       chapters:
-        - ideas_003.qmd
-        - ideas_004.qmd
-        - ideas_008.qmd
-        - ideas_009.qmd
-        - ideas_010.qmd
+        - ../ideas/003_beyond_usefulness.md
+        - ../ideas/004_artist_within.md
+        - ../ideas/008_seduction_of_creation.md
+        - ../ideas/009_rage_against_definition.md
+        - ../ideas/010_predators_duty.md
     - part: "Ideas — 경제와 구조"
       chapters:
-        - ideas_006.qmd
-        - ideas_014.qmd
-        - ideas_023.qmd
-        - ideas_024.qmd
-        - ideas_025.qmd
-        - ideas_026.qmd
+        - ../ideas/006_aesthetic_nation.md
+        - ../ideas/014_economics_of_beauty.md
+        - ../ideas/023_successful_lens.md
+        - ../ideas/024_when_critical_care_needs_witness.md
+        - ../ideas/025_consumption_of_exempt.md
+        - ../ideas/026_three_kingdoms_of_beauty.md
     - part: "Ideas — 인식론과 과학"
       chapters:
-        - ideas_016.qmd
-        - ideas_017.qmd
-        - ideas_018.qmd
-        - ideas_019.qmd
-        - ideas_020.qmd
-        - ideas_022.qmd
+        - ../ideas/016_mental_lhc.md
+        - ../ideas/017_when_is_a_proof_beautiful.md
+        - ../ideas/018_why_strange_systems_persist.md
+        - ../ideas/019_causality_question.md
+        - ../ideas/020_causality_quantum.md
+        - ../ideas/022_age_of_malice.md
     - part: "Ideas — 실천과 적용"
       chapters:
-        - ideas_005.qmd
-        - ideas_011.qmd
-        - ideas_012.qmd
-        - ideas_013.qmd
+        - ../ideas/005_project_doctor_k.md
+        - ../ideas/011_lineage_as_creation.md
+        - ../ideas/012_redefine_doctor_degree.md
+        - ../ideas/013_decentralized_mental_os.md
     - part: "Ideas — 사례연구"
       chapters:
-        - ideas_007.qmd
-        - ideas_015.qmd
-        - ideas_021.qmd
-        - ideas_027.qmd
+        - ../ideas/007_case_study_unfinished_theorem.md
+        - ../ideas/015_case_study_the_gravity_of_outlaws.md
+        - ../ideas/021_case_study_dawn_money.md
+        - ../ideas/027_case_study_perfume.md
     - part: "Art — 아름다움의 사례"
       chapters:
-        - art_001.qmd
-        - art_002.qmd
-        - art_003.qmd
-        - art_004.qmd
-        - art_005.qmd
-        - art_006.qmd
+        - ../art/001_galois_quintic.md
+        - ../art/002_general_relativity.md
+        - ../art/003_one_pattern.md
+        - ../art/004_principia_geometry.md
+        - ../art/005_hangul_two_states.md
+        - ../art/006_feynman_diagram.md
     - part: "Protocols — 실행 프로토콜"
       chapters:
-        - protocols_001.qmd
-        - protocols_002.qmd
+        - ../protocols/001_creator_operating_protocol.md
+        - ../protocols/002_ethics_of_creation.md
     - part: "Fravashi — 원형 해석 엔진"
       chapters:
-        - fravashi_002.qmd
+        - ../fravashi/002_gpt_prompt.md
     - part: "Scripture — 선현"
       chapters:
-        - scripture_zarathustra.qmd
-        - scripture_pioneers.qmd
-        - scripture_mengchangjun.qmd
-        - scripture_na_hye_suk.qmd
-    - part: "Changelog — 진화 기록"
-      chapters:
-        - changelog.qmd
+        - ../scripture/zarathustra.md
+        - ../scripture/pioneers.md
+        - ../scripture/mengchangjun.md
+        - ../scripture/na_hye_suk.md
 
 comments:
   giscus:
@@ -90,9 +87,6 @@ comments:
     mapping: pathname
     reactions-enabled: true
     theme: light
-
-filters:
-  - resolve-links.lua
 
 format:
   html:

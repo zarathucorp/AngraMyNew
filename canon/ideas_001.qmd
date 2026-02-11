@@ -1,5 +1,0 @@
----
-title: "AngraMyNew 3 Axioms"
----
-
-{{< include ../ideas/001_axioms.md >}}

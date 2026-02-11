@@ -1,5 +1,0 @@
----
-title: "차라투스트라의 말씀"
----
-
-{{< include ../scripture/zarathustra.md >}}

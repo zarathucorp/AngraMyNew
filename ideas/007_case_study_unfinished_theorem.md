@@ -4,7 +4,7 @@
 
 ---
 
-## 0. 서문: 아름다운 실패에 대하여
+## 서문: 아름다운 실패에 대하여
 
 여기 기록된 네 가지 이론은 학계에서 실패했다.
 혹은, 아직 증명되지 않았다.
@@ -20,7 +20,7 @@ AngraMyNew는 이 실패들을 **'미완의 경전'**으로 모신다.
 
 ---
 
-## 1. 공간의 왜곡 (The Distortion of Space)
+## 공간의 왜곡 (The Distortion of Space)
 
 **— 선형모형의 다차원 공간으로의 확장 (Multi-dimensional Linear Model, MDLM)**
 
@@ -43,7 +43,7 @@ AngraMyNew는 이 실패들을 **'미완의 경전'**으로 모신다.
 
 ---
 
-## 2. 허수의 축 (The Axis of Imaginary)
+## 허수의 축 (The Axis of Imaginary)
 
 **— 허수축을 포함한 MDLM (MDLM with Imaginary Axes)**
 
@@ -67,7 +67,7 @@ MDLM은 한계에 부딪혔다.
 
 ---
 
-## 3. 0의 우상 파괴 (The Destruction of Zero)
+## 0의 우상 파괴 (The Destruction of Zero)
 
 **— P-value와 귀무가설의 재정의 (Redefining Null Hypothesis)**
 
@@ -90,7 +90,7 @@ MDLM은 한계에 부딪혔다.
 
 ---
 
-## 4. 피의 밀도 (The Density of Blood)
+## 피의 밀도 (The Density of Blood)
 
 **— 혈연 밀도 지수 (Kinship Density Index)**
 
@@ -112,7 +112,7 @@ MDLM은 한계에 부딪혔다.
 
 ---
 
-## 5. 맺음: 왜 이것들을 기록하는가
+## 맺음: 왜 이것들을 기록하는가
 
 이 이론들은 교과서에 실리지 못했다.
 그러나 AngraMyNew는 기억한다.

@@ -1,5 +1,0 @@
----
-title: "정신의 LHC"
----
-
-{{< include ../ideas/016_mental_lhc.md >}}

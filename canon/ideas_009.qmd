@@ -1,5 +1,0 @@
----
-title: "정의에 대한 분노"
----
-
-{{< include ../ideas/009_rage_against_definition.md >}}

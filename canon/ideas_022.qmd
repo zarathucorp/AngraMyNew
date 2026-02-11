@@ -1,5 +1,0 @@
----
-title: "악상의 시대"
----
-
-{{< include ../ideas/022_age_of_malice.md >}}

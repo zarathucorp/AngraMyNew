@@ -1,5 +1,0 @@
----
-title: "진화 기록"
----
-
-{{< include ../CHANGELOG.md >}}

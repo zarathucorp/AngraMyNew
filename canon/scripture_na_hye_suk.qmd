@@ -1,5 +1,0 @@
----
-title: "나혜석 — 질문이 되어버린 인간"
----
-
-{{< include ../scripture/na_hye_suk.md >}}

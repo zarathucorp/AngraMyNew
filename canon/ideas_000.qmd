@@ -1,5 +1,0 @@
----
-title: "AngraMyNew의 기원"
----
-
-{{< include ../ideas/000_origin.md >}}

@@ -1,5 +1,0 @@
----
-title: "투쟁과 유혹"
----
-
-{{< include ../ideas/008_seduction_of_creation.md >}}
