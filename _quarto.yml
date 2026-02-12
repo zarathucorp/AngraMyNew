@@ -73,6 +73,7 @@ book:
         - art/007_nagarjuna_emptiness.md
         - art/008_klimt_kiss.md
         - art/009_mozart_pure_beauty.md
+        - art/010_war_of_genesis.md
     - part: "Protocols — 실행 프로토콜"
       chapters:
         - protocols/001_creator_operating_protocol.md
