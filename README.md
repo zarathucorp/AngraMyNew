@@ -98,7 +98,7 @@ AngraMyNew는 파괴에서 출발하지만, 목적은 창조에 있다.
 
 ## 6. 구조
 
-- 📂 **[ideas/](ideas/)** — 철학, 사상, 선언 (28편)
+- 📂 **[ideas/](ideas/)** — 철학, 사상, 선언 (26편)
     - **── 기원/공리 (Foundation) ──**
     - 📄 [000_origin.md](ideas/000_origin.md) — AngraMyNew의 기원
     - 📄 [001_axioms.md](ideas/001_axioms.md) — 3대 공리
@@ -120,8 +120,6 @@ AngraMyNew는 파괴에서 출발하지만, 목적은 창조에 있다.
     - 📄 [016_mental_lhc.md](ideas/016_mental_lhc.md) — 정신의 LHC
     - 📄 [017_when_is_a_proof_beautiful.md](ideas/017_when_is_a_proof_beautiful.md) — 증명은 언제 아름다운가
     - 📄 [018_why_strange_systems_persist.md](ideas/018_why_strange_systems_persist.md) — 이상한 체계들은 왜 사라지지 않는가
-    - 📄 [019_causality_question.md](ideas/019_causality_question.md) — 인과관계에 대한 의문
-    - 📄 [020_causality_quantum.md](ideas/020_causality_quantum.md) — 인과관계 — 양자역학
     - 📄 [022_age_of_malice.md](ideas/022_age_of_malice.md) — 악상의 시대
     - **── 실천/적용 (Practice & Application) ──**
     - 📄 [005_project_doctor_k.md](ideas/005_project_doctor_k.md) — Project Doctor K
@@ -142,6 +140,7 @@ AngraMyNew는 파괴에서 출발하지만, 목적은 창조에 있다.
     - 📄 [006_feynman_diagram.md](art/006_feynman_diagram.md)
     - 📄 [007_nagarjuna_emptiness.md](art/007_nagarjuna_emptiness.md)
     - 📄 [008_klimt_kiss.md](art/008_klimt_kiss.md)
+    - 📄 [009_mozart_pure_beauty.md](art/009_mozart_pure_beauty.md)
 - 🧠 **[fravashi/](fravashi/)** — Fravashi 원형 해석 엔진
     - 📄 [001_internal_manual.md](fravashi/001_internal_manual.md)
     - 📄 [002_gpt_prompt.md](fravashi/002_gpt_prompt.md)

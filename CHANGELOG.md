@@ -1,5 +1,39 @@
 # Changelog
 
+## v6.2 — 모차르트, 나훈아, 인과관계 삭제, 정합성 검토 (2026-02-12)
+
+### 추가
+- `art/009_mozart_pure_beauty.md` — 아무것도 말하지 않는 음악: 모차르트와 방어할 수 없는 아름다움
+  - 음악은 수백 년간 무언가를 실어 날랐다 — 모차르트는 빈 수레를 보냈다
+  - 아마데우스 장면: 살리에리의 환영 행진곡을 즉흥으로 놀이로 바꾸는 모차르트
+  - 베토벤(메시지 → 음) vs 모차르트(음이 곧 내용) 구조 비교
+  - "메시지가 없으므로 반박할 수 없다. 반박할 수 없으므로 방어할 수 없다."
+  - 창조의 공리 "꽃은 벌과 논쟁하지 않는다"의 음악적 구현
+- `canon/reference.docx` — DOCX 서식 템플릿 (NanumMyeongjo 11pt, NanumGothicBold 제목, 1.5줄간격)
+
+### 삭제
+- `ideas/019_causality_question.md` — 인과관계에 대한 의문: 뉴턴에서 아인슈타인으로
+- `ideas/020_causality_quantum.md` — 인과관계에 대한 의문: 양자역학이 허락한 세계
+  - 세계관 정합성 검토 결과 삭제: art/002(일반상대성이론)·017(증명의 아름다움)과 중복, ideas/ 특유의 관점 부족
+
+### 변경
+- `ideas/015_case_study_the_gravity_of_outlaws.md` — 나훈아: 주권의 징세인 추가
+  - 제목: "혼돈과 욕망" → "혼돈, 욕망, 주권의 아키텍처"
+  - 징세인 삼각구조 완성: 철구(혼돈) · 과즙세연(욕망) · 나훈아(주권)
+  - 「사내」「공」가사 인용 — 7음절 율격, 시조의 결
+  - "보고 싶으면 티켓 끊으세요" — 거절로 곡률을 만든 징세인
+  - "남겨진 염원" 구조화: 나훈아(이미 플랫폼 자체) vs 철구·과즙세연(아직 플랫폼 위)
+- 정합성 검토 반영 (4건):
+  - `ideas/004_artist_within.md` — `악상(Musical Idea)` 영문 주석 제거, 022 참조 링크 추가
+  - `ideas/016_mental_lhc.md` — "사상을 제공하지 않는다" → "교리를 제공하지 않는다"
+  - `ideas/018_why_strange_systems_persist.md` — "우리의 위치" 섹션 16줄→5줄 압축, 016 참조 추가
+  - `ideas/023_successful_lens.md` — 부제 추가 "— 사례: 페미니즘"
+- `_quarto.yml` — PDF 11pt + NanumMyeongjo(명조, 도서용 서체), DOCX reference-doc 연결, art/009 챕터 추가
+- `fravashi/001_internal_manual.md`, `fravashi/003_gpt_prompt_full.md` — art/ 사례 목록에 006–009 추가
+- README (한/영/일/중) — art/009 추가, ideas 편수 28→26 반영
+
+---
+
 ## v6.1 — art/ 2편 추가: 나가르주나의 공 & 클림트의 키스 (2026-02-12)
 
 ### 추가

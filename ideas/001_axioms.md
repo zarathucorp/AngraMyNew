@@ -18,7 +18,7 @@
 
 **문장**: _"파괴한 틈을 절대적 아름다움으로 채운다."_
 
-꽃은 벌과 다투지 않는다. 다만 피어날 뿐이다. 우리의 작품이 아름다우면, 세상은 스스로 기울어 온다.
+꽃은 벌과 다투지 않는다. 다만 피어날 뿐이다. 작품이 아름다우면, 세상은 스스로 기울어 온다.
 
 → [002_principles_of_creation.md](002_principles_of_creation.md) · [003_beyond_usefulness.md](003_beyond_usefulness.md) · [004_artist_within.md](004_artist_within.md) · [008_seduction_of_creation.md](008_seduction_of_creation.md)
 
@@ -28,7 +28,7 @@
 
 **문장**: _"나의 'My'를 완성했다면, 타인의 'My'를 인정하고 데뷔시킨다."_
 
-맹상군의 문객 삼천은 쓸모로 뽑힌 자들이 아니었다. 닭 울음 흉내와 개 도둑질이 결국 주인을 살렸다. 우리도 그렇게 모은다. 특이점들을 구속 없이 품어 각자의 무대에 세운다.
+맹상군의 문객 삼천은 쓸모로 뽑힌 자들이 아니었다. 닭 울음 흉내와 개 도둑질이 결국 주인을 살렸다. 특이점들을 구속 없이 품어 각자의 무대에 세운다.
 
 → [scripture/mengchangjun.md](../scripture/mengchangjun.md) · [005_project_doctor_k.md](005_project_doctor_k.md)
 

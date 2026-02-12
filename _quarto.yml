@@ -48,8 +48,6 @@ book:
         - ideas/016_mental_lhc.md
         - ideas/017_when_is_a_proof_beautiful.md
         - ideas/018_why_strange_systems_persist.md
-        - ideas/019_causality_question.md
-        - ideas/020_causality_quantum.md
         - ideas/022_age_of_malice.md
     - part: "Ideas — 실천과 적용"
       chapters:
@@ -73,6 +71,7 @@ book:
         - art/006_feynman_diagram.md
         - art/007_nagarjuna_emptiness.md
         - art/008_klimt_kiss.md
+        - art/009_mozart_pure_beauty.md
     - part: "Protocols — 실행 프로토콜"
       chapters:
         - protocols/001_creator_operating_protocol.md
@@ -101,6 +100,7 @@ format:
     documentclass: book
     classoption:
       - openany
+      - 11pt
     pdf-engine: xelatex
     toc: true
     toc-depth: 3
@@ -118,7 +118,7 @@ format:
       text: |
         \usepackage{xeCJK}
         \xeCJKsetup{CJKspace=true}
-        \setCJKmainfont{NanumGothic}
+        \setCJKmainfont{NanumMyeongjo}
         \setCJKsansfont{NanumGothicBold}
         \setCJKmonofont{NanumGothicCoding}
         \usepackage{setspace}
@@ -127,6 +127,7 @@ format:
     toc: true
     toc-depth: 3
     number-sections: true
+    reference-doc: canon/reference.docx
   epub:
     toc: true
     toc-depth: 3

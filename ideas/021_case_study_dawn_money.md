@@ -48,8 +48,6 @@
 이때 돈은 원인이 아니다.
 이미 형성된 욕망의 장(field)에 생긴 **고밀도 노드**다.
 
-→ [019_causality_question.md](019_causality_question.md) — 인과 대신 구조
-
 ---
 
 ### 이 노래의 화자는 아직 '면세'를 통과하지 않았다
@@ -300,4 +298,3 @@ DAWN은 같은 구조를 **두 개의 매체**로 동시에 보여준다.
 → [014_economics_of_beauty.md](014_economics_of_beauty.md) — 부자, 면세인, 징세인
 → [015_case_study_the_gravity_of_outlaws.md](015_case_study_the_gravity_of_outlaws.md) — 철구와 과즙세연
 → [016_mental_lhc.md](016_mental_lhc.md) — 정신의 LHC: 관측 보고서
-→ [019_causality_question.md](019_causality_question.md) — 인과 대신 구조

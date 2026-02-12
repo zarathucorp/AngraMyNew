@@ -95,7 +95,7 @@ AngraMyNewは破壊から始まるが、その目的は創造にある。
 
 ## 6. 構造
 
-- 📂 **[ideas/](ideas/)** — 哲学・思想・宣言（28編）
+- 📂 **[ideas/](ideas/)** — 哲学・思想・宣言（26編）
     - **── 起源／公理 (Foundation) ──**
     - 📄 [000_origin.md](ideas/000_origin.md) — AngraMyNewの起源
     - 📄 [001_axioms.md](ideas/001_axioms.md) — 三大公理
@@ -117,8 +117,6 @@ AngraMyNewは破壊から始まるが、その目的は創造にある。
     - 📄 [016_mental_lhc.md](ideas/016_mental_lhc.md) — 精神のLHC
     - 📄 [017_when_is_a_proof_beautiful.md](ideas/017_when_is_a_proof_beautiful.md) — 証明はいつ美しいか
     - 📄 [018_why_strange_systems_persist.md](ideas/018_why_strange_systems_persist.md) — 奇妙な体系はなぜ消えないか
-    - 📄 [019_causality_question.md](ideas/019_causality_question.md) — 因果関係への疑問
-    - 📄 [020_causality_quantum.md](ideas/020_causality_quantum.md) — 因果関係 — 量子力学
     - 📄 [022_age_of_malice.md](ideas/022_age_of_malice.md) — 悪想の時代
     - **── 実践／応用 (Practice & Application) ──**
     - 📄 [005_project_doctor_k.md](ideas/005_project_doctor_k.md) — Project Doctor K
@@ -139,6 +137,7 @@ AngraMyNewは破壊から始まるが、その目的は創造にある。
     - 📄 [006_feynman_diagram.md](art/006_feynman_diagram.md)
     - 📄 [007_nagarjuna_emptiness.md](art/007_nagarjuna_emptiness.md)
     - 📄 [008_klimt_kiss.md](art/008_klimt_kiss.md)
+    - 📄 [009_mozart_pure_beauty.md](art/009_mozart_pure_beauty.md)
 - 🧠 **[fravashi/](fravashi/)** — Fravashi 原型解析エンジン
     - 📄 [001_internal_manual.md](fravashi/001_internal_manual.md)
     - 📄 [002_gpt_prompt.md](fravashi/002_gpt_prompt.md)

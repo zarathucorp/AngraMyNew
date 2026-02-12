@@ -97,7 +97,7 @@ Mengchangjun's three thousand retainers were not chosen for usefulness. A rooste
 
 ## 6. Structure
 
-- 📂 **[ideas/](ideas/)** — Philosophy, doctrine, declarations (28 essays)
+- 📂 **[ideas/](ideas/)** — Philosophy, doctrine, declarations (26 essays)
     - **── Foundation ──**
     - 📄 [000_origin.md](ideas/000_origin.md) — Origin of AngraMyNew
     - 📄 [001_axioms.md](ideas/001_axioms.md) — 3 Axioms
@@ -119,8 +119,6 @@ Mengchangjun's three thousand retainers were not chosen for usefulness. A rooste
     - 📄 [016_mental_lhc.md](ideas/016_mental_lhc.md) — The Mental LHC
     - 📄 [017_when_is_a_proof_beautiful.md](ideas/017_when_is_a_proof_beautiful.md) — When Is a Proof Beautiful?
     - 📄 [018_why_strange_systems_persist.md](ideas/018_why_strange_systems_persist.md) — Why Strange Systems Persist
-    - 📄 [019_causality_question.md](ideas/019_causality_question.md) — Questioning Causality
-    - 📄 [020_causality_quantum.md](ideas/020_causality_quantum.md) — Causality — Quantum Mechanics
     - 📄 [022_age_of_malice.md](ideas/022_age_of_malice.md) — The Age of Malice
     - **── Practice & Application ──**
     - 📄 [005_project_doctor_k.md](ideas/005_project_doctor_k.md) — Project Doctor K
@@ -141,6 +139,7 @@ Mengchangjun's three thousand retainers were not chosen for usefulness. A rooste
     - 📄 [006_feynman_diagram.md](art/006_feynman_diagram.md)
     - 📄 [007_nagarjuna_emptiness.md](art/007_nagarjuna_emptiness.md)
     - 📄 [008_klimt_kiss.md](art/008_klimt_kiss.md)
+    - 📄 [009_mozart_pure_beauty.md](art/009_mozart_pure_beauty.md)
 - 🧠 **[fravashi/](fravashi/)** — Fravashi Archetype Engine
     - 📄 [001_internal_manual.md](fravashi/001_internal_manual.md)
     - 📄 [002_gpt_prompt.md](fravashi/002_gpt_prompt.md)
