@@ -3,6 +3,7 @@ project:
   output-dir: _book
   resources:
     - img/*
+    - CNAME
 
 book:
   title: "AngraMyNew"
@@ -118,9 +119,10 @@ format:
       text: |
         \usepackage{xeCJK}
         \xeCJKsetup{CJKspace=true}
-        \setCJKmainfont{NanumMyeongjo}
+        \setCJKmainfont[BoldFont=NanumMyeongjoBold]{NanumMyeongjo}
         \setCJKsansfont{NanumGothicBold}
         \setCJKmonofont{NanumGothicCoding}
+        \setCJKfallbackfamilyfont{\CJKrmdefault}{Droid Sans Fallback}
         \usepackage{setspace}
         \onehalfspacing
   docx:
