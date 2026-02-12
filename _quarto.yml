@@ -119,10 +119,9 @@ format:
       text: |
         \usepackage{xeCJK}
         \xeCJKsetup{CJKspace=true}
-        \setCJKmainfont[BoldFont=NanumMyeongjoBold]{NanumMyeongjo}
-        \setCJKsansfont{NanumGothicBold}
+        \setCJKmainfont[BoldFont=KoPubWorldBatang_Pro Bold]{KoPubWorldBatang_Pro Medium}
+        \setCJKsansfont{KoPubWorldDotum_Pro Medium}
         \setCJKmonofont{NanumGothicCoding}
-        \setCJKfallbackfamilyfont{\CJKrmdefault}{Droid Sans Fallback}
         \usepackage{setspace}
         \onehalfspacing
   docx:
