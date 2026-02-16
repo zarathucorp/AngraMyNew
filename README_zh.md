@@ -144,6 +144,7 @@ AngraMyNew始于破坏，但目标是创造。
     - 📄 [010_war_of_genesis.md](art/010_war_of_genesis.md)
     - 📄 [011_ramanujan_pi.md](art/011_ramanujan_pi.md)
     - 📄 [012_dirac_beauty.md](art/012_dirac_beauty.md)
+    - 📄 [013_yinyang_wuxing.md](art/013_yinyang_wuxing.md)
 - 🧠 **[fravashi/](fravashi/)** — Fravashi 原型解析引擎
     - 📄 [001_internal_manual.md](fravashi/001_internal_manual.md)
     - 📄 [002_gpt_prompt.md](fravashi/002_gpt_prompt.md)
