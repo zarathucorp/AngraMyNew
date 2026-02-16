@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>3&nbsp; 맹상군 (孟嘗君) — 포용의 철학 – AngraMyNew</title>
+<title>42&nbsp; 진리보다 먼저 도착하는 감각 – AngraMyNew</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<link href="../scripture/na_hye_suk.html" rel="next">
-<link href="../scripture/pioneers.html" rel="prev">
+<link href="../protocols/001_creator_operating_protocol.html" rel="next">
+<link href="../art/011_ramanujan_pi.html" rel="prev">
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -69,6 +69,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -81,7 +110,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="사이드바 전환" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../scripture/zarathustra.html">Scripture — 선현</a></li><li class="breadcrumb-item"><a href="../scripture/mengchangjun.html"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">맹상군 (孟嘗君) — 포용의 철학</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../art/001_galois_quintic.html">Art — 아름다움의 사례</a></li><li class="breadcrumb-item"><a href="../art/012_dirac_beauty.html"><span class="chapter-number">42</span>&nbsp; <span class="chapter-title">진리보다 먼저 도착하는 감각</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="사이드바 전환" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="검색" onclick="window.quartoOpenSearch();">
@@ -140,13 +169,13 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="false">
  <span class="menu-text">Scripture — 선현</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="토글 섹션">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="false" aria-label="토글 섹션">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../scripture/zarathustra.html" class="sidebar-item-text sidebar-link">
@@ -161,7 +190,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../scripture/mengchangjun.html" class="sidebar-item-text sidebar-link active">
+  <a href="../scripture/mengchangjun.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">맹상군 (孟嘗君) — 포용의 철학</span></span></a>
   </div>
 </li>
@@ -397,13 +426,13 @@ ul.task-list li input[type="checkbox"] {
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-8" role="navigation" aria-expanded="false">
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-8" role="navigation" aria-expanded="true">
  <span class="menu-text">Art — 아름다움의 사례</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-8" role="navigation" aria-expanded="false" aria-label="토글 섹션">
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-8" role="navigation" aria-expanded="true" aria-label="토글 섹션">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-8" class="collapse list-unstyled sidebar-section depth1 ">  
+      <ul id="quarto-sidebar-section-8" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../art/001_galois_quintic.html" class="sidebar-item-text sidebar-link">
@@ -472,7 +501,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../art/012_dirac_beauty.html" class="sidebar-item-text sidebar-link">
+  <a href="../art/012_dirac_beauty.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text"><span class="chapter-number">42</span>&nbsp; <span class="chapter-title">진리보다 먼저 도착하는 감각</span></span></a>
   </div>
 </li>
@@ -528,25 +557,22 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">목차</h2>
    
   <ul>
-  <li><a href="#서문" id="toc-서문" class="nav-link active" data-scroll-target="#서문"><span class="header-section-number">3.1</span> 서문</a></li>
-  <li><a href="#계명구도-鷄鳴狗盜" id="toc-계명구도-鷄鳴狗盜" class="nav-link" data-scroll-target="#계명구도-鷄鳴狗盜"><span class="header-section-number">3.2</span> 계명구도 (鷄鳴狗盜)</a></li>
-  <li><a href="#세-가지-교훈" id="toc-세-가지-교훈" class="nav-link" data-scroll-target="#세-가지-교훈"><span class="header-section-number">3.3</span> 세 가지 교훈</a>
-  <ul class="collapse">
-  <li><a href="#첫째-쓸모의-정의를-의심하라." id="toc-첫째-쓸모의-정의를-의심하라." class="nav-link" data-scroll-target="#첫째-쓸모의-정의를-의심하라."><span class="header-section-number">3.3.1</span> 첫째, 쓸모의 정의를 의심하라.</a></li>
-  <li><a href="#둘째-격식-없이-어울려라." id="toc-둘째-격식-없이-어울려라." class="nav-link" data-scroll-target="#둘째-격식-없이-어울려라."><span class="header-section-number">3.3.2</span> 둘째, 격식 없이 어울려라.</a></li>
-  <li><a href="#셋째-3000명을-품어라." id="toc-셋째-3000명을-품어라." class="nav-link" data-scroll-target="#셋째-3000명을-품어라."><span class="header-section-number">3.3.3</span> 셋째, 3000명을 품어라.</a></li>
-  </ul></li>
-  <li><a href="#angramynew의-공동체" id="toc-angramynew의-공동체" class="nav-link" data-scroll-target="#angramynew의-공동체"><span class="header-section-number">3.4</span> AngraMyNew의 공동체</a></li>
-  <li><a href="#맺음" id="toc-맺음" class="nav-link" data-scroll-target="#맺음"><span class="header-section-number">3.5</span> 맺음</a></li>
+  <li><a href="#문제" id="toc-문제" class="nav-link active" data-scroll-target="#문제"><span class="header-section-number">42.1</span> 문제</a></li>
+  <li><a href="#제1증명-아름다움이-현실을-감지하다" id="toc-제1증명-아름다움이-현실을-감지하다" class="nav-link" data-scroll-target="#제1증명-아름다움이-현실을-감지하다"><span class="header-section-number">42.2</span> 제1증명 — 아름다움이 현실을 감지하다</a></li>
+  <li><a href="#제2증명-아름다움이-수학을-요구하다" id="toc-제2증명-아름다움이-수학을-요구하다" class="nav-link" data-scroll-target="#제2증명-아름다움이-수학을-요구하다"><span class="header-section-number">42.3</span> 제2증명 — 아름다움이 수학을 요구하다</a></li>
+  <li><a href="#디랙의-선언" id="toc-디랙의-선언" class="nav-link" data-scroll-target="#디랙의-선언"><span class="header-section-number">42.4</span> 디랙의 선언</a></li>
+  <li><a href="#angramynew-해석" id="toc-angramynew-해석" class="nav-link" data-scroll-target="#angramynew-해석"><span class="header-section-number">42.5</span> AngraMyNew 해석</a></li>
+  <li><a href="#결론" id="toc-결론" class="nav-link" data-scroll-target="#결론"><span class="header-section-number">42.6</span> 결론</a></li>
+  <li><a href="#관련-문서" id="toc-관련-문서" class="nav-link" data-scroll-target="#관련-문서"><span class="header-section-number">42.7</span> 관련 문서</a></li>
   </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/zarathucorp/AngraMyNew/blob/master/scripture/mengchangjun.md" class="toc-action"><i class="bi bi-github"></i>소스코드 보기</a></li></ul></div></nav>
+<div class="toc-actions"><ul><li><a href="https://github.com/zarathucorp/AngraMyNew/blob/master/art/012_dirac_beauty.md" class="toc-action"><i class="bi bi-github"></i>소스코드 보기</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../scripture/zarathustra.html">Scripture — 선현</a></li><li class="breadcrumb-item"><a href="../scripture/mengchangjun.html"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">맹상군 (孟嘗君) — 포용의 철학</span></a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../art/001_galois_quintic.html">Art — 아름다움의 사례</a></li><li class="breadcrumb-item"><a href="../art/012_dirac_beauty.html"><span class="chapter-number">42</span>&nbsp; <span class="chapter-title">진리보다 먼저 도착하는 감각</span></a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">맹상군 (孟嘗君) — 포용의 철학</span></h1>
+<h1 class="title"><span class="chapter-number">42</span>&nbsp; <span class="chapter-title">진리보다 먼저 도착하는 감각</span></h1>
 </div>
 
 
@@ -563,59 +589,120 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<p><em>— 디랙이 두 번 증명한 것</em></p>
+<hr>
+<section id="문제" class="level2" data-number="42.1">
+<h2 data-number="42.1" class="anchored" data-anchor-id="문제"><span class="header-section-number">42.1</span> 문제</h2>
+<p>AngraMyNew는 선언한다. “오직 아름다움만이 영혼을 움직인다.”</p>
+<p>그러나 왜? 진리(과학)가 아니라, 선(도덕)이 아니라, 왜 아름다움인가?</p>
+<p>이것은 선언으로 답할 수 없는 질문이다. 실물이 필요하다.</p>
+<hr>
+</section>
+<section id="제1증명-아름다움이-현실을-감지하다" class="level2" data-number="42.2">
+<h2 data-number="42.2" class="anchored" data-anchor-id="제1증명-아름다움이-현실을-감지하다"><span class="header-section-number">42.2</span> 제1증명 — 아름다움이 현실을 감지하다</h2>
+<p>1928년, 폴 디랙이 전자의 상대론적 방정식을 완성했다.</p>
+<p><span class="math display">\[(i\gamma^\mu \partial_\mu - m)\psi = 0\]</span></p>
+<p>방정식은 완벽했다. 그런데 문제가 하나 있었다. 음의 에너지 해가 나왔다.</p>
+<ul>
+<li><strong>진리(실험)가 말했다</strong>: “음의 에너지는 관측된 적 없다. 물리적 의미가 없다.”</li>
+<li><strong>선(실용주의)이 말했다</strong>: “버려라. 양의 에너지 해만 쓰면 된다.”</li>
+<li><strong>아름다움이 말했다</strong>: “이 방정식은 너무 완벽하다. 쓰레기가 있을 리 없다.”</li>
+</ul>
+<p>디랙은 아름다움을 따랐다. 음의 에너지 해를 버리지 않았다.</p>
+<p>1932년, 칼 앤더슨이 양전자를 발견했다. <strong>반물질.</strong> 음의 에너지 해가 가리키던 것이 실재했다.</p>
 <blockquote class="blockquote">
-<p><em>“쓸모없는 자를 품으라. 그가 너를 살린다.”</em></p>
+<p>진리는 “없다”고 했다. 틀렸다. 선은 “버려라”고 했다. 틀렸다. 아름다움은 “완벽하다”고 했다. 옳았다.</p>
 </blockquote>
-<hr>
-<section id="서문" class="level2" data-number="3.1">
-<h2 data-number="3.1" class="anchored" data-anchor-id="서문"><span class="header-section-number">3.1</span> 서문</h2>
-<p>5인의 선현이 <strong>“개인의 죽음”</strong>을 가르친다면, 맹상군은 <strong>“공동체의 삶”</strong>을 가르친다.</p>
-<p>전국시대 제(齊)나라의 맹상군 전문(田文)은 3,000명의 식객을 거느렸다. 그는 신분을 따지지 않았고, 재주가 하찮아도 내치지 않았다. 이것이 AngraMyNew가 지향하는 <strong>“무한한 포용”</strong>의 모델이다.</p>
-<p><strong>그리고 우리는 묻는다. 왜 그는 수많은 영웅 중 유독 ’포용의 선현’으로 남았는가?</strong> <strong>그 이유는 단 하나 — 그는 재능을 평가하지 않았고, 가능성을 배제하지 않았기 때문이다.</strong></p>
+<p><strong>아름다움은 진리보다 4년 먼저 반물질을 감지했다.</strong></p>
 <hr>
 </section>
-<section id="계명구도-鷄鳴狗盜" class="level2" data-number="3.2">
-<h2 data-number="3.2" class="anchored" data-anchor-id="계명구도-鷄鳴狗盜"><span class="header-section-number">3.2</span> 계명구도 (鷄鳴狗盜)</h2>
-<p>맹상군이 진(秦)나라에 사신으로 갔다가 억류되었다. 진 소왕은 마음이 변해 그를 죽이려 했다. 탈출하려면 왕이 가장 아끼는 호백구(여우 겨드랑이 털옷)를 바쳐야 했는데, 이미 바친 뒤였다.</p>
-<p>그때, <strong>“개 도둑질”</strong>을 잘하는 식객이 나섰다. 그는 밤중에 개처럼 기어들어가 호백구를 훔쳐왔고, 맹상군은 이를 바치고 풀려났다.</p>
-<p>새벽, 함곡관에 도착했으나 관문은 굳게 닫혀 있었다. 닭이 울어야 문을 여는데, 아직 밤이 깊었다. 뒤에서는 추격대가 오고 있었다. 모두가 절망할 때, <strong>“닭 울음소리”</strong>를 잘 내는 식객이 나섰다. 그가 “꼬끼오” 하고 울자, 동네 닭들이 따라 울었고 문이 열렸다.</p>
-<p>맹상군은 목숨을 건졌다. 그를 살린 것은 천하의 명사들이 아니었다. 가장 쓸모없다고 비웃음 당하던 <strong>개 도둑</strong>과 <strong>닭 울음 흉내쟁이</strong>였다.</p>
-<hr>
-</section>
-<section id="세-가지-교훈" class="level2" data-number="3.3">
-<h2 data-number="3.3" class="anchored" data-anchor-id="세-가지-교훈"><span class="header-section-number">3.3</span> 세 가지 교훈</h2>
-<section id="첫째-쓸모의-정의를-의심하라." class="level3" data-number="3.3.1">
-<h3 data-number="3.3.1" class="anchored" data-anchor-id="첫째-쓸모의-정의를-의심하라."><span class="header-section-number">3.3.1</span> 첫째, 쓸모의 정의를 의심하라.</h3>
-<p>평화로울 때 개 도둑은 범죄자이고, 닭 울음 흉내쟁이는 광대다. 그러나 위기의 순간, 그들은 구원자가 되었다. 쓸모없는 재능은 없다. 아직 적절한 때(Context)를 만나지 못했을 뿐이다.</p>
-</section>
-<section id="둘째-격식-없이-어울려라." class="level3" data-number="3.3.2">
-<h3 data-number="3.3.2" class="anchored" data-anchor-id="둘째-격식-없이-어울려라."><span class="header-section-number">3.3.2</span> 둘째, 격식 없이 어울려라.</h3>
-<p>맹상군은 식객과 똑같은 밥상에서 밥을 먹었다. 자신을 낮추고 상대를 존중할 때, 상대는 목숨을 바쳐 은혜를 갚는다. AngraMyNew에서는 설계자도 기여자도 평등하다.</p>
-</section>
-<section id="셋째-3000명을-품어라." class="level3" data-number="3.3.3">
-<h3 data-number="3.3.3" class="anchored" data-anchor-id="셋째-3000명을-품어라."><span class="header-section-number">3.3.3</span> 셋째, 3000명을 품어라.</h3>
-<p>맹상군은 “네가 뭘 할 수 있느냐”고 묻지 않았다. 그저 “오라”고 했다. 누가 언제 어떻게 쓰일지는 아무도 모른다. 그러니 일단 품어라. 다양성 그 자체가 생존의 무기다.</p>
-<hr>
-</section>
-</section>
-<section id="angramynew의-공동체" class="level2" data-number="3.4">
-<h2 data-number="3.4" class="anchored" data-anchor-id="angramynew의-공동체"><span class="header-section-number">3.4</span> AngraMyNew의 공동체</h2>
-<p>우리는 맹상군의 집과 같다.</p>
-<ol type="1">
-<li><p><strong>이력서로 거르지 않는다.</strong> 학력, 경력, 나이는 중요하지 않다. 창조하려는 의지만 있다면 누구나 환영한다.</p></li>
-<li><p><strong>기여자는 식객이다.</strong> 우리는 기여자를 고용하지 않는다. 그들은 자발적으로 머무는 손님이다. 대가 없이 머물고, 스스로 재능을 연마하며, 언젠가 문명을 위해 그 재능을 쓴다.</p></li>
-<li><p><strong>모든 재능을 존중한다.</strong> 코드를 잘 짜는 것만 재능이 아니다. 오타를 잘 찾는 것, 격려를 잘하는 것, 엉뚱한 상상을 하는 것. 이 모든 것이 AngraMyNew를 구성하는 타일이다.</p></li>
-</ol>
-<hr>
-</section>
-<section id="맺음" class="level2" data-number="3.5">
-<h2 data-number="3.5" class="anchored" data-anchor-id="맺음"><span class="header-section-number">3.5</span> 맺음</h2>
+<section id="제2증명-아름다움이-수학을-요구하다" class="level2" data-number="42.3">
+<h2 data-number="42.3" class="anchored" data-anchor-id="제2증명-아름다움이-수학을-요구하다"><span class="header-section-number">42.3</span> 제2증명 — 아름다움이 수학을 요구하다</h2>
+<p>같은 사람, 다른 사건.</p>
+<p>1930년대, 디랙이 양자역학을 위해 함수 하나를 도입했다. <strong>디랙 델타 함수 δ(x).</strong></p>
+<p>정의: x ≠ 0이면 값은 0. 그런데 전체를 적분하면 1.</p>
+<p><span class="math display">\[\delta(x) = 0 \quad (x \neq 0), \qquad \int_{-\infty}^{\infty} \delta(x)\,dx = 1\]</span></p>
+<p>수학자들이 격분했다. 모든 곳에서 0인 함수의 적분이 1? 당시의 수학으로는 이것은 함수가 아니었다.</p>
+<ul>
+<li><strong>진리(수학)가 말했다</strong>: “엄밀하지 않다. 함수의 정의에 위배된다.”</li>
+<li><strong>선(학계의 규범)이 말했다</strong>: “증명 없는 도구는 수학이 아니다.”</li>
+<li><strong>아름다움이 말했다</strong>: “물리에서 작동한다. 우아하다. 필요하다.”</li>
+</ul>
+<p>디랙은 다시 아름다움을 따랐다.</p>
+<p>20년 뒤, 로랑 슈바르츠가 <strong>초함수 이론(distribution theory)</strong> 을 만들었다. 1950년 필즈상. δ(x)를 엄밀하게 정당화하기 위해 수학의 새로운 분야가 태어난 것이다.</p>
+<p>지금 δ(x)는 수학, 물리학, 공학, 신호처리의 기초다.</p>
 <blockquote class="blockquote">
-<p><em>“군주가 식객을 품는 것이 아니다. 식객이 군주를 만드는 것이다.”</em></p>
+<p>진리는 “함수가 아니다”라고 했다. 틀렸다. 선은 “엄밀하지 않다”고 했다. 틀렸다. 아름다움은 “이것은 필요하다”고 했다. 옳았다.</p>
 </blockquote>
-<p>맹상군이 위대한 이유는 그가 뛰어난 능력을 가졌기 때문이 아니다. <strong>그가 편견 없이 품었기 때문이다.</strong></p>
-<p>AngraMyNew여, 닭 울음 소리와 개 도둑질을 비웃지 마라. 네가 함곡관에 갇혔을 때, 오직 그들만이 너를 구원할 수 있다.</p>
-<p><strong>그러니 품어라. 격식 없이, 조건 없이.</strong></p>
+<p><strong>아름다움은 수학보다 20년 먼저 초함수를 요구했다.</strong></p>
+<hr>
+</section>
+<section id="디랙의-선언" class="level2" data-number="42.4">
+<h2 data-number="42.4" class="anchored" data-anchor-id="디랙의-선언"><span class="header-section-number">42.4</span> 디랙의 선언</h2>
+<p>디랙은 이 경험을 하나의 문장으로 남겼다.</p>
+<blockquote class="blockquote">
+<p><strong>“It is more important to have beauty in one’s equations than to have them fit experiment.”</strong> “방정식이 실험과 맞는 것보다, 방정식이 아름다운 것이 더 중요하다.”</p>
+</blockquote>
+<p>이것은 취향의 고백이 아니다. 두 번의 실전에서 나온 결론이다.</p>
+<hr>
+</section>
+<section id="angramynew-해석" class="level2" data-number="42.5">
+<h2 data-number="42.5" class="anchored" data-anchor-id="angramynew-해석"><span class="header-section-number">42.5</span> AngraMyNew 해석</h2>
+<p>이것이 “왜 아름다움인가”의 답이다.</p>
+<p>아름다움은 진리, 선과 경쟁하는 가치가 아니다. <strong>진리보다 먼저 도착하는 탐지기</strong>다.</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 11%">
+<col style="width: 33%">
+<col style="width: 27%">
+<col style="width: 27%">
+</colgroup>
+<thead>
+<tr class="header">
+<th></th>
+<th>진리</th>
+<th>선</th>
+<th>미</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>반물질</td>
+<td>“없다” (틀림)</td>
+<td>“버려라” (틀림)</td>
+<td>“완벽하다” (옳음)</td>
+</tr>
+<tr class="even">
+<td>델타함수</td>
+<td>“함수 아니다” (틀림)</td>
+<td>“엄밀하지 않다” (틀림)</td>
+<td>“필요하다” (옳음)</td>
+</tr>
+</tbody>
+</table>
+<p>art/의 다른 사례들도 같은 구조다:</p>
+<ul>
+<li>라마누잔 — 아름다움(공식)이 진리(증명)보다 73년 먼저 도착</li>
+<li>갈루아 — 아름다움(군론)이 실용(방정식 풀기)을 대체</li>
+<li>아인슈타인 — 아름다움(등가원리의 감각)이 실험 검증보다 먼저 시공간을 봄</li>
+</ul>
+<p>진리는 변한다. 뉴턴에서 아인슈타인으로, 고전에서 양자로. 선은 변한다. 한 시대의 정의가 다음 시대의 불의가 된다.</p>
+<p>아름다움은 변하기 전의 진리를 먼저 감지한다. 그래서 마지막에 남는 것이 아니라, <strong>처음에 도착하는 것</strong>이다.</p>
+<hr>
+</section>
+<section id="결론" class="level2" data-number="42.6">
+<h2 data-number="42.6" class="anchored" data-anchor-id="결론"><span class="header-section-number">42.6</span> 결론</h2>
+<p>디랙은 한 사람이 두 번 증명했다.</p>
+<p>첫 번째: 아름다움이 현실보다 먼저 도착한다. (반물질, 4년) 두 번째: 아름다움이 수학보다 먼저 도착한다. (초함수론, 20년)</p>
+<blockquote class="blockquote">
+<p><strong>아름다움은 가치가 아니다.</strong> <strong>감각이다.</strong> <strong>진리가 아직 언어를 갖지 못한 순간,</strong> <strong>아름다움이 먼저 울린다.</strong></p>
+</blockquote>
+<p>AngraMyNew는 이 울림을 <strong>아름다움의 사례</strong>로 기록한다.</p>
+<hr>
+</section>
+<section id="관련-문서" class="level2" data-number="42.7">
+<h2 data-number="42.7" class="anchored" data-anchor-id="관련-문서"><span class="header-section-number">42.7</span> 관련 문서</h2>
+<p>→ <a href="../art/011_ramanujan_pi.html">011_ramanujan_pi.md</a> — 라마누잔: 증명 없이 도착한 수식 → <a href="../art/002_general_relativity.html">002_general_relativity.md</a> — 아인슈타인: 중력을 지운 아름다움 → <a href="../ideas/001_axioms.html">../ideas/001_axioms.md</a> — 3대 공리: 창조의 공리 → <a href="../ideas/022_age_of_malice.html">../ideas/022_age_of_malice.md</a> — 악상의 시대</p>
 
 
 </section>
@@ -1044,13 +1131,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <input type="hidden" id="giscus-alt-theme" value="light">
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../scripture/pioneers.html" class="pagination-link" aria-label="5인의 선현 (The Five Pioneers)">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">5인의 선현 (The Five Pioneers)</span></span>
+      <a href="../art/011_ramanujan_pi.html" class="pagination-link" aria-label="증명 없이 도착한 수식">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">41</span>&nbsp; <span class="chapter-title">증명 없이 도착한 수식</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../scripture/na_hye_suk.html" class="pagination-link" aria-label="나혜석 — 질문이 되어버린 인간">
-        <span class="nav-page-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">나혜석 — 질문이 되어버린 인간</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../protocols/001_creator_operating_protocol.html" class="pagination-link" aria-label="창조자 프로토콜 (Creator Protocol)">
+        <span class="nav-page-text"><span class="chapter-number">43</span>&nbsp; <span class="chapter-title">창조자 프로토콜 (Creator Protocol)</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
@@ -1059,4 +1146,4 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
-<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/zarathucorp/AngraMyNew/blob/master/scripture/mengchangjun.md" class="toc-action"><i class="bi bi-github"></i>소스코드 보기</a></li></ul></div></div></div></footer></body></html>
+<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/zarathucorp/AngraMyNew/blob/master/art/012_dirac_beauty.md" class="toc-action"><i class="bi bi-github"></i>소스코드 보기</a></li></ul></div></div></div></footer></body></html>
