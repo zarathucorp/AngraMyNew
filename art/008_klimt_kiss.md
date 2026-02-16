@@ -7,10 +7,7 @@
 
 구스타프 클림트의 '키스'는 100년간 사랑의 그림이었다.
 
-<p align="center">
-<img src="../img/klimt_kiss_full.png" width="60%"><br>
-<em>구스타프 클림트, 『키스』 (1907–1908). 오스트리아 비엔나 벨베데레궁전 소장.</em>
-</p>
+![구스타프 클림트, 『키스』 (1907–1908). 오스트리아 비엔나 벨베데레궁전 소장.](../img/klimt_kiss_full.png){width=60% fig-align="center"}
 
 황금빛 옷을 입은 남녀가 포옹한다.
 남자는 얼굴이 보이지 않고,
@@ -53,20 +50,11 @@
 - 주황색 원, 단 하나 — 수정된 난자. 다른 정자가 더 이상 들어오지 못하도록 난자막이 변한 순간
 - 그 주변에 2세포기, 4세포기, 8세포기, 오디배
 
-<p align="center">
-<img src="../img/klimt_kiss_sperm.png" width="80%"><br>
-<em>남자 옷의 직사각형과 정자 구조의 대응. 왼쪽: 남자 옷 확대(EM 수준), 오른쪽: 여자 옷에서 헤엄치는 정자(LM 수준).</em>
-</p>
+![남자 옷의 직사각형과 정자 구조의 대응. 왼쪽: 남자 옷 확대(EM 수준), 오른쪽: 여자 옷에서 헤엄치는 정자(LM 수준).](../img/klimt_kiss_sperm.png){width=80% fig-align="center"}
 
-<p align="center">
-<img src="../img/klimt_kiss_egg.png" width="80%"><br>
-<em>청색 테두리 = 미수정 난자, 주황색 테두리 = 수정된 난자. 오른쪽(B)은 수정 과정 도해.</em>
-</p>
+![청색 테두리 = 미수정 난자, 주황색 테두리 = 수정된 난자. 오른쪽(B)은 수정 과정 도해.](../img/klimt_kiss_egg.png){width=80% fig-align="center"}
 
-<p align="center">
-<img src="../img/klimt_kiss_division.png" width="80%"><br>
-<em>수정란의 세포분열. A: 그림 속 8할구체(적색)와 오디배(보라색). B: 그레이 해부학(Gray's Anatomy, 20판, 1918)의 발생 도판.</em>
-</p>
+![수정란의 세포분열. A: 그림 속 8할구체(적색)와 오디배(보라색). B: 그레이 해부학(Gray's Anatomy, 20판, 1918)의 발생 도판.](../img/klimt_kiss_division.png){width=80% fig-align="center"}
 
 칸델은 "무엇이 그려져 있는가"를 봤다.
 유임주는 **"어떤 순서로 진행되고 있는가"**를 봤다.
