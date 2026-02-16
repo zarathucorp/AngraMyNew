@@ -96,7 +96,7 @@ AngraMyNew始于破坏，但目标是创造。
 
 ## 6. 结构
 
-- 📂 **[ideas/](ideas/)** — 哲学、思想、宣言（26篇）
+- 📂 **[ideas/](ideas/)** — 哲学、思想、宣言（28篇）
     - **── 起源／公理 (Foundation) ──**
     - 📄 [000_origin.md](ideas/000_origin.md) — AngraMyNew的起源
     - 📄 [001_axioms.md](ideas/001_axioms.md) — 三大公理
@@ -114,6 +114,7 @@ AngraMyNew始于破坏，但目标是创造。
     - 📄 [024_when_critical_care_needs_witness.md](ideas/024_when_critical_care_needs_witness.md) — 目击费 — 必要医疗危机
     - 📄 [025_consumption_of_exempt.md](ideas/025_consumption_of_exempt.md) — 免税人的消费
     - 📄 [026_three_kingdoms_of_beauty.md](ideas/026_three_kingdoms_of_beauty.md) — 真·善·美的三国志
+    - 📄 [029_on_patronage.md](ideas/029_on_patronage.md) — 后援者论：投资即课税
     - **── 认识论／科学 (Epistemology & Science) ──**
     - 📄 [016_mental_lhc.md](ideas/016_mental_lhc.md) — 精神的LHC
     - 📄 [017_when_is_a_proof_beautiful.md](ideas/017_when_is_a_proof_beautiful.md) — 证明何时是美的
@@ -129,6 +130,7 @@ AngraMyNew始于破坏，但目标是创造。
     - 📄 [015_case_study_the_gravity_of_outlaws.md](ideas/015_case_study_the_gravity_of_outlaws.md) — 征税的实战模型
     - 📄 [021_case_study_dawn_money.md](ideas/021_case_study_dawn_money.md) — DAWN — Money
     - 📄 [027_case_study_perfume.md](ideas/027_case_study_perfume.md) — 香水：刀刃朝外的男人
+    - 📄 [028_case_study_fukuzawa.md](ideas/028_case_study_fukuzawa.md) — 边界线：扩张变为扩大之时
 - 🎨 **[art/](art/)** — 美的案例
     - 📄 [001_galois_quintic.md](art/001_galois_quintic.md)
     - 📄 [002_general_relativity.md](art/002_general_relativity.md)

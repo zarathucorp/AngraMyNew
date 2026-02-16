@@ -95,7 +95,7 @@ AngraMyNewは破壊から始まるが、その目的は創造にある。
 
 ## 6. 構造
 
-- 📂 **[ideas/](ideas/)** — 哲学・思想・宣言（26編）
+- 📂 **[ideas/](ideas/)** — 哲学・思想・宣言（28編）
     - **── 起源／公理 (Foundation) ──**
     - 📄 [000_origin.md](ideas/000_origin.md) — AngraMyNewの起源
     - 📄 [001_axioms.md](ideas/001_axioms.md) — 三大公理
@@ -113,6 +113,7 @@ AngraMyNewは破壊から始まるが、その目的は創造にある。
     - 📄 [024_when_critical_care_needs_witness.md](ideas/024_when_critical_care_needs_witness.md) — 目撃料 — 必須医療危機
     - 📄 [025_consumption_of_exempt.md](ideas/025_consumption_of_exempt.md) — 免税人の消費
     - 📄 [026_three_kingdoms_of_beauty.md](ideas/026_three_kingdoms_of_beauty.md) — 真・善・美の三国志
+    - 📄 [029_on_patronage.md](ideas/029_on_patronage.md) — 後援者論：投資は課税だ
     - **── 認識論／科学 (Epistemology & Science) ──**
     - 📄 [016_mental_lhc.md](ideas/016_mental_lhc.md) — 精神のLHC
     - 📄 [017_when_is_a_proof_beautiful.md](ideas/017_when_is_a_proof_beautiful.md) — 証明はいつ美しいか
@@ -128,6 +129,7 @@ AngraMyNewは破壊から始まるが、その目的は創造にある。
     - 📄 [015_case_study_the_gravity_of_outlaws.md](ideas/015_case_study_the_gravity_of_outlaws.md) — 徴税の実戦モデル
     - 📄 [021_case_study_dawn_money.md](ideas/021_case_study_dawn_money.md) — DAWN — Money
     - 📄 [027_case_study_perfume.md](ideas/027_case_study_perfume.md) — 香水：刃が外を向いた男
+    - 📄 [028_case_study_fukuzawa.md](ideas/028_case_study_fukuzawa.md) — 境界線：拡張が拡大になるとき
 - 🎨 **[art/](art/)** — 美の事例
     - 📄 [001_galois_quintic.md](art/001_galois_quintic.md)
     - 📄 [002_general_relativity.md](art/002_general_relativity.md)

@@ -97,7 +97,7 @@ Mengchangjun's three thousand retainers were not chosen for usefulness. A rooste
 
 ## 6. Structure
 
-- 📂 **[ideas/](ideas/)** — Philosophy, doctrine, declarations (26 essays)
+- 📂 **[ideas/](ideas/)** — Philosophy, doctrine, declarations (28 essays)
     - **── Foundation ──**
     - 📄 [000_origin.md](ideas/000_origin.md) — Origin of AngraMyNew
     - 📄 [001_axioms.md](ideas/001_axioms.md) — 3 Axioms
@@ -115,6 +115,7 @@ Mengchangjun's three thousand retainers were not chosen for usefulness. A rooste
     - 📄 [024_when_critical_care_needs_witness.md](ideas/024_when_critical_care_needs_witness.md) — Witness Fee — Essential Care Crisis
     - 📄 [025_consumption_of_exempt.md](ideas/025_consumption_of_exempt.md) — Consumption of the Exempt
     - 📄 [026_three_kingdoms_of_beauty.md](ideas/026_three_kingdoms_of_beauty.md) — Three Kingdoms of Truth, Good, and Beauty
+    - 📄 [029_on_patronage.md](ideas/029_on_patronage.md) — On Patronage: Investment Is Taxation
     - **── Epistemology & Science ──**
     - 📄 [016_mental_lhc.md](ideas/016_mental_lhc.md) — The Mental LHC
     - 📄 [017_when_is_a_proof_beautiful.md](ideas/017_when_is_a_proof_beautiful.md) — When Is a Proof Beautiful?
@@ -130,6 +131,7 @@ Mengchangjun's three thousand retainers were not chosen for usefulness. A rooste
     - 📄 [015_case_study_the_gravity_of_outlaws.md](ideas/015_case_study_the_gravity_of_outlaws.md) — The Gravity of Outlaws
     - 📄 [021_case_study_dawn_money.md](ideas/021_case_study_dawn_money.md) — DAWN — Money
     - 📄 [027_case_study_perfume.md](ideas/027_case_study_perfume.md) — Perfume: The Man Whose Blade Faced Outward
+    - 📄 [028_case_study_fukuzawa.md](ideas/028_case_study_fukuzawa.md) — The Boundary: When Expansion Becomes Imposition
 - 🎨 **[art/](art/)** — Examples of beauty
     - 📄 [001_galois_quintic.md](art/001_galois_quintic.md)
     - 📄 [002_general_relativity.md](art/002_general_relativity.md)

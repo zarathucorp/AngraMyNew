@@ -98,7 +98,7 @@ AngraMyNew는 파괴에서 출발하지만, 목적은 창조에 있다.
 
 ## 6. 구조
 
-- 📂 **[ideas/](ideas/)** — 철학, 사상, 선언 (26편)
+- 📂 **[ideas/](ideas/)** — 철학, 사상, 선언 (28편)
     - **── 기원/공리 (Foundation) ──**
     - 📄 [000_origin.md](ideas/000_origin.md) — AngraMyNew의 기원
     - 📄 [001_axioms.md](ideas/001_axioms.md) — 3대 공리
@@ -116,6 +116,7 @@ AngraMyNew는 파괴에서 출발하지만, 목적은 창조에 있다.
     - 📄 [024_when_critical_care_needs_witness.md](ideas/024_when_critical_care_needs_witness.md) — 목격료 — 필수의료 위기
     - 📄 [025_consumption_of_exempt.md](ideas/025_consumption_of_exempt.md) — 면세인의 소비
     - 📄 [026_three_kingdoms_of_beauty.md](ideas/026_three_kingdoms_of_beauty.md) — 진·선·미의 삼국지
+    - 📄 [029_on_patronage.md](ideas/029_on_patronage.md) — 후원자론: 투자는 과세다
     - **── 인식론/과학 (Epistemology & Science) ──**
     - 📄 [016_mental_lhc.md](ideas/016_mental_lhc.md) — 정신의 LHC
     - 📄 [017_when_is_a_proof_beautiful.md](ideas/017_when_is_a_proof_beautiful.md) — 증명은 언제 아름다운가
@@ -131,6 +132,7 @@ AngraMyNew는 파괴에서 출발하지만, 목적은 창조에 있다.
     - 📄 [015_case_study_the_gravity_of_outlaws.md](ideas/015_case_study_the_gravity_of_outlaws.md) — 징세의 실전 모델
     - 📄 [021_case_study_dawn_money.md](ideas/021_case_study_dawn_money.md) — DAWN — Money
     - 📄 [027_case_study_perfume.md](ideas/027_case_study_perfume.md) — 향수: 칼날이 밖을 향한 남자
+    - 📄 [028_case_study_fukuzawa.md](ideas/028_case_study_fukuzawa.md) — 경계선: 확장이 확대가 될 때
 - 🎨 **[art/](art/)** — 아름다움의 사례
     - 📄 [001_galois_quintic.md](art/001_galois_quintic.md)
     - 📄 [002_general_relativity.md](art/002_general_relativity.md)

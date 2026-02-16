@@ -44,6 +44,7 @@ book:
         - ideas/024_when_critical_care_needs_witness.md
         - ideas/025_consumption_of_exempt.md
         - ideas/026_three_kingdoms_of_beauty.md
+        - ideas/029_on_patronage.md
     - part: "Ideas — 인식론과 과학"
       chapters:
         - ideas/016_mental_lhc.md
@@ -62,6 +63,7 @@ book:
         - ideas/015_case_study_the_gravity_of_outlaws.md
         - ideas/021_case_study_dawn_money.md
         - ideas/027_case_study_perfume.md
+        - ideas/028_case_study_fukuzawa.md
     - part: "Art — 아름다움의 사례"
       chapters:
         - art/001_galois_quintic.md
