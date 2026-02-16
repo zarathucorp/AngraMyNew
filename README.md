@@ -142,6 +142,7 @@ AngraMyNew는 파괴에서 출발하지만, 목적은 창조에 있다.
     - 📄 [008_klimt_kiss.md](art/008_klimt_kiss.md)
     - 📄 [009_mozart_pure_beauty.md](art/009_mozart_pure_beauty.md)
     - 📄 [010_war_of_genesis.md](art/010_war_of_genesis.md)
+    - 📄 [011_ramanujan_pi.md](art/011_ramanujan_pi.md)
 - 🧠 **[fravashi/](fravashi/)** — Fravashi 원형 해석 엔진
     - 📄 [001_internal_manual.md](fravashi/001_internal_manual.md)
     - 📄 [002_gpt_prompt.md](fravashi/002_gpt_prompt.md)

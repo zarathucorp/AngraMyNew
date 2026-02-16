@@ -1,5 +1,38 @@
 # Changelog
 
+## v6.4 — 라마누잔의 원주율 + 003 재작성 + PDF 줄바꿈 교정 (2026-02-16)
+
+### 추가
+- `art/011_ramanujan_pi.md` — 증명 없이 도착한 수식: 라마누잔의 원주율과 신내림의 구조
+  - 1914년 공식 제출 → 1987년 보르바인 형제 증명 (73년의 시차)
+  - 상수 9801, 1103, 26390, 396의 불가해성
+  - 추드노프스키 형제의 확장 (항당 14자리, π 수조 자리 계산)
+  - ideas/003 "궁금하면 니들이 하던가"의 수학적 실물
+  - 악상의 사례: 정돈 이전의 진동이 수식으로 고정
+
+### 변경
+- `ideas/003_beyond_usefulness.md` — 전면 재작성
+  - 하수/고수/최고수 구조 재정의: 문제를 다루는 자 / 아름다움을 다루는 자 / 신내림
+  - 경제 메타포 추가: 정가 → 패닉바잉 → 세계를 만든다
+  - 5인의 선현 재해석: "다른 세계를 본 자들" (시대는 X라 했다. 그는 Y를 보고 있었다)
+  - 라마누잔 섹션 추가: 신내림의 실례
+  - 에피그래프 변경: "당신의 몸값이 측정되길 원하는가?"
+- PDF 줄바꿈 교정 (8개 파일):
+  - `art/005_hangul_two_states.md` — 전면 리라이트 (186→122줄)
+  - `art/004_principia_geometry.md` — 12곳 병합
+  - `art/001_galois_quintic.md` — 5곳 병합
+  - `art/003_one_pattern.md` — 5곳 병합
+  - `art/002_general_relativity.md` — 3곳 병합
+  - `art/009_mozart_pure_beauty.md` — 3곳 병합
+  - `art/010_war_of_genesis.md` — 2곳 병합
+  - `protocols/002_ethics_of_creation.md` — 2곳 병합
+- `_quarto.yml` — art/011 챕터 추가
+- `CLAUDE.md` — art/ 편수 11편 반영, 사례 테이블에 010/011 추가
+- `fravashi/001_internal_manual.md`, `fravashi/003_gpt_prompt_full.md`, `fravashi/004_agent_prompt.md` — art/ 사례 목록에 011 추가
+- README (한/영/일/중) — art/011 추가
+
+---
+
 ## v6.3 — 창세기전: 뫼비우스 위의 앙그라마이뉴 (2026-02-13)
 
 ### 추가
