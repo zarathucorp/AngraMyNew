@@ -142,6 +142,7 @@ Mengchangjun's three thousand retainers were not chosen for usefulness. A rooste
     - 📄 [009_mozart_pure_beauty.md](art/009_mozart_pure_beauty.md)
     - 📄 [010_war_of_genesis.md](art/010_war_of_genesis.md)
     - 📄 [011_ramanujan_pi.md](art/011_ramanujan_pi.md)
+    - 📄 [012_dirac_beauty.md](art/012_dirac_beauty.md)
 - 🧠 **[fravashi/](fravashi/)** — Fravashi Archetype Engine
     - 📄 [001_internal_manual.md](fravashi/001_internal_manual.md)
     - 📄 [002_gpt_prompt.md](fravashi/002_gpt_prompt.md)

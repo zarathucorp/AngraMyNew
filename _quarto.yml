@@ -75,6 +75,7 @@ book:
         - art/009_mozart_pure_beauty.md
         - art/010_war_of_genesis.md
         - art/011_ramanujan_pi.md
+        - art/012_dirac_beauty.md
     - part: "Protocols — 실행 프로토콜"
       chapters:
         - protocols/001_creator_operating_protocol.md
