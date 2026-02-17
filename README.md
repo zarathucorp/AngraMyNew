@@ -98,7 +98,7 @@ AngraMyNew는 파괴에서 출발하지만, 목적은 창조에 있다.
 
 ## 6. 구조
 
-- 📂 **[ideas/](ideas/)** — 철학, 사상, 선언 (28편)
+- 📂 **[ideas/](ideas/)** — 철학, 사상, 선언 (29편)
     - **── 기원/공리 (Foundation) ──**
     - 📄 [000_origin.md](ideas/000_origin.md) — AngraMyNew의 기원
     - 📄 [001_axioms.md](ideas/001_axioms.md) — 3대 공리
@@ -133,6 +133,7 @@ AngraMyNew는 파괴에서 출발하지만, 목적은 창조에 있다.
     - 📄 [021_case_study_dawn_money.md](ideas/021_case_study_dawn_money.md) — DAWN — Money
     - 📄 [027_case_study_perfume.md](ideas/027_case_study_perfume.md) — 향수: 칼날이 밖을 향한 남자
     - 📄 [028_case_study_fukuzawa.md](ideas/028_case_study_fukuzawa.md) — 경계선: 확장이 확대가 될 때
+    - 📄 [030_case_study_zorba.md](ideas/030_case_study_zorba.md) — 그리스인 조르바: 매뉴얼이 필요 없었던 사람
 - 🎨 **[art/](art/)** — 아름다움의 사례
     - 📄 [001_galois_quintic.md](art/001_galois_quintic.md)
     - 📄 [002_general_relativity.md](art/002_general_relativity.md)
@@ -147,6 +148,8 @@ AngraMyNew는 파괴에서 출발하지만, 목적은 창조에 있다.
     - 📄 [011_ramanujan_pi.md](art/011_ramanujan_pi.md)
     - 📄 [012_dirac_beauty.md](art/012_dirac_beauty.md)
     - 📄 [013_yinyang_wuxing.md](art/013_yinyang_wuxing.md)
+    - 📄 [014_lagrangian.md](art/014_lagrangian.md)
+    - 📄 [015_dostoevsky_polyphony.md](art/015_dostoevsky_polyphony.md)
 - 🧠 **[fravashi/](fravashi/)** — Fravashi 원형 해석 엔진
     - 📄 [001_internal_manual.md](fravashi/001_internal_manual.md)
     - 📄 [002_gpt_prompt.md](fravashi/002_gpt_prompt.md)

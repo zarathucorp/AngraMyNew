@@ -97,7 +97,7 @@ Mengchangjun's three thousand retainers were not chosen for usefulness. A rooste
 
 ## 6. Structure
 
-- 📂 **[ideas/](ideas/)** — Philosophy, doctrine, declarations (28 essays)
+- 📂 **[ideas/](ideas/)** — Philosophy, doctrine, declarations (29 essays)
     - **── Foundation ──**
     - 📄 [000_origin.md](ideas/000_origin.md) — Origin of AngraMyNew
     - 📄 [001_axioms.md](ideas/001_axioms.md) — 3 Axioms
@@ -132,6 +132,7 @@ Mengchangjun's three thousand retainers were not chosen for usefulness. A rooste
     - 📄 [021_case_study_dawn_money.md](ideas/021_case_study_dawn_money.md) — DAWN — Money
     - 📄 [027_case_study_perfume.md](ideas/027_case_study_perfume.md) — Perfume: The Man Whose Blade Faced Outward
     - 📄 [028_case_study_fukuzawa.md](ideas/028_case_study_fukuzawa.md) — The Boundary: When Expansion Becomes Imposition
+    - 📄 [030_case_study_zorba.md](ideas/030_case_study_zorba.md) — Zorba the Greek: The Man Who Never Needed the Manual
 - 🎨 **[art/](art/)** — Examples of beauty
     - 📄 [001_galois_quintic.md](art/001_galois_quintic.md)
     - 📄 [002_general_relativity.md](art/002_general_relativity.md)
@@ -146,6 +147,8 @@ Mengchangjun's three thousand retainers were not chosen for usefulness. A rooste
     - 📄 [011_ramanujan_pi.md](art/011_ramanujan_pi.md)
     - 📄 [012_dirac_beauty.md](art/012_dirac_beauty.md)
     - 📄 [013_yinyang_wuxing.md](art/013_yinyang_wuxing.md)
+    - 📄 [014_lagrangian.md](art/014_lagrangian.md)
+    - 📄 [015_dostoevsky_polyphony.md](art/015_dostoevsky_polyphony.md)
 - 🧠 **[fravashi/](fravashi/)** — Fravashi Archetype Engine
     - 📄 [001_internal_manual.md](fravashi/001_internal_manual.md)
     - 📄 [002_gpt_prompt.md](fravashi/002_gpt_prompt.md)

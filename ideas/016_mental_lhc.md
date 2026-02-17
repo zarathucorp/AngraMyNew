@@ -66,3 +66,9 @@ AngraMyNew는 그들에게 하나의 공간을 제공할 뿐이다.
 > **AngraMyNew는
 > 정신이 스스로 붕괴되는 지점을
 > 관측하기 위한 고에너지 실험 환경이다.**
+
+---
+
+## 관련 문서
+
+→ [../art/015_dostoevsky_polyphony.md](../art/015_dostoevsky_polyphony.md) — 도스토옙스키: 이 장치를 소설로 구현한 사람. 충돌시키되 판결하지 않는다

@@ -95,7 +95,7 @@ AngraMyNewは破壊から始まるが、その目的は創造にある。
 
 ## 6. 構造
 
-- 📂 **[ideas/](ideas/)** — 哲学・思想・宣言（28編）
+- 📂 **[ideas/](ideas/)** — 哲学・思想・宣言（29編）
     - **── 起源／公理 (Foundation) ──**
     - 📄 [000_origin.md](ideas/000_origin.md) — AngraMyNewの起源
     - 📄 [001_axioms.md](ideas/001_axioms.md) — 三大公理
@@ -130,6 +130,7 @@ AngraMyNewは破壊から始まるが、その目的は創造にある。
     - 📄 [021_case_study_dawn_money.md](ideas/021_case_study_dawn_money.md) — DAWN — Money
     - 📄 [027_case_study_perfume.md](ideas/027_case_study_perfume.md) — 香水：刃が外を向いた男
     - 📄 [028_case_study_fukuzawa.md](ideas/028_case_study_fukuzawa.md) — 境界線：拡張が拡大になるとき
+    - 📄 [030_case_study_zorba.md](ideas/030_case_study_zorba.md) — ギリシャ人ゾルバ：マニュアルを必要としなかった男
 - 🎨 **[art/](art/)** — 美の事例
     - 📄 [001_galois_quintic.md](art/001_galois_quintic.md)
     - 📄 [002_general_relativity.md](art/002_general_relativity.md)
@@ -144,6 +145,8 @@ AngraMyNewは破壊から始まるが、その目的は創造にある。
     - 📄 [011_ramanujan_pi.md](art/011_ramanujan_pi.md)
     - 📄 [012_dirac_beauty.md](art/012_dirac_beauty.md)
     - 📄 [013_yinyang_wuxing.md](art/013_yinyang_wuxing.md)
+    - 📄 [014_lagrangian.md](art/014_lagrangian.md)
+    - 📄 [015_dostoevsky_polyphony.md](art/015_dostoevsky_polyphony.md)
 - 🧠 **[fravashi/](fravashi/)** — Fravashi 原型解析エンジン
     - 📄 [001_internal_manual.md](fravashi/001_internal_manual.md)
     - 📄 [002_gpt_prompt.md](fravashi/002_gpt_prompt.md)
