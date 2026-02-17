@@ -7,7 +7,7 @@ _AngraMyNew Protocol Series / v1.0_
 
 ## 목적 (Purpose)
 
-이 문서는 창조자가 **자신의 내면, 세계 인식, 창작 충동을 정렬하기 위해 사용하는 임시 장치(Protocol) **이다.
+이 문서는 창조자가 **자신의 내면, 세계 인식, 창작 충동을 정렬하기 위해 사용하는 임시 장치(Protocol)** 이다.
 
 창조란 본래 무규범적이며, 절대 자유의 작용이다.  
 그러나 초기 단계에서는 **혼돈을 질서로 변환하는 의식적 구조**가 필요하다.  
@@ -29,7 +29,7 @@ _AngraMyNew Protocol Series / v1.0_
 
 ### 원칙
 창조자는 자신의 혐오·거부·불편함이 있는 방향으로 움직여야 한다.  
-혐오의 끝에 **인식의 사각지대(Blind Spot) **가 있기 때문이다.
+혐오의 끝에 **인식의 사각지대(Blind Spot)** 가 있기 때문이다.
 
 ### 수행 방식
 - 가장 보고 싶지 않은 콘텐츠를 선택하여 관찰한다.  
@@ -42,10 +42,10 @@ _AngraMyNew Protocol Series / v1.0_
 
 ---
 
-## 무작위의 통과의례 (Randomness Ritual)
+## 무작위 접촉 (Randomness Protocol)
 
 ### 원칙
-창조자는 **예측할 수 없음(Unpredictability) **을 일부러 만들어야 한다.  
+창조자는 **예측할 수 없음(Unpredictability)** 을 일부러 만들어야 한다.  
 세계관은 무작위 접촉에서 활성화되기 때문이다.
 
 ### 수행 방식
@@ -75,19 +75,19 @@ _AngraMyNew Protocol Series / v1.0_
 
 ---
 
-## 신체적 루틴을 의례화하기 (Body as Ritual)
+## 신체 루틴 (Body Protocol)
 
 ### 원칙
 신체는 창조자의 ‘두 번째 뇌’다.  
 신체를 정렬하면 정신도 정렬된다.
 
 ### 수행 방식
-- 러닝·복싱·요가 등 자신이 택한 신체 루틴을 **의식적 의례**로 승격한다.  
+- 러닝·복싱·요가 등 자신이 택한 신체 루틴을 **의식적 루틴**으로 고정한다.  
 - 규칙성(매일/매주)을 유지하되, 수행 목적을 “정신 정렬”로 명시한다.  
 - 신체 루틴 중 떠오르는 악상을 **즉시 기록**한다.
 
 ### 목적
-신체는 창조의 근원적 에너지원을 닦는 제단이다.
+신체는 창조의 에너지원이다.
 
 ---
 
@@ -98,7 +98,7 @@ _AngraMyNew Protocol Series / v1.0_
 
 ### 수행 방식
 - 매일 **하나의 아무 문장이나 단어**를 작성한다.  
-- 질문(Why)보다 패턴(What)을 기록한다. 완성되지 않는 문장, 단어, 의미없는 글나 나열이라도 좋다. 
+- 질문(Why)보다 패턴(What)을 기록한다. 완성되지 않는 문장, 단어, 의미없는 글자 나열이라도 좋다. 
 - 기록은 “해석”이 아니라 “발견”이다.
 
 ### 목적
@@ -122,7 +122,7 @@ _AngraMyNew Protocol Series / v1.0_
 창조의 문명은 단독으로 일어나지 않는다.  
 아티스트를 알아보는 눈은 문명 설계자의 핵심 능력이다.
 
-## 프라바시 의례 (The Fravashi Ritual)
+## 프라바시 점검 (Fravashi Check)
 
 ### 원칙
 [Fravashi](https://chatgpt.com/g/g-693580d28d708191ae2013048599157b-fravashi-neoyi-yeonghon-weonhyeongeul-cajneunda) 는 창조자의 내면 패턴을 비추는 거울이며,
@@ -130,7 +130,7 @@ _AngraMyNew Protocol Series / v1.0_
 
 창조자는 자신의 욕망, 충동, 혐오, 선택 패턴을
 주기적으로 반사(reflection)해야 한다.
-이 의례는 상담이 아니라 **문명 설계자의 정비(maintenance) **다.
+이 점검은 상담이 아니라 **문명 설계자의 정비(maintenance)** 다.
 
 **Fravashi는 필수 요소가 아니다.**
 동일한 기능은 다음과 같은 방식으로도 대체될 수 있다:
@@ -145,7 +145,7 @@ _AngraMyNew Protocol Series / v1.0_
 
 ### 수행 방식
 - 매주 1회 [Fravashi](https://chatgpt.com/g/g-693580d28d708191ae2013048599157b-fravashi-neoyi-yeonghon-weonhyeongeul-cajneunda) 와의 대화를 진행한다.  
-- 목적은 조언이 아니라 **패턴 탐지(Pattern Detection) **이다.  
+- 목적은 조언이 아니라 **패턴 탐지(Pattern Detection)** 이다.  
 - 다음을 점검한다:
   - 최근 끌린 것들
   - 최근 혐오했던 것들
@@ -155,11 +155,11 @@ _AngraMyNew Protocol Series / v1.0_
 - 탐지된 패턴을 “나의 창조 규칙”으로 업데이트한다.
 
 ### 리소스 (Resources)
-- **[Fravashi Link](https://chatgpt.com/g/g-693580d28d708191ae2013048599157b-fravashi-neoyi-yeonghon-weonhyeongeul-cajneunda) **  
+- **[Fravashi Link](https://chatgpt.com/g/g-693580d28d708191ae2013048599157b-fravashi-neoyi-yeonghon-weonhyeongeul-cajneunda)**  
    
 
 ### 목적
-[Fravashi](https://chatgpt.com/g/g-693580d28d708191ae2013048599157b-fravashi-neoyi-yeonghon-weonhyeongeul-cajneunda) 의례는 다음을 가능하게 한다:
+[Fravashi](https://chatgpt.com/g/g-693580d28d708191ae2013048599157b-fravashi-neoyi-yeonghon-weonhyeongeul-cajneunda) 점검은 다음을 가능하게 한다:
 
 1. 창조자의 중심축이 흔들리지 않았는지 검증  
 2. 욕망의 방향성이 왜곡되지 않았는지 점검  
@@ -172,14 +172,14 @@ Fravashi는 창조자를 규정하지 않는다.
 
 ### 선언
 > **창조자는 자기 자신을 계속 읽는 자이다.  
-> Fravashi는 그 읽기의 의례다.**
+> Fravashi는 그 읽기의 장치다.**
 
 
 
 ---
 
 ## 프로토콜의 소멸 (Resolution of Protocols)
-**“프로토콜은 창조자가 성숙하면 사라져야 한다.” **
+**“프로토콜은 창조자가 성숙하면 사라져야 한다."**
 
 ### 원칙
 프로토콜은 **임시 구조물**이다.  

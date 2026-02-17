@@ -89,6 +89,7 @@ book:
     - part: "Fravashi — 원형 해석 엔진"
       chapters:
         - fravashi/002_gpt_prompt.md
+        - fravashi/003_agent_prompt.md
 
 comments:
   giscus:

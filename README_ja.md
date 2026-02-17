@@ -150,8 +150,7 @@ AngraMyNewは破壊から始まるが、その目的は創造にある。
 - 🧠 **[fravashi/](fravashi/)** — Fravashi 原型解析エンジン
     - 📄 [001_internal_manual.md](fravashi/001_internal_manual.md)
     - 📄 [002_gpt_prompt.md](fravashi/002_gpt_prompt.md)
-    - 📄 [003_gpt_prompt_full.md](fravashi/003_gpt_prompt_full.md)
-    - 📄 [004_agent_prompt.md](fravashi/004_agent_prompt.md)
+    - 📄 [003_agent_prompt.md](fravashi/003_agent_prompt.md)
 - 📜 **[protocols/](protocols/)** — 実行プロトコル
     - 📄 [001_creator_operating_protocol.md](protocols/001_creator_operating_protocol.md)
     - 📄 [002_ethics_of_creation.md](protocols/002_ethics_of_creation.md)

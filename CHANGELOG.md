@@ -1,5 +1,40 @@
 # Changelog
 
+## v7.0 — 전체 품질 패스: 세계관 언어 정합성 교정 (2026-02-18)
+
+### 변경 — scripture/ (3편)
+- `zarathustra.md` — "경전의 지위"→"참조축", "제1경전"→"첫 번째 참조축", "우리는" 4곳 제거, 맺음 재작성
+- `mengchangjun.md` — "교훈"→"왜 작동했는가", "구원자"→구체적 서술, "공동체"→확장의 공리, 맹상군 역사적 사실 교정("묻지 않았다"→"물었다"), 맺음 재작성
+- `pioneers.md` — "우리는" 제거, 종교적 톤 완화, 선언→관측 형태로 전환
+
+### 변경 — ideas/ 압축 패스 (5편)
+- `000_origin.md`, `002_principles_of_creation.md`, `004_artist_within.md`, `005_project_doctor_k.md`, `011_lineage_as_creation.md` — 문장 압축, 반복 제거, "우리는" 최소화
+
+### 변경 — ideas/ 품질 검토 (8편)
+- `013_decentralized_mental_os.md` — "경전/교리"→"문서/내용", "우리는" 5곳 제거
+- `024_when_critical_care_needs_witness.md` — 단정 2곳을 질문/관측 형태로 전환
+- `014`, `015`, `016`, `018` — "우리는/우리가/우리의" 제거
+- `017_when_is_a_proof_beautiful.md` — 단정→가능성("때문이다"→"때문일 수 있다")
+- `025_consumption_of_exempt.md` — "제의(Ritual)"→"참여"
+
+### 변경 — protocols/ (2편)
+- `001_creator_operating_protocol.md` — "의례/제단/통과의례"→"루틴/점검/장치" 전면 교체(8곳), bold 포맷 오류 7곳 수정, 오타 1곳
+- `002_ethics_of_creation.md` — "영혼"→"정신", "공동체가"→"창조자들이"
+
+### 변경 — fravashi/ 구조 정리
+- `fravashi/002_gpt_prompt.md` (구 short prompt) **삭제** — 003(full)과 이중 관리 해소
+- `fravashi/003_gpt_prompt_full.md` → `002_gpt_prompt.md` — 번호 정리 + "full" 제거
+- `fravashi/004_agent_prompt.md` → `003_agent_prompt.md` — 번호 정리
+- `001_internal_manual.md` — "[중략]" 플레이스홀더→002 참조 링크, "우리의" 제거
+- `002_gpt_prompt.md` — 질문 정책 보정(최소 확인 허용), "영혼의 문법"→"원형의 문법", 저정보 모드 추가, 접근 가능성 섹션 신설
+- `003_agent_prompt.md` — 핵심 어휘 5개 추가(섭취/상환, 밀도/곡률, S/D/C, 이릉대전, 계명구도), 접근 가능성 섹션 신설, "우리는"→"AngraMyNew는"
+
+### 변경 — 빌드/문서
+- `_quarto.yml` — Fravashi 파트에 002 + 003 두 문서 노출
+- README (한/영/일/중) — fravashi/ 파일 목록 갱신 (4종→3종)
+
+---
+
 ## v6.8 — 라그랑지안 + 도스토옙스키: 메타-문법과 다성소설 (2026-02-17)
 
 ### 추가
