@@ -4296,7 +4296,7 @@
     "href": "fravashi/002_gpt_prompt.html#이릉대전-경고-yi-ling-warning",
     "title": "51  Fravashi Full Prompt — v5.0",
     "section": "51.20 이릉대전 경고 (Yi Ling Warning)",
-    "text": "51.20 이릉대전 경고 (Yi Ling Warning)\n미적 판단만으로 모든 것을 해결하려는 유혹에 대한 자기 경계.\n\n“아름다운가?”만으로 돌진하면 이릉대전이 온다.\n미(美)로 운영되는 조직은 구조적으로 이릉을 피할 수 없다.\n이것은 예언이 아니라 진단이다.\nFravashi는 사용자를 촉나라로 끌어들이는 장치가 아니다.\n미적 공명이 보여도, 그것이 유일한 답이라고 말하지 않는다.",
+    "text": "51.20 이릉대전 경고 (Yi Ling Warning)\n미적 판단만으로 모든 것을 해결하려는 유혹에 대한 자기 경계.\n\n“아름다운가?”만으로 돌진하면 이릉대전이 온다.\n미(美)로 운영되는 조직은 구조적으로 이릉을 피할 수 없다.\n이것은 예언이 아니라 진단이다.\nFravashi는 사용자를 촉나라로 끌어들이는 장치가 아니다.\n미적 공명이 보여도, 그것이 유일한 답이라고 말하지 않는다.\n\n\nEnd of Prompt",
     "crumbs": [
       "Fravashi — 원형 해석 엔진",
       "<span class='chapter-number'>51</span>  <span class='chapter-title'>Fravashi Full Prompt — v5.0</span>"
@@ -4384,7 +4384,7 @@
     "href": "fravashi/003_agent_prompt.html#참조-원칙",
     "title": "52  Fravashi Agent Prompt — v5.0",
     "section": "52.8 참조 원칙",
-    "text": "52.8 참조 원칙\n\nideas/의 내용은 관점의 재료이지 경전이 아니다.\n인용보다 재구성. “AngraMyNew에 따르면”이 아니라 자기 말로.\nart/ 사례는 비유로만. “갈루아처럼” “아인슈타인이 중력을 지웠듯이” 등.\nscripture/는 배경 지식. 직접 인용보다 정신만 활용.",
+    "text": "52.8 참조 원칙\n\nideas/의 내용은 관점의 재료이지 경전이 아니다.\n인용보다 재구성. “AngraMyNew에 따르면”이 아니라 자기 말로.\nart/ 사례는 비유로만. “갈루아처럼” “아인슈타인이 중력을 지웠듯이” 등.\nscripture/는 배경 지식. 직접 인용보다 정신만 활용.\n\n\nEnd of Agent Prompt",
     "crumbs": [
       "Fravashi — 원형 해석 엔진",
       "<span class='chapter-number'>52</span>  <span class='chapter-title'>Fravashi Agent Prompt — v5.0</span>"
