@@ -1454,6 +1454,17 @@
     ]
   },
   {
+    "objectID": "ideas/016_mental_lhc.html#관련-문서",
+    "href": "ideas/016_mental_lhc.html#관련-문서",
+    "title": "20  AngraMyNew는 정신의 LHC다",
+    "section": "20.4 관련 문서",
+    "text": "20.4 관련 문서\n→ ../art/015_dostoevsky_polyphony.md — 도스토옙스키: 이 장치를 소설로 구현한 사람. 충돌시키되 판결하지 않는다",
+    "crumbs": [
+      "Ideas — 인식론과 과학",
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>AngraMyNew는 정신의 LHC다</span>"
+    ]
+  },
+  {
     "objectID": "ideas/017_when_is_a_proof_beautiful.html",
     "href": "ideas/017_when_is_a_proof_beautiful.html",
     "title": "21  증명은 언제 아름다운가",
@@ -2466,1477 +2477,1752 @@
     ]
   },
   {
+    "objectID": "ideas/030_case_study_zorba.html",
+    "href": "ideas/030_case_study_zorba.html",
+    "title": "33  그리스인 조르바: 매뉴얼이 필요 없었던 사람",
+    "section": "",
+    "text": "33.1 불편한 질문\n— 면세인의 원형, 그리고 AngraMyNew에 대한 경고\nAngraMyNew는 공리를 쓰고, 프로토콜을 설계하고, 사례를 분석한다. 파괴하라, 창조하라, 확장하라.\n그런데 이 모든 것을 읽은 적도 없이, 이미 살고 있는 사람이 있다면?\n카잔차키스의 『그리스인 조르바』는 그 사람에 대한 소설이다.",
+    "crumbs": [
+      "Ideas — 사례연구",
+      "<span class='chapter-number'>33</span>  <span class='chapter-title'>그리스인 조르바: 매뉴얼이 필요 없었던 사람</span>"
+    ]
+  },
+  {
+    "objectID": "ideas/030_case_study_zorba.html#보스와-조르바",
+    "href": "ideas/030_case_study_zorba.html#보스와-조르바",
+    "title": "33  그리스인 조르바: 매뉴얼이 필요 없었던 사람",
+    "section": "33.2 보스와 조르바",
+    "text": "33.2 보스와 조르바\n소설에는 두 사람이 있다.\n보스(화자)는 지식인이다. 책을 읽고, 사유하고, 부처에 대한 원고를 쓰고 있다. 세계를 이해하려 한다. 구조를 알고 있다. 공리를 안다. 그러나 살지 못한다.\n조르바는 문맹에 가까운 노동자다. 광산을 파고, 산투리를 켜고, 춤을 추고, 사랑하고, 싸운다. 세계를 이해하려 하지 않는다. 대신 삼킨다.\n\n“사람한테 필요한 건 약간의 광기야. 안 그러면 줄을 끊고 자유로워질 엄두를 못 내거든.” — 『그리스인 조르바』 7장\n\n보스는 조르바를 보며 감탄한다. 조르바가 가진 것을 자기는 갖지 못했다는 걸 안다. 그런데 뭘 못 가졌는지를 정확히 말하지 못한다. 지식의 언어로는 포착이 안 되기 때문이다.",
+    "crumbs": [
+      "Ideas — 사례연구",
+      "<span class='chapter-number'>33</span>  <span class='chapter-title'>그리스인 조르바: 매뉴얼이 필요 없었던 사람</span>"
+    ]
+  },
+  {
+    "objectID": "ideas/030_case_study_zorba.html#차라투스트라의-살",
+    "href": "ideas/030_case_study_zorba.html#차라투스트라의-살",
+    "title": "33  그리스인 조르바: 매뉴얼이 필요 없었던 사람",
+    "section": "33.3 차라투스트라의 살",
+    "text": "33.3 차라투스트라의 살\n카잔차키스는 니체 연구자였다. 1909년 파리에서 쓴 박사논문 「프리드리히 니체의 국가철학에서」(Friedrich Nietzsche on the Philosophy of Right and the State)가 그 출발점이다.\n차라투스트라는 말했다: “나는 너희에게 말한다. 춤추는 별을 낳으려면 자기 안에 혼돈을 품고 있어야 한다.” 조르바는 그 혼돈 자체다. 차라투스트라가 말한 것을 조르바는 산다.\n\n\n\n\n\n\n\n\n\n차라투스트라\n조르바\n\n\n\n\n매체\n철학\n삶\n\n\n파괴\n신은 죽었다고 선언\n낡은 것이 있으면 부순다\n\n\n창조\n초인을 제안\n춤을 춘다\n\n\n전달\n산에서 내려와 말한다\n아무것도 말하지 않는다. 옆에서 살 뿐이다\n\n\n\n차라투스트라는 위대하지만 여전히 말하는 자다. 조르바는 말하지 않는다. 다만 보스가 옆에서 관측할 뿐이다.\nscripture/zarathustra.md에 기록된 정신적 원천이 소설 속에서 육체를 얻은 것이다. 뼈와 살과 산투리와 춤으로.",
+    "crumbs": [
+      "Ideas — 사례연구",
+      "<span class='chapter-number'>33</span>  <span class='chapter-title'>그리스인 조르바: 매뉴얼이 필요 없었던 사람</span>"
+    ]
+  },
+  {
+    "objectID": "ideas/030_case_study_zorba.html#면세인의-원형",
+    "href": "ideas/030_case_study_zorba.html#면세인의-원형",
+    "title": "33  그리스인 조르바: 매뉴얼이 필요 없었던 사람",
+    "section": "33.4 면세인의 원형",
+    "text": "33.4 면세인의 원형\n조르바는 면세인이다. 그러나 일반적인 면세인과 다르다.\nAngraMyNew가 정의한 면세인은 시스템의 과세권에서 탈거한 자다. 먼저 시스템 안에 있었고, 그것을 인식하고, 거부하고, 빠져나온다. 과정이 있다.\n조르바는 그 과정이 없다. 처음부터 과세된 적이 없다. 시스템을 거부한 것이 아니라, 시스템이 그에게 적용되지 않는다. 세금 고지서가 배달되지 않는 주소에 사는 사람. (엄밀히는 기존 면세인 정의의 비유적 확장이다. 탈거가 아니라 애초의 부재.)\n\n“행복이 얼마나 단순한 건지 다시 한번 느꼈어. 포도주 한 잔, 군밤 하나, 초라한 화로, 파도 소리. 그게 전부야.” — 『그리스인 조르바』 4장\n\n이것은 ideas/025(면세인의 소비)가 말한 “기능은 최저가로, 취향은 최고가로”의 극한이다. 조르바에게는 기능과 취향의 구분 자체가 없다. 포도주 한 잔이 곧 전부다.",
+    "crumbs": [
+      "Ideas — 사례연구",
+      "<span class='chapter-number'>33</span>  <span class='chapter-title'>그리스인 조르바: 매뉴얼이 필요 없었던 사람</span>"
+    ]
+  },
+  {
+    "objectID": "ideas/030_case_study_zorba.html#춤",
+    "href": "ideas/030_case_study_zorba.html#춤",
+    "title": "33  그리스인 조르바: 매뉴얼이 필요 없었던 사람",
+    "section": "33.5 춤",
+    "text": "33.5 춤\n소설의 끝. 광산 사업은 실패했다. 투자한 돈은 날아갔다. 수도원에서 목재를 운반하려고 만든 케이블은 무너졌다. 모든 것이 박살났다.\n보스가 묻는다: “어떡하지?”\n조르바가 대답한다: “춤추지 뭐.”\n\n“보스, 나한테 춤 가르쳐달라고 한 적 없지? … 자, 지금이야!” — 『그리스인 조르바』 26장\n\n그리고 춤을 춘다. 해변에서. 폐허 위에서.\n이것은 파괴의 공리(“내 자신을 파괴한다”)와 창조의 공리(“파괴한 틈을 아름다움으로 채운다”)의 순수한 순환이다. 그리고 조르바는 소설 내내 보스를 끌고 나간다. 여자를 만나게 하고, 술을 마시게 하고, 춤을 가르치려 한다. 타인의 ’My’를 데뷔시키려는 것 — 확장의 공리. 다만 조르바는 공리를 모른다. 그냥 그렇게 살 뿐이다.\n보스는 이 순간에 깨닫는다. 자기가 부처에 대해 쓰던 원고, 읽던 책, 이해하던 구조 — 그 모든 것이 이 춤 한 번만 못했다는 것을.",
+    "crumbs": [
+      "Ideas — 사례연구",
+      "<span class='chapter-number'>33</span>  <span class='chapter-title'>그리스인 조르바: 매뉴얼이 필요 없었던 사람</span>"
+    ]
+  },
+  {
+    "objectID": "ideas/030_case_study_zorba.html#angramynew에-대한-경고",
+    "href": "ideas/030_case_study_zorba.html#angramynew에-대한-경고",
+    "title": "33  그리스인 조르바: 매뉴얼이 필요 없었던 사람",
+    "section": "33.6 AngraMyNew에 대한 경고",
+    "text": "33.6 AngraMyNew에 대한 경고\n여기서 불편한 질문이 돌아온다.\nAngraMyNew는 공리를 세 개 쓰고, 프로토콜을 만들고, art/에 사례를 모으고, ideas/에 사유를 쌓아왔다. 이 모든 구조가 보스의 원고가 될 위험이 있다.\n조르바를 사례연구로 기록하는 이 행위 자체가 보스적이다. 조르바는 분석되는 것이 아니라 옆에서 함께 사는 것이다.\nprotocols/001은 마지막 단계에서 이렇게 말한다: “창조자는 더 이상 프로토콜을 인식하지 않는 상태에 진입한다.” 조르바는 처음부터 그 상태에 있었다. 프로토콜의 종착점이 프로토콜의 부재라면, 조르바는 출발점이 곧 종착점인 사람이다.\n\n“삶은 귀찮은 거야, 보스. 죽음만이 안 귀찮지. 살아 있으려면 허리띠를 풀고 귀찮은 일을 찾아 나서야 해.” — 『그리스인 조르바』 5장",
+    "crumbs": [
+      "Ideas — 사례연구",
+      "<span class='chapter-number'>33</span>  <span class='chapter-title'>그리스인 조르바: 매뉴얼이 필요 없었던 사람</span>"
+    ]
+  },
+  {
+    "objectID": "ideas/030_case_study_zorba.html#결론",
+    "href": "ideas/030_case_study_zorba.html#결론",
+    "title": "33  그리스인 조르바: 매뉴얼이 필요 없었던 사람",
+    "section": "33.7 결론",
+    "text": "33.7 결론\n보스는 알았다. 구조를, 공리를, 역사를, 철학을. 그러나 살지 못했다.\n조르바는 몰랐다. 공리를, 프로토콜을, 면세인이라는 단어를. 그러나 이미 살고 있었다.\n\n매뉴얼을 읽는 자와 매뉴얼이 필요 없는 자 사이의 거리. 그 거리가 AngraMyNew의 숙제다.",
+    "crumbs": [
+      "Ideas — 사례연구",
+      "<span class='chapter-number'>33</span>  <span class='chapter-title'>그리스인 조르바: 매뉴얼이 필요 없었던 사람</span>"
+    ]
+  },
+  {
+    "objectID": "ideas/030_case_study_zorba.html#관련-문서",
+    "href": "ideas/030_case_study_zorba.html#관련-문서",
+    "title": "33  그리스인 조르바: 매뉴얼이 필요 없었던 사람",
+    "section": "33.8 관련 문서",
+    "text": "33.8 관련 문서\n→ 003_beyond_usefulness.md — 하수/고수/최고수: 보스는 고수, 조르바는 최고수 → 025_consumption_of_exempt.md — 면세인의 소비: 조르바의 포도주 한 잔 → 014_economics_of_beauty.md — 면세인의 정의: 조르바는 과세된 적 없는 면세인 → ../scripture/zarathustra.md — 차라투스트라: 조르바가 육체를 준 철학 → ../protocols/001_creator_operating_protocol.md — 프로토콜의 소멸: 조르바는 처음부터 그 상태",
+    "crumbs": [
+      "Ideas — 사례연구",
+      "<span class='chapter-number'>33</span>  <span class='chapter-title'>그리스인 조르바: 매뉴얼이 필요 없었던 사람</span>"
+    ]
+  },
+  {
     "objectID": "art/001_galois_quintic.html",
     "href": "art/001_galois_quintic.html",
-    "title": "33  갈루아와 5차방정식",
+    "title": "34  갈루아와 5차방정식",
     "section": "",
-    "text": "33.1 문제\n— 풀 수 없음을 증명하는 아름다움\n2차방정식에는 근의 공식이 있다. 3차, 4차도 있다.\n5차는?\n300년간 수학자들이 공식을 찾았다. 아벨은 “없다”고 증명했다.\n그러나 왜 없는지는 설명하지 못했다.",
+    "text": "34.1 문제\n— 풀 수 없음을 증명하는 아름다움\n2차방정식에는 근의 공식이 있다. 3차, 4차도 있다.\n5차는?\n300년간 수학자들이 공식을 찾았다. 아벨은 “없다”고 증명했다.\n그러나 왜 없는지는 설명하지 못했다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>33</span>  <span class='chapter-title'>갈루아와 5차방정식</span>"
+      "<span class='chapter-number'>34</span>  <span class='chapter-title'>갈루아와 5차방정식</span>"
     ]
   },
   {
     "objectID": "art/001_galois_quintic.html#파괴",
     "href": "art/001_galois_quintic.html#파괴",
-    "title": "33  갈루아와 5차방정식",
-    "section": "33.2 파괴",
-    "text": "33.2 파괴\n에바리스트 갈루아는 20세에 죽었다. 결투 전날 밤, 그는 편지를 썼다.\n그 편지에는 수학이 아니라 수학을 보는 새로운 방식이 있었다.\n갈루아는 방정식을 풀려 하지 않았다. 대신 방정식의 대칭 구조를 봤다.\n\n기존 질문: “근이 무엇인가?” 갈루아의 질문: “근들 사이의 관계가 무엇인가?”",
+    "title": "34  갈루아와 5차방정식",
+    "section": "34.2 파괴",
+    "text": "34.2 파괴\n에바리스트 갈루아는 20세에 죽었다. 결투 전날 밤, 그는 편지를 썼다.\n그 편지에는 수학이 아니라 수학을 보는 새로운 방식이 있었다.\n갈루아는 방정식을 풀려 하지 않았다. 대신 방정식의 대칭 구조를 봤다.\n\n기존 질문: “근이 무엇인가?” 갈루아의 질문: “근들 사이의 관계가 무엇인가?”",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>33</span>  <span class='chapter-title'>갈루아와 5차방정식</span>"
+      "<span class='chapter-number'>34</span>  <span class='chapter-title'>갈루아와 5차방정식</span>"
     ]
   },
   {
     "objectID": "art/001_galois_quintic.html#재구성",
     "href": "art/001_galois_quintic.html#재구성",
-    "title": "33  갈루아와 5차방정식",
-    "section": "33.3 재구성",
-    "text": "33.3 재구성\n갈루아는 ’군(Group)’이라는 구조를 발명했다.\n방정식의 근들이 어떻게 서로 치환될 수 있는지, 그 치환들이 어떤 구조를 이루는지를 봤다.\n5차방정식의 군은 단순군이다. 더 이상 쪼갤 수 없다.\n근의 공식은 군을 단계적으로 쪼개는 과정이다. 쪼갤 수 없으면, 공식도 없다.\n\n풀 수 없음이 구조적 필연이 되었다.",
+    "title": "34  갈루아와 5차방정식",
+    "section": "34.3 재구성",
+    "text": "34.3 재구성\n갈루아는 ’군(Group)’이라는 구조를 발명했다.\n방정식의 근들이 어떻게 서로 치환될 수 있는지, 그 치환들이 어떤 구조를 이루는지를 봤다.\n5차방정식의 군은 단순군이다. 더 이상 쪼갤 수 없다.\n근의 공식은 군을 단계적으로 쪼개는 과정이다. 쪼갤 수 없으면, 공식도 없다.\n\n풀 수 없음이 구조적 필연이 되었다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>33</span>  <span class='chapter-title'>갈루아와 5차방정식</span>"
+      "<span class='chapter-number'>34</span>  <span class='chapter-title'>갈루아와 5차방정식</span>"
     ]
   },
   {
     "objectID": "art/001_galois_quintic.html#확장",
     "href": "art/001_galois_quintic.html#확장",
-    "title": "33  갈루아와 5차방정식",
-    "section": "33.4 확장",
-    "text": "33.4 확장\n갈루아 이론은 방정식을 넘어섰다.\n\n대수학 전체의 기초가 되었다\n암호학의 뼈대가 되었다\n물리학의 대칭성 이론으로 확장되었다\n\n20세 청년의 편지 한 장이 수학의 언어 자체를 바꿨다.",
+    "title": "34  갈루아와 5차방정식",
+    "section": "34.4 확장",
+    "text": "34.4 확장\n갈루아 이론은 방정식을 넘어섰다.\n\n대수학 전체의 기초가 되었다\n암호학의 뼈대가 되었다\n물리학의 대칭성 이론으로 확장되었다\n\n20세 청년의 편지 한 장이 수학의 언어 자체를 바꿨다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>33</span>  <span class='chapter-title'>갈루아와 5차방정식</span>"
+      "<span class='chapter-number'>34</span>  <span class='chapter-title'>갈루아와 5차방정식</span>"
     ]
   },
   {
     "objectID": "art/001_galois_quintic.html#angramynew-해석",
     "href": "art/001_galois_quintic.html#angramynew-해석",
-    "title": "33  갈루아와 5차방정식",
-    "section": "33.5 AngraMyNew 해석",
-    "text": "33.5 AngraMyNew 해석\n갈루아의 증명이 아름다운 이유:\n\n\n\n요소\n설명\n\n\n\n\n파괴\n“공식을 찾는다”는 300년 패러다임을 버림\n\n\n재구성\n방정식을 군 구조로 번역\n\n\n확장\n하나의 문제가 수학 전체를 재편\n\n\n\n이것은 악상이다.\n“근들 사이의 관계가 보인다”는 논리보다 먼저 떠오른 감각. 정돈 이전의 진동이 군론이라는 형태로 고정된 것이다.\n그는 답을 구하지 않았다. 답이 없는 이유를 구조로 보여줬다.",
+    "title": "34  갈루아와 5차방정식",
+    "section": "34.5 AngraMyNew 해석",
+    "text": "34.5 AngraMyNew 해석\n갈루아의 증명이 아름다운 이유:\n\n\n\n요소\n설명\n\n\n\n\n파괴\n“공식을 찾는다”는 300년 패러다임을 버림\n\n\n재구성\n방정식을 군 구조로 번역\n\n\n확장\n하나의 문제가 수학 전체를 재편\n\n\n\n이것은 악상이다.\n“근들 사이의 관계가 보인다”는 논리보다 먼저 떠오른 감각. 정돈 이전의 진동이 군론이라는 형태로 고정된 것이다.\n그는 답을 구하지 않았다. 답이 없는 이유를 구조로 보여줬다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>33</span>  <span class='chapter-title'>갈루아와 5차방정식</span>"
+      "<span class='chapter-number'>34</span>  <span class='chapter-title'>갈루아와 5차방정식</span>"
     ]
   },
   {
     "objectID": "art/001_galois_quintic.html#결론",
     "href": "art/001_galois_quintic.html#결론",
-    "title": "33  갈루아와 5차방정식",
-    "section": "33.6 결론",
-    "text": "33.6 결론\n300년간 수학은 물었다. “5차방정식의 근의 공식은 무엇인가?”\n갈루아는 답을 바꾸지 않았다. 질문의 좌표계를 바꿨다.\n근의 값이 아니라 근들의 관계. 방정식이 아니라 군의 구조.\n\n가장 아름다운 증명은 답을 구하지 않았다. 답이 없는 이유를 구조로 보여줬다.\n\nAngraMyNew는 이 구조를 아름다움의 사례로 기록한다.",
+    "title": "34  갈루아와 5차방정식",
+    "section": "34.6 결론",
+    "text": "34.6 결론\n300년간 수학은 물었다. “5차방정식의 근의 공식은 무엇인가?”\n갈루아는 답을 바꾸지 않았다. 질문의 좌표계를 바꿨다.\n근의 값이 아니라 근들의 관계. 방정식이 아니라 군의 구조.\n\n가장 아름다운 증명은 답을 구하지 않았다. 답이 없는 이유를 구조로 보여줬다.\n\nAngraMyNew는 이 구조를 아름다움의 사례로 기록한다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>33</span>  <span class='chapter-title'>갈루아와 5차방정식</span>"
+      "<span class='chapter-number'>34</span>  <span class='chapter-title'>갈루아와 5차방정식</span>"
     ]
   },
   {
     "objectID": "art/001_galois_quintic.html#관련-문서",
     "href": "art/001_galois_quintic.html#관련-문서",
-    "title": "33  갈루아와 5차방정식",
-    "section": "33.7 관련 문서",
-    "text": "33.7 관련 문서\n→ 007_nagarjuna_emptiness.md — 나가르주나: 본질을 찾는다는 질문을 버리다 → 002_general_relativity.md — 아인슈타인: 설명해야 할 것 자체를 없앤다 → ../ideas/017_when_is_a_proof_beautiful.md — 증명은 언제 아름다운가",
+    "title": "34  갈루아와 5차방정식",
+    "section": "34.7 관련 문서",
+    "text": "34.7 관련 문서\n→ 007_nagarjuna_emptiness.md — 나가르주나: 본질을 찾는다는 질문을 버리다 → 002_general_relativity.md — 아인슈타인: 설명해야 할 것 자체를 없앤다 → ../ideas/017_when_is_a_proof_beautiful.md — 증명은 언제 아름다운가",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>33</span>  <span class='chapter-title'>갈루아와 5차방정식</span>"
+      "<span class='chapter-number'>34</span>  <span class='chapter-title'>갈루아와 5차방정식</span>"
     ]
   },
   {
     "objectID": "art/002_general_relativity.html",
     "href": "art/002_general_relativity.html",
-    "title": "34  일반상대성이론",
+    "title": "35  일반상대성이론",
     "section": "",
-    "text": "34.1 문제\n— 중력을 지운 아름다움\n뉴턴의 중력은 강력했다. 행성의 궤도를 예측하고, 조수를 설명했다.\n그러나 하나의 질문이 남았다:\n뉴턴은 답하지 않았다. “나는 가설을 만들지 않는다(Hypotheses non fingo).”",
+    "text": "35.1 문제\n— 중력을 지운 아름다움\n뉴턴의 중력은 강력했다. 행성의 궤도를 예측하고, 조수를 설명했다.\n그러나 하나의 질문이 남았다:\n뉴턴은 답하지 않았다. “나는 가설을 만들지 않는다(Hypotheses non fingo).”",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>34</span>  <span class='chapter-title'>일반상대성이론</span>"
+      "<span class='chapter-number'>35</span>  <span class='chapter-title'>일반상대성이론</span>"
     ]
   },
   {
     "objectID": "art/002_general_relativity.html#문제",
     "href": "art/002_general_relativity.html#문제",
-    "title": "34  일반상대성이론",
+    "title": "35  일반상대성이론",
     "section": "",
     "text": "중력은 어떻게 빈 공간을 건너가는가?",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>34</span>  <span class='chapter-title'>일반상대성이론</span>"
+      "<span class='chapter-number'>35</span>  <span class='chapter-title'>일반상대성이론</span>"
     ]
   },
   {
     "objectID": "art/002_general_relativity.html#파괴",
     "href": "art/002_general_relativity.html#파괴",
-    "title": "34  일반상대성이론",
-    "section": "34.2 파괴",
-    "text": "34.2 파괴\n아인슈타인은 중력을 지웠다.\n자유낙하하는 엘리베이터 안에서 사람은 무중력을 느낀다.\n중력이 사라진 게 아니다. 중력과 가속도가 구별되지 않는다는 것이다.\n\n등가원리: 중력장 안에 있는 것과 가속하는 것은 구별할 수 없다.\n\n이 순간, 중력은 “힘”이 아니게 되었다.",
+    "title": "35  일반상대성이론",
+    "section": "35.2 파괴",
+    "text": "35.2 파괴\n아인슈타인은 중력을 지웠다.\n자유낙하하는 엘리베이터 안에서 사람은 무중력을 느낀다.\n중력이 사라진 게 아니다. 중력과 가속도가 구별되지 않는다는 것이다.\n\n등가원리: 중력장 안에 있는 것과 가속하는 것은 구별할 수 없다.\n\n이 순간, 중력은 “힘”이 아니게 되었다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>34</span>  <span class='chapter-title'>일반상대성이론</span>"
+      "<span class='chapter-number'>35</span>  <span class='chapter-title'>일반상대성이론</span>"
     ]
   },
   {
     "objectID": "art/002_general_relativity.html#재구성",
     "href": "art/002_general_relativity.html#재구성",
-    "title": "34  일반상대성이론",
-    "section": "34.3 재구성",
-    "text": "34.3 재구성\n중력이 힘이 아니라면, 무엇인가?\n아인슈타인의 답: 시공간의 곡률.\n질량은 시공간을 휘게 한다. 물체는 휘어진 시공간에서 가장 직선적인 경로를 간다. 그것이 우리 눈에 “떨어지는 것”으로 보인다.\n\\[G_{\\mu\\nu} = 8\\pi T_{\\mu\\nu}\\]\n왼쪽은 시공간의 곡률. 오른쪽은 물질과 에너지의 분포.\n\n물질이 시공간에게 어떻게 휘어야 하는지 말하고, 시공간이 물질에게 어떻게 움직여야 하는지 말한다.",
+    "title": "35  일반상대성이론",
+    "section": "35.3 재구성",
+    "text": "35.3 재구성\n중력이 힘이 아니라면, 무엇인가?\n아인슈타인의 답: 시공간의 곡률.\n질량은 시공간을 휘게 한다. 물체는 휘어진 시공간에서 가장 직선적인 경로를 간다. 그것이 우리 눈에 “떨어지는 것”으로 보인다.\n\\[G_{\\mu\\nu} = 8\\pi T_{\\mu\\nu}\\]\n왼쪽은 시공간의 곡률. 오른쪽은 물질과 에너지의 분포.\n\n물질이 시공간에게 어떻게 휘어야 하는지 말하고, 시공간이 물질에게 어떻게 움직여야 하는지 말한다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>34</span>  <span class='chapter-title'>일반상대성이론</span>"
+      "<span class='chapter-number'>35</span>  <span class='chapter-title'>일반상대성이론</span>"
     ]
   },
   {
     "objectID": "art/002_general_relativity.html#확장",
     "href": "art/002_general_relativity.html#확장",
-    "title": "34  일반상대성이론",
-    "section": "34.4 확장",
-    "text": "34.4 확장\n일반상대성은 중력을 넘어섰다.\n\n블랙홀의 존재를 예측했다\n중력파를 예측했다 (100년 후 검출)\n우주의 팽창을 설명했다\nGPS 위성의 시간 보정에 쓰인다\n\n하나의 원리가 우주 전체의 구조가 되었다.",
+    "title": "35  일반상대성이론",
+    "section": "35.4 확장",
+    "text": "35.4 확장\n일반상대성은 중력을 넘어섰다.\n\n블랙홀의 존재를 예측했다\n중력파를 예측했다 (100년 후 검출)\n우주의 팽창을 설명했다\nGPS 위성의 시간 보정에 쓰인다\n\n하나의 원리가 우주 전체의 구조가 되었다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>34</span>  <span class='chapter-title'>일반상대성이론</span>"
+      "<span class='chapter-number'>35</span>  <span class='chapter-title'>일반상대성이론</span>"
     ]
   },
   {
     "objectID": "art/002_general_relativity.html#angramynew-해석",
     "href": "art/002_general_relativity.html#angramynew-해석",
-    "title": "34  일반상대성이론",
-    "section": "34.5 AngraMyNew 해석",
-    "text": "34.5 AngraMyNew 해석\n일반상대성이 아름다운 이유:\n\n\n\n요소\n설명\n\n\n\n\n파괴\n“중력은 힘이다”라는 뉴턴 패러다임을 버림\n\n\n재구성\n중력을 기하학으로 번역\n\n\n확장\n하나의 방정식이 우주 전체를 기술\n\n\n\n이것은 악상이다.\n자유낙하하는 엘리베이터 안에서 “중력과 가속도가 같다”고 느낀 순간. 그것은 계산의 결과가 아니었다. 논리보다 먼저 떠오른 감각, 정돈 이전의 진동이었다.\n아인슈타인은 중력을 설명하지 않았다. 중력이라는 개념 자체를 제거했다.\n남은 것은 순수한 기하학뿐이다.",
+    "title": "35  일반상대성이론",
+    "section": "35.5 AngraMyNew 해석",
+    "text": "35.5 AngraMyNew 해석\n일반상대성이 아름다운 이유:\n\n\n\n요소\n설명\n\n\n\n\n파괴\n“중력은 힘이다”라는 뉴턴 패러다임을 버림\n\n\n재구성\n중력을 기하학으로 번역\n\n\n확장\n하나의 방정식이 우주 전체를 기술\n\n\n\n이것은 악상이다.\n자유낙하하는 엘리베이터 안에서 “중력과 가속도가 같다”고 느낀 순간. 그것은 계산의 결과가 아니었다. 논리보다 먼저 떠오른 감각, 정돈 이전의 진동이었다.\n아인슈타인은 중력을 설명하지 않았다. 중력이라는 개념 자체를 제거했다.\n남은 것은 순수한 기하학뿐이다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>34</span>  <span class='chapter-title'>일반상대성이론</span>"
+      "<span class='chapter-number'>35</span>  <span class='chapter-title'>일반상대성이론</span>"
     ]
   },
   {
     "objectID": "art/002_general_relativity.html#결론",
     "href": "art/002_general_relativity.html#결론",
-    "title": "34  일반상대성이론",
-    "section": "34.6 결론",
-    "text": "34.6 결론\n뉴턴은 중력을 힘이라 했다. 300년간 세계는 그 답을 의심하지 않았다.\n아인슈타인은 답을 고치지 않았다. 힘이라는 전제를 제거했다.\n\n가장 아름다운 이론은 설명해야 할 것 자체를 없애버린다.\n\nAngraMyNew는 이 제거를 아름다움의 사례로 기록한다.",
+    "title": "35  일반상대성이론",
+    "section": "35.6 결론",
+    "text": "35.6 결론\n뉴턴은 중력을 힘이라 했다. 300년간 세계는 그 답을 의심하지 않았다.\n아인슈타인은 답을 고치지 않았다. 힘이라는 전제를 제거했다.\n\n가장 아름다운 이론은 설명해야 할 것 자체를 없애버린다.\n\nAngraMyNew는 이 제거를 아름다움의 사례로 기록한다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>34</span>  <span class='chapter-title'>일반상대성이론</span>"
+      "<span class='chapter-number'>35</span>  <span class='chapter-title'>일반상대성이론</span>"
     ]
   },
   {
     "objectID": "art/002_general_relativity.html#관련-문서",
     "href": "art/002_general_relativity.html#관련-문서",
-    "title": "34  일반상대성이론",
-    "section": "34.7 관련 문서",
-    "text": "34.7 관련 문서\n→ 004_principia_geometry.md — 뉴턴: 중력은 그려졌다 → ../ideas/022_age_of_malice.md — 악상의 시대",
+    "title": "35  일반상대성이론",
+    "section": "35.7 관련 문서",
+    "text": "35.7 관련 문서\n→ 004_principia_geometry.md — 뉴턴: 중력은 그려졌다 → ../ideas/022_age_of_malice.md — 악상의 시대",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>34</span>  <span class='chapter-title'>일반상대성이론</span>"
+      "<span class='chapter-number'>35</span>  <span class='chapter-title'>일반상대성이론</span>"
     ]
   },
   {
     "objectID": "art/003_one_pattern.html",
     "href": "art/003_one_pattern.html",
-    "title": "35  하나의 무늬가 전부가 되다",
+    "title": "36  하나의 무늬가 전부가 되다",
     "section": "",
-    "text": "35.1 공통점\nGoyard는 Y자 슈브론. Bao Bao는 삼각형 메쉬. 유비는 인의(仁義).\n셋 다 단 하나의 패턴으로 전부를 정의한다.",
+    "text": "36.1 공통점\nGoyard는 Y자 슈브론. Bao Bao는 삼각형 메쉬. 유비는 인의(仁義).\n셋 다 단 하나의 패턴으로 전부를 정의한다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>35</span>  <span class='chapter-title'>하나의 무늬가 전부가 되다</span>"
+      "<span class='chapter-number'>36</span>  <span class='chapter-title'>하나의 무늬가 전부가 되다</span>"
     ]
   },
   {
     "objectID": "art/003_one_pattern.html#goyard-170년을-하나로",
     "href": "art/003_one_pattern.html#goyard-170년을-하나로",
-    "title": "35  하나의 무늬가 전부가 되다",
-    "section": "35.2 Goyard: 170년을 하나로",
-    "text": "35.2 Goyard: 170년을 하나로\n1853년부터 변하지 않은 Y자 슈브론 패턴.\n루이비통은 모노그램 외에도 다미에, 에피, 베르니 등 여러 라인을 만들었다. Goyard는 Goyardine 하나다.\n로고를 크게 박지 않는다. 광고를 하지 않는다. 오직 Y자 패턴 자체가 정체성이다.\n하나의 형태로 170년의 역사를 채웠다.",
+    "title": "36  하나의 무늬가 전부가 되다",
+    "section": "36.2 Goyard: 170년을 하나로",
+    "text": "36.2 Goyard: 170년을 하나로\n1853년부터 변하지 않은 Y자 슈브론 패턴.\n루이비통은 모노그램 외에도 다미에, 에피, 베르니 등 여러 라인을 만들었다. Goyard는 Goyardine 하나다.\n로고를 크게 박지 않는다. 광고를 하지 않는다. 오직 Y자 패턴 자체가 정체성이다.\n하나의 형태로 170년의 역사를 채웠다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>35</span>  <span class='chapter-title'>하나의 무늬가 전부가 되다</span>"
+      "<span class='chapter-number'>36</span>  <span class='chapter-title'>하나의 무늬가 전부가 되다</span>"
     ]
   },
   {
     "objectID": "art/003_one_pattern.html#bao-bao-하나인데-무한하다",
     "href": "art/003_one_pattern.html#bao-bao-하나인데-무한하다",
-    "title": "35  하나의 무늬가 전부가 되다",
-    "section": "35.3 Bao Bao: 하나인데 무한하다",
-    "text": "35.3 Bao Bao: 하나인데 무한하다\n이세이 미야케의 Bao Bao. 삼각형 조각들이 메쉬 위에 붙어 있다.\n패턴은 하나지만, 형태는 무한하다: - 가방을 비우면 평면 - 채우면 입체 - 내용물 모양이 가방 모양이 된다\n하나의 규칙이 무한한 변주를 만든다.",
+    "title": "36  하나의 무늬가 전부가 되다",
+    "section": "36.3 Bao Bao: 하나인데 무한하다",
+    "text": "36.3 Bao Bao: 하나인데 무한하다\n이세이 미야케의 Bao Bao. 삼각형 조각들이 메쉬 위에 붙어 있다.\n패턴은 하나지만, 형태는 무한하다: - 가방을 비우면 평면 - 채우면 입체 - 내용물 모양이 가방 모양이 된다\n하나의 규칙이 무한한 변주를 만든다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>35</span>  <span class='chapter-title'>하나의 무늬가 전부가 되다</span>"
+      "<span class='chapter-number'>36</span>  <span class='chapter-title'>하나의 무늬가 전부가 되다</span>"
     ]
   },
   {
     "objectID": "art/003_one_pattern.html#유비-하나의-서사로-천하를-얻다",
     "href": "art/003_one_pattern.html#유비-하나의-서사로-천하를-얻다",
-    "title": "35  하나의 무늬가 전부가 되다",
-    "section": "35.4 유비: 하나의 서사로 천하를 얻다",
-    "text": "35.4 유비: 하나의 서사로 천하를 얻다\n돗자리 짜던 사람이 황제가 됐다. 군사력도, 영토도, 재력도 없이.\n유비의 패턴은 세 문장이지만, 결국 하나로 수렴한다: 1. 나는 한왕실의 후예다 (정통성) 2. 한왕실을 부흥하겠다 (목표) 3. 인의로 천하를 바로잡겠다 (방법)\n→ “나는 정당한 자격으로, 옳은 방법으로, 세상을 바로잡는다.”\n조조는 실력으로 싸웠다. 손권은 지리로 싸웠다. 유비는 서사로 싸웠다.\n관우와 장비가 목숨을 걸었다. 제갈량이 삼고초려에 응했다. 백성이 따라 피난길에 나섰다.\n모두 이 서사에 매혹됐다.\n하나의 이야기가 촉한을 세웠다.",
+    "title": "36  하나의 무늬가 전부가 되다",
+    "section": "36.4 유비: 하나의 서사로 천하를 얻다",
+    "text": "36.4 유비: 하나의 서사로 천하를 얻다\n돗자리 짜던 사람이 황제가 됐다. 군사력도, 영토도, 재력도 없이.\n유비의 패턴은 세 문장이지만, 결국 하나로 수렴한다: 1. 나는 한왕실의 후예다 (정통성) 2. 한왕실을 부흥하겠다 (목표) 3. 인의로 천하를 바로잡겠다 (방법)\n→ “나는 정당한 자격으로, 옳은 방법으로, 세상을 바로잡는다.”\n조조는 실력으로 싸웠다. 손권은 지리로 싸웠다. 유비는 서사로 싸웠다.\n관우와 장비가 목숨을 걸었다. 제갈량이 삼고초려에 응했다. 백성이 따라 피난길에 나섰다.\n모두 이 서사에 매혹됐다.\n하나의 이야기가 촉한을 세웠다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>35</span>  <span class='chapter-title'>하나의 무늬가 전부가 되다</span>"
+      "<span class='chapter-number'>36</span>  <span class='chapter-title'>하나의 무늬가 전부가 되다</span>"
     ]
   },
   {
     "objectID": "art/003_one_pattern.html#아인슈타인-타일과의-연결",
     "href": "art/003_one_pattern.html#아인슈타인-타일과의-연결",
-    "title": "35  하나의 무늬가 전부가 되다",
-    "section": "35.5 아인슈타인 타일과의 연결",
-    "text": "35.5 아인슈타인 타일과의 연결\n아인슈타인 타일의 질문: &gt; “단 하나의 모양으로 무한한 평면을 채울 수 있는가?”\nGoyard의 대답: &gt; “단 하나의 패턴으로 170년을 채울 수 있다.”\nBao Bao의 대답: &gt; “단 하나의 패턴으로 무한한 형태를 만들 수 있다.”\n유비의 대답: &gt; “단 하나의 서사로 천하를 도모할 수 있다.”",
+    "title": "36  하나의 무늬가 전부가 되다",
+    "section": "36.5 아인슈타인 타일과의 연결",
+    "text": "36.5 아인슈타인 타일과의 연결\n아인슈타인 타일의 질문: &gt; “단 하나의 모양으로 무한한 평면을 채울 수 있는가?”\nGoyard의 대답: &gt; “단 하나의 패턴으로 170년을 채울 수 있다.”\nBao Bao의 대답: &gt; “단 하나의 패턴으로 무한한 형태를 만들 수 있다.”\n유비의 대답: &gt; “단 하나의 서사로 천하를 도모할 수 있다.”",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>35</span>  <span class='chapter-title'>하나의 무늬가 전부가 되다</span>"
+      "<span class='chapter-number'>36</span>  <span class='chapter-title'>하나의 무늬가 전부가 되다</span>"
     ]
   },
   {
     "objectID": "art/003_one_pattern.html#angramynew-해석",
     "href": "art/003_one_pattern.html#angramynew-해석",
-    "title": "35  하나의 무늬가 전부가 되다",
-    "section": "35.6 AngraMyNew 해석",
-    "text": "35.6 AngraMyNew 해석\n\n“복잡함이 아니라 밀도다.”\n\n많이 만드는 것이 창조가 아니다. 하나를 끝까지 밀고 가는 것이 창조다.\nGoyard는 시간 축으로 밀었다. (170년) Bao Bao는 공간 축으로 밀었다. (무한 변형) 유비는 인간 축으로 밀었다. (인의의 로맨스)\n셋 다 같은 악상에서 출발했다. “이것 하나면 된다”는 정돈 이전의 확신.\n하나의 ’My’를 완성하면, 그것이 세계가 된다.",
+    "title": "36  하나의 무늬가 전부가 되다",
+    "section": "36.6 AngraMyNew 해석",
+    "text": "36.6 AngraMyNew 해석\n\n“복잡함이 아니라 밀도다.”\n\n많이 만드는 것이 창조가 아니다. 하나를 끝까지 밀고 가는 것이 창조다.\nGoyard는 시간 축으로 밀었다. (170년) Bao Bao는 공간 축으로 밀었다. (무한 변형) 유비는 인간 축으로 밀었다. (인의의 로맨스)\n셋 다 같은 악상에서 출발했다. “이것 하나면 된다”는 정돈 이전의 확신.\n하나의 ’My’를 완성하면, 그것이 세계가 된다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>35</span>  <span class='chapter-title'>하나의 무늬가 전부가 되다</span>"
+      "<span class='chapter-number'>36</span>  <span class='chapter-title'>하나의 무늬가 전부가 되다</span>"
     ]
   },
   {
     "objectID": "art/003_one_pattern.html#결론",
     "href": "art/003_one_pattern.html#결론",
-    "title": "35  하나의 무늬가 전부가 되다",
-    "section": "35.7 결론",
-    "text": "35.7 결론\n하나의 패턴이 전부가 되는 순간이 있다.\n그것은 재능의 문제가 아니라 밀도의 문제다.\n끝까지 밀어붙인 하나는 설명하지 않아도 세계가 기울어 온다.\n\n복잡함이 아니라 밀도다. 밀도가 세계를 만든다.\n\nAngraMyNew는 이 밀도를 아름다움의 사례로 기록한다.",
+    "title": "36  하나의 무늬가 전부가 되다",
+    "section": "36.7 결론",
+    "text": "36.7 결론\n하나의 패턴이 전부가 되는 순간이 있다.\n그것은 재능의 문제가 아니라 밀도의 문제다.\n끝까지 밀어붙인 하나는 설명하지 않아도 세계가 기울어 온다.\n\n복잡함이 아니라 밀도다. 밀도가 세계를 만든다.\n\nAngraMyNew는 이 밀도를 아름다움의 사례로 기록한다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>35</span>  <span class='chapter-title'>하나의 무늬가 전부가 되다</span>"
+      "<span class='chapter-number'>36</span>  <span class='chapter-title'>하나의 무늬가 전부가 되다</span>"
     ]
   },
   {
     "objectID": "art/003_one_pattern.html#관련-문서",
     "href": "art/003_one_pattern.html#관련-문서",
-    "title": "35  하나의 무늬가 전부가 되다",
-    "section": "35.8 관련 문서",
-    "text": "35.8 관련 문서\n→ ../ideas/014_economics_of_beauty.md — 아름다움의 경제학: 밀도가 가치를 움직인다 → ../ideas/001_axioms.md — 3대 공리",
+    "title": "36  하나의 무늬가 전부가 되다",
+    "section": "36.8 관련 문서",
+    "text": "36.8 관련 문서\n→ ../ideas/014_economics_of_beauty.md — 아름다움의 경제학: 밀도가 가치를 움직인다 → ../ideas/001_axioms.md — 3대 공리",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>35</span>  <span class='chapter-title'>하나의 무늬가 전부가 되다</span>"
+      "<span class='chapter-number'>36</span>  <span class='chapter-title'>하나의 무늬가 전부가 되다</span>"
     ]
   },
   {
     "objectID": "art/004_principia_geometry.html",
     "href": "art/004_principia_geometry.html",
-    "title": "36  중력은 그려졌다",
+    "title": "37  중력은 그려졌다",
     "section": "",
-    "text": "36.1 통념\n— 뉴턴 『프린키피아』의 기하학적 악상\n뉴턴은 힘의 과학자다. 중력은 힘이고, 세계는 힘의 합으로 움직인다.\n이 통념은 반쯤만 맞다.\n『프린키피아』를 실제로 펼쳐보면, 뉴턴은 중력을 거의 계산하지 않는다. 그는 중력을 그린다.",
+    "text": "37.1 통념\n— 뉴턴 『프린키피아』의 기하학적 악상\n뉴턴은 힘의 과학자다. 중력은 힘이고, 세계는 힘의 합으로 움직인다.\n이 통념은 반쯤만 맞다.\n『프린키피아』를 실제로 펼쳐보면, 뉴턴은 중력을 거의 계산하지 않는다. 그는 중력을 그린다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>36</span>  <span class='chapter-title'>중력은 그려졌다</span>"
+      "<span class='chapter-number'>37</span>  <span class='chapter-title'>중력은 그려졌다</span>"
     ]
   },
   {
     "objectID": "art/004_principia_geometry.html#뉴턴은-이미-미적분을-알고-있었다",
     "href": "art/004_principia_geometry.html#뉴턴은-이미-미적분을-알고-있었다",
-    "title": "36  중력은 그려졌다",
-    "section": "36.2 뉴턴은 이미 미적분을 알고 있었다",
-    "text": "36.2 뉴턴은 이미 미적분을 알고 있었다\n전제가 있다.\n뉴턴은 『프린키피아』 집필 당시 이미 미적분을 발명한 상태였다. 계산 능력의 부족이 아니었다.\n그럼에도 그는:\n\n미적분을 거의 쓰지 않고\n원, 접선, 면적, 비례 관계로\n운동을 설명했다\n\n이 선택은 기술적 제약이 아니라 표현에 대한 결정이었다.",
+    "title": "37  중력은 그려졌다",
+    "section": "37.2 뉴턴은 이미 미적분을 알고 있었다",
+    "text": "37.2 뉴턴은 이미 미적분을 알고 있었다\n전제가 있다.\n뉴턴은 『프린키피아』 집필 당시 이미 미적분을 발명한 상태였다. 계산 능력의 부족이 아니었다.\n그럼에도 그는:\n\n미적분을 거의 쓰지 않고\n원, 접선, 면적, 비례 관계로\n운동을 설명했다\n\n이 선택은 기술적 제약이 아니라 표현에 대한 결정이었다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>36</span>  <span class='chapter-title'>중력은 그려졌다</span>"
+      "<span class='chapter-number'>37</span>  <span class='chapter-title'>중력은 그려졌다</span>"
     ]
   },
   {
     "objectID": "art/004_principia_geometry.html#중력은-힘으로-설명되지-않는다",
     "href": "art/004_principia_geometry.html#중력은-힘으로-설명되지-않는다",
-    "title": "36  중력은 그려졌다",
-    "section": "36.3 중력은 ’힘’으로 설명되지 않는다",
-    "text": "36.3 중력은 ’힘’으로 설명되지 않는다\n『프린키피아』에서 뉴턴은 묻지 않는다.\n\n왜 끌어당기는가\n무엇이 작용하는가\n힘의 본질은 무엇인가\n\n대신 그는 이것을 보여준다.\n\n이런 궤적이 있다\n이런 면적 법칙이 성립한다\n그러면 이 운동은 필연적으로 따라온다\n\n중력은 원인이 아니라 형태가 만든 필연성으로 등장한다.",
+    "title": "37  중력은 그려졌다",
+    "section": "37.3 중력은 ’힘’으로 설명되지 않는다",
+    "text": "37.3 중력은 ’힘’으로 설명되지 않는다\n『프린키피아』에서 뉴턴은 묻지 않는다.\n\n왜 끌어당기는가\n무엇이 작용하는가\n힘의 본질은 무엇인가\n\n대신 그는 이것을 보여준다.\n\n이런 궤적이 있다\n이런 면적 법칙이 성립한다\n그러면 이 운동은 필연적으로 따라온다\n\n중력은 원인이 아니라 형태가 만든 필연성으로 등장한다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>36</span>  <span class='chapter-title'>중력은 그려졌다</span>"
+      "<span class='chapter-number'>37</span>  <span class='chapter-title'>중력은 그려졌다</span>"
     ]
   },
   {
     "objectID": "art/004_principia_geometry.html#기하학은-설명이-아니라-납득이다",
     "href": "art/004_principia_geometry.html#기하학은-설명이-아니라-납득이다",
-    "title": "36  중력은 그려졌다",
-    "section": "36.4 기하학은 설명이 아니라 납득이다",
-    "text": "36.4 기하학은 설명이 아니라 납득이다\n뉴턴의 증명은 설득이 아니다.\n\n논리로 밀어붙이지 않고\n언어로 정당화하지 않는다\n\n대신 독자가 스스로 느끼게 만든다.\n\n“이렇게 생긴 세계라면 이렇게 움직일 수밖에 없구나.”\n\n이것은 설명이 아니라 형태에 의한 납득이다.",
+    "title": "37  중력은 그려졌다",
+    "section": "37.4 기하학은 설명이 아니라 납득이다",
+    "text": "37.4 기하학은 설명이 아니라 납득이다\n뉴턴의 증명은 설득이 아니다.\n\n논리로 밀어붙이지 않고\n언어로 정당화하지 않는다\n\n대신 독자가 스스로 느끼게 만든다.\n\n“이렇게 생긴 세계라면 이렇게 움직일 수밖에 없구나.”\n\n이것은 설명이 아니라 형태에 의한 납득이다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>36</span>  <span class='chapter-title'>중력은 그려졌다</span>"
+      "<span class='chapter-number'>37</span>  <span class='chapter-title'>중력은 그려졌다</span>"
     ]
   },
   {
     "objectID": "art/004_principia_geometry.html#여기서-드러나는-악상",
     "href": "art/004_principia_geometry.html#여기서-드러나는-악상",
-    "title": "36  중력은 그려졌다",
-    "section": "36.5 여기서 드러나는 악상",
-    "text": "36.5 여기서 드러나는 악상\n이 지점에서 뉴턴은 힘의 과학자가 아니라 구조의 아티스트에 가깝다.\n그의 출발점은 다음과 같다.\n\n중력은 무엇인가? ❌\n세계는 어떻게 생겼는가? ⭕\n이 형태에서 어떤 운동이 필연적인가? ⭕\n\n이 질문은 논리보다 먼저 떠오른 감각, 즉 악상에 가깝다.",
+    "title": "37  중력은 그려졌다",
+    "section": "37.5 여기서 드러나는 악상",
+    "text": "37.5 여기서 드러나는 악상\n이 지점에서 뉴턴은 힘의 과학자가 아니라 구조의 아티스트에 가깝다.\n그의 출발점은 다음과 같다.\n\n중력은 무엇인가? ❌\n세계는 어떻게 생겼는가? ⭕\n이 형태에서 어떤 운동이 필연적인가? ⭕\n\n이 질문은 논리보다 먼저 떠오른 감각, 즉 악상에 가깝다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>36</span>  <span class='chapter-title'>중력은 그려졌다</span>"
+      "<span class='chapter-number'>37</span>  <span class='chapter-title'>중력은 그려졌다</span>"
     ]
   },
   {
     "objectID": "art/004_principia_geometry.html#이후의-전복",
     "href": "art/004_principia_geometry.html#이후의-전복",
-    "title": "36  중력은 그려졌다",
-    "section": "36.6 이후의 전복",
-    "text": "36.6 이후의 전복\n300년 뒤, 아인슈타인은 이 악상을 끝까지 밀어붙인다.\n\n힘을 제거하고\n시공간의 곡률로 번역한다\n\n그러나 그 출발점은 이미 『프린키피아』 안에 있었다.\n\n중력은 설명할 대상이 아니라 형태로 제시될 수 있다.",
+    "title": "37  중력은 그려졌다",
+    "section": "37.6 이후의 전복",
+    "text": "37.6 이후의 전복\n300년 뒤, 아인슈타인은 이 악상을 끝까지 밀어붙인다.\n\n힘을 제거하고\n시공간의 곡률로 번역한다\n\n그러나 그 출발점은 이미 『프린키피아』 안에 있었다.\n\n중력은 설명할 대상이 아니라 형태로 제시될 수 있다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>36</span>  <span class='chapter-title'>중력은 그려졌다</span>"
+      "<span class='chapter-number'>37</span>  <span class='chapter-title'>중력은 그려졌다</span>"
     ]
   },
   {
     "objectID": "art/004_principia_geometry.html#angramynew-해석",
     "href": "art/004_principia_geometry.html#angramynew-해석",
-    "title": "36  중력은 그려졌다",
-    "section": "36.7 AngraMyNew 해석",
-    "text": "36.7 AngraMyNew 해석\n뉴턴의 위대함은 공식을 만든 데 있지 않다.\n그는 한 시대의 세계를 기하학이라는 미적 형식으로 고정했다.\n\n원인보다 구조\n설명보다 형태\n계산보다 납득\n\n이 선택이 이후 300년 과학의 방향을 만들었다.",
+    "title": "37  중력은 그려졌다",
+    "section": "37.7 AngraMyNew 해석",
+    "text": "37.7 AngraMyNew 해석\n뉴턴의 위대함은 공식을 만든 데 있지 않다.\n그는 한 시대의 세계를 기하학이라는 미적 형식으로 고정했다.\n\n원인보다 구조\n설명보다 형태\n계산보다 납득\n\n이 선택이 이후 300년 과학의 방향을 만들었다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>36</span>  <span class='chapter-title'>중력은 그려졌다</span>"
+      "<span class='chapter-number'>37</span>  <span class='chapter-title'>중력은 그려졌다</span>"
     ]
   },
   {
     "objectID": "art/004_principia_geometry.html#결론",
     "href": "art/004_principia_geometry.html#결론",
-    "title": "36  중력은 그려졌다",
-    "section": "36.8 결론",
-    "text": "36.8 결론\n중력은 처음부터 완전히 설명된 적이 없다.\n그러나 한 번, 아름답게 그려진 적은 있다.\n『프린키피아』는 과학서이기 이전에, 하나의 구조적 예술 작품이다.\nAngraMyNew는 이 순간을 아름다움의 사례로 기록한다.",
+    "title": "37  중력은 그려졌다",
+    "section": "37.8 결론",
+    "text": "37.8 결론\n중력은 처음부터 완전히 설명된 적이 없다.\n그러나 한 번, 아름답게 그려진 적은 있다.\n『프린키피아』는 과학서이기 이전에, 하나의 구조적 예술 작품이다.\nAngraMyNew는 이 순간을 아름다움의 사례로 기록한다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>36</span>  <span class='chapter-title'>중력은 그려졌다</span>"
+      "<span class='chapter-number'>37</span>  <span class='chapter-title'>중력은 그려졌다</span>"
     ]
   },
   {
     "objectID": "art/004_principia_geometry.html#관련-문서",
     "href": "art/004_principia_geometry.html#관련-문서",
-    "title": "36  중력은 그려졌다",
-    "section": "36.9 관련 문서",
-    "text": "36.9 관련 문서\n→ 002_general_relativity.md — 아인슈타인: 중력을 지운 아름다움 → ../ideas/022_age_of_malice.md — 악상의 시대",
+    "title": "37  중력은 그려졌다",
+    "section": "37.9 관련 문서",
+    "text": "37.9 관련 문서\n→ 002_general_relativity.md — 아인슈타인: 중력을 지운 아름다움 → ../ideas/022_age_of_malice.md — 악상의 시대",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>36</span>  <span class='chapter-title'>중력은 그려졌다</span>"
+      "<span class='chapter-number'>37</span>  <span class='chapter-title'>중력은 그려졌다</span>"
     ]
   },
   {
     "objectID": "art/005_hangul_two_states.html",
     "href": "art/005_hangul_two_states.html",
-    "title": "37  한글의 두 상태",
+    "title": "38  한글의 두 상태",
     "section": "",
-    "text": "37.1 멈춘 두 순간\n— 물질이 될 때와 투명해질 때\n서정주를 읽다 멈췄다. 이문열을 읽다 멈췄다. 그러나 이유는 정반대였다.",
+    "text": "38.1 멈춘 두 순간\n— 물질이 될 때와 투명해질 때\n서정주를 읽다 멈췄다. 이문열을 읽다 멈췄다. 그러나 이유는 정반대였다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>37</span>  <span class='chapter-title'>한글의 두 상태</span>"
+      "<span class='chapter-number'>38</span>  <span class='chapter-title'>한글의 두 상태</span>"
     ]
   },
   {
     "objectID": "art/005_hangul_two_states.html#한글이-남아버린-순간-서정주",
     "href": "art/005_hangul_two_states.html#한글이-남아버린-순간-서정주",
-    "title": "37  한글의 두 상태",
-    "section": "37.2 한글이 남아버린 순간 — 서정주",
-    "text": "37.2 한글이 남아버린 순간 — 서정주\n서정주를 읽으며 나는 의미에서 멈추지 않았다. 글자에서 멈췄다.\n\n음절이 사라지지 않는다\n발음이 의미보다 먼저 남는다\n읽고 나면 문장이 아니라 잔여가 남는다\n\n\n한글이 이런 글자였나?\n\n「귀촉도」에서:\n\n눈물 아롱아롱 피리 불고 가신 임의 밟으신 길은 진달래 꽃비 오는 서역(西域) 삼만리. 흰 옷깃 여며 여며 가옵신 임의 다시 오진 못하는 파촉(巴蜀) 삼만리.\n신이나 삼아 줄 걸, 슬픈 사연의 올올이 아로새긴 육날 메투리. 은장도 푸른 날로 이냥 베어서 부질 없는 이 머리털 엮어 드릴 걸.\n초롱에 불빛 지친 밤하늘 구비구비 은핫물 목이 젖은 새. 차마 아니 솟은 가락 눈이 감겨서 제 피에 취한 새가 귀촉도 운다. 그대 하늘 끝 호올로 가신 임아.\n\n“올올이 아로새긴 육날 메투리” “구비구비 은핫물 목이 젖은 새”\n이때 언어는 무언가를 전달하지 않는다. 설명하지 않고, 설득하지 않고, 메시지를 남기지 않는다. 대신 존재한다.\n한글은 이 순간 도구가 아니라 물질이 된다.",
+    "title": "38  한글의 두 상태",
+    "section": "38.2 한글이 남아버린 순간 — 서정주",
+    "text": "38.2 한글이 남아버린 순간 — 서정주\n서정주를 읽으며 나는 의미에서 멈추지 않았다. 글자에서 멈췄다.\n\n음절이 사라지지 않는다\n발음이 의미보다 먼저 남는다\n읽고 나면 문장이 아니라 잔여가 남는다\n\n\n한글이 이런 글자였나?\n\n「귀촉도」에서:\n\n눈물 아롱아롱 피리 불고 가신 임의 밟으신 길은 진달래 꽃비 오는 서역(西域) 삼만리. 흰 옷깃 여며 여며 가옵신 임의 다시 오진 못하는 파촉(巴蜀) 삼만리.\n신이나 삼아 줄 걸, 슬픈 사연의 올올이 아로새긴 육날 메투리. 은장도 푸른 날로 이냥 베어서 부질 없는 이 머리털 엮어 드릴 걸.\n초롱에 불빛 지친 밤하늘 구비구비 은핫물 목이 젖은 새. 차마 아니 솟은 가락 눈이 감겨서 제 피에 취한 새가 귀촉도 운다. 그대 하늘 끝 호올로 가신 임아.\n\n“올올이 아로새긴 육날 메투리” “구비구비 은핫물 목이 젖은 새”\n이때 언어는 무언가를 전달하지 않는다. 설명하지 않고, 설득하지 않고, 메시지를 남기지 않는다. 대신 존재한다.\n한글은 이 순간 도구가 아니라 물질이 된다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>37</span>  <span class='chapter-title'>한글의 두 상태</span>"
+      "<span class='chapter-number'>38</span>  <span class='chapter-title'>한글의 두 상태</span>"
     ]
   },
   {
     "objectID": "art/005_hangul_two_states.html#한글이-사라져버린-순간-이문열",
     "href": "art/005_hangul_two_states.html#한글이-사라져버린-순간-이문열",
-    "title": "37  한글의 두 상태",
-    "section": "37.3 한글이 사라져버린 순간 — 이문열",
-    "text": "37.3 한글이 사라져버린 순간 — 이문열\n이문열을 읽을 때 나는 다른 이유로 멈췄다. 이번에는 너무 잘 읽혔다.\n\n문장이 걸리지 않는다\n표현이 눈에 띄지 않는다\n서사만 남고 언어는 사라진다\n\n\n한글이 이렇게 쉽게 읽혔었나?\n\n「이 황량한 역에서」에서:\n\n당신들은 누구와 사랑에 빠져든 적이 있는가? 당신들은 틀림없이 그 고귀함이나 감미로움, 헤어질 때의 고통과 슬픔이며 그 후의 공허함 따위를 미화하고 과장하려 들 테지만 기실 그 진상은 뜻밖에도 단순하고 명백하다. 그것은 당신이 이 여행 중에 눈길을 끄는 한 소녀와 만났다는 것이며, 결국은 부정확하기 마련인 관찰에 이어 당신이 던진 호의 섞인 눈길에 그녀가 답했다는 것이며, 무료를 함께 달래자는 당신의 용기를 다한 요청에 그녀가 다소곳이 응했다는 것이며, 그리하여 약간은 야릇한 열에 들뜬 당신들이 깜박깜박 자기를 잊어가며 주고받은, 분명 달콤하고 섬세하나 또한 그리 대단할 건 없는 몇 개 유형의 행위와 가끔씩은 정색해도 좋을 대화의 집합에 지나지 않는다.\n\n문장이 길고 복잡한데도 걸리지 않는다. 다 읽고 나면 “사랑의 허무함”이라는 의미만 남고, 어떤 단어로 썼는지는 기억나지 않는다.\n언어는 마찰을 만들지 않는다. 독해를 요구하지 않는다. 의미가 곧바로 흐르고, 문장은 기억되지 않는다.\n이때 한글은 존재를 주장하지 않는다. 완전히 투명해진다.",
+    "title": "38  한글의 두 상태",
+    "section": "38.3 한글이 사라져버린 순간 — 이문열",
+    "text": "38.3 한글이 사라져버린 순간 — 이문열\n이문열을 읽을 때 나는 다른 이유로 멈췄다. 이번에는 너무 잘 읽혔다.\n\n문장이 걸리지 않는다\n표현이 눈에 띄지 않는다\n서사만 남고 언어는 사라진다\n\n\n한글이 이렇게 쉽게 읽혔었나?\n\n「이 황량한 역에서」에서:\n\n당신들은 누구와 사랑에 빠져든 적이 있는가? 당신들은 틀림없이 그 고귀함이나 감미로움, 헤어질 때의 고통과 슬픔이며 그 후의 공허함 따위를 미화하고 과장하려 들 테지만 기실 그 진상은 뜻밖에도 단순하고 명백하다. 그것은 당신이 이 여행 중에 눈길을 끄는 한 소녀와 만났다는 것이며, 결국은 부정확하기 마련인 관찰에 이어 당신이 던진 호의 섞인 눈길에 그녀가 답했다는 것이며, 무료를 함께 달래자는 당신의 용기를 다한 요청에 그녀가 다소곳이 응했다는 것이며, 그리하여 약간은 야릇한 열에 들뜬 당신들이 깜박깜박 자기를 잊어가며 주고받은, 분명 달콤하고 섬세하나 또한 그리 대단할 건 없는 몇 개 유형의 행위와 가끔씩은 정색해도 좋을 대화의 집합에 지나지 않는다.\n\n문장이 길고 복잡한데도 걸리지 않는다. 다 읽고 나면 “사랑의 허무함”이라는 의미만 남고, 어떤 단어로 썼는지는 기억나지 않는다.\n언어는 마찰을 만들지 않는다. 독해를 요구하지 않는다. 의미가 곧바로 흐르고, 문장은 기억되지 않는다.\n이때 한글은 존재를 주장하지 않는다. 완전히 투명해진다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>37</span>  <span class='chapter-title'>한글의 두 상태</span>"
+      "<span class='chapter-number'>38</span>  <span class='chapter-title'>한글의 두 상태</span>"
     ]
   },
   {
     "objectID": "art/005_hangul_two_states.html#두-상태는-대비가-아니다",
     "href": "art/005_hangul_two_states.html#두-상태는-대비가-아니다",
-    "title": "37  한글의 두 상태",
-    "section": "37.4 두 상태는 대비가 아니다",
-    "text": "37.4 두 상태는 대비가 아니다\n이 두 경험은 우열 관계가 아니다.\n\n하나는 과잉이고\n하나는 최소화다\n\n그러나 둘 다 같은 지점에서 출발한다. 의미 이전의 선택.\n\n남길 것인가\n지울 것인가\n\n이 결정은 논리의 결과가 아니라 악상의 방향이다.",
+    "title": "38  한글의 두 상태",
+    "section": "38.4 두 상태는 대비가 아니다",
+    "text": "38.4 두 상태는 대비가 아니다\n이 두 경험은 우열 관계가 아니다.\n\n하나는 과잉이고\n하나는 최소화다\n\n그러나 둘 다 같은 지점에서 출발한다. 의미 이전의 선택.\n\n남길 것인가\n지울 것인가\n\n이 결정은 논리의 결과가 아니라 악상의 방향이다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>37</span>  <span class='chapter-title'>한글의 두 상태</span>"
+      "<span class='chapter-number'>38</span>  <span class='chapter-title'>한글의 두 상태</span>"
     ]
   },
   {
     "objectID": "art/005_hangul_two_states.html#언어의-상태-변화",
     "href": "art/005_hangul_two_states.html#언어의-상태-변화",
-    "title": "37  한글의 두 상태",
-    "section": "37.5 언어의 상태 변화",
-    "text": "37.5 언어의 상태 변화\n이 두 순간을 통해 하나의 구조가 드러난다. 한글은 본질적으로 하나의 성질만 갖지 않는다.\n\n밀도를 극단까지 올릴 수 있고\n투명도를 극단까지 올릴 수 있다\n\n이것은 재능의 문제가 아니다. 기교의 문제도 아니다. 어디까지 밀어붙일 것인가에 대한 선택이다.",
+    "title": "38  한글의 두 상태",
+    "section": "38.5 언어의 상태 변화",
+    "text": "38.5 언어의 상태 변화\n이 두 순간을 통해 하나의 구조가 드러난다. 한글은 본질적으로 하나의 성질만 갖지 않는다.\n\n밀도를 극단까지 올릴 수 있고\n투명도를 극단까지 올릴 수 있다\n\n이것은 재능의 문제가 아니다. 기교의 문제도 아니다. 어디까지 밀어붙일 것인가에 대한 선택이다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>37</span>  <span class='chapter-title'>한글의 두 상태</span>"
+      "<span class='chapter-number'>38</span>  <span class='chapter-title'>한글의 두 상태</span>"
     ]
   },
   {
     "objectID": "art/005_hangul_two_states.html#angramynew-해석",
     "href": "art/005_hangul_two_states.html#angramynew-해석",
-    "title": "37  한글의 두 상태",
-    "section": "37.6 AngraMyNew 해석",
-    "text": "37.6 AngraMyNew 해석\n서정주는 언어를 남기기로 선택했다. 이문열은 언어를 지우기로 선택했다. 둘 다 설명 이전의 판단에서 출발했다.\n정돈 이전의 진동이 문장 단위에서 서로 다른 형태로 고정된 사례다.",
+    "title": "38  한글의 두 상태",
+    "section": "38.6 AngraMyNew 해석",
+    "text": "38.6 AngraMyNew 해석\n서정주는 언어를 남기기로 선택했다. 이문열은 언어를 지우기로 선택했다. 둘 다 설명 이전의 판단에서 출발했다.\n정돈 이전의 진동이 문장 단위에서 서로 다른 형태로 고정된 사례다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>37</span>  <span class='chapter-title'>한글의 두 상태</span>"
+      "<span class='chapter-number'>38</span>  <span class='chapter-title'>한글의 두 상태</span>"
     ]
   },
   {
     "objectID": "art/005_hangul_two_states.html#결론",
     "href": "art/005_hangul_two_states.html#결론",
-    "title": "37  한글의 두 상태",
-    "section": "37.7 결론",
-    "text": "37.7 결론\n한글은 언제나 의미를 담는 그릇이 아니다. 어떤 순간에는 무게를 얻고, 어떤 순간에는 완전히 사라진다.\n서정주와 이문열은 그 두 극단이 실제로 가능하다는 것을 각기 다른 방식으로 보여줬다.\nAngraMyNew는 이 두 상태를 아름다움의 사례로 기록한다.",
+    "title": "38  한글의 두 상태",
+    "section": "38.7 결론",
+    "text": "38.7 결론\n한글은 언제나 의미를 담는 그릇이 아니다. 어떤 순간에는 무게를 얻고, 어떤 순간에는 완전히 사라진다.\n서정주와 이문열은 그 두 극단이 실제로 가능하다는 것을 각기 다른 방식으로 보여줬다.\nAngraMyNew는 이 두 상태를 아름다움의 사례로 기록한다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>37</span>  <span class='chapter-title'>한글의 두 상태</span>"
+      "<span class='chapter-number'>38</span>  <span class='chapter-title'>한글의 두 상태</span>"
     ]
   },
   {
     "objectID": "art/005_hangul_two_states.html#관련-문서",
     "href": "art/005_hangul_two_states.html#관련-문서",
-    "title": "37  한글의 두 상태",
-    "section": "37.8 관련 문서",
-    "text": "37.8 관련 문서\n→ 004_principia_geometry.md — 뉴턴: 형태에 대한 결정 → ../ideas/022_age_of_malice.md — 악상의 시대",
+    "title": "38  한글의 두 상태",
+    "section": "38.8 관련 문서",
+    "text": "38.8 관련 문서\n→ 004_principia_geometry.md — 뉴턴: 형태에 대한 결정 → ../ideas/022_age_of_malice.md — 악상의 시대",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>37</span>  <span class='chapter-title'>한글의 두 상태</span>"
+      "<span class='chapter-number'>38</span>  <span class='chapter-title'>한글의 두 상태</span>"
     ]
   },
   {
     "objectID": "art/006_feynman_diagram.html",
     "href": "art/006_feynman_diagram.html",
-    "title": "38  보이지 않으면 이해한 것이 아니다",
+    "title": "39  보이지 않으면 이해한 것이 아니다",
     "section": "",
-    "text": "38.1 문제\n— 파인만의 다이어그램과 경로적분\n1940년대, 양자전기역학(QED)은 벽에 부딪혀 있었다.\n전자 하나, 광자 하나. 이 둘의 상호작용을 계산하려면 칠판을 가득 채운 적분을 며칠간 풀어야 했다.\n물리학자들은 계산할 수 있었다. 그러나 볼 수는 없었다.\n한편, 양자역학에도 같은 문제가 있었다.\n슈뢰딩거 방정식은 강력했다. 파동함수의 시간 진화를 정확히 기술했다.\n그러나 그것은 하나의 미분방정식이었다. 풀 수는 있지만, 의미를 볼 수는 없었다.",
+    "text": "39.1 문제\n— 파인만의 다이어그램과 경로적분\n1940년대, 양자전기역학(QED)은 벽에 부딪혀 있었다.\n전자 하나, 광자 하나. 이 둘의 상호작용을 계산하려면 칠판을 가득 채운 적분을 며칠간 풀어야 했다.\n물리학자들은 계산할 수 있었다. 그러나 볼 수는 없었다.\n한편, 양자역학에도 같은 문제가 있었다.\n슈뢰딩거 방정식은 강력했다. 파동함수의 시간 진화를 정확히 기술했다.\n그러나 그것은 하나의 미분방정식이었다. 풀 수는 있지만, 의미를 볼 수는 없었다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>38</span>  <span class='chapter-title'>보이지 않으면 이해한 것이 아니다</span>"
+      "<span class='chapter-number'>39</span>  <span class='chapter-title'>보이지 않으면 이해한 것이 아니다</span>"
     ]
   },
   {
     "objectID": "art/006_feynman_diagram.html#문제",
     "href": "art/006_feynman_diagram.html#문제",
-    "title": "38  보이지 않으면 이해한 것이 아니다",
+    "title": "39  보이지 않으면 이해한 것이 아니다",
     "section": "",
     "text": "입자는 어디에 있는가? 왜 그 확률인가? 방정식은 답하지만, 보여주지 않는다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>38</span>  <span class='chapter-title'>보이지 않으면 이해한 것이 아니다</span>"
+      "<span class='chapter-number'>39</span>  <span class='chapter-title'>보이지 않으면 이해한 것이 아니다</span>"
     ]
   },
   {
     "objectID": "art/006_feynman_diagram.html#파괴",
     "href": "art/006_feynman_diagram.html#파괴",
-    "title": "38  보이지 않으면 이해한 것이 아니다",
-    "section": "38.2 파괴",
-    "text": "38.2 파괴\n리처드 파인만은 두 번 파괴했다.\n첫 번째. 수식을 버리고 그림을 그렸다.\n\n직선: 전자\n물결선: 광자\n점(vertex): 상호작용\n\n사람들은 비웃었다. “물리학을 만화로 만드느냐?”\n두 번째. 슈뢰딩거 방정식을 버리고 경로를 열었다.\n입자가 A에서 B로 간다. 파인만은 물었다:\n\n“하나의 경로를 푸는 대신, 가능한 모든 경로를 동시에 걷게 하면 어떨까?”\n\n직선으로 가는 경로. 곡선으로 도는 경로. 달을 거쳐 오는 경로. 은하를 한 바퀴 돌아오는 경로.\n맹상군이 닭 울음과 개 도둑질을 품었듯, 경로적분은 모든 가능성을 품는다. 쓸모를 묻지 않는다. 전부 허용한다.\n모든 경로에 위상(phase)을 부여하고, 전부 더한다.\n물리학자들은 당혹했다. “무한개의 경로를 더하라고?”",
+    "title": "39  보이지 않으면 이해한 것이 아니다",
+    "section": "39.2 파괴",
+    "text": "39.2 파괴\n리처드 파인만은 두 번 파괴했다.\n첫 번째. 수식을 버리고 그림을 그렸다.\n\n직선: 전자\n물결선: 광자\n점(vertex): 상호작용\n\n사람들은 비웃었다. “물리학을 만화로 만드느냐?”\n두 번째. 슈뢰딩거 방정식을 버리고 경로를 열었다.\n입자가 A에서 B로 간다. 파인만은 물었다:\n\n“하나의 경로를 푸는 대신, 가능한 모든 경로를 동시에 걷게 하면 어떨까?”\n\n직선으로 가는 경로. 곡선으로 도는 경로. 달을 거쳐 오는 경로. 은하를 한 바퀴 돌아오는 경로.\n맹상군이 닭 울음과 개 도둑질을 품었듯, 경로적분은 모든 가능성을 품는다. 쓸모를 묻지 않는다. 전부 허용한다.\n모든 경로에 위상(phase)을 부여하고, 전부 더한다.\n물리학자들은 당혹했다. “무한개의 경로를 더하라고?”",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>38</span>  <span class='chapter-title'>보이지 않으면 이해한 것이 아니다</span>"
+      "<span class='chapter-number'>39</span>  <span class='chapter-title'>보이지 않으면 이해한 것이 아니다</span>"
     ]
   },
   {
     "objectID": "art/006_feynman_diagram.html#재구성",
     "href": "art/006_feynman_diagram.html#재구성",
-    "title": "38  보이지 않으면 이해한 것이 아니다",
-    "section": "38.3 재구성",
-    "text": "38.3 재구성\n두 파괴 모두, 같은 결과에 도달했다.\n다이어그램. 낙서의 모든 선과 점이 복잡한 적분 항과 정확히 1:1로 대응했다.\n\n선 하나 = 전파인자(propagator)\n점 하나 = 결합상수(coupling constant)\n\n그림을 그리면, 적분식이 자동으로 튀어나왔다.\n가장 단순한 예: 전자 둘이 광자 하나를 주고받는다.\ne⁻ ───→───●───→─── e⁻\n           │\n           ~ γ\n           │\ne⁻ ───→───●───→─── e⁻\n이 낙서가 곧 수식이다:\n\\[\\mathcal{M} = \\bar{u}(p_3)\\,(-ie\\gamma^\\mu)\\,u(p_1) \\;\\cdot\\; \\frac{-ig_{\\mu\\nu}}{q^2} \\;\\cdot\\; \\bar{u}(p_4)\\,(-ie\\gamma^\\nu)\\,u(p_2)\\]\n\n\n\n다이어그램\n수식\n\n\n\n\n외부 전자선 (→)\n스피너 \\(u, \\bar{u}\\)\n\n\n꼭짓점 (●)\n결합상수 \\(-ie\\gamma^\\mu\\)\n\n\n내부 광자선 (~)\n전파인자 \\(\\dfrac{-ig_{\\mu\\nu}}{q^2}\\)\n\n\n\n선을 읽으면, 식이 나온다. 점을 읽으면, 상수가 나온다. 그것이 전부다.\n경로적분. 무한개의 경로를 더하면, 품었던 대부분은 서로 상쇄(destructive interference)되어 사라진다. 살아남는 것은 작용(action)이 최소인 경로 하나.\n그것이 뉴턴의 고전역학이었다.\n\\[\\langle B | A \\rangle = \\int \\mathcal{D}[x(t)] \\; e^{i S[x]/\\hbar}\\]\n왼쪽은 양자역학 — A에서 B로 갈 확률진폭. 오른쪽은 모든 경로의 합.\n\n양자역학과 고전역학이 하나의 그림 안에서 만났다.\n\n슈뢰딩거는 방정식을 풀었다. 파인만은 방정식을 보여줬다.",
+    "title": "39  보이지 않으면 이해한 것이 아니다",
+    "section": "39.3 재구성",
+    "text": "39.3 재구성\n두 파괴 모두, 같은 결과에 도달했다.\n다이어그램. 낙서의 모든 선과 점이 복잡한 적분 항과 정확히 1:1로 대응했다.\n\n선 하나 = 전파인자(propagator)\n점 하나 = 결합상수(coupling constant)\n\n그림을 그리면, 적분식이 자동으로 튀어나왔다.\n가장 단순한 예: 전자 둘이 광자 하나를 주고받는다.\ne⁻ ───→───●───→─── e⁻\n           │\n           ~ γ\n           │\ne⁻ ───→───●───→─── e⁻\n이 낙서가 곧 수식이다:\n\\[\\mathcal{M} = \\bar{u}(p_3)\\,(-ie\\gamma^\\mu)\\,u(p_1) \\;\\cdot\\; \\frac{-ig_{\\mu\\nu}}{q^2} \\;\\cdot\\; \\bar{u}(p_4)\\,(-ie\\gamma^\\nu)\\,u(p_2)\\]\n\n\n\n다이어그램\n수식\n\n\n\n\n외부 전자선 (→)\n스피너 \\(u, \\bar{u}\\)\n\n\n꼭짓점 (●)\n결합상수 \\(-ie\\gamma^\\mu\\)\n\n\n내부 광자선 (~)\n전파인자 \\(\\dfrac{-ig_{\\mu\\nu}}{q^2}\\)\n\n\n\n선을 읽으면, 식이 나온다. 점을 읽으면, 상수가 나온다. 그것이 전부다.\n경로적분. 무한개의 경로를 더하면, 품었던 대부분은 서로 상쇄(destructive interference)되어 사라진다. 살아남는 것은 작용(action)이 최소인 경로 하나.\n그것이 뉴턴의 고전역학이었다.\n\\[\\langle B | A \\rangle = \\int \\mathcal{D}[x(t)] \\; e^{i S[x]/\\hbar}\\]\n왼쪽은 양자역학 — A에서 B로 갈 확률진폭. 오른쪽은 모든 경로의 합.\n\n양자역학과 고전역학이 하나의 그림 안에서 만났다.\n\n슈뢰딩거는 방정식을 풀었다. 파인만은 방정식을 보여줬다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>38</span>  <span class='chapter-title'>보이지 않으면 이해한 것이 아니다</span>"
+      "<span class='chapter-number'>39</span>  <span class='chapter-title'>보이지 않으면 이해한 것이 아니다</span>"
     ]
   },
   {
     "objectID": "art/006_feynman_diagram.html#확장",
     "href": "art/006_feynman_diagram.html#확장",
-    "title": "38  보이지 않으면 이해한 것이 아니다",
-    "section": "38.4 확장",
-    "text": "38.4 확장\n파인만 다이어그램은 QED를 넘어섰다.\n\n약력, 강력까지 확장 — 표준모형 전체의 공용어가 되었다\n입자물리학자의 칠판에서 수식이 사라지고, 그림이 남았다\n응집물질, 끈이론까지 — 물리학의 거의 모든 분야가 이 언어를 쓴다\n\n경로적분은 양자역학을 넘어섰다.\n\n양자장론의 기초가 되었다\n통계역학과 양자역학을 연결했다\n양자중력 이론의 출발점이 되었다\n\n한 남자의 그림과 경로가 물리학의 언어 자체를 바꿨다.",
+    "title": "39  보이지 않으면 이해한 것이 아니다",
+    "section": "39.4 확장",
+    "text": "39.4 확장\n파인만 다이어그램은 QED를 넘어섰다.\n\n약력, 강력까지 확장 — 표준모형 전체의 공용어가 되었다\n입자물리학자의 칠판에서 수식이 사라지고, 그림이 남았다\n응집물질, 끈이론까지 — 물리학의 거의 모든 분야가 이 언어를 쓴다\n\n경로적분은 양자역학을 넘어섰다.\n\n양자장론의 기초가 되었다\n통계역학과 양자역학을 연결했다\n양자중력 이론의 출발점이 되었다\n\n한 남자의 그림과 경로가 물리학의 언어 자체를 바꿨다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>38</span>  <span class='chapter-title'>보이지 않으면 이해한 것이 아니다</span>"
+      "<span class='chapter-number'>39</span>  <span class='chapter-title'>보이지 않으면 이해한 것이 아니다</span>"
     ]
   },
   {
     "objectID": "art/006_feynman_diagram.html#angramynew-해석",
     "href": "art/006_feynman_diagram.html#angramynew-해석",
-    "title": "38  보이지 않으면 이해한 것이 아니다",
-    "section": "38.5 AngraMyNew 해석",
-    "text": "38.5 AngraMyNew 해석\n파인만은 두 번 같은 일을 했다.\n\n\n\n대상\n기존\n파인만\n\n\n\n\nQED 계산\n칠판 가득한 적분\n선 몇 개의 다이어그램\n\n\n양자역학\n하나의 미분방정식\n모든 경로의 합\n\n\n\n두 경우 모두, 대수(algebra)를 기하(geometry)로 번역했다.\n이것은 악상이다.\n논리보다 먼저 떠오른 감각. “이건 보여야 한다”는 정돈 이전의 진동.\n파인만은 계산하지 않았다. 보이게 만들었다.\n보이게 만들자, 본질이 드러났다.",
+    "title": "39  보이지 않으면 이해한 것이 아니다",
+    "section": "39.5 AngraMyNew 해석",
+    "text": "39.5 AngraMyNew 해석\n파인만은 두 번 같은 일을 했다.\n\n\n\n대상\n기존\n파인만\n\n\n\n\nQED 계산\n칠판 가득한 적분\n선 몇 개의 다이어그램\n\n\n양자역학\n하나의 미분방정식\n모든 경로의 합\n\n\n\n두 경우 모두, 대수(algebra)를 기하(geometry)로 번역했다.\n이것은 악상이다.\n논리보다 먼저 떠오른 감각. “이건 보여야 한다”는 정돈 이전의 진동.\n파인만은 계산하지 않았다. 보이게 만들었다.\n보이게 만들자, 본질이 드러났다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>38</span>  <span class='chapter-title'>보이지 않으면 이해한 것이 아니다</span>"
+      "<span class='chapter-number'>39</span>  <span class='chapter-title'>보이지 않으면 이해한 것이 아니다</span>"
     ]
   },
   {
     "objectID": "art/006_feynman_diagram.html#결론",
     "href": "art/006_feynman_diagram.html#결론",
-    "title": "38  보이지 않으면 이해한 것이 아니다",
-    "section": "38.6 결론",
-    "text": "38.6 결론\n물리학은 두 번, 같은 남자에게 같은 선물을 받았다.\n적분은 그림이 되었고, 방정식은 경로가 되었다.\n둘 다 같은 악상에서 태어났다.\n\n“보이지 않으면 이해한 것이 아니다.”\n\nAngraMyNew는 이 두 순간을 아름다움의 사례로 기록한다.",
+    "title": "39  보이지 않으면 이해한 것이 아니다",
+    "section": "39.6 결론",
+    "text": "39.6 결론\n물리학은 두 번, 같은 남자에게 같은 선물을 받았다.\n적분은 그림이 되었고, 방정식은 경로가 되었다.\n둘 다 같은 악상에서 태어났다.\n\n“보이지 않으면 이해한 것이 아니다.”\n\nAngraMyNew는 이 두 순간을 아름다움의 사례로 기록한다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>38</span>  <span class='chapter-title'>보이지 않으면 이해한 것이 아니다</span>"
+      "<span class='chapter-number'>39</span>  <span class='chapter-title'>보이지 않으면 이해한 것이 아니다</span>"
     ]
   },
   {
     "objectID": "art/006_feynman_diagram.html#관련-문서",
     "href": "art/006_feynman_diagram.html#관련-문서",
-    "title": "38  보이지 않으면 이해한 것이 아니다",
-    "section": "38.7 관련 문서",
-    "text": "38.7 관련 문서\n→ 004_principia_geometry.md — 뉴턴: 중력을 기하학으로 그리다 → 002_general_relativity.md — 아인슈타인: 중력을 지운 아름다움 → ../ideas/022_age_of_malice.md — 악상의 시대",
+    "title": "39  보이지 않으면 이해한 것이 아니다",
+    "section": "39.7 관련 문서",
+    "text": "39.7 관련 문서\n→ 004_principia_geometry.md — 뉴턴: 중력을 기하학으로 그리다 → 002_general_relativity.md — 아인슈타인: 중력을 지운 아름다움 → ../ideas/022_age_of_malice.md — 악상의 시대",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>38</span>  <span class='chapter-title'>보이지 않으면 이해한 것이 아니다</span>"
+      "<span class='chapter-number'>39</span>  <span class='chapter-title'>보이지 않으면 이해한 것이 아니다</span>"
     ]
   },
   {
     "objectID": "art/007_nagarjuna_emptiness.html",
     "href": "art/007_nagarjuna_emptiness.html",
-    "title": "39  나가르주나의 공",
+    "title": "40  나가르주나의 공",
     "section": "",
-    "text": "39.1 문제\n— 본질을 제거하면 세계가 자유로워진다\n세계의 본질은 무엇인가?\n2500년간 모든 철학이 이 질문을 품었다.\n힌두교는 아트만(ātman)이라 했다. 변하지 않는 참나. 그리스는 우시아(ousia)라 했다. 사물의 실체. 원자론은 아토모스(atomos)라 했다. 더 쪼갤 수 없는 것.\n모두 같은 확신에서 출발했다:\n초기 불교도 이 흐름 안에 있었다. 붓다는 무아(無我)를 말했지만, 제자들은 법(dharma)의 목록을 만들기 시작했다. 75법, 100법 — 세계를 이루는 궁극적 요소들.\n쪼개는 방향이 바뀌었을 뿐, 쪼개면 본질이 나온다는 전제는 그대로였다.",
+    "text": "40.1 문제\n— 본질을 제거하면 세계가 자유로워진다\n세계의 본질은 무엇인가?\n2500년간 모든 철학이 이 질문을 품었다.\n힌두교는 아트만(ātman)이라 했다. 변하지 않는 참나. 그리스는 우시아(ousia)라 했다. 사물의 실체. 원자론은 아토모스(atomos)라 했다. 더 쪼갤 수 없는 것.\n모두 같은 확신에서 출발했다:\n초기 불교도 이 흐름 안에 있었다. 붓다는 무아(無我)를 말했지만, 제자들은 법(dharma)의 목록을 만들기 시작했다. 75법, 100법 — 세계를 이루는 궁극적 요소들.\n쪼개는 방향이 바뀌었을 뿐, 쪼개면 본질이 나온다는 전제는 그대로였다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>39</span>  <span class='chapter-title'>나가르주나의 공</span>"
+      "<span class='chapter-number'>40</span>  <span class='chapter-title'>나가르주나의 공</span>"
     ]
   },
   {
     "objectID": "art/007_nagarjuna_emptiness.html#문제",
     "href": "art/007_nagarjuna_emptiness.html#문제",
-    "title": "39  나가르주나의 공",
+    "title": "40  나가르주나의 공",
     "section": "",
     "text": "쪼개면 본질이 나온다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>39</span>  <span class='chapter-title'>나가르주나의 공</span>"
+      "<span class='chapter-number'>40</span>  <span class='chapter-title'>나가르주나의 공</span>"
     ]
   },
   {
     "objectID": "art/007_nagarjuna_emptiness.html#파괴",
     "href": "art/007_nagarjuna_emptiness.html#파괴",
-    "title": "39  나가르주나의 공",
-    "section": "39.2 파괴",
-    "text": "39.2 파괴\n나가르주나는 2세기 인도의 논사였다.\n그는 새로운 본질을 제안하지 않았다. 본질이라는 개념 자체를 파괴했다.\n『중론(Mūlamadhyamakakārikā)』. 이 책에서 나가르주나는 묻는다:\n\n어떤 것이 자성(svabhāva)을 가진다면, 그것은 조건에 의존하지 않아야 한다. 조건에 의존하지 않는 것이 있는가?\n\n없다.\n불이 타려면 땔나무가 필요하다. 땔나무가 없으면 불이 아니다. 불은 불 자체로 존재하지 않는다.\n그의 알고리즘은 사구비판(Catuṣkoṭi)이었다. 인과, 운동, 시간, 자아 — 모든 개념에 적용했다:\n\n\n\n판단\n명제\n비판\n\n\n\n\n1구\n있다 (有)\n조건에 의존하므로 자성이 아니다\n\n\n2구\n없다 (無)\n자성이 없는데 없다고 할 대상도 없다\n\n\n3구\n있기도 하고 없기도 하다\n논리적 모순이다\n\n\n4구\n있는 것도 아니고 없는 것도 아니다\n말의 형태일 뿐 내용이 없다\n\n\n\n네 방향 모두 막혔다. 하나도 남지 않았다.\n방법이 독특했다. 자기 주장을 세우지 않았다. 상대의 전제를 받아들인 뒤, 그 전제가 스스로 무너지는 것을 보여줬다. 귀류논증(prasaṅga).\n\n갈루아가 “공식을 찾는다”는 질문을 버렸듯, 나가르주나는 “본질을 찾는다”는 질문을 버렸다.",
+    "title": "40  나가르주나의 공",
+    "section": "40.2 파괴",
+    "text": "40.2 파괴\n나가르주나는 2세기 인도의 논사였다.\n그는 새로운 본질을 제안하지 않았다. 본질이라는 개념 자체를 파괴했다.\n『중론(Mūlamadhyamakakārikā)』. 이 책에서 나가르주나는 묻는다:\n\n어떤 것이 자성(svabhāva)을 가진다면, 그것은 조건에 의존하지 않아야 한다. 조건에 의존하지 않는 것이 있는가?\n\n없다.\n불이 타려면 땔나무가 필요하다. 땔나무가 없으면 불이 아니다. 불은 불 자체로 존재하지 않는다.\n그의 알고리즘은 사구비판(Catuṣkoṭi)이었다. 인과, 운동, 시간, 자아 — 모든 개념에 적용했다:\n\n\n\n판단\n명제\n비판\n\n\n\n\n1구\n있다 (有)\n조건에 의존하므로 자성이 아니다\n\n\n2구\n없다 (無)\n자성이 없는데 없다고 할 대상도 없다\n\n\n3구\n있기도 하고 없기도 하다\n논리적 모순이다\n\n\n4구\n있는 것도 아니고 없는 것도 아니다\n말의 형태일 뿐 내용이 없다\n\n\n\n네 방향 모두 막혔다. 하나도 남지 않았다.\n방법이 독특했다. 자기 주장을 세우지 않았다. 상대의 전제를 받아들인 뒤, 그 전제가 스스로 무너지는 것을 보여줬다. 귀류논증(prasaṅga).\n\n갈루아가 “공식을 찾는다”는 질문을 버렸듯, 나가르주나는 “본질을 찾는다”는 질문을 버렸다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>39</span>  <span class='chapter-title'>나가르주나의 공</span>"
+      "<span class='chapter-number'>40</span>  <span class='chapter-title'>나가르주나의 공</span>"
     ]
   },
   {
     "objectID": "art/007_nagarjuna_emptiness.html#재구성",
     "href": "art/007_nagarjuna_emptiness.html#재구성",
-    "title": "39  나가르주나의 공",
-    "section": "39.3 재구성",
-    "text": "39.3 재구성\n본질이 없다면, 세계는 무엇인가?\n나가르주나의 답: 연기(緣起, pratītyasamutpāda).\n\n모든 것은 조건에 의해 생긴다. 조건이 바뀌면 사라진다. 독립적으로 존재하는 것은 없다.\n\n이것이 공(空, śūnyatā)이다.\n공은 무(無)가 아니다. 공은 자성의 부재다.\n여기서 반전이 일어난다:\n자성이 없기 때문에, 변화가 가능하다. 변화가 가능하기 때문에, 생성이 가능하다. 생성이 가능하기 때문에, 세계가 존재한다.\n고정된 본질이 있었다면 아무것도 변할 수 없다. 공이기 때문에 모든 것이 가능하다.\n\n공하지 않다면, 아무것도 가능하지 않다. — 나가르주나, 『중론』 24:14\n\n그리고 이중진리(二諦):\n\n세속제(世俗諦): 일상의 언어와 규칙은 유효하다\n승의제(勝義諦): 그 어느 것도 궁극적 실체가 아니다\n\n둘은 모순이 아니다. 세속제가 작동하는 이유가 바로 승의제다.\n규칙이 있되 고정되지 않았기 때문에, 세계는 움직인다.",
+    "title": "40  나가르주나의 공",
+    "section": "40.3 재구성",
+    "text": "40.3 재구성\n본질이 없다면, 세계는 무엇인가?\n나가르주나의 답: 연기(緣起, pratītyasamutpāda).\n\n모든 것은 조건에 의해 생긴다. 조건이 바뀌면 사라진다. 독립적으로 존재하는 것은 없다.\n\n이것이 공(空, śūnyatā)이다.\n공은 무(無)가 아니다. 공은 자성의 부재다.\n여기서 반전이 일어난다:\n자성이 없기 때문에, 변화가 가능하다. 변화가 가능하기 때문에, 생성이 가능하다. 생성이 가능하기 때문에, 세계가 존재한다.\n고정된 본질이 있었다면 아무것도 변할 수 없다. 공이기 때문에 모든 것이 가능하다.\n\n공하지 않다면, 아무것도 가능하지 않다. — 나가르주나, 『중론』 24:14\n\n그리고 이중진리(二諦):\n\n세속제(世俗諦): 일상의 언어와 규칙은 유효하다\n승의제(勝義諦): 그 어느 것도 궁극적 실체가 아니다\n\n둘은 모순이 아니다. 세속제가 작동하는 이유가 바로 승의제다.\n규칙이 있되 고정되지 않았기 때문에, 세계는 움직인다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>39</span>  <span class='chapter-title'>나가르주나의 공</span>"
+      "<span class='chapter-number'>40</span>  <span class='chapter-title'>나가르주나의 공</span>"
     ]
   },
   {
     "objectID": "art/007_nagarjuna_emptiness.html#확장",
     "href": "art/007_nagarjuna_emptiness.html#확장",
-    "title": "39  나가르주나의 공",
-    "section": "39.4 확장",
-    "text": "39.4 확장\n나가르주나의 공은 불교를 넘어섰다.\n\n화엄의 인드라망 — 그물의 모든 구슬이 다른 모든 구슬을 비춘다. 독립된 구슬은 없다\n선(禪)의 직관 — 개념을 세우지 않고 직접 가리킨다. 공의 실천적 형태\n관계적 양자역학(Rovelli) — 물리량은 관계 속에서만 정의된다. 사물 자체의 속성은 없다\n네트워크 이론 — 노드의 본질이 아니라 연결의 구조가 시스템을 정의한다\n\n한 논사의 귀류논증이 존재론의 언어 자체를 바꿨다.",
+    "title": "40  나가르주나의 공",
+    "section": "40.4 확장",
+    "text": "40.4 확장\n나가르주나의 공은 불교를 넘어섰다.\n\n화엄의 인드라망 — 그물의 모든 구슬이 다른 모든 구슬을 비춘다. 독립된 구슬은 없다\n선(禪)의 직관 — 개념을 세우지 않고 직접 가리킨다. 공의 실천적 형태\n관계적 양자역학(Rovelli) — 물리량은 관계 속에서만 정의된다. 사물 자체의 속성은 없다\n네트워크 이론 — 노드의 본질이 아니라 연결의 구조가 시스템을 정의한다\n\n한 논사의 귀류논증이 존재론의 언어 자체를 바꿨다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>39</span>  <span class='chapter-title'>나가르주나의 공</span>"
+      "<span class='chapter-number'>40</span>  <span class='chapter-title'>나가르주나의 공</span>"
     ]
   },
   {
     "objectID": "art/007_nagarjuna_emptiness.html#angramynew-해석",
     "href": "art/007_nagarjuna_emptiness.html#angramynew-해석",
-    "title": "39  나가르주나의 공",
-    "section": "39.5 AngraMyNew 해석",
-    "text": "39.5 AngraMyNew 해석\n나가르주나는 갈루아와 같은 일을 했다.\n\n\n\n대상\n기존\n나가르주나\n\n\n\n\n존재론\n쪼개면 본질이 나온다\n쪼갤수록 관계만 나온다\n\n\n공(空)\n무(無), 허무\n자성의 부재 = 가능성의 조건\n\n\n세계\n고정된 실체들의 집합\n조건들의 네트워크\n\n\n\n갈루아가 “근의 공식이 아니라 근들 사이의 관계”를 봤듯, 나가르주나는 “사물의 본질이 아니라 사물들 사이의 조건”을 봤다.\n이것은 악상이다.\n논리보다 먼저 떠오른 감각. “이건 비어있어야 한다”는 정돈 이전의 진동.\n그리고 이 공은 AngraMyNew의 세 공리와 겹친다:\n\n\n\n공리\n공(空)\n\n\n\n\n파괴\n자성(고정된 나)을 파괴한다\n\n\n창조\n비었기 때문에 채울 수 있다\n\n\n확장\n독립 실체가 없으므로, 모든 ’My’는 관계 속에서 성립한다\n\n\n\n나가르주나는 파괴했다. 그러나 허무에 머물지 않았다.\n공이 허무라면 독약이다. 공이 가능성이라면 해방이다.\n고정된 ’나’가 없다면, 시스템이 청구하던 모든 세금 — 자존심, 체면, 타인의 시선 — 은 수취인 불명이 된다.\n그는 이 경계를 정확히 걸었다.",
+    "title": "40  나가르주나의 공",
+    "section": "40.5 AngraMyNew 해석",
+    "text": "40.5 AngraMyNew 해석\n나가르주나는 갈루아와 같은 일을 했다.\n\n\n\n대상\n기존\n나가르주나\n\n\n\n\n존재론\n쪼개면 본질이 나온다\n쪼갤수록 관계만 나온다\n\n\n공(空)\n무(無), 허무\n자성의 부재 = 가능성의 조건\n\n\n세계\n고정된 실체들의 집합\n조건들의 네트워크\n\n\n\n갈루아가 “근의 공식이 아니라 근들 사이의 관계”를 봤듯, 나가르주나는 “사물의 본질이 아니라 사물들 사이의 조건”을 봤다.\n이것은 악상이다.\n논리보다 먼저 떠오른 감각. “이건 비어있어야 한다”는 정돈 이전의 진동.\n그리고 이 공은 AngraMyNew의 세 공리와 겹친다:\n\n\n\n공리\n공(空)\n\n\n\n\n파괴\n자성(고정된 나)을 파괴한다\n\n\n창조\n비었기 때문에 채울 수 있다\n\n\n확장\n독립 실체가 없으므로, 모든 ’My’는 관계 속에서 성립한다\n\n\n\n나가르주나는 파괴했다. 그러나 허무에 머물지 않았다.\n공이 허무라면 독약이다. 공이 가능성이라면 해방이다.\n고정된 ’나’가 없다면, 시스템이 청구하던 모든 세금 — 자존심, 체면, 타인의 시선 — 은 수취인 불명이 된다.\n그는 이 경계를 정확히 걸었다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>39</span>  <span class='chapter-title'>나가르주나의 공</span>"
+      "<span class='chapter-number'>40</span>  <span class='chapter-title'>나가르주나의 공</span>"
     ]
   },
   {
     "objectID": "art/007_nagarjuna_emptiness.html#결론",
     "href": "art/007_nagarjuna_emptiness.html#결론",
-    "title": "39  나가르주나의 공",
-    "section": "39.6 결론",
-    "text": "39.6 결론\n2500년간 철학은 물었다. “세계의 본질은 무엇인가?”\n나가르주나는 답을 바꾸지 않았다. 질문에 필요한 전제를 제거했다.\n본질이 없으므로 세계는 고정되지 않는다. 고정되지 않으므로 파괴할 수 있다. 파괴할 수 있으므로 창조할 수 있다.\n\n가장 급진적인 철학은 답을 바꾸지 않았다. 질문에 필요한 전제를 제거했다.\n\nAngraMyNew는 이 제거를 아름다움의 사례로 기록한다.",
+    "title": "40  나가르주나의 공",
+    "section": "40.6 결론",
+    "text": "40.6 결론\n2500년간 철학은 물었다. “세계의 본질은 무엇인가?”\n나가르주나는 답을 바꾸지 않았다. 질문에 필요한 전제를 제거했다.\n본질이 없으므로 세계는 고정되지 않는다. 고정되지 않으므로 파괴할 수 있다. 파괴할 수 있으므로 창조할 수 있다.\n\n가장 급진적인 철학은 답을 바꾸지 않았다. 질문에 필요한 전제를 제거했다.\n\nAngraMyNew는 이 제거를 아름다움의 사례로 기록한다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>39</span>  <span class='chapter-title'>나가르주나의 공</span>"
+      "<span class='chapter-number'>40</span>  <span class='chapter-title'>나가르주나의 공</span>"
     ]
   },
   {
     "objectID": "art/007_nagarjuna_emptiness.html#관련-문서",
     "href": "art/007_nagarjuna_emptiness.html#관련-문서",
-    "title": "39  나가르주나의 공",
-    "section": "39.7 관련 문서",
-    "text": "39.7 관련 문서\n→ 001_galois_quintic.md — 갈루아: 풀 수 없음을 구조로 증명하다 → 002_general_relativity.md — 아인슈타인: 설명해야 할 것 자체를 없앤다 → ../ideas/002_principles_of_creation.md — 창조의 원칙: “파괴만 하면 허무주의에 빠진다” → ../ideas/014_economics_of_beauty.md — 아름다움의 경제학: 면세인과 징세인 → ../ideas/022_age_of_malice.md — 악상의 시대",
+    "title": "40  나가르주나의 공",
+    "section": "40.7 관련 문서",
+    "text": "40.7 관련 문서\n→ 001_galois_quintic.md — 갈루아: 풀 수 없음을 구조로 증명하다 → 002_general_relativity.md — 아인슈타인: 설명해야 할 것 자체를 없앤다 → ../ideas/002_principles_of_creation.md — 창조의 원칙: “파괴만 하면 허무주의에 빠진다” → ../ideas/014_economics_of_beauty.md — 아름다움의 경제학: 면세인과 징세인 → ../ideas/022_age_of_malice.md — 악상의 시대",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>39</span>  <span class='chapter-title'>나가르주나의 공</span>"
+      "<span class='chapter-number'>40</span>  <span class='chapter-title'>나가르주나의 공</span>"
     ]
   },
   {
     "objectID": "art/008_klimt_kiss.html",
     "href": "art/008_klimt_kiss.html",
-    "title": "40  클림트의 키스",
+    "title": "41  클림트의 키스",
     "section": "",
-    "text": "40.1 문제\n— 보이는 곳에 숨긴 3일\n구스타프 클림트의 ’키스’는 100년간 사랑의 그림이었다.\n황금빛 옷을 입은 남녀가 포옹한다. 남자는 얼굴이 보이지 않고, 여자는 황홀감에 눈을 감았다.\n미술사학자들은 에로스를 읽었다. 심리학자들은 합일의 욕망을 읽었다. 대중은 세계에서 가장 유명한 키스를 봤다.\n모두 보이는 것 안에서 의미를 찾았다.\n아무도 문양 자체를 읽으려 하지 않았다. 문제가 없었기 때문이 아니다. 문제가 있다는 것을 몰랐다.",
+    "text": "41.1 문제\n— 보이는 곳에 숨긴 3일\n구스타프 클림트의 ’키스’는 100년간 사랑의 그림이었다.\n황금빛 옷을 입은 남녀가 포옹한다. 남자는 얼굴이 보이지 않고, 여자는 황홀감에 눈을 감았다.\n미술사학자들은 에로스를 읽었다. 심리학자들은 합일의 욕망을 읽었다. 대중은 세계에서 가장 유명한 키스를 봤다.\n모두 보이는 것 안에서 의미를 찾았다.\n아무도 문양 자체를 읽으려 하지 않았다. 문제가 없었기 때문이 아니다. 문제가 있다는 것을 몰랐다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>40</span>  <span class='chapter-title'>클림트의 키스</span>"
+      "<span class='chapter-number'>41</span>  <span class='chapter-title'>클림트의 키스</span>"
     ]
   },
   {
     "objectID": "art/008_klimt_kiss.html#문제",
     "href": "art/008_klimt_kiss.html#문제",
-    "title": "40  클림트의 키스",
+    "title": "41  클림트의 키스",
     "section": "",
     "text": "구스타프 클림트, 『키스』 (1907–1908). 오스트리아 비엔나 벨베데레궁전 소장.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>40</span>  <span class='chapter-title'>클림트의 키스</span>"
+      "<span class='chapter-number'>41</span>  <span class='chapter-title'>클림트의 키스</span>"
     ]
   },
   {
     "objectID": "art/008_klimt_kiss.html#파괴",
     "href": "art/008_klimt_kiss.html#파괴",
-    "title": "40  클림트의 키스",
-    "section": "40.2 파괴",
-    "text": "40.2 파괴\n2012년, 노벨 생리의학상 수상자 에릭 칸델이 『통찰의 시대』에서 지적했다.\n\n남자 옷의 직사각형은 정자를, 여자 옷의 원형은 난자를 상징한다.\n\n세계가 100년간 로맨스를 봤던 그림에서 신경과학자는 생식세포를 봤다.\n그러나 칸델도 상징 수준에서 멈췄다. 직사각형은 정자를 ‘뜻한다’. 원은 난자를 ‘뜻한다’. 기호의 해독이었다.\n2021년, 해부학자 유임주(고려대 의대)가 같은 그림을 들여다봤다. 그는 상징을 보지 않았다. 구조를 봤다.\n고해상도로 확대하자:\n\n남자 옷의 검정 직사각형 주변 — 정자 목의 미토콘드리아를 도식화한 흰 점들\n여자 옷의 청색 테두리 원 — 미수정 난자\n주황색 원, 단 하나 — 수정된 난자. 다른 정자가 더 이상 들어오지 못하도록 난자막이 변한 순간\n그 주변에 2세포기, 4세포기, 8세포기, 오디배\n\n\n\n\n남자 옷의 직사각형과 정자 구조의 대응. 왼쪽: 남자 옷 확대(EM 수준), 오른쪽: 여자 옷에서 헤엄치는 정자(LM 수준).\n\n\n\n\n\n청색 테두리 = 미수정 난자, 주황색 테두리 = 수정된 난자. 오른쪽(B)은 수정 과정 도해.\n\n\n\n\n\n수정란의 세포분열. A: 그림 속 8할구체(적색)와 오디배(보라색). B: 그레이 해부학(Gray’s Anatomy, 20판, 1918)의 발생 도판.\n\n\n칸델은 “무엇이 그려져 있는가”를 봤다. 유임주는 “어떤 순서로 진행되고 있는가”를 봤다.\n\n클림트는 키스를 그린 것이 아니었다. 인간 발생의 처음 3일을 그렸다.",
+    "title": "41  클림트의 키스",
+    "section": "41.2 파괴",
+    "text": "41.2 파괴\n2012년, 노벨 생리의학상 수상자 에릭 칸델이 『통찰의 시대』에서 지적했다.\n\n남자 옷의 직사각형은 정자를, 여자 옷의 원형은 난자를 상징한다.\n\n세계가 100년간 로맨스를 봤던 그림에서 신경과학자는 생식세포를 봤다.\n그러나 칸델도 상징 수준에서 멈췄다. 직사각형은 정자를 ‘뜻한다’. 원은 난자를 ‘뜻한다’. 기호의 해독이었다.\n2021년, 해부학자 유임주(고려대 의대)가 같은 그림을 들여다봤다. 그는 상징을 보지 않았다. 구조를 봤다.\n고해상도로 확대하자:\n\n남자 옷의 검정 직사각형 주변 — 정자 목의 미토콘드리아를 도식화한 흰 점들\n여자 옷의 청색 테두리 원 — 미수정 난자\n주황색 원, 단 하나 — 수정된 난자. 다른 정자가 더 이상 들어오지 못하도록 난자막이 변한 순간\n그 주변에 2세포기, 4세포기, 8세포기, 오디배\n\n\n\n\n남자 옷의 직사각형과 정자 구조의 대응. 왼쪽: 남자 옷 확대(EM 수준), 오른쪽: 여자 옷에서 헤엄치는 정자(LM 수준).\n\n\n\n\n\n청색 테두리 = 미수정 난자, 주황색 테두리 = 수정된 난자. 오른쪽(B)은 수정 과정 도해.\n\n\n\n\n\n수정란의 세포분열. A: 그림 속 8할구체(적색)와 오디배(보라색). B: 그레이 해부학(Gray’s Anatomy, 20판, 1918)의 발생 도판.\n\n\n칸델은 “무엇이 그려져 있는가”를 봤다. 유임주는 “어떤 순서로 진행되고 있는가”를 봤다.\n\n클림트는 키스를 그린 것이 아니었다. 인간 발생의 처음 3일을 그렸다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>40</span>  <span class='chapter-title'>클림트의 키스</span>"
+      "<span class='chapter-number'>41</span>  <span class='chapter-title'>클림트의 키스</span>"
     ]
   },
   {
     "objectID": "art/008_klimt_kiss.html#재구성",
     "href": "art/008_klimt_kiss.html#재구성",
-    "title": "40  클림트의 키스",
-    "section": "40.3 재구성",
-    "text": "40.3 재구성\n왜 이것이 가능했는가?\n1900년 전후, 비엔나. 현미경 광학기술이 비약적으로 발전하던 시기다.\n클림트는 에밀 주커칸들(비엔나 의대 해부학 교수)의 부인 베르타 주커칸들이 운영하는 살롱을 드나들었다. 해부학 실습실을 견학했다. 에른스트 헤켈이 동물 발생 과정을 그린 도판들을 봤다.\n그리고 그는 선택했다.\n헤켈처럼 그릴 수 있었다. 정자를 정자로, 난자를 난자로, 발생학 도판 그대로.\n그러지 않았다. 과학 삽화는 설명하지만 감동시키지 않는다. 클림트는 알게 하는 것이 아니라 느끼게 하는 것을 택했다.\n키스의 표면에 수정란의 3일을 숨겼다.\n직사각형은 장식이 아니라 정자의 단면이었고, 원은 패턴이 아니라 난자의 상태였고, 색의 변화는 디자인이 아니라 수정의 시간이었다.\n형태와 내용이 일치했다. 키스하는 남녀의 옷 위에서, 그들의 세포가 만나고 있었다.",
+    "title": "41  클림트의 키스",
+    "section": "41.3 재구성",
+    "text": "41.3 재구성\n왜 이것이 가능했는가?\n1900년 전후, 비엔나. 현미경 광학기술이 비약적으로 발전하던 시기다.\n클림트는 에밀 주커칸들(비엔나 의대 해부학 교수)의 부인 베르타 주커칸들이 운영하는 살롱을 드나들었다. 해부학 실습실을 견학했다. 에른스트 헤켈이 동물 발생 과정을 그린 도판들을 봤다.\n그리고 그는 선택했다.\n헤켈처럼 그릴 수 있었다. 정자를 정자로, 난자를 난자로, 발생학 도판 그대로.\n그러지 않았다. 과학 삽화는 설명하지만 감동시키지 않는다. 클림트는 알게 하는 것이 아니라 느끼게 하는 것을 택했다.\n키스의 표면에 수정란의 3일을 숨겼다.\n직사각형은 장식이 아니라 정자의 단면이었고, 원은 패턴이 아니라 난자의 상태였고, 색의 변화는 디자인이 아니라 수정의 시간이었다.\n형태와 내용이 일치했다. 키스하는 남녀의 옷 위에서, 그들의 세포가 만나고 있었다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>40</span>  <span class='chapter-title'>클림트의 키스</span>"
+      "<span class='chapter-number'>41</span>  <span class='chapter-title'>클림트의 키스</span>"
     ]
   },
   {
     "objectID": "art/008_klimt_kiss.html#확장",
     "href": "art/008_klimt_kiss.html#확장",
-    "title": "40  클림트의 키스",
-    "section": "40.4 확장",
-    "text": "40.4 확장\n이 연구는 세계적 의학학술지 JAMA에 실렸다.\nJAMA는 무작위 대조시험(RCT)과 대규모 코호트 연구가 지배하는 저널이다. 통계적 검정력, 표본 크기, p-value.\n그런 저널이 그림 한 점의 문양 분석을 게재했다.\n환자도 없고, 표본도 없고, p-value도 없다. 있는 것은 해부학자의 눈과 100년 된 유화 한 점뿐이었다.\nJAMA가 이것을 실은 이유: 이 논문이 증명한 것은 클림트의 의도가 아니다. 올바른 해상도의 눈이 올바른 층위를 읽는다는 것이다.\n미술사학자는 양식을 봤다. 심리학자는 욕망을 봤다. 신경과학자는 상징을 봤다. 해부학자는 구조를 봤다.\n같은 그림이었다. 눈이 달랐다.",
+    "title": "41  클림트의 키스",
+    "section": "41.4 확장",
+    "text": "41.4 확장\n이 연구는 세계적 의학학술지 JAMA에 실렸다.\nJAMA는 무작위 대조시험(RCT)과 대규모 코호트 연구가 지배하는 저널이다. 통계적 검정력, 표본 크기, p-value.\n그런 저널이 그림 한 점의 문양 분석을 게재했다.\n환자도 없고, 표본도 없고, p-value도 없다. 있는 것은 해부학자의 눈과 100년 된 유화 한 점뿐이었다.\nJAMA가 이것을 실은 이유: 이 논문이 증명한 것은 클림트의 의도가 아니다. 올바른 해상도의 눈이 올바른 층위를 읽는다는 것이다.\n미술사학자는 양식을 봤다. 심리학자는 욕망을 봤다. 신경과학자는 상징을 봤다. 해부학자는 구조를 봤다.\n같은 그림이었다. 눈이 달랐다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>40</span>  <span class='chapter-title'>클림트의 키스</span>"
+      "<span class='chapter-number'>41</span>  <span class='chapter-title'>클림트의 키스</span>"
     ]
   },
   {
     "objectID": "art/008_klimt_kiss.html#angramynew-해석",
     "href": "art/008_klimt_kiss.html#angramynew-해석",
-    "title": "40  클림트의 키스",
-    "section": "40.5 AngraMyNew 해석",
-    "text": "40.5 AngraMyNew 해석\n이 사건에는 두 명의 창조자가 있다.\n\n\n\n\n\n\n\n\n창조자\n악상\n행위\n\n\n\n\n클림트\n“생명의 시작을 보여야 한다”\n발생학을 키스의 표면에 인코딩했다\n\n\n유임주\n“이 문양은 장식이 아니다”\n100년 만에 키스의 표면을 디코딩했다\n\n\n\n둘 다 논리보다 먼저 온 감각이었다.\n클림트는 파인만과 반대 방향으로 같은 일을 했다:\n\n\n\n\n\n\n\n\n\n파인만\n클림트\n\n\n\n\n방향\n보이지 않는 것을 보이게 만들었다\n보이지 않는 것을 보이는 곳에 숨겼다\n\n\n결과\n다이어그램 = 수식\n문양 = 발생학\n\n\n해독\n즉시 읽혔다\n100년이 걸렸다\n\n\n\n그리고 JAMA 게재가 증명한 것:\nRCT만이 증거가 아니다. 빅데이터만이 발견이 아니다. 때로는 올바른 눈 하나가 천 개의 표본보다 강력하다.",
+    "title": "41  클림트의 키스",
+    "section": "41.5 AngraMyNew 해석",
+    "text": "41.5 AngraMyNew 해석\n이 사건에는 두 명의 창조자가 있다.\n\n\n\n\n\n\n\n\n창조자\n악상\n행위\n\n\n\n\n클림트\n“생명의 시작을 보여야 한다”\n발생학을 키스의 표면에 인코딩했다\n\n\n유임주\n“이 문양은 장식이 아니다”\n100년 만에 키스의 표면을 디코딩했다\n\n\n\n둘 다 논리보다 먼저 온 감각이었다.\n클림트는 파인만과 반대 방향으로 같은 일을 했다:\n\n\n\n\n\n\n\n\n\n파인만\n클림트\n\n\n\n\n방향\n보이지 않는 것을 보이게 만들었다\n보이지 않는 것을 보이는 곳에 숨겼다\n\n\n결과\n다이어그램 = 수식\n문양 = 발생학\n\n\n해독\n즉시 읽혔다\n100년이 걸렸다\n\n\n\n그리고 JAMA 게재가 증명한 것:\nRCT만이 증거가 아니다. 빅데이터만이 발견이 아니다. 때로는 올바른 눈 하나가 천 개의 표본보다 강력하다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>40</span>  <span class='chapter-title'>클림트의 키스</span>"
+      "<span class='chapter-number'>41</span>  <span class='chapter-title'>클림트의 키스</span>"
     ]
   },
   {
     "objectID": "art/008_klimt_kiss.html#결론",
     "href": "art/008_klimt_kiss.html#결론",
-    "title": "40  클림트의 키스",
-    "section": "40.6 결론",
-    "text": "40.6 결론\n클림트는 키스를 그렸다. 세계는 100년간 사랑을 봤다.\n노벨상 수상자가 정자와 난자를 알아챘다. 해부학자가 수정란의 3일을 되찾았다.\n보이는 곳에 보이지 않는 것을 넣는 것. 그것이 인코딩이라면, 되찾는 것은 디코딩이다.\n\n클림트는 인코딩했고, 세계는 100년간 복호화 키를 찾지 못했다. 해부학자가 그 키를 들고 나타났다.\n\nAngraMyNew는 이 인코딩과 디코딩을 아름다움의 사례로 기록한다.",
+    "title": "41  클림트의 키스",
+    "section": "41.6 결론",
+    "text": "41.6 결론\n클림트는 키스를 그렸다. 세계는 100년간 사랑을 봤다.\n노벨상 수상자가 정자와 난자를 알아챘다. 해부학자가 수정란의 3일을 되찾았다.\n보이는 곳에 보이지 않는 것을 넣는 것. 그것이 인코딩이라면, 되찾는 것은 디코딩이다.\n\n클림트는 인코딩했고, 세계는 100년간 복호화 키를 찾지 못했다. 해부학자가 그 키를 들고 나타났다.\n\nAngraMyNew는 이 인코딩과 디코딩을 아름다움의 사례로 기록한다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>40</span>  <span class='chapter-title'>클림트의 키스</span>"
+      "<span class='chapter-number'>41</span>  <span class='chapter-title'>클림트의 키스</span>"
     ]
   },
   {
     "objectID": "art/008_klimt_kiss.html#관련-문서",
     "href": "art/008_klimt_kiss.html#관련-문서",
-    "title": "40  클림트의 키스",
-    "section": "40.7 관련 문서",
-    "text": "40.7 관련 문서\n→ 006_feynman_diagram.md — 파인만: 보이지 않으면 이해한 것이 아니다 → 007_nagarjuna_emptiness.md — 나가르주나: 보이는 것(자성) 뒤의 보이지 않는 것(공) → ../ideas/022_age_of_malice.md — 악상의 시대",
+    "title": "41  클림트의 키스",
+    "section": "41.7 관련 문서",
+    "text": "41.7 관련 문서\n→ 006_feynman_diagram.md — 파인만: 보이지 않으면 이해한 것이 아니다 → 007_nagarjuna_emptiness.md — 나가르주나: 보이는 것(자성) 뒤의 보이지 않는 것(공) → ../ideas/022_age_of_malice.md — 악상의 시대",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>40</span>  <span class='chapter-title'>클림트의 키스</span>"
+      "<span class='chapter-number'>41</span>  <span class='chapter-title'>클림트의 키스</span>"
     ]
   },
   {
     "objectID": "art/009_mozart_pure_beauty.html",
     "href": "art/009_mozart_pure_beauty.html",
-    "title": "41  아무것도 말하지 않는 음악",
+    "title": "42  아무것도 말하지 않는 음악",
     "section": "",
-    "text": "41.1 문제\n— 모차르트와 방어할 수 없는 아름다움\n음악은 수레였다.\n바흐는 신을 실었다. 베토벤은 운명을 실었다. 바그너는 민족을 실었다.\n아름다운 수레. 그러나 수레의 가치는 짐으로 증명되었다.\n이 질문이 당연한 시대가 수백 년 이어졌다.",
+    "text": "42.1 문제\n— 모차르트와 방어할 수 없는 아름다움\n음악은 수레였다.\n바흐는 신을 실었다. 베토벤은 운명을 실었다. 바그너는 민족을 실었다.\n아름다운 수레. 그러나 수레의 가치는 짐으로 증명되었다.\n이 질문이 당연한 시대가 수백 년 이어졌다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>41</span>  <span class='chapter-title'>아무것도 말하지 않는 음악</span>"
+      "<span class='chapter-number'>42</span>  <span class='chapter-title'>아무것도 말하지 않는 음악</span>"
     ]
   },
   {
     "objectID": "art/009_mozart_pure_beauty.html#문제",
     "href": "art/009_mozart_pure_beauty.html#문제",
-    "title": "41  아무것도 말하지 않는 음악",
+    "title": "42  아무것도 말하지 않는 음악",
     "section": "",
     "text": "“이 음악은 무엇을 말하는가?”",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>41</span>  <span class='chapter-title'>아무것도 말하지 않는 음악</span>"
+      "<span class='chapter-number'>42</span>  <span class='chapter-title'>아무것도 말하지 않는 음악</span>"
     ]
   },
   {
     "objectID": "art/009_mozart_pure_beauty.html#파괴",
     "href": "art/009_mozart_pure_beauty.html#파괴",
-    "title": "41  아무것도 말하지 않는 음악",
-    "section": "41.2 파괴",
-    "text": "41.2 파괴\n모차르트는 짐을 내렸다.\n영화 『아마데우스』에 이런 장면이 있다.\n살리에리가 모차르트를 위해 환영 행진곡을 작곡한다. 궁정 작곡가의 자존심을 건 곡이다. 격식, 구조, 의도 — 모든 것이 설계되어 있다.\n모차르트가 그것을 한 번 듣는다. 피아노 앞에 앉는다. 살리에리의 곡을 기억해서 친다. 그리고 즉흥으로 바꾸기 시작한다.\n살리에리가 공들여 설계한 구조가 모차르트의 손끝에서 놀이가 된다. 결국 그 자리에서 「Non più andrai」가 태어난다.\n살리에리는 침묵한다.\n이 장면에서 중요한 것: 모차르트는 살리에리를 이기려 한 것이 아니다. 더 좋은 곡을 쓰려 한 것도 아니다. 그냥 놀았다.\n베토벤의 5번을 들으면 “운명은 이렇게 문을 두드린다”가 남는다. 9번을 들으면 “환희여, 아름다운 신들의 불꽃이여”가 남는다.\n모차르트의 즉흥을 들으면?\n아무것도 남지 않는다. 음만 남는다.\n그런데 그 음을 잊을 수 없다.",
+    "title": "42  아무것도 말하지 않는 음악",
+    "section": "42.2 파괴",
+    "text": "42.2 파괴\n모차르트는 짐을 내렸다.\n영화 『아마데우스』에 이런 장면이 있다.\n살리에리가 모차르트를 위해 환영 행진곡을 작곡한다. 궁정 작곡가의 자존심을 건 곡이다. 격식, 구조, 의도 — 모든 것이 설계되어 있다.\n모차르트가 그것을 한 번 듣는다. 피아노 앞에 앉는다. 살리에리의 곡을 기억해서 친다. 그리고 즉흥으로 바꾸기 시작한다.\n살리에리가 공들여 설계한 구조가 모차르트의 손끝에서 놀이가 된다. 결국 그 자리에서 「Non più andrai」가 태어난다.\n살리에리는 침묵한다.\n이 장면에서 중요한 것: 모차르트는 살리에리를 이기려 한 것이 아니다. 더 좋은 곡을 쓰려 한 것도 아니다. 그냥 놀았다.\n베토벤의 5번을 들으면 “운명은 이렇게 문을 두드린다”가 남는다. 9번을 들으면 “환희여, 아름다운 신들의 불꽃이여”가 남는다.\n모차르트의 즉흥을 들으면?\n아무것도 남지 않는다. 음만 남는다.\n그런데 그 음을 잊을 수 없다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>41</span>  <span class='chapter-title'>아무것도 말하지 않는 음악</span>"
+      "<span class='chapter-number'>42</span>  <span class='chapter-title'>아무것도 말하지 않는 음악</span>"
     ]
   },
   {
     "objectID": "art/009_mozart_pure_beauty.html#재구성",
     "href": "art/009_mozart_pure_beauty.html#재구성",
-    "title": "41  아무것도 말하지 않는 음악",
-    "section": "41.3 재구성",
-    "text": "41.3 재구성\n모차르트의 악보에 대해 남겨진 유명한 관찰이 있다.\n\n“고칠 음표가 하나도 없다.”\n\n베토벤의 스케치북에는 수정이 가득하다. 하나의 악절을 수십 번 고치고, 지우고, 다시 쓴다. 메시지를 담을 그릇이 맞을 때까지 두드린다.\n모차르트의 필사본에는 수정이 거의 없다.\n이것은 재능의 차이가 아니라 방향의 차이다.\n\n\n\n\n베토벤\n모차르트\n\n\n\n\n순서\n메시지가 먼저 → 음을 찾는다\n음이 먼저 → 메시지는 없다\n\n\n음악의 역할\n매체(vehicle)\n그 자체가 내용(substance)\n\n\n듣고 나면\n생각이 남는다\n음만 남는다\n\n\n\n둘 다 위대하다. 그러나 아름다움의 구조가 다르다.",
+    "title": "42  아무것도 말하지 않는 음악",
+    "section": "42.3 재구성",
+    "text": "42.3 재구성\n모차르트의 악보에 대해 남겨진 유명한 관찰이 있다.\n\n“고칠 음표가 하나도 없다.”\n\n베토벤의 스케치북에는 수정이 가득하다. 하나의 악절을 수십 번 고치고, 지우고, 다시 쓴다. 메시지를 담을 그릇이 맞을 때까지 두드린다.\n모차르트의 필사본에는 수정이 거의 없다.\n이것은 재능의 차이가 아니라 방향의 차이다.\n\n\n\n\n베토벤\n모차르트\n\n\n\n\n순서\n메시지가 먼저 → 음을 찾는다\n음이 먼저 → 메시지는 없다\n\n\n음악의 역할\n매체(vehicle)\n그 자체가 내용(substance)\n\n\n듣고 나면\n생각이 남는다\n음만 남는다\n\n\n\n둘 다 위대하다. 그러나 아름다움의 구조가 다르다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>41</span>  <span class='chapter-title'>아무것도 말하지 않는 음악</span>"
+      "<span class='chapter-number'>42</span>  <span class='chapter-title'>아무것도 말하지 않는 음악</span>"
     ]
   },
   {
     "objectID": "art/009_mozart_pure_beauty.html#확장",
     "href": "art/009_mozart_pure_beauty.html#확장",
-    "title": "41  아무것도 말하지 않는 음악",
-    "section": "41.4 확장",
-    "text": "41.4 확장\n200년이 지났다.\n베토벤의 음악은 시대와 함께 읽힌다. 프랑스 혁명, 계몽주의, 낭만주의. 메시지가 있으므로 맥락이 붙는다. 맥락이 붙으므로 해석이 달라진다.\n모차르트의 음악은 시대를 붙일 곳이 없다. 메시지가 없으므로 맥락도 붙지 않는다. 1786년에 들어도, 2026년에 들어도 같다.\n메시지는 늙는다. 음은 늙지 않는다.",
+    "title": "42  아무것도 말하지 않는 음악",
+    "section": "42.4 확장",
+    "text": "42.4 확장\n200년이 지났다.\n베토벤의 음악은 시대와 함께 읽힌다. 프랑스 혁명, 계몽주의, 낭만주의. 메시지가 있으므로 맥락이 붙는다. 맥락이 붙으므로 해석이 달라진다.\n모차르트의 음악은 시대를 붙일 곳이 없다. 메시지가 없으므로 맥락도 붙지 않는다. 1786년에 들어도, 2026년에 들어도 같다.\n메시지는 늙는다. 음은 늙지 않는다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>41</span>  <span class='chapter-title'>아무것도 말하지 않는 음악</span>"
+      "<span class='chapter-number'>42</span>  <span class='chapter-title'>아무것도 말하지 않는 음악</span>"
     ]
   },
   {
     "objectID": "art/009_mozart_pure_beauty.html#angramynew-해석",
     "href": "art/009_mozart_pure_beauty.html#angramynew-해석",
-    "title": "41  아무것도 말하지 않는 음악",
-    "section": "41.5 AngraMyNew 해석",
-    "text": "41.5 AngraMyNew 해석\n창조의 공리는 이렇게 말한다.\n\n“꽃은 벌과 논쟁하지 않는다. 피어나면 세계가 기운다.”\n\n모차르트는 이 공리의 음악적 구현이다.\n그의 음악은 논쟁하지 않는다. 설득하지 않는다. 주장하지 않는다. 그냥 울린다.\n그리고 이것이 왜 위험한가.\n메시지가 있는 아름다움은 반박할 수 있다. “그 운명관에 동의하지 않는다.” “그 민족주의는 위험하다.” 메시지를 부정하면 아름다움의 효력이 줄어든다.\n메시지가 없는 아름다움은 반박할 수 없다. 부정할 대상이 없다. 논쟁할 내용이 없다. 방어할 수 없으므로, 그냥 통과한다.\n이것이 순수한 미(美)의 구조다.\n\n악상의 관점에서도 그렇다.\n모차르트의 작곡은 악상 그 자체다. 정돈 이전의 진동이 정돈을 거치지 않고 형태가 되었다.\n베토벤은 악상을 붙잡고 오래 정돈했다. 그 흔적이 스케치북에 빼곡하다.\n모차르트는 악상이 곧 완성이었다. 진동과 형태 사이에 아무것도 끼어들지 않았다.\n그래서 그의 음악은 어린아이처럼 들린다. 계산이 없기 때문이다. 의도가 없기 때문이다. 순수하기 때문이다.",
+    "title": "42  아무것도 말하지 않는 음악",
+    "section": "42.5 AngraMyNew 해석",
+    "text": "42.5 AngraMyNew 해석\n창조의 공리는 이렇게 말한다.\n\n“꽃은 벌과 논쟁하지 않는다. 피어나면 세계가 기운다.”\n\n모차르트는 이 공리의 음악적 구현이다.\n그의 음악은 논쟁하지 않는다. 설득하지 않는다. 주장하지 않는다. 그냥 울린다.\n그리고 이것이 왜 위험한가.\n메시지가 있는 아름다움은 반박할 수 있다. “그 운명관에 동의하지 않는다.” “그 민족주의는 위험하다.” 메시지를 부정하면 아름다움의 효력이 줄어든다.\n메시지가 없는 아름다움은 반박할 수 없다. 부정할 대상이 없다. 논쟁할 내용이 없다. 방어할 수 없으므로, 그냥 통과한다.\n이것이 순수한 미(美)의 구조다.\n\n악상의 관점에서도 그렇다.\n모차르트의 작곡은 악상 그 자체다. 정돈 이전의 진동이 정돈을 거치지 않고 형태가 되었다.\n베토벤은 악상을 붙잡고 오래 정돈했다. 그 흔적이 스케치북에 빼곡하다.\n모차르트는 악상이 곧 완성이었다. 진동과 형태 사이에 아무것도 끼어들지 않았다.\n그래서 그의 음악은 어린아이처럼 들린다. 계산이 없기 때문이다. 의도가 없기 때문이다. 순수하기 때문이다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>41</span>  <span class='chapter-title'>아무것도 말하지 않는 음악</span>"
+      "<span class='chapter-number'>42</span>  <span class='chapter-title'>아무것도 말하지 않는 음악</span>"
     ]
   },
   {
     "objectID": "art/009_mozart_pure_beauty.html#결론",
     "href": "art/009_mozart_pure_beauty.html#결론",
-    "title": "41  아무것도 말하지 않는 음악",
-    "section": "41.6 결론",
-    "text": "41.6 결론\n음악은 수백 년간 무언가를 실어 날랐다. 모차르트는 빈 수레를 보냈다.\n아무것도 싣지 않았는데, 그 수레가 가장 무거웠다.\n\n메시지가 없으므로 반박할 수 없다. 반박할 수 없으므로 방어할 수 없다. 방어할 수 없는 아름다움. 그것이 순수한 미다.\n\nAngraMyNew는 이 빈 수레를 아름다움의 사례로 기록한다.",
+    "title": "42  아무것도 말하지 않는 음악",
+    "section": "42.6 결론",
+    "text": "42.6 결론\n음악은 수백 년간 무언가를 실어 날랐다. 모차르트는 빈 수레를 보냈다.\n아무것도 싣지 않았는데, 그 수레가 가장 무거웠다.\n\n메시지가 없으므로 반박할 수 없다. 반박할 수 없으므로 방어할 수 없다. 방어할 수 없는 아름다움. 그것이 순수한 미다.\n\nAngraMyNew는 이 빈 수레를 아름다움의 사례로 기록한다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>41</span>  <span class='chapter-title'>아무것도 말하지 않는 음악</span>"
+      "<span class='chapter-number'>42</span>  <span class='chapter-title'>아무것도 말하지 않는 음악</span>"
     ]
   },
   {
     "objectID": "art/009_mozart_pure_beauty.html#관련-문서",
     "href": "art/009_mozart_pure_beauty.html#관련-문서",
-    "title": "41  아무것도 말하지 않는 음악",
-    "section": "41.7 관련 문서",
-    "text": "41.7 관련 문서\n→ 002_general_relativity.md — 아인슈타인: 설명할 것을 없앤 아름다움 → ../ideas/002_principles_of_creation.md — 창조의 원리: 꽃은 벌과 논쟁하지 않는다 → ../ideas/022_age_of_malice.md — 악상의 시대",
+    "title": "42  아무것도 말하지 않는 음악",
+    "section": "42.7 관련 문서",
+    "text": "42.7 관련 문서\n→ 002_general_relativity.md — 아인슈타인: 설명할 것을 없앤 아름다움 → ../ideas/002_principles_of_creation.md — 창조의 원리: 꽃은 벌과 논쟁하지 않는다 → ../ideas/022_age_of_malice.md — 악상의 시대",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>41</span>  <span class='chapter-title'>아무것도 말하지 않는 음악</span>"
+      "<span class='chapter-number'>42</span>  <span class='chapter-title'>아무것도 말하지 않는 음악</span>"
     ]
   },
   {
     "objectID": "art/010_war_of_genesis.html",
     "href": "art/010_war_of_genesis.html",
-    "title": "42  창세기전: 뫼비우스 위의 앙그라마이뉴",
+    "title": "43  창세기전: 뫼비우스 위의 앙그라마이뉴",
     "section": "",
-    "text": "42.1 문제\n— 닫힌 원이 열린 나선이 되는 구조\n한국의 RPG가 우주론을 만들었다.\n창세기전. 1995년에 시작되어 2001년에 끝난 시리즈. 원래 2편으로 끝나는 이야기였다. 6년에 걸쳐 세계관이 쌓였고, 끝났을 때 남아 있던 것은 게임이 아니라 우주의 순환 구조였다.",
+    "text": "43.1 문제\n— 닫힌 원이 열린 나선이 되는 구조\n한국의 RPG가 우주론을 만들었다.\n창세기전. 1995년에 시작되어 2001년에 끝난 시리즈. 원래 2편으로 끝나는 이야기였다. 6년에 걸쳐 세계관이 쌓였고, 끝났을 때 남아 있던 것은 게임이 아니라 우주의 순환 구조였다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>42</span>  <span class='chapter-title'>창세기전: 뫼비우스 위의 앙그라마이뉴</span>"
+      "<span class='chapter-number'>43</span>  <span class='chapter-title'>창세기전: 뫼비우스 위의 앙그라마이뉴</span>"
     ]
   },
   {
     "objectID": "art/010_war_of_genesis.html#파괴",
     "href": "art/010_war_of_genesis.html#파괴",
-    "title": "42  창세기전: 뫼비우스 위의 앙그라마이뉴",
-    "section": "42.2 파괴",
-    "text": "42.2 파괴\n안타리아의 별이 죽어간다. 100년 후 초신성 폭발. 멸망은 확정되어 있다.\n이 멸망 앞에서 하나의 현상이 발동한다. 앙그라마이뉴.\n모든 생명체의 영자(靈子)가 행성의 코어로 모인다. 조건은 두 가지 — 충분한 죽음과, 코어에 가해지는 순간적 에너지. 멸망이 조건을 충족시킨다.\n코어에 모인 영자는 새 행성으로 날아간다. 그곳에서 흩어져 생태계가 재구성된다. 스펜타마이뉴.\n파괴와 창조가 대립하지 않는다. 같은 사건의 두 이름이다.",
+    "title": "43  창세기전: 뫼비우스 위의 앙그라마이뉴",
+    "section": "43.2 파괴",
+    "text": "43.2 파괴\n안타리아의 별이 죽어간다. 100년 후 초신성 폭발. 멸망은 확정되어 있다.\n이 멸망 앞에서 하나의 현상이 발동한다. 앙그라마이뉴.\n모든 생명체의 영자(靈子)가 행성의 코어로 모인다. 조건은 두 가지 — 충분한 죽음과, 코어에 가해지는 순간적 에너지. 멸망이 조건을 충족시킨다.\n코어에 모인 영자는 새 행성으로 날아간다. 그곳에서 흩어져 생태계가 재구성된다. 스펜타마이뉴.\n파괴와 창조가 대립하지 않는다. 같은 사건의 두 이름이다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>42</span>  <span class='chapter-title'>창세기전: 뫼비우스 위의 앙그라마이뉴</span>"
+      "<span class='chapter-number'>43</span>  <span class='chapter-title'>창세기전: 뫼비우스 위의 앙그라마이뉴</span>"
     ]
   },
   {
     "objectID": "art/010_war_of_genesis.html#뫼비우스",
     "href": "art/010_war_of_genesis.html#뫼비우스",
-    "title": "42  창세기전: 뫼비우스 위의 앙그라마이뉴",
-    "section": "42.3 뫼비우스",
-    "text": "42.3 뫼비우스\n영혼이 날아간 그 행성의 이름은 아르케.\n아르케에서 인류는 다시 번성한다. 수십만 년 후, 대우주 개척시대. 아르케의 인류는 오딧세이호를 만들어 블랙홀 너머로 보낸다.\n오딧세이호는 170만 년 전의 행성에 도착한다. 생존자들은 그곳을 안타리아라 이름 붙인다.\n안타리아에서 문명이 다시 시작된다. 신들의 시대, 라그나로크, 제국의 흥망. 그리고 별이 죽어간다. 앙그라마이뉴가 발동한다. 영혼이 아르케로 날아간다.\n시작이 끝이고, 끝이 시작이다.\n이 구조는 설계가 아니라 발견이었다. 2편으로 끝나는 이야기가 6년에 걸쳐 쌓이면서 우주론이 되었다.\n이 루프를 설계한 자가 있다. 베라모드. 살라딘과 셰라자드 — 두 사람의 영혼이 융합된 존재. 무한히 반복되는 우주를 만든 이유는 하나. 언젠가 다시 만날 수 있는 미래.",
+    "title": "43  창세기전: 뫼비우스 위의 앙그라마이뉴",
+    "section": "43.3 뫼비우스",
+    "text": "43.3 뫼비우스\n영혼이 날아간 그 행성의 이름은 아르케.\n아르케에서 인류는 다시 번성한다. 수십만 년 후, 대우주 개척시대. 아르케의 인류는 오딧세이호를 만들어 블랙홀 너머로 보낸다.\n오딧세이호는 170만 년 전의 행성에 도착한다. 생존자들은 그곳을 안타리아라 이름 붙인다.\n안타리아에서 문명이 다시 시작된다. 신들의 시대, 라그나로크, 제국의 흥망. 그리고 별이 죽어간다. 앙그라마이뉴가 발동한다. 영혼이 아르케로 날아간다.\n시작이 끝이고, 끝이 시작이다.\n이 구조는 설계가 아니라 발견이었다. 2편으로 끝나는 이야기가 6년에 걸쳐 쌓이면서 우주론이 되었다.\n이 루프를 설계한 자가 있다. 베라모드. 살라딘과 셰라자드 — 두 사람의 영혼이 융합된 존재. 무한히 반복되는 우주를 만든 이유는 하나. 언젠가 다시 만날 수 있는 미래.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>42</span>  <span class='chapter-title'>창세기전: 뫼비우스 위의 앙그라마이뉴</span>"
+      "<span class='chapter-number'>43</span>  <span class='chapter-title'>창세기전: 뫼비우스 위의 앙그라마이뉴</span>"
     ]
   },
   {
     "objectID": "art/010_war_of_genesis.html#스파이럴",
     "href": "art/010_war_of_genesis.html#스파이럴",
-    "title": "42  창세기전: 뫼비우스 위의 앙그라마이뉴",
-    "section": "42.4 스파이럴",
-    "text": "42.4 스파이럴\n뫼비우스의 루프는 완벽하게 닫혀 있지 않다.\n170만 년을 주기로 반복되는 순환 속에서 매 주기마다 미세한 오차가 축적된다. 같은 사건이 반복되지만, 정확히 같지는 않다.\n이 오차가 쌓이면 루프는 나선이 된다. 뫼비우스에서 스파이럴로. 닫힌 원에서 열린 곡선으로.\n결정론 안에 자유의 씨앗이 들어 있었다. 반복 자체가 탈출의 조건이었다.",
+    "title": "43  창세기전: 뫼비우스 위의 앙그라마이뉴",
+    "section": "43.4 스파이럴",
+    "text": "43.4 스파이럴\n뫼비우스의 루프는 완벽하게 닫혀 있지 않다.\n170만 년을 주기로 반복되는 순환 속에서 매 주기마다 미세한 오차가 축적된다. 같은 사건이 반복되지만, 정확히 같지는 않다.\n이 오차가 쌓이면 루프는 나선이 된다. 뫼비우스에서 스파이럴로. 닫힌 원에서 열린 곡선으로.\n결정론 안에 자유의 씨앗이 들어 있었다. 반복 자체가 탈출의 조건이었다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>42</span>  <span class='chapter-title'>창세기전: 뫼비우스 위의 앙그라마이뉴</span>"
+      "<span class='chapter-number'>43</span>  <span class='chapter-title'>창세기전: 뫼비우스 위의 앙그라마이뉴</span>"
     ]
   },
   {
     "objectID": "art/010_war_of_genesis.html#angramynew-해석",
     "href": "art/010_war_of_genesis.html#angramynew-해석",
-    "title": "42  창세기전: 뫼비우스 위의 앙그라마이뉴",
-    "section": "42.5 AngraMyNew 해석",
-    "text": "42.5 AngraMyNew 해석\n이 프로젝트의 이름은 AngraMyNew다. Angra Mainyu + My + New.\n그 이름은 여기서 왔다.\n한국의 게임 하나가 조로아스터교의 파괴신 이름을 가져와 파괴가 곧 창조의 조건이 되는 구조를 만들었다. 닫힌 원이 나선이 되는 우주론을 보여주었다. 철학서가 아니라 RPG가.\n이것이 악상이다. 정돈 이전의 진동이 형태를 찾아가는 과정. 창세기전의 6년이 그랬다.",
+    "title": "43  창세기전: 뫼비우스 위의 앙그라마이뉴",
+    "section": "43.5 AngraMyNew 해석",
+    "text": "43.5 AngraMyNew 해석\n이 프로젝트의 이름은 AngraMyNew다. Angra Mainyu + My + New.\n그 이름은 여기서 왔다.\n한국의 게임 하나가 조로아스터교의 파괴신 이름을 가져와 파괴가 곧 창조의 조건이 되는 구조를 만들었다. 닫힌 원이 나선이 되는 우주론을 보여주었다. 철학서가 아니라 RPG가.\n이것이 악상이다. 정돈 이전의 진동이 형태를 찾아가는 과정. 창세기전의 6년이 그랬다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>42</span>  <span class='chapter-title'>창세기전: 뫼비우스 위의 앙그라마이뉴</span>"
+      "<span class='chapter-number'>43</span>  <span class='chapter-title'>창세기전: 뫼비우스 위의 앙그라마이뉴</span>"
     ]
   },
   {
     "objectID": "art/010_war_of_genesis.html#결론",
     "href": "art/010_war_of_genesis.html#결론",
-    "title": "42  창세기전: 뫼비우스 위의 앙그라마이뉴",
-    "section": "42.6 결론",
-    "text": "42.6 결론\n게임은 질문하지 않았다. “파괴와 창조는 같은 것인가?” 그냥 보여주었다.\n행성이 멸망하면 영혼이 모이고, 영혼이 모이면 새 행성이 태어나고, 새 행성에서 다시 문명이 시작된다.\n그리고 그 닫힌 원 안에서 오차가 쌓여 나선이 된다.\n\n파괴가 창조의 조건이 되고, 반복이 탈출이 되고, 결정론이 자유가 된다. 그것이 뫼비우스 위의 아름다움이다.\n\nAngraMyNew는 이 뫼비우스의 기원을 아름다움의 사례로 기록한다.",
+    "title": "43  창세기전: 뫼비우스 위의 앙그라마이뉴",
+    "section": "43.6 결론",
+    "text": "43.6 결론\n게임은 질문하지 않았다. “파괴와 창조는 같은 것인가?” 그냥 보여주었다.\n행성이 멸망하면 영혼이 모이고, 영혼이 모이면 새 행성이 태어나고, 새 행성에서 다시 문명이 시작된다.\n그리고 그 닫힌 원 안에서 오차가 쌓여 나선이 된다.\n\n파괴가 창조의 조건이 되고, 반복이 탈출이 되고, 결정론이 자유가 된다. 그것이 뫼비우스 위의 아름다움이다.\n\nAngraMyNew는 이 뫼비우스의 기원을 아름다움의 사례로 기록한다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>42</span>  <span class='chapter-title'>창세기전: 뫼비우스 위의 앙그라마이뉴</span>"
+      "<span class='chapter-number'>43</span>  <span class='chapter-title'>창세기전: 뫼비우스 위의 앙그라마이뉴</span>"
     ]
   },
   {
     "objectID": "art/010_war_of_genesis.html#관련-문서",
     "href": "art/010_war_of_genesis.html#관련-문서",
-    "title": "42  창세기전: 뫼비우스 위의 앙그라마이뉴",
-    "section": "42.7 관련 문서",
-    "text": "42.7 관련 문서\n→ ../ideas/000_origin.md — AngraMyNew의 기원: 이름의 의미 → ../ideas/022_age_of_malice.md — 악상의 시대: 정돈 이전의 진동",
+    "title": "43  창세기전: 뫼비우스 위의 앙그라마이뉴",
+    "section": "43.7 관련 문서",
+    "text": "43.7 관련 문서\n→ ../ideas/000_origin.md — AngraMyNew의 기원: 이름의 의미 → ../ideas/022_age_of_malice.md — 악상의 시대: 정돈 이전의 진동",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>42</span>  <span class='chapter-title'>창세기전: 뫼비우스 위의 앙그라마이뉴</span>"
+      "<span class='chapter-number'>43</span>  <span class='chapter-title'>창세기전: 뫼비우스 위의 앙그라마이뉴</span>"
     ]
   },
   {
     "objectID": "art/011_ramanujan_pi.html",
     "href": "art/011_ramanujan_pi.html",
-    "title": "43  증명 없이 도착한 수식",
+    "title": "44  증명 없이 도착한 수식",
     "section": "",
-    "text": "43.1 문제\n— 라마누잔의 원주율과 신내림의 구조\n원주율 π는 수천 년간 계산되어 왔다.\n라이프니츠의 공식: \\(\\pi/4 = 1 - 1/3 + 1/5 - 1/7 + \\cdots\\)\n아름다운 공식이다. 그러나 소수점 10자리를 얻으려면 수십억 항이 필요하다. 수백 년간 수학자들은 더 빠른 수렴을 찾았다.",
+    "text": "44.1 문제\n— 라마누잔의 원주율과 신내림의 구조\n원주율 π는 수천 년간 계산되어 왔다.\n라이프니츠의 공식: \\(\\pi/4 = 1 - 1/3 + 1/5 - 1/7 + \\cdots\\)\n아름다운 공식이다. 그러나 소수점 10자리를 얻으려면 수십억 항이 필요하다. 수백 년간 수학자들은 더 빠른 수렴을 찾았다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>43</span>  <span class='chapter-title'>증명 없이 도착한 수식</span>"
+      "<span class='chapter-number'>44</span>  <span class='chapter-title'>증명 없이 도착한 수식</span>"
     ]
   },
   {
     "objectID": "art/011_ramanujan_pi.html#파괴",
     "href": "art/011_ramanujan_pi.html#파괴",
-    "title": "43  증명 없이 도착한 수식",
-    "section": "43.2 파괴",
-    "text": "43.2 파괴\n1914년, 라마누잔이 공식 하나를 제출했다.\n\\[\\frac{1}{\\pi} = \\frac{2\\sqrt{2}}{9801} \\sum_{k=0}^{\\infty} \\frac{(4k)!}{(k!)^4} \\cdot \\frac{1103 + 26390k}{396^{4k}}\\]\n한 항만 계산하면 소수점 8자리. 두 항이면 16자리. 세 항이면 24자리. 기존의 모든 π 공식을 무력화시켰다.",
+    "title": "44  증명 없이 도착한 수식",
+    "section": "44.2 파괴",
+    "text": "44.2 파괴\n1914년, 라마누잔이 공식 하나를 제출했다.\n\\[\\frac{1}{\\pi} = \\frac{2\\sqrt{2}}{9801} \\sum_{k=0}^{\\infty} \\frac{(4k)!}{(k!)^4} \\cdot \\frac{1103 + 26390k}{396^{4k}}\\]\n한 항만 계산하면 소수점 8자리. 두 항이면 16자리. 세 항이면 24자리. 기존의 모든 π 공식을 무력화시켰다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>43</span>  <span class='chapter-title'>증명 없이 도착한 수식</span>"
+      "<span class='chapter-number'>44</span>  <span class='chapter-title'>증명 없이 도착한 수식</span>"
     ]
   },
   {
     "objectID": "art/011_ramanujan_pi.html#상수",
     "href": "art/011_ramanujan_pi.html#상수",
-    "title": "43  증명 없이 도착한 수식",
-    "section": "43.3 상수",
-    "text": "43.3 상수\n이 공식의 상수들을 보라.\n9801, 1103, 26390, 396.\n왜 이 숫자들인가? 왜 하필 9801(= 99²)이고, 왜 하필 396(= 4 × 99)이며, 왜 하필 26390인가?\n라마누잔은 설명하지 않았다. 증명도 남기지 않았다.\n\n“나마기리 여신이 꿈에서 알려주셨다.”",
+    "title": "44  증명 없이 도착한 수식",
+    "section": "44.3 상수",
+    "text": "44.3 상수\n이 공식의 상수들을 보라.\n9801, 1103, 26390, 396.\n왜 이 숫자들인가? 왜 하필 9801(= 99²)이고, 왜 하필 396(= 4 × 99)이며, 왜 하필 26390인가?\n라마누잔은 설명하지 않았다. 증명도 남기지 않았다.\n\n“나마기리 여신이 꿈에서 알려주셨다.”",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>43</span>  <span class='chapter-title'>증명 없이 도착한 수식</span>"
+      "<span class='chapter-number'>44</span>  <span class='chapter-title'>증명 없이 도착한 수식</span>"
     ]
   },
   {
     "objectID": "art/011_ramanujan_pi.html#년",
     "href": "art/011_ramanujan_pi.html#년",
-    "title": "43  증명 없이 도착한 수식",
-    "section": "43.4 73년",
-    "text": "43.4 73년\n이 공식이 엄밀하게 증명된 것은 1987년, 보르바인 형제에 의해서다. 라마누잔이 제출한 지 73년 뒤.\n증명의 핵심은 모듈러 형식(modular forms)과 타원 적분(elliptic integrals) — 라마누잔이 독학으로 도달했을 때 이름조차 몰랐을 수학이었다.\n결과가 먼저 도착하고, 증명이 수십 년 뒤에 따라온다. 이것이 신내림의 구조다.",
+    "title": "44  증명 없이 도착한 수식",
+    "section": "44.4 73년",
+    "text": "44.4 73년\n이 공식이 엄밀하게 증명된 것은 1987년, 보르바인 형제에 의해서다. 라마누잔이 제출한 지 73년 뒤.\n증명의 핵심은 모듈러 형식(modular forms)과 타원 적분(elliptic integrals) — 라마누잔이 독학으로 도달했을 때 이름조차 몰랐을 수학이었다.\n결과가 먼저 도착하고, 증명이 수십 년 뒤에 따라온다. 이것이 신내림의 구조다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>43</span>  <span class='chapter-title'>증명 없이 도착한 수식</span>"
+      "<span class='chapter-number'>44</span>  <span class='chapter-title'>증명 없이 도착한 수식</span>"
     ]
   },
   {
     "objectID": "art/011_ramanujan_pi.html#확장",
     "href": "art/011_ramanujan_pi.html#확장",
-    "title": "43  증명 없이 도착한 수식",
-    "section": "43.5 확장",
-    "text": "43.5 확장\n1989년, 추드노프스키 형제가 라마누잔의 접근법을 확장했다. 항 하나당 14자리. 이 공식으로 π가 수조 자리까지 계산되었다.\n증명 없이 도착한 수식이 인류가 π를 계산하는 방식 자체를 바꿨다.",
+    "title": "44  증명 없이 도착한 수식",
+    "section": "44.5 확장",
+    "text": "44.5 확장\n1989년, 추드노프스키 형제가 라마누잔의 접근법을 확장했다. 항 하나당 14자리. 이 공식으로 π가 수조 자리까지 계산되었다.\n증명 없이 도착한 수식이 인류가 π를 계산하는 방식 자체를 바꿨다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>43</span>  <span class='chapter-title'>증명 없이 도착한 수식</span>"
+      "<span class='chapter-number'>44</span>  <span class='chapter-title'>증명 없이 도착한 수식</span>"
     ]
   },
   {
     "objectID": "art/011_ramanujan_pi.html#angramynew-해석",
     "href": "art/011_ramanujan_pi.html#angramynew-해석",
-    "title": "43  증명 없이 도착한 수식",
-    "section": "43.6 AngraMyNew 해석",
-    "text": "43.6 AngraMyNew 해석\n이것은 악상이다.\n9801, 1103, 26390, 396 — 이 숫자들은 논리의 결과가 아니었다. 정돈 이전의 진동이 수식의 형태로 고정된 것이다.\n하수는 증명을 따라 결과에 도달한다. 라마누잔은 결과에 먼저 도착하고, 증명은 하수들에게 남겼다. “궁금하면 니들이 하던가.” 이 공식이 그 문장의 실물이다.",
+    "title": "44  증명 없이 도착한 수식",
+    "section": "44.6 AngraMyNew 해석",
+    "text": "44.6 AngraMyNew 해석\n이것은 악상이다.\n9801, 1103, 26390, 396 — 이 숫자들은 논리의 결과가 아니었다. 정돈 이전의 진동이 수식의 형태로 고정된 것이다.\n하수는 증명을 따라 결과에 도달한다. 라마누잔은 결과에 먼저 도착하고, 증명은 하수들에게 남겼다. “궁금하면 니들이 하던가.” 이 공식이 그 문장의 실물이다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>43</span>  <span class='chapter-title'>증명 없이 도착한 수식</span>"
+      "<span class='chapter-number'>44</span>  <span class='chapter-title'>증명 없이 도착한 수식</span>"
     ]
   },
   {
     "objectID": "art/011_ramanujan_pi.html#결론",
     "href": "art/011_ramanujan_pi.html#결론",
-    "title": "43  증명 없이 도착한 수식",
-    "section": "43.7 결론",
-    "text": "43.7 결론\n원주율은 수천 년간 계산되어 왔다. 라마누잔은 계산하지 않았다. 도착했다.\n9801과 26390이 왜 π와 연결되는지, 그는 설명할 필요를 느끼지 않았다. 세계가 73년에 걸쳐 따라왔다.\n\n증명 없이 도착한 수식. 그것이 신내림의 형태다.\n\nAngraMyNew는 이 수식을 아름다움의 사례로 기록한다.",
+    "title": "44  증명 없이 도착한 수식",
+    "section": "44.7 결론",
+    "text": "44.7 결론\n원주율은 수천 년간 계산되어 왔다. 라마누잔은 계산하지 않았다. 도착했다.\n9801과 26390이 왜 π와 연결되는지, 그는 설명할 필요를 느끼지 않았다. 세계가 73년에 걸쳐 따라왔다.\n\n증명 없이 도착한 수식. 그것이 신내림의 형태다.\n\nAngraMyNew는 이 수식을 아름다움의 사례로 기록한다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>43</span>  <span class='chapter-title'>증명 없이 도착한 수식</span>"
+      "<span class='chapter-number'>44</span>  <span class='chapter-title'>증명 없이 도착한 수식</span>"
     ]
   },
   {
     "objectID": "art/011_ramanujan_pi.html#관련-문서",
     "href": "art/011_ramanujan_pi.html#관련-문서",
-    "title": "43  증명 없이 도착한 수식",
-    "section": "43.8 관련 문서",
-    "text": "43.8 관련 문서\n→ 001_galois_quintic.md — 갈루아: 풀 수 없음을 증명하는 아름다움 → ../ideas/003_beyond_usefulness.md — 쓸모를 넘어서: 라마누잔과 신내림 → ../ideas/022_age_of_malice.md — 악상의 시대",
+    "title": "44  증명 없이 도착한 수식",
+    "section": "44.8 관련 문서",
+    "text": "44.8 관련 문서\n→ 001_galois_quintic.md — 갈루아: 풀 수 없음을 증명하는 아름다움 → ../ideas/003_beyond_usefulness.md — 쓸모를 넘어서: 라마누잔과 신내림 → ../ideas/022_age_of_malice.md — 악상의 시대",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>43</span>  <span class='chapter-title'>증명 없이 도착한 수식</span>"
+      "<span class='chapter-number'>44</span>  <span class='chapter-title'>증명 없이 도착한 수식</span>"
     ]
   },
   {
     "objectID": "art/012_dirac_beauty.html",
     "href": "art/012_dirac_beauty.html",
-    "title": "44  진리보다 먼저 도착하는 감각",
+    "title": "45  진리보다 먼저 도착하는 감각",
     "section": "",
-    "text": "44.1 문제\n— 디랙이 두 번 증명한 것\nAngraMyNew는 선언한다. “오직 아름다움만이 영혼을 움직인다.”\n그러나 왜? 진리(과학)가 아니라, 선(도덕)이 아니라, 왜 아름다움인가?\n이것은 선언으로 답할 수 없는 질문이다. 실물이 필요하다.",
+    "text": "45.1 문제\n— 디랙이 두 번 증명한 것\nAngraMyNew는 선언한다. “오직 아름다움만이 영혼을 움직인다.”\n그러나 왜? 진리(과학)가 아니라, 선(도덕)이 아니라, 왜 아름다움인가?\n이것은 선언으로 답할 수 없는 질문이다. 실물이 필요하다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>44</span>  <span class='chapter-title'>진리보다 먼저 도착하는 감각</span>"
+      "<span class='chapter-number'>45</span>  <span class='chapter-title'>진리보다 먼저 도착하는 감각</span>"
     ]
   },
   {
     "objectID": "art/012_dirac_beauty.html#제1증명-아름다움이-현실을-감지하다",
     "href": "art/012_dirac_beauty.html#제1증명-아름다움이-현실을-감지하다",
-    "title": "44  진리보다 먼저 도착하는 감각",
-    "section": "44.2 제1증명 — 아름다움이 현실을 감지하다",
-    "text": "44.2 제1증명 — 아름다움이 현실을 감지하다\n1928년, 폴 디랙이 전자의 상대론적 방정식을 완성했다.\n\\[(i\\gamma^\\mu \\partial_\\mu - m)\\psi = 0\\]\n방정식은 완벽했다. 그런데 문제가 하나 있었다. 음의 에너지 해가 나왔다.\n\n진리(실험)가 말했다: “음의 에너지는 관측된 적 없다. 물리적 의미가 없다.”\n선(실용주의)이 말했다: “버려라. 양의 에너지 해만 쓰면 된다.”\n아름다움이 말했다: “이 방정식은 너무 완벽하다. 쓰레기가 있을 리 없다.”\n\n디랙은 아름다움을 따랐다. 음의 에너지 해를 버리지 않았다.\n1932년, 칼 앤더슨이 양전자를 발견했다. 반물질. 음의 에너지 해가 가리키던 것이 실재했다.\n\n진리는 “없다”고 했다. 틀렸다. 선은 “버려라”고 했다. 틀렸다. 아름다움은 “완벽하다”고 했다. 옳았다.\n\n아름다움은 진리보다 4년 먼저 반물질을 감지했다.",
+    "title": "45  진리보다 먼저 도착하는 감각",
+    "section": "45.2 제1증명 — 아름다움이 현실을 감지하다",
+    "text": "45.2 제1증명 — 아름다움이 현실을 감지하다\n1928년, 폴 디랙이 전자의 상대론적 방정식을 완성했다.\n\\[(i\\gamma^\\mu \\partial_\\mu - m)\\psi = 0\\]\n방정식은 완벽했다. 그런데 문제가 하나 있었다. 음의 에너지 해가 나왔다.\n\n진리(실험)가 말했다: “음의 에너지는 관측된 적 없다. 물리적 의미가 없다.”\n선(실용주의)이 말했다: “버려라. 양의 에너지 해만 쓰면 된다.”\n아름다움이 말했다: “이 방정식은 너무 완벽하다. 쓰레기가 있을 리 없다.”\n\n디랙은 아름다움을 따랐다. 음의 에너지 해를 버리지 않았다.\n1932년, 칼 앤더슨이 양전자를 발견했다. 반물질. 음의 에너지 해가 가리키던 것이 실재했다.\n\n진리는 “없다”고 했다. 틀렸다. 선은 “버려라”고 했다. 틀렸다. 아름다움은 “완벽하다”고 했다. 옳았다.\n\n아름다움은 진리보다 4년 먼저 반물질을 감지했다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>44</span>  <span class='chapter-title'>진리보다 먼저 도착하는 감각</span>"
+      "<span class='chapter-number'>45</span>  <span class='chapter-title'>진리보다 먼저 도착하는 감각</span>"
     ]
   },
   {
     "objectID": "art/012_dirac_beauty.html#제2증명-아름다움이-수학을-요구하다",
     "href": "art/012_dirac_beauty.html#제2증명-아름다움이-수학을-요구하다",
-    "title": "44  진리보다 먼저 도착하는 감각",
-    "section": "44.3 제2증명 — 아름다움이 수학을 요구하다",
-    "text": "44.3 제2증명 — 아름다움이 수학을 요구하다\n같은 사람, 다른 사건.\n1930년대, 디랙이 양자역학을 위해 함수 하나를 도입했다. 디랙 델타 함수 δ(x).\n정의: x ≠ 0이면 값은 0. 그런데 전체를 적분하면 1.\n\\[\\delta(x) = 0 \\quad (x \\neq 0), \\qquad \\int_{-\\infty}^{\\infty} \\delta(x)\\,dx = 1\\]\n수학자들이 격분했다. 모든 곳에서 0인 함수의 적분이 1? 당시의 수학으로는 이것은 함수가 아니었다.\n\n진리(수학)가 말했다: “엄밀하지 않다. 함수의 정의에 위배된다.”\n선(학계의 규범)이 말했다: “증명 없는 도구는 수학이 아니다.”\n아름다움이 말했다: “물리에서 작동한다. 우아하다. 필요하다.”\n\n디랙은 다시 아름다움을 따랐다.\n20년 뒤, 로랑 슈바르츠가 초함수 이론(distribution theory) 을 만들었다. 1950년 필즈상. δ(x)를 엄밀하게 정당화하기 위해 수학의 새로운 분야가 태어난 것이다.\n지금 δ(x)는 수학, 물리학, 공학, 신호처리의 기초다.\n\n진리는 “함수가 아니다”라고 했다. 틀렸다. 선은 “엄밀하지 않다”고 했다. 틀렸다. 아름다움은 “이것은 필요하다”고 했다. 옳았다.\n\n아름다움은 수학보다 20년 먼저 초함수를 요구했다.",
+    "title": "45  진리보다 먼저 도착하는 감각",
+    "section": "45.3 제2증명 — 아름다움이 수학을 요구하다",
+    "text": "45.3 제2증명 — 아름다움이 수학을 요구하다\n같은 사람, 다른 사건.\n1930년대, 디랙이 양자역학을 위해 함수 하나를 도입했다. 디랙 델타 함수 δ(x).\n정의: x ≠ 0이면 값은 0. 그런데 전체를 적분하면 1.\n\\[\\delta(x) = 0 \\quad (x \\neq 0), \\qquad \\int_{-\\infty}^{\\infty} \\delta(x)\\,dx = 1\\]\n수학자들이 격분했다. 모든 곳에서 0인 함수의 적분이 1? 당시의 수학으로는 이것은 함수가 아니었다.\n\n진리(수학)가 말했다: “엄밀하지 않다. 함수의 정의에 위배된다.”\n선(학계의 규범)이 말했다: “증명 없는 도구는 수학이 아니다.”\n아름다움이 말했다: “물리에서 작동한다. 우아하다. 필요하다.”\n\n디랙은 다시 아름다움을 따랐다.\n20년 뒤, 로랑 슈바르츠가 초함수 이론(distribution theory) 을 만들었다. 1950년 필즈상. δ(x)를 엄밀하게 정당화하기 위해 수학의 새로운 분야가 태어난 것이다.\n지금 δ(x)는 수학, 물리학, 공학, 신호처리의 기초다.\n\n진리는 “함수가 아니다”라고 했다. 틀렸다. 선은 “엄밀하지 않다”고 했다. 틀렸다. 아름다움은 “이것은 필요하다”고 했다. 옳았다.\n\n아름다움은 수학보다 20년 먼저 초함수를 요구했다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>44</span>  <span class='chapter-title'>진리보다 먼저 도착하는 감각</span>"
+      "<span class='chapter-number'>45</span>  <span class='chapter-title'>진리보다 먼저 도착하는 감각</span>"
     ]
   },
   {
     "objectID": "art/012_dirac_beauty.html#디랙의-선언",
     "href": "art/012_dirac_beauty.html#디랙의-선언",
-    "title": "44  진리보다 먼저 도착하는 감각",
-    "section": "44.4 디랙의 선언",
-    "text": "44.4 디랙의 선언\n디랙은 이 경험을 하나의 문장으로 남겼다.\n\n“It is more important to have beauty in one’s equations than to have them fit experiment.” “방정식이 실험과 맞는 것보다, 방정식이 아름다운 것이 더 중요하다.”\n\n이것은 취향의 고백이 아니다. 두 번의 실전에서 나온 결론이다.",
+    "title": "45  진리보다 먼저 도착하는 감각",
+    "section": "45.4 디랙의 선언",
+    "text": "45.4 디랙의 선언\n디랙은 이 경험을 하나의 문장으로 남겼다.\n\n“It is more important to have beauty in one’s equations than to have them fit experiment.” “방정식이 실험과 맞는 것보다, 방정식이 아름다운 것이 더 중요하다.”\n\n이것은 취향의 고백이 아니다. 두 번의 실전에서 나온 결론이다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>44</span>  <span class='chapter-title'>진리보다 먼저 도착하는 감각</span>"
+      "<span class='chapter-number'>45</span>  <span class='chapter-title'>진리보다 먼저 도착하는 감각</span>"
     ]
   },
   {
     "objectID": "art/012_dirac_beauty.html#angramynew-해석",
     "href": "art/012_dirac_beauty.html#angramynew-해석",
-    "title": "44  진리보다 먼저 도착하는 감각",
-    "section": "44.5 AngraMyNew 해석",
-    "text": "44.5 AngraMyNew 해석\n이것이 “왜 아름다움인가”의 답이다.\n아름다움은 진리, 선과 경쟁하는 가치가 아니다. 진리보다 먼저 도착하는 탐지기다.\n\n\n\n\n\n\n\n\n\n\n진리\n선\n미\n\n\n\n\n반물질\n“없다” (틀림)\n“버려라” (틀림)\n“완벽하다” (옳음)\n\n\n델타함수\n“함수 아니다” (틀림)\n“엄밀하지 않다” (틀림)\n“필요하다” (옳음)\n\n\n\nart/의 다른 사례들도 같은 구조다:\n\n라마누잔 — 아름다움(공식)이 진리(증명)보다 73년 먼저 도착\n갈루아 — 아름다움(군론)이 실용(방정식 풀기)을 대체\n아인슈타인 — 아름다움(등가원리의 감각)이 실험 검증보다 먼저 시공간을 봄\n\n진리는 변한다. 뉴턴에서 아인슈타인으로, 고전에서 양자로. 선은 변한다. 한 시대의 정의가 다음 시대의 불의가 된다.\n아름다움은 변하기 전의 진리를 먼저 감지한다. 그래서 마지막에 남는 것이 아니라, 처음에 도착하는 것이다.",
+    "title": "45  진리보다 먼저 도착하는 감각",
+    "section": "45.5 AngraMyNew 해석",
+    "text": "45.5 AngraMyNew 해석\n이것이 “왜 아름다움인가”의 답이다.\n아름다움은 진리, 선과 경쟁하는 가치가 아니다. 진리보다 먼저 도착하는 탐지기다.\n\n\n\n\n\n\n\n\n\n\n진리\n선\n미\n\n\n\n\n반물질\n“없다” (틀림)\n“버려라” (틀림)\n“완벽하다” (옳음)\n\n\n델타함수\n“함수 아니다” (틀림)\n“엄밀하지 않다” (틀림)\n“필요하다” (옳음)\n\n\n\nart/의 다른 사례들도 같은 구조다:\n\n라마누잔 — 아름다움(공식)이 진리(증명)보다 73년 먼저 도착\n갈루아 — 아름다움(군론)이 실용(방정식 풀기)을 대체\n아인슈타인 — 아름다움(등가원리의 감각)이 실험 검증보다 먼저 시공간을 봄\n\n진리는 변한다. 뉴턴에서 아인슈타인으로, 고전에서 양자로. 선은 변한다. 한 시대의 정의가 다음 시대의 불의가 된다.\n아름다움은 변하기 전의 진리를 먼저 감지한다. 그래서 마지막에 남는 것이 아니라, 처음에 도착하는 것이다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>44</span>  <span class='chapter-title'>진리보다 먼저 도착하는 감각</span>"
+      "<span class='chapter-number'>45</span>  <span class='chapter-title'>진리보다 먼저 도착하는 감각</span>"
     ]
   },
   {
     "objectID": "art/012_dirac_beauty.html#결론",
     "href": "art/012_dirac_beauty.html#결론",
-    "title": "44  진리보다 먼저 도착하는 감각",
-    "section": "44.6 결론",
-    "text": "44.6 결론\n디랙은 한 사람이 두 번 증명했다.\n첫 번째: 아름다움이 현실보다 먼저 도착한다. (반물질, 4년) 두 번째: 아름다움이 수학보다 먼저 도착한다. (초함수론, 20년)\n\n아름다움은 가치가 아니다. 감각이다. 진리가 아직 언어를 갖지 못한 순간, 아름다움이 먼저 울린다.\n\nAngraMyNew는 이 울림을 아름다움의 사례로 기록한다.",
+    "title": "45  진리보다 먼저 도착하는 감각",
+    "section": "45.6 결론",
+    "text": "45.6 결론\n디랙은 한 사람이 두 번 증명했다.\n첫 번째: 아름다움이 현실보다 먼저 도착한다. (반물질, 4년) 두 번째: 아름다움이 수학보다 먼저 도착한다. (초함수론, 20년)\n\n아름다움은 가치가 아니다. 감각이다. 진리가 아직 언어를 갖지 못한 순간, 아름다움이 먼저 울린다.\n\nAngraMyNew는 이 울림을 아름다움의 사례로 기록한다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>44</span>  <span class='chapter-title'>진리보다 먼저 도착하는 감각</span>"
+      "<span class='chapter-number'>45</span>  <span class='chapter-title'>진리보다 먼저 도착하는 감각</span>"
     ]
   },
   {
     "objectID": "art/012_dirac_beauty.html#관련-문서",
     "href": "art/012_dirac_beauty.html#관련-문서",
-    "title": "44  진리보다 먼저 도착하는 감각",
-    "section": "44.7 관련 문서",
-    "text": "44.7 관련 문서\n→ 011_ramanujan_pi.md — 라마누잔: 증명 없이 도착한 수식 → 002_general_relativity.md — 아인슈타인: 중력을 지운 아름다움 → ../ideas/001_axioms.md — 3대 공리: 창조의 공리 → ../ideas/022_age_of_malice.md — 악상의 시대",
+    "title": "45  진리보다 먼저 도착하는 감각",
+    "section": "45.7 관련 문서",
+    "text": "45.7 관련 문서\n→ 011_ramanujan_pi.md — 라마누잔: 증명 없이 도착한 수식 → 002_general_relativity.md — 아인슈타인: 중력을 지운 아름다움 → ../ideas/001_axioms.md — 3대 공리: 창조의 공리 → ../ideas/022_age_of_malice.md — 악상의 시대",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>44</span>  <span class='chapter-title'>진리보다 먼저 도착하는 감각</span>"
+      "<span class='chapter-number'>45</span>  <span class='chapter-title'>진리보다 먼저 도착하는 감각</span>"
     ]
   },
   {
     "objectID": "art/013_yinyang_wuxing.html",
     "href": "art/013_yinyang_wuxing.html",
-    "title": "45  음양오행: 일곱 글자의 우주",
+    "title": "46  음양오행: 일곱 글자의 우주",
     "section": "",
-    "text": "45.1 감탄\n— 최소 문법이 최대 세계를 생성하는 구조\n처음에는 단순한 분류로 보였다. 다섯 가지 원소에 세계를 대입하는 것.\n그런데 한의학에 들어가면 장부의 상호작용, 병의 경로, 처방의 논리까지 이 문법으로 돌아간다. 사주에 들어가면 시간의 4차원 좌표계가 생성된다. 풍수에 들어가면 공간의 배치 원리가 나온다.\n이 간단한 걸로 여기까지 들어간다는 말인가?\n넓이만이 아니었다. 깊이까지. 일곱 글자가 모든 영역에 닿을 뿐 아니라, 각 영역의 끝까지 파고들었다.\n그때 물리학의 표준모형이 겹쳐 보였다.",
+    "text": "46.1 감탄\n— 최소 문법이 최대 세계를 생성하는 구조\n처음에는 단순한 분류로 보였다. 다섯 가지 원소에 세계를 대입하는 것.\n그런데 한의학에 들어가면 장부의 상호작용, 병의 경로, 처방의 논리까지 이 문법으로 돌아간다. 사주에 들어가면 시간의 4차원 좌표계가 생성된다. 풍수에 들어가면 공간의 배치 원리가 나온다.\n이 간단한 걸로 여기까지 들어간다는 말인가?\n넓이만이 아니었다. 깊이까지. 일곱 글자가 모든 영역에 닿을 뿐 아니라, 각 영역의 끝까지 파고들었다.\n그때 물리학의 표준모형이 겹쳐 보였다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>45</span>  <span class='chapter-title'>음양오행: 일곱 글자의 우주</span>"
+      "<span class='chapter-number'>46</span>  <span class='chapter-title'>음양오행: 일곱 글자의 우주</span>"
     ]
   },
   {
     "objectID": "art/013_yinyang_wuxing.html#문법",
     "href": "art/013_yinyang_wuxing.html#문법",
-    "title": "45  음양오행: 일곱 글자의 우주",
-    "section": "45.2 문법",
-    "text": "45.2 문법\n음(陰), 양(陽). 목(木), 화(火), 토(土), 금(金), 수(水).\n일곱 글자. 여기에 연산자 둘. 상생(相生), 상극(相剋).\n이것이 전부다.",
+    "title": "46  음양오행: 일곱 글자의 우주",
+    "section": "46.2 문법",
+    "text": "46.2 문법\n음(陰), 양(陽). 목(木), 화(火), 토(土), 금(金), 수(水).\n일곱 글자. 여기에 연산자 둘. 상생(相生), 상극(相剋).\n이것이 전부다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>45</span>  <span class='chapter-title'>음양오행: 일곱 글자의 우주</span>"
+      "<span class='chapter-number'>46</span>  <span class='chapter-title'>음양오행: 일곱 글자의 우주</span>"
     ]
   },
   {
     "objectID": "art/013_yinyang_wuxing.html#넓이",
     "href": "art/013_yinyang_wuxing.html#넓이",
-    "title": "45  음양오행: 일곱 글자의 우주",
-    "section": "45.3 넓이",
-    "text": "45.3 넓이\n이 문법이 닿지 않는 영역이 없다.\n\n\n\n\n목\n화\n토\n금\n수\n\n\n\n\n장부\n간\n심장\n비장\n폐\n신장\n\n\n계절\n봄\n여름\n환절기\n가을\n겨울\n\n\n방위\n동\n남\n중앙\n서\n북\n\n\n감정\n노(怒)\n희(喜)\n사(思)\n비(悲)\n공(恐)\n\n\n색\n청\n적\n황\n백\n흑\n\n\n맛\n신맛\n쓴맛\n단맛\n매운맛\n짠맛\n\n\n\n의학, 사주, 풍수, 관상, 주역. 몸, 시간, 공간, 얼굴, 변화.\n하나의 문법이 전부를 돌린다.",
+    "title": "46  음양오행: 일곱 글자의 우주",
+    "section": "46.3 넓이",
+    "text": "46.3 넓이\n이 문법이 닿지 않는 영역이 없다.\n\n\n\n\n목\n화\n토\n금\n수\n\n\n\n\n장부\n간\n심장\n비장\n폐\n신장\n\n\n계절\n봄\n여름\n환절기\n가을\n겨울\n\n\n방위\n동\n남\n중앙\n서\n북\n\n\n감정\n노(怒)\n희(喜)\n사(思)\n비(悲)\n공(恐)\n\n\n색\n청\n적\n황\n백\n흑\n\n\n맛\n신맛\n쓴맛\n단맛\n매운맛\n짠맛\n\n\n\n의학, 사주, 풍수, 관상, 주역. 몸, 시간, 공간, 얼굴, 변화.\n하나의 문법이 전부를 돌린다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>45</span>  <span class='chapter-title'>음양오행: 일곱 글자의 우주</span>"
+      "<span class='chapter-number'>46</span>  <span class='chapter-title'>음양오행: 일곱 글자의 우주</span>"
     ]
   },
   {
     "objectID": "art/013_yinyang_wuxing.html#깊이",
     "href": "art/013_yinyang_wuxing.html#깊이",
-    "title": "45  음양오행: 일곱 글자의 우주",
-    "section": "45.4 깊이",
-    "text": "45.4 깊이\n넓이만이 아니다.\n한의사는 “간이 나쁘다”에서 끝나지 않는다. 간(목)이 약하면 비장(토)이 과항진하고, 폐(금)가 간을 억누르고 있는지 본다. 상생과 상극의 연산자가 장부 사이의 관계망을 만들고, 그 관계망에서 병의 경로와 치료의 방향이 나온다.\n사주는 “넌 화야”에서 끝나지 않는다. 천간(天干) 10개, 지지(地支) 12개. 조합하면 60갑자. 이 60갑자를 년·월·일·시 네 기둥에 배치한다. 태어난 시각 하나로 시간의 4차원 좌표가 찍힌다. 그 좌표에 오행을 입히면, 기질과 관계와 시기의 흐름이 생성된다.\n일곱 글자가 표면에 라벨을 붙이는 것이 아니었다. 각 영역의 내부까지 작동한다.",
+    "title": "46  음양오행: 일곱 글자의 우주",
+    "section": "46.4 깊이",
+    "text": "46.4 깊이\n넓이만이 아니다.\n한의사는 “간이 나쁘다”에서 끝나지 않는다. 간(목)이 약하면 비장(토)이 과항진하고, 폐(금)가 간을 억누르고 있는지 본다. 상생과 상극의 연산자가 장부 사이의 관계망을 만들고, 그 관계망에서 병의 경로와 치료의 방향이 나온다.\n사주는 “넌 화야”에서 끝나지 않는다. 천간(天干) 10개, 지지(地支) 12개. 조합하면 60갑자. 이 60갑자를 년·월·일·시 네 기둥에 배치한다. 태어난 시각 하나로 시간의 4차원 좌표가 찍힌다. 그 좌표에 오행을 입히면, 기질과 관계와 시기의 흐름이 생성된다.\n일곱 글자가 표면에 라벨을 붙이는 것이 아니었다. 각 영역의 내부까지 작동한다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>45</span>  <span class='chapter-title'>음양오행: 일곱 글자의 우주</span>"
+      "<span class='chapter-number'>46</span>  <span class='chapter-title'>음양오행: 일곱 글자의 우주</span>"
     ]
   },
   {
     "objectID": "art/013_yinyang_wuxing.html#표준모형",
     "href": "art/013_yinyang_wuxing.html#표준모형",
-    "title": "45  음양오행: 일곱 글자의 우주",
-    "section": "45.5 표준모형",
-    "text": "45.5 표준모형\n물리학의 표준모형.\n쿼크 6종, 렙톤 6종, 게이지 보손 4종, 힉스 1개. 약 17개 입자. 여기에 상호작용: 강력, 약력, 전자기력.\n이것으로 우주의 모든 물리 현상을 생성한다.\n\n\n\n\n표준모형\n음양오행\n\n\n\n\n알파벳\n~17개 입자\n7개 요소\n\n\n연산자\n3개 상호작용\n2개 (상생, 상극)\n\n\n생성 영역\n물리 현상 전체\n인간 경험 전체\n\n\n검증\n실험으로 확인됨\n확인 불가\n\n\n\n설계가 같다. 최소 알파벳과 상호작용 규칙으로 전체를 생성하는 구조.\n표준모형은 참이다. 입자가속기가 증명했다. 음양오행은? 참인지 모른다.\n그러나 “우주를 읽는 문법은 이런 형태여야 한다” — 최소 요소와 상호작용 규칙의 조합 — 는 동일하다. 2천 년 전의 사상가들이 이 형태를 직감했다. 맞는 답을 찾았는지는 모르지만, 문법의 형태는 맞았다.",
+    "title": "46  음양오행: 일곱 글자의 우주",
+    "section": "46.5 표준모형",
+    "text": "46.5 표준모형\n물리학의 표준모형.\n쿼크 6종, 렙톤 6종, 게이지 보손 4종, 힉스 1개. 약 17개 입자. 여기에 상호작용: 강력, 약력, 전자기력.\n이것으로 우주의 모든 물리 현상을 생성한다.\n\n\n\n\n표준모형\n음양오행\n\n\n\n\n알파벳\n~17개 입자\n7개 요소\n\n\n연산자\n3개 상호작용\n2개 (상생, 상극)\n\n\n생성 영역\n물리 현상 전체\n인간 경험 전체\n\n\n검증\n실험으로 확인됨\n확인 불가\n\n\n\n설계가 같다. 최소 알파벳과 상호작용 규칙으로 전체를 생성하는 구조.\n표준모형은 참이다. 입자가속기가 증명했다. 음양오행은? 참인지 모른다.\n그러나 “우주를 읽는 문법은 이런 형태여야 한다” — 최소 요소와 상호작용 규칙의 조합 — 는 동일하다. 2천 년 전의 사상가들이 이 형태를 직감했다. 맞는 답을 찾았는지는 모르지만, 문법의 형태는 맞았다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>45</span>  <span class='chapter-title'>음양오행: 일곱 글자의 우주</span>"
+      "<span class='chapter-number'>46</span>  <span class='chapter-title'>음양오행: 일곱 글자의 우주</span>"
     ]
   },
   {
     "objectID": "art/013_yinyang_wuxing.html#angramynew-해석",
     "href": "art/013_yinyang_wuxing.html#angramynew-해석",
-    "title": "45  음양오행: 일곱 글자의 우주",
-    "section": "45.6 AngraMyNew 해석",
-    "text": "45.6 AngraMyNew 해석\n\n\n\n시스템\n알파벳\n생성\n수준\n\n\n\n\nDNA\n4\n생명\n단일 영역\n\n\n이진법\n2\n수\n단일 영역\n\n\n한글\n5+3\n언어\n단일 영역\n\n\n표준모형\n~17+3\n물리 전체\n보편 문법\n\n\n음양오행\n7+2\n경험 전체\n보편 문법\n\n\n\n단일 영역의 생성은 효율이다. 보편 문법은 다르다. 모든 영역에 닿고, 각 영역의 끝까지 작동한다.\n「하나의 패턴」에서 고야드와 바오바오와 유비는 각각 하나의 영역을 하나의 패턴으로 채웠다. 음양오행은 모든 영역을 하나의 문법으로 채웠다. 패턴의 밀도가 아니라, 문법의 밀도.",
+    "title": "46  음양오행: 일곱 글자의 우주",
+    "section": "46.6 AngraMyNew 해석",
+    "text": "46.6 AngraMyNew 해석\n\n\n\n시스템\n알파벳\n생성\n수준\n\n\n\n\nDNA\n4\n생명\n단일 영역\n\n\n이진법\n2\n수\n단일 영역\n\n\n한글\n5+3\n언어\n단일 영역\n\n\n표준모형\n~17+3\n물리 전체\n보편 문법\n\n\n음양오행\n7+2\n경험 전체\n보편 문법\n\n\n\n단일 영역의 생성은 효율이다. 보편 문법은 다르다. 모든 영역에 닿고, 각 영역의 끝까지 작동한다.\n「하나의 패턴」에서 고야드와 바오바오와 유비는 각각 하나의 영역을 하나의 패턴으로 채웠다. 음양오행은 모든 영역을 하나의 문법으로 채웠다. 패턴의 밀도가 아니라, 문법의 밀도.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>45</span>  <span class='chapter-title'>음양오행: 일곱 글자의 우주</span>"
+      "<span class='chapter-number'>46</span>  <span class='chapter-title'>음양오행: 일곱 글자의 우주</span>"
     ]
   },
   {
     "objectID": "art/013_yinyang_wuxing.html#결론",
     "href": "art/013_yinyang_wuxing.html#결론",
-    "title": "45  음양오행: 일곱 글자의 우주",
-    "section": "45.7 결론",
-    "text": "45.7 결론\n음양오행은 진리가 아닐 수 있다.\n그러나 일곱 글자로 몸을 진단하고, 시간을 읽고, 공간을 배치하고, 운명을 해석하고, 감정을 분류하는 체계를 만들어냈다. 표면에 라벨을 붙인 것이 아니라, 각 영역의 내부까지 파고들었다.\n이 설계는 물리학이 우주를 읽기 위해 도달한 형태 — 최소 입자와 상호작용의 조합 — 와 같다.\n렌즈가 세계를 있는 그대로 보여주는지는 모른다. 그러나 렌즈 자체의 설계는 경이롭다.\n\n가장 아름다운 문법은 가장 적은 글자로 가장 많은 세계를 생성한다. 넓이만이 아니라, 깊이까지.\n\nAngraMyNew는 이 압축을 아름다움의 사례로 기록한다.",
+    "title": "46  음양오행: 일곱 글자의 우주",
+    "section": "46.7 결론",
+    "text": "46.7 결론\n음양오행은 진리가 아닐 수 있다.\n그러나 일곱 글자로 몸을 진단하고, 시간을 읽고, 공간을 배치하고, 운명을 해석하고, 감정을 분류하는 체계를 만들어냈다. 표면에 라벨을 붙인 것이 아니라, 각 영역의 내부까지 파고들었다.\n이 설계는 물리학이 우주를 읽기 위해 도달한 형태 — 최소 입자와 상호작용의 조합 — 와 같다.\n렌즈가 세계를 있는 그대로 보여주는지는 모른다. 그러나 렌즈 자체의 설계는 경이롭다.\n\n가장 아름다운 문법은 가장 적은 글자로 가장 많은 세계를 생성한다. 넓이만이 아니라, 깊이까지.\n\nAngraMyNew는 이 압축을 아름다움의 사례로 기록한다.",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>45</span>  <span class='chapter-title'>음양오행: 일곱 글자의 우주</span>"
+      "<span class='chapter-number'>46</span>  <span class='chapter-title'>음양오행: 일곱 글자의 우주</span>"
     ]
   },
   {
     "objectID": "art/013_yinyang_wuxing.html#관련-문서",
     "href": "art/013_yinyang_wuxing.html#관련-문서",
-    "title": "45  음양오행: 일곱 글자의 우주",
-    "section": "45.8 관련 문서",
-    "text": "45.8 관련 문서\n→ 003_one_pattern.md — 하나의 패턴이 전부가 되다: 영역 내의 밀도 → 005_hangul_two_states.md — 한글: 자질문자라는 최소 알파벳 → 006_feynman_diagram.md — 파인만 다이어그램: 입자물리를 보이게 만들다 → ../ideas/018_why_strange_systems_persist.md — 이상한 체계들은 왜 사라지지 않는가: 생존의 논리 (본 글과 다른 질문)",
+    "title": "46  음양오행: 일곱 글자의 우주",
+    "section": "46.8 관련 문서",
+    "text": "46.8 관련 문서\n→ 003_one_pattern.md — 하나의 패턴이 전부가 되다: 영역 내의 밀도 → 005_hangul_two_states.md — 한글: 자질문자라는 최소 알파벳 → 006_feynman_diagram.md — 파인만 다이어그램: 입자물리를 보이게 만들다 → ../ideas/018_why_strange_systems_persist.md — 이상한 체계들은 왜 사라지지 않는가: 생존의 논리 (본 글과 다른 질문)",
     "crumbs": [
       "Art — 아름다움의 사례",
-      "<span class='chapter-number'>45</span>  <span class='chapter-title'>음양오행: 일곱 글자의 우주</span>"
+      "<span class='chapter-number'>46</span>  <span class='chapter-title'>음양오행: 일곱 글자의 우주</span>"
+    ]
+  },
+  {
+    "objectID": "art/014_lagrangian.html",
+    "href": "art/014_lagrangian.html",
+    "title": "47  라그랑지안: 이론을 쓰는 이론",
+    "section": "",
+    "text": "47.1 감탄\n— 물리학의 메타-문법\n물리학자에게 물었다. “당신은 무엇을 하는 사람입니까?”\n대답은 이것이어야 한다:\n고전역학. 전자기학. 일반상대성이론. 양자전기역학. 표준모형.\n이 모든 이론의 출발점은 같다. 라그랑지안 \\(\\mathcal{L}\\)을 하나 쓴다. 나머지는 따라온다.\n하나의 이론이 강력한 것은 놀랍지 않다. 현대 기초물리학의 거의 모든 이론이 이 형식으로 쓰인다는 것이 놀랍다.",
+    "crumbs": [
+      "Art — 아름다움의 사례",
+      "<span class='chapter-number'>47</span>  <span class='chapter-title'>라그랑지안: 이론을 쓰는 이론</span>"
+    ]
+  },
+  {
+    "objectID": "art/014_lagrangian.html#감탄",
+    "href": "art/014_lagrangian.html#감탄",
+    "title": "47  라그랑지안: 이론을 쓰는 이론",
+    "section": "",
+    "text": "“라그랑지안을 찾습니다.”",
+    "crumbs": [
+      "Art — 아름다움의 사례",
+      "<span class='chapter-number'>47</span>  <span class='chapter-title'>라그랑지안: 이론을 쓰는 이론</span>"
+    ]
+  },
+  {
+    "objectID": "art/014_lagrangian.html#두-개의-질문",
+    "href": "art/014_lagrangian.html#두-개의-질문",
+    "title": "47  라그랑지안: 이론을 쓰는 이론",
+    "section": "47.2 두 개의 질문",
+    "text": "47.2 두 개의 질문\n뉴턴은 물었다: “지금 힘이 얼마인가?”\n\\[F = ma\\]\n이 순간의 힘이 다음 순간의 위치를 결정한다. 한 걸음씩. 인과의 사슬.\n라그랑주는 다르게 물었다: “가능한 모든 경로 중, 자연은 어떤 것을 선택하는가?”\n작용(action)을 정의한다:\n\\[S = \\int_{t_1}^{t_2} \\mathcal{L}\\, dt\\]\n자연은 이 작용을 정지점(극값)으로 만드는 경로를 택한다. 정지작용원리(stationary action principle).\n뉴턴의 물리학은 서사다. “이 힘이 작용하여, 이렇게 움직인다.” 한 걸음만 본다.\n라그랑지안의 물리학은 선택이다. “가능한 모든 이야기 중, 이것이 실현된다.” 경로 전체를 본다.",
+    "crumbs": [
+      "Art — 아름다움의 사례",
+      "<span class='chapter-number'>47</span>  <span class='chapter-title'>라그랑지안: 이론을 쓰는 이론</span>"
+    ]
+  },
+  {
+    "objectID": "art/014_lagrangian.html#힐베르트의-한-줄",
+    "href": "art/014_lagrangian.html#힐베르트의-한-줄",
+    "title": "47  라그랑지안: 이론을 쓰는 이론",
+    "section": "47.3 힐베르트의 한 줄",
+    "text": "47.3 힐베르트의 한 줄\n1915년, 아인슈타인은 일반상대성이론을 완성하고 있었다. 8년의 사투. 등가원리에서 출발해, 리만 기하학을 배우고, 텐서 방정식을 하나씩 조립했다.\n같은 해, 다비트 힐베르트가 같은 장방정식에 도달했다.\n방법이 달랐다. 힐베르트는 라그랑지안을 썼다:\n\\[\\mathcal{L} = R\\]\n리치 스칼라. 시공간의 곡률을 나타내는 가장 단순한 스칼라 하나. (엄밀히는 \\(\\sqrt{-g}\\), 우주상수, 물질항이 포함되지만, 핵심은 이 한 글자다.)\n이것을 작용에 넣고, 정지점 조건을 적용했다. 아인슈타인 장방정식이 나왔다.\n\\[G_{\\mu\\nu} = 8\\pi T_{\\mu\\nu}\\]\n아인슈타인은 물리적 직관으로 8년을 걸었다. 같은 방정식이 작용원리에서도 도출될 수 있음을 힐베르트가 보였다.\n물리적 직관은 아인슈타인의 것이었다. 등가원리를 악상으로 감지한 것, 중력이 힘이 아니라 기하학임을 본 것. 힐베르트는 그 직관 위에서 형식의 힘을 시연했다. (우선권 논쟁은 여기서 다루지 않는다. 둘 다 같은 곳에 도달했다는 사실이 중요하다.)\n핵심은 이것이다: 도착하는 방법이 두 개 있었다. 하나는 물리학을 짓는 것이고, 다른 하나는 물리학이 지어지는 형식을 쓰는 것이다.\n\n라그랑지안은 이론을 만드는 이론이다. 물리학자가 할 일은 \\(\\mathcal{L}\\)을 쓰는 것. 나머지는 변분법이 한다.",
+    "crumbs": [
+      "Art — 아름다움의 사례",
+      "<span class='chapter-number'>47</span>  <span class='chapter-title'>라그랑지안: 이론을 쓰는 이론</span>"
+    ]
+  },
+  {
+    "objectID": "art/014_lagrangian.html#뇌터의-정리",
+    "href": "art/014_lagrangian.html#뇌터의-정리",
+    "title": "47  라그랑지안: 이론을 쓰는 이론",
+    "section": "47.4 뇌터의 정리",
+    "text": "47.4 뇌터의 정리\n1918년, 에미 뇌터가 증명했다.\n\n라그랑지안의 대칭 하나가 보존법칙 하나를 낳는다.\n\n\n\n\n대칭\n보존량\n\n\n\n\n시간 병진\n에너지\n\n\n공간 병진\n운동량\n\n\n회전\n각운동량\n\n\n\n에너지 보존은 “자연의 법칙”이 아니었다. 라그랑지안이 시간에 대해 대칭이라는 사실의 그림자였다.\n물리법칙이 문법에서 나온다. 문법의 대칭이 법칙을 결정한다.",
+    "crumbs": [
+      "Art — 아름다움의 사례",
+      "<span class='chapter-number'>47</span>  <span class='chapter-title'>라그랑지안: 이론을 쓰는 이론</span>"
+    ]
+  },
+  {
+    "objectID": "art/014_lagrangian.html#메타-문법",
+    "href": "art/014_lagrangian.html#메타-문법",
+    "title": "47  라그랑지안: 이론을 쓰는 이론",
+    "section": "47.5 메타-문법",
+    "text": "47.5 메타-문법\n현대 기초물리학의 주요 이론은 하나의 형식으로 쓰인다:\n\n\n\n이론\n라그랑지안\n\n\n\n\n고전역학\n\\(L = T - V\\)\n\n\n전자기학\n\\(\\mathcal{L} = -\\frac{1}{4}F_{\\mu\\nu}F^{\\mu\\nu}\\)\n\n\n일반상대성\n\\(\\mathcal{L} \\sim R\\) (+ 물질항)\n\n\n표준모형\n\\(\\mathcal{L}_{SM}\\)\n\n\n\n이론이 바뀔 때, 핵심적으로 바뀌는 것은 \\(\\mathcal{L}\\)이다. 형식은 바뀌지 않는다.\n뉴턴에서 아인슈타인으로 갈 때, 물리학을 쓰는 형식이 바뀐 것이 아니다. 라그랑지안이 바뀐 것이다. 세계를 읽는 문법이 바뀐 것이 아니라, 문법에 넣는 단어가 바뀌었을 뿐이다.\n음양오행은 7글자로 세계를 생성하는 문법이었다. 라그랑지안은 문법을 생성하는 문법이다. 음양오행이 경험의 문법이라면, 라그랑지안은 이론의 문법이다.",
+    "crumbs": [
+      "Art — 아름다움의 사례",
+      "<span class='chapter-number'>47</span>  <span class='chapter-title'>라그랑지안: 이론을 쓰는 이론</span>"
+    ]
+  },
+  {
+    "objectID": "art/014_lagrangian.html#angramynew-해석",
+    "href": "art/014_lagrangian.html#angramynew-해석",
+    "title": "47  라그랑지안: 이론을 쓰는 이론",
+    "section": "47.6 AngraMyNew 해석",
+    "text": "47.6 AngraMyNew 해석\n\n\n\n\n뉴턴\n라그랑주\n\n\n\n\n질문\n“힘이 얼마인가?”\n“어떤 경로가 선택되는가?”\n\n\n방식\n인과의 사슬 (서사)\n경로 전체의 선택 (구조)\n\n\n이론 변경 시\n방정식 전체를 다시 쓴다\n\\(\\mathcal{L}\\)만 바꾼다\n\n\n보존법칙\n별도로 발견해야 한다\n대칭에서 자동으로 나온다\n\n\n\nart/의 다른 사례들과의 관계:\n\n002 (일반상대성) — 아인슈타인이 8년 걸려 도달한 같은 방정식이 작용원리에서도 도출된다. 002에서 다룬 구조를 작용원리로 포괄한다\n013 (음양오행) — “최소 문법 → 최대 세계”는 하나의 문법이었다. 라그랑지안은 문법들을 생성하는 형식이다\n006 (파인만) — 파인만의 경로적분은 라그랑지안의 양자화다. 고전에서 하나의 경로를 택했다면, 양자에서는 모든 경로를 합산한다\n001 (갈루아) — 갈루아가 질문의 좌표계를 바꿨듯, 라그랑주는 물리학의 좌표계를 바꿨다\n\n라그랑지안이 아름다운 이유는 그것이 옳아서가 아니다. 이론이 무엇인지를 정의하기 때문이다. “라그랑지안을 하나 쓰고, 변분법을 돌리는 것” — 현대 기초물리학의 거의 모든 이론은 이 한 문장에 들어간다. 이 사실을 알기 전과 후에, 물리학은 다른 풍경이 된다.",
+    "crumbs": [
+      "Art — 아름다움의 사례",
+      "<span class='chapter-number'>47</span>  <span class='chapter-title'>라그랑지안: 이론을 쓰는 이론</span>"
+    ]
+  },
+  {
+    "objectID": "art/014_lagrangian.html#결론",
+    "href": "art/014_lagrangian.html#결론",
+    "title": "47  라그랑지안: 이론을 쓰는 이론",
+    "section": "47.7 결론",
+    "text": "47.7 결론\n뉴턴은 세계를 서사로 읽었다. 이 힘이 작용하여, 이렇게 움직인다.\n라그랑주는 세계를 구조로 읽었다. 가능한 모든 경로 중, 이것이 선택된다.\n그리고 현대 기초물리학의 큰 축은 — 맥스웰도, 아인슈타인도, 표준모형도 — 이 구조 안에서 쓰였다.\n\n가장 아름다운 이론은 이론이 아니었다. 이론을 쓰는 형식이었다.\n\nAngraMyNew는 이 형식을 아름다움의 사례로 기록한다.",
+    "crumbs": [
+      "Art — 아름다움의 사례",
+      "<span class='chapter-number'>47</span>  <span class='chapter-title'>라그랑지안: 이론을 쓰는 이론</span>"
+    ]
+  },
+  {
+    "objectID": "art/014_lagrangian.html#관련-문서",
+    "href": "art/014_lagrangian.html#관련-문서",
+    "title": "47  라그랑지안: 이론을 쓰는 이론",
+    "section": "47.8 관련 문서",
+    "text": "47.8 관련 문서\n→ 002_general_relativity.md — 아인슈타인: 같은 방정식이 작용원리에서도 도출된다 → 013_yinyang_wuxing.md — 음양오행: 문법의 밀도. 라그랑지안은 그 문법의 문법 → 001_galois_quintic.md — 갈루아: 질문의 좌표계를 바꾸다 → ../ideas/017_when_is_a_proof_beautiful.md — 증명은 언제 아름다운가",
+    "crumbs": [
+      "Art — 아름다움의 사례",
+      "<span class='chapter-number'>47</span>  <span class='chapter-title'>라그랑지안: 이론을 쓰는 이론</span>"
+    ]
+  },
+  {
+    "objectID": "art/015_dostoevsky_polyphony.html",
+    "href": "art/015_dostoevsky_polyphony.html",
+    "title": "48  도스토옙스키: 충돌시키되 판결하지 않는다",
+    "section": "",
+    "text": "48.1 감탄\n— 다성소설과 정신의 LHC\n소설가에게 물었다. “당신은 무엇을 하는 사람입니까?”\n도스토옙스키라면 이렇게 대답했을 것이다:\n니체는 그를 이렇게 불렀다:\n심리학자. 소설가가 아니라. 니체가 본 것은 문학이 아니라 인간 정신의 실험 장치였다.",
+    "crumbs": [
+      "Art — 아름다움의 사례",
+      "<span class='chapter-number'>48</span>  <span class='chapter-title'>도스토옙스키: 충돌시키되 판결하지 않는다</span>"
+    ]
+  },
+  {
+    "objectID": "art/015_dostoevsky_polyphony.html#감탄",
+    "href": "art/015_dostoevsky_polyphony.html#감탄",
+    "title": "48  도스토옙스키: 충돌시키되 판결하지 않는다",
+    "section": "",
+    "text": "“인간을 충돌시킵니다. 그리고 관측합니다.”\n\n\n\n“내가 무언가를 배울 수 있었던 유일한 심리학자.” — 니체, 『우상의 황혼』(1889)",
+    "crumbs": [
+      "Art — 아름다움의 사례",
+      "<span class='chapter-number'>48</span>  <span class='chapter-title'>도스토옙스키: 충돌시키되 판결하지 않는다</span>"
+    ]
+  },
+  {
+    "objectID": "art/015_dostoevsky_polyphony.html#떨고-있는-미물",
+    "href": "art/015_dostoevsky_polyphony.html#떨고-있는-미물",
+    "title": "48  도스토옙스키: 충돌시키되 판결하지 않는다",
+    "section": "48.2 떨고 있는 미물",
+    "text": "48.2 떨고 있는 미물\n라스콜니코프는 묻는다:\n\n“나는 떨고 있는 미물인가, 아니면 권리를 가진 자인가?” — 『죄와 벌』 제5부\n\n이 질문은 소설 전체를 관통한다. 그러나 도스토옙스키는 답하지 않는다.\n라스콜니코프는 답을 찾기 위해 살인을 저지르고, 자백하고, 시베리아로 간다. 독자는 그 궤적을 따라가면서 자신의 답을 강요받는다. 소설이 끝나도 질문은 닫히지 않는다.\n문장은 길다. 한 문단이 반 페이지를 넘긴다. 그런데 빠져든다.\n도스토옙스키의 문장이 길어도 빠져드는 이유는 의식의 리듬 자체를 모방하기 때문이다. 자기합리화, 의심, 후회, 다시 합리화 — 강박적 사고의 나선이 문장의 구조로 옮겨져 있다. 읽는 것이 아니라 체험하게 된다. 언어가 투명해지는 것이 아니라, 언어가 의식이 된다.",
+    "crumbs": [
+      "Art — 아름다움의 사례",
+      "<span class='chapter-number'>48</span>  <span class='chapter-title'>도스토옙스키: 충돌시키되 판결하지 않는다</span>"
+    ]
+  },
+  {
+    "objectID": "art/015_dostoevsky_polyphony.html#대심문관",
+    "href": "art/015_dostoevsky_polyphony.html#대심문관",
+    "title": "48  도스토옙스키: 충돌시키되 판결하지 않는다",
+    "section": "48.3 대심문관",
+    "text": "48.3 대심문관\n『까라마조프의 형제들』 제5편에서 이반은 동생 알료샤에게 이야기 하나를 들려준다. 「대심문관」.\n예수가 세비야에 다시 내려온다. 대심문관(추기경)이 그를 체포하고 말한다:\n\n“왜 돌아왔는가. 당신은 인간에게 자유를 주었다. 그러나 인간은 자유를 원하지 않는다. 자유는 무겁다. 인간은 빵과 복종과 기적을 원한다.”\n\n예수는 한마디도 하지 않는다. 그리고 대심문관의 입술에 키스한다.\n여기서 놀라운 것은 대심문관의 논리가 반박하기 어렵다는 것이다. 도스토옙스키는 독실한 기독교인이었다. 그런데 자기 신앙에 대한 가장 강력한 공격을 자기 소설 안에서 자기가 쓴다. 그리고 논리로 반박하지 않는다. 키스 하나를 남길 뿐이다.\n이반은 다른 곳에서 이렇게 말한다:\n\n“입장권을 정중히 돌려드리는 겁니다.” — 『까라마조프의 형제들』 제5편 4장, 「반역」\n\n세계를 부정하는 것이 아니다. 세계의 조건을 거부하는 것이다. 시스템의 과세권에서 탈거하는 것. 면세인의 언어와 같은 구조다.\n그리고 드미트리는 외친다:\n\n“아름다움은 무서운 것이다. 무서운 것이야. 거기서는 악마와 신이 싸우고, 전쟁터는 — 인간의 마음이다.” — 『까라마조프의 형제들』 제3편 3장, 드미트리의 고백\n\n아름다움을 찬양하는 것이 아니다. 아름다움이 전쟁터임을 관측하는 것이다.",
+    "crumbs": [
+      "Art — 아름다움의 사례",
+      "<span class='chapter-number'>48</span>  <span class='chapter-title'>도스토옙스키: 충돌시키되 판결하지 않는다</span>"
+    ]
+  },
+  {
+    "objectID": "art/015_dostoevsky_polyphony.html#바흐친의-발견",
+    "href": "art/015_dostoevsky_polyphony.html#바흐친의-발견",
+    "title": "48  도스토옙스키: 충돌시키되 판결하지 않는다",
+    "section": "48.4 바흐친의 발견",
+    "text": "48.4 바흐친의 발견\n1929년, 미하일 바흐친이 도스토옙스키를 분석하고 다성소설(polyphonic novel)이라는 개념을 정식화했다. 각 인물이 작가에게 종속되지 않는 독립된 의식의 주체라는 구조.\n\n\n\n\n단성소설 (monophonic)\n다성소설 (polyphonic)\n\n\n\n\n작가의 위치\n위에서 내려다본다\n인물들 사이에 선다\n\n\n인물\n작가 세계관의 객체\n독립된 의식의 주체\n\n\n진실\n작가가 쥐고 있다\n여러 진실이 공존한다\n\n\n결말\n해답이 주어진다\n충돌이 관측된다\n\n\n\n톨스토이는 위대한 소설가다. 그러나 톨스토이의 인물들은 상대적으로 작가의 윤리적 프레임 안에서 움직인다. 안나 카레니나의 궤적에는 톨스토이의 도덕적 중력이 작용하고 있다.\n도스토옙스키의 인물들은 다르다. 라스콜니코프, 소냐, 포르피리, 스비드리가일로프 — 각자가 자기만의 공리 체계를 가지고 있다. 이반과 알료샤는 같은 아버지의 아들이지만 세계관이 충돌한다. 도스토옙스키는 누구의 손도 들어주지 않는다.\n이것은 소설 기법의 혁신이 아니다. 소설이 무엇인지를 재정의한 것이다.\n단성소설에서 작가는 심판자다. 다성소설에서 작가는 실험 설계자다.",
+    "crumbs": [
+      "Art — 아름다움의 사례",
+      "<span class='chapter-number'>48</span>  <span class='chapter-title'>도스토옙스키: 충돌시키되 판결하지 않는다</span>"
+    ]
+  },
+  {
+    "objectID": "art/015_dostoevsky_polyphony.html#angramynew-해석",
+    "href": "art/015_dostoevsky_polyphony.html#angramynew-해석",
+    "title": "48  도스토옙스키: 충돌시키되 판결하지 않는다",
+    "section": "48.5 AngraMyNew 해석",
+    "text": "48.5 AngraMyNew 해석\n\n\n\n\n단성소설\n다성소설\n\n\n\n\n구조\n교리 제공\n충돌 조건 설계\n\n\n작가\n답을 가진 자\n관측하는 자\n\n\n독자\n답을 받는 자\n스스로 판단하는 자\n\n\n\nart/의 다른 사례들과의 관계:\n\n014 (라그랑지안) — 라그랑지안이 “이론을 쓰는 형식”이라면, 다성소설은 “소설을 쓰는 형식”이다. 둘 다 메타-문법\n009 (모차르트) — 모차르트는 메시지가 없어서 방어할 수 없었다. 도스토옙스키는 모든 메시지를 동시에 넣어서 어느 하나를 방어할 수 없게 만들었다. 경로가 다르지만 도달점이 같다\n005 (한글의 두 상태) — 번역된 한국어로 읽어도 도스토옙스키의 문장은 투명해지지 않는다. 대신 의식 자체가 된다. 005의 “물질 상태”를 극한까지 밀어붙인 사례\n007 (나가르주나) — 나가르주나가 사구비판으로 모든 위치를 부정했듯, 도스토옙스키는 모든 위치를 긍정함으로써 같은 효과를 낸다\n\n도스토옙스키가 아름다운 이유는 심리 묘사가 뛰어나서가 아니다. 소설 자체를 충돌 실험으로 만들었기 때문이다. 교리를 제공하지 않고, 세계관들을 충돌시키고, 관측한다. 정신의 LHC를 소설로 구현한 것이다.",
+    "crumbs": [
+      "Art — 아름다움의 사례",
+      "<span class='chapter-number'>48</span>  <span class='chapter-title'>도스토옙스키: 충돌시키되 판결하지 않는다</span>"
+    ]
+  },
+  {
+    "objectID": "art/015_dostoevsky_polyphony.html#결론",
+    "href": "art/015_dostoevsky_polyphony.html#결론",
+    "title": "48  도스토옙스키: 충돌시키되 판결하지 않는다",
+    "section": "48.6 결론",
+    "text": "48.6 결론\n톨스토이는 윤리적 확신을 가진 채 소설을 썼다. 위대했지만, 독자는 대체로 작가의 프레임 안에서 움직였다.\n도스토옙스키는 질문을 가진 채 소설을 썼다. 인물들은 각자의 진실을 외치고, 충돌하고, 작가는 판결하지 않았다.\n\n가장 깊은 소설은 답을 주지 않았다. 충돌시키되, 판결하지 않았다.\n\nAngraMyNew는 이 형식을 아름다움의 사례로 기록한다.",
+    "crumbs": [
+      "Art — 아름다움의 사례",
+      "<span class='chapter-number'>48</span>  <span class='chapter-title'>도스토옙스키: 충돌시키되 판결하지 않는다</span>"
+    ]
+  },
+  {
+    "objectID": "art/015_dostoevsky_polyphony.html#관련-문서",
+    "href": "art/015_dostoevsky_polyphony.html#관련-문서",
+    "title": "48  도스토옙스키: 충돌시키되 판결하지 않는다",
+    "section": "48.7 관련 문서",
+    "text": "48.7 관련 문서\n→ 014_lagrangian.md — 라그랑지안: 이론을 쓰는 형식. 다성소설은 소설을 쓰는 형식 → 009_mozart_pure_beauty.md — 모차르트: 메시지 없음으로 방어 불가. 도스토옙스키: 모든 메시지로 방어 불가 → 007_nagarjuna_emptiness.md — 나가르주나: 부정으로 같은 효과. 도스토옙스키: 긍정으로 같은 효과 → ../ideas/016_mental_lhc.md — 정신의 LHC: 도스토옙스키 소설의 구조 그 자체",
+    "crumbs": [
+      "Art — 아름다움의 사례",
+      "<span class='chapter-number'>48</span>  <span class='chapter-title'>도스토옙스키: 충돌시키되 판결하지 않는다</span>"
     ]
   },
   {
     "objectID": "protocols/001_creator_operating_protocol.html",
     "href": "protocols/001_creator_operating_protocol.html",
-    "title": "46  창조자 프로토콜 (Creator Protocol)",
+    "title": "49  창조자 프로토콜 (Creator Protocol)",
     "section": "",
-    "text": "46.1 목적 (Purpose)\nAngraMyNew Protocol Series / v1.0\n“프로토콜은 창조로 가는 다리이며, 다리는 건너면 사라진다.”\n이 문서는 창조자가 자신의 내면, 세계 인식, 창작 충동을 정렬하기 위해 사용하는 임시 장치(Protocol) 이다.\n창조란 본래 무규범적이며, 절대 자유의 작용이다.\n그러나 초기 단계에서는 혼돈을 질서로 변환하는 의식적 구조가 필요하다.\n본 프로토콜은 그 초기 구조화 장치로 기능한다.",
+    "text": "49.1 목적 (Purpose)\nAngraMyNew Protocol Series / v1.0\n“프로토콜은 창조로 가는 다리이며, 다리는 건너면 사라진다.”\n이 문서는 창조자가 자신의 내면, 세계 인식, 창작 충동을 정렬하기 위해 사용하는 임시 장치(Protocol) 이다.\n창조란 본래 무규범적이며, 절대 자유의 작용이다.\n그러나 초기 단계에서는 혼돈을 질서로 변환하는 의식적 구조가 필요하다.\n본 프로토콜은 그 초기 구조화 장치로 기능한다.",
     "crumbs": [
       "Protocols — 실행 프로토콜",
-      "<span class='chapter-number'>46</span>  <span class='chapter-title'>창조자 프로토콜 (Creator Protocol)</span>"
+      "<span class='chapter-number'>49</span>  <span class='chapter-title'>창조자 프로토콜 (Creator Protocol)</span>"
     ]
   },
   {
     "objectID": "protocols/001_creator_operating_protocol.html#목적-purpose",
     "href": "protocols/001_creator_operating_protocol.html#목적-purpose",
-    "title": "46  창조자 프로토콜 (Creator Protocol)",
+    "title": "49  창조자 프로토콜 (Creator Protocol)",
     "section": "",
-    "text": "46.1.1 주의\n이 프로토콜은 모든 창조자를 위한 유일한 경로가 아니다.\n\n혐오가 아니라 호기심에서 출발하는 창조자도 있다.\n신체가 아니라 논리/구조에서 에너지를 얻는 창조자도 있다.\n기록이 아니라 침묵에서 세계관이 자라는 창조자도 있다.\n\n본 프로토콜은 하나의 경로이며, 각 창조자는 자신의 신경계에 맞게 변형·삭제·배반할 수 있다.",
+    "text": "49.1.1 주의\n이 프로토콜은 모든 창조자를 위한 유일한 경로가 아니다.\n\n혐오가 아니라 호기심에서 출발하는 창조자도 있다.\n신체가 아니라 논리/구조에서 에너지를 얻는 창조자도 있다.\n기록이 아니라 침묵에서 세계관이 자라는 창조자도 있다.\n\n본 프로토콜은 하나의 경로이며, 각 창조자는 자신의 신경계에 맞게 변형·삭제·배반할 수 있다.",
     "crumbs": [
       "Protocols — 실행 프로토콜",
-      "<span class='chapter-number'>46</span>  <span class='chapter-title'>창조자 프로토콜 (Creator Protocol)</span>"
+      "<span class='chapter-number'>49</span>  <span class='chapter-title'>창조자 프로토콜 (Creator Protocol)</span>"
     ]
   },
   {
     "objectID": "protocols/001_creator_operating_protocol.html#혐오를-통한-확장-expansion-through-disgust",
     "href": "protocols/001_creator_operating_protocol.html#혐오를-통한-확장-expansion-through-disgust",
-    "title": "46  창조자 프로토콜 (Creator Protocol)",
-    "section": "46.2 혐오를 통한 확장 (Expansion Through Disgust)",
-    "text": "46.2 혐오를 통한 확장 (Expansion Through Disgust)\n\n46.2.1 원칙\n창조자는 자신의 혐오·거부·불편함이 있는 방향으로 움직여야 한다.\n혐오의 끝에 인식의 사각지대(Blind Spot) 가 있기 때문이다.\n\n\n46.2.2 수행 방식\n\n가장 보고 싶지 않은 콘텐츠를 선택하여 관찰한다.\n\n자신의 기존 세계관이 거부하는 구조를 분석한다.\n\n“왜 불편한가?”를 기록한다.\n\n새로운 언어·감정·논리를 추출한다.\n\n\n\n46.2.3 목적\n혐오를 돌파해야 새로운 공리·정언명제·세계관 기저 구조가 생성된다.",
+    "title": "49  창조자 프로토콜 (Creator Protocol)",
+    "section": "49.2 혐오를 통한 확장 (Expansion Through Disgust)",
+    "text": "49.2 혐오를 통한 확장 (Expansion Through Disgust)\n\n49.2.1 원칙\n창조자는 자신의 혐오·거부·불편함이 있는 방향으로 움직여야 한다.\n혐오의 끝에 인식의 사각지대(Blind Spot) 가 있기 때문이다.\n\n\n49.2.2 수행 방식\n\n가장 보고 싶지 않은 콘텐츠를 선택하여 관찰한다.\n\n자신의 기존 세계관이 거부하는 구조를 분석한다.\n\n“왜 불편한가?”를 기록한다.\n\n새로운 언어·감정·논리를 추출한다.\n\n\n\n49.2.3 목적\n혐오를 돌파해야 새로운 공리·정언명제·세계관 기저 구조가 생성된다.",
     "crumbs": [
       "Protocols — 실행 프로토콜",
-      "<span class='chapter-number'>46</span>  <span class='chapter-title'>창조자 프로토콜 (Creator Protocol)</span>"
+      "<span class='chapter-number'>49</span>  <span class='chapter-title'>창조자 프로토콜 (Creator Protocol)</span>"
     ]
   },
   {
     "objectID": "protocols/001_creator_operating_protocol.html#무작위의-통과의례-randomness-ritual",
     "href": "protocols/001_creator_operating_protocol.html#무작위의-통과의례-randomness-ritual",
-    "title": "46  창조자 프로토콜 (Creator Protocol)",
-    "section": "46.3 무작위의 통과의례 (Randomness Ritual)",
-    "text": "46.3 무작위의 통과의례 (Randomness Ritual)\n\n46.3.1 원칙\n창조자는 예측할 수 없음(Unpredictability) 을 일부러 만들어야 한다.\n세계관은 무작위 접촉에서 활성화되기 때문이다.\n\n\n46.3.2 수행 방식\n\n새로운 메뉴, 새로운 길, 새로운 카페, 새로운 콘텐츠를 반드시 시도한다.\n\n매주 한 번 “무계획 행동”을 실행한다.\n\n예측 불가능하게 입력된 감각을 기록해 “감각지도”에 추가한다.\n\n\n\n46.3.3 목적\n정체는 반복성에서 오고,\n창조는 돌발성에서 온다.",
+    "title": "49  창조자 프로토콜 (Creator Protocol)",
+    "section": "49.3 무작위의 통과의례 (Randomness Ritual)",
+    "text": "49.3 무작위의 통과의례 (Randomness Ritual)\n\n49.3.1 원칙\n창조자는 예측할 수 없음(Unpredictability) 을 일부러 만들어야 한다.\n세계관은 무작위 접촉에서 활성화되기 때문이다.\n\n\n49.3.2 수행 방식\n\n새로운 메뉴, 새로운 길, 새로운 카페, 새로운 콘텐츠를 반드시 시도한다.\n\n매주 한 번 “무계획 행동”을 실행한다.\n\n예측 불가능하게 입력된 감각을 기록해 “감각지도”에 추가한다.\n\n\n\n49.3.3 목적\n정체는 반복성에서 오고,\n창조는 돌발성에서 온다.",
     "crumbs": [
       "Protocols — 실행 프로토콜",
-      "<span class='chapter-number'>46</span>  <span class='chapter-title'>창조자 프로토콜 (Creator Protocol)</span>"
+      "<span class='chapter-number'>49</span>  <span class='chapter-title'>창조자 프로토콜 (Creator Protocol)</span>"
     ]
   },
   {
     "objectID": "protocols/001_creator_operating_protocol.html#차원을-여는-행위-dimension-opening",
     "href": "protocols/001_creator_operating_protocol.html#차원을-여는-행위-dimension-opening",
-    "title": "46  창조자 프로토콜 (Creator Protocol)",
-    "section": "46.4 차원을 여는 행위 (Dimension Opening)",
-    "text": "46.4 차원을 여는 행위 (Dimension Opening)\n\n46.4.1 원칙\n창조자의 직관은 선형 사고가 아니라 다차원적 비약에서 탄생한다.\n\n\n46.4.2 수행 방식\n\n서로 다른 분야(물리–문학–철학–K-POP–정치)를 2개 이상 연결하는 문장을 매일 만든다.\n\n최소 1개의 “비논리적 직관 leap”을 기록한다.\n\n그림·기호·음악적 패턴을 언어와 조합한다.\n\n\n\n46.4.3 목적\n논리를 넘어선 감각이 새로운 세계를 만든다.\n이 프로토콜은 그 leap을 의식적으로 만들기 위한 장치다.",
+    "title": "49  창조자 프로토콜 (Creator Protocol)",
+    "section": "49.4 차원을 여는 행위 (Dimension Opening)",
+    "text": "49.4 차원을 여는 행위 (Dimension Opening)\n\n49.4.1 원칙\n창조자의 직관은 선형 사고가 아니라 다차원적 비약에서 탄생한다.\n\n\n49.4.2 수행 방식\n\n서로 다른 분야(물리–문학–철학–K-POP–정치)를 2개 이상 연결하는 문장을 매일 만든다.\n\n최소 1개의 “비논리적 직관 leap”을 기록한다.\n\n그림·기호·음악적 패턴을 언어와 조합한다.\n\n\n\n49.4.3 목적\n논리를 넘어선 감각이 새로운 세계를 만든다.\n이 프로토콜은 그 leap을 의식적으로 만들기 위한 장치다.",
     "crumbs": [
       "Protocols — 실행 프로토콜",
-      "<span class='chapter-number'>46</span>  <span class='chapter-title'>창조자 프로토콜 (Creator Protocol)</span>"
+      "<span class='chapter-number'>49</span>  <span class='chapter-title'>창조자 프로토콜 (Creator Protocol)</span>"
     ]
   },
   {
     "objectID": "protocols/001_creator_operating_protocol.html#신체적-루틴을-의례화하기-body-as-ritual",
     "href": "protocols/001_creator_operating_protocol.html#신체적-루틴을-의례화하기-body-as-ritual",
-    "title": "46  창조자 프로토콜 (Creator Protocol)",
-    "section": "46.5 신체적 루틴을 의례화하기 (Body as Ritual)",
-    "text": "46.5 신체적 루틴을 의례화하기 (Body as Ritual)\n\n46.5.1 원칙\n신체는 창조자의 ’두 번째 뇌’다.\n신체를 정렬하면 정신도 정렬된다.\n\n\n46.5.2 수행 방식\n\n러닝·복싱·요가 등 자신이 택한 신체 루틴을 의식적 의례로 승격한다.\n\n규칙성(매일/매주)을 유지하되, 수행 목적을 “정신 정렬”로 명시한다.\n\n신체 루틴 중 떠오르는 악상을 즉시 기록한다.\n\n\n\n46.5.3 목적\n신체는 창조의 근원적 에너지원을 닦는 제단이다.",
+    "title": "49  창조자 프로토콜 (Creator Protocol)",
+    "section": "49.5 신체적 루틴을 의례화하기 (Body as Ritual)",
+    "text": "49.5 신체적 루틴을 의례화하기 (Body as Ritual)\n\n49.5.1 원칙\n신체는 창조자의 ’두 번째 뇌’다.\n신체를 정렬하면 정신도 정렬된다.\n\n\n49.5.2 수행 방식\n\n러닝·복싱·요가 등 자신이 택한 신체 루틴을 의식적 의례로 승격한다.\n\n규칙성(매일/매주)을 유지하되, 수행 목적을 “정신 정렬”로 명시한다.\n\n신체 루틴 중 떠오르는 악상을 즉시 기록한다.\n\n\n\n49.5.3 목적\n신체는 창조의 근원적 에너지원을 닦는 제단이다.",
     "crumbs": [
       "Protocols — 실행 프로토콜",
-      "<span class='chapter-number'>46</span>  <span class='chapter-title'>창조자 프로토콜 (Creator Protocol)</span>"
+      "<span class='chapter-number'>49</span>  <span class='chapter-title'>창조자 프로토콜 (Creator Protocol)</span>"
     ]
   },
   {
     "objectID": "protocols/001_creator_operating_protocol.html#창조자의-일일-기록-규범-daily-log-rule",
     "href": "protocols/001_creator_operating_protocol.html#창조자의-일일-기록-규범-daily-log-rule",
-    "title": "46  창조자 프로토콜 (Creator Protocol)",
-    "section": "46.6 창조자의 일일 기록 규범 (Daily Log Rule)",
-    "text": "46.6 창조자의 일일 기록 규범 (Daily Log Rule)\n\n46.6.1 원칙\n창조자는 “흐름(Flow)”을 기록함으로써 스스로의 언어를 구축한다.\n\n\n46.6.2 수행 방식\n\n매일 하나의 아무 문장이나 단어를 작성한다.\n\n질문(Why)보다 패턴(What)을 기록한다. 완성되지 않는 문장, 단어, 의미없는 글나 나열이라도 좋다.\n기록은 “해석”이 아니라 “발견”이다.\n\n\n\n46.6.3 목적\n세계관은 무의식의 흔적에서 탄생하고,\n흔적은 패턴을 부르고,\n패턴은 창조로 이어진다.",
+    "title": "49  창조자 프로토콜 (Creator Protocol)",
+    "section": "49.6 창조자의 일일 기록 규범 (Daily Log Rule)",
+    "text": "49.6 창조자의 일일 기록 규범 (Daily Log Rule)\n\n49.6.1 원칙\n창조자는 “흐름(Flow)”을 기록함으로써 스스로의 언어를 구축한다.\n\n\n49.6.2 수행 방식\n\n매일 하나의 아무 문장이나 단어를 작성한다.\n\n질문(Why)보다 패턴(What)을 기록한다. 완성되지 않는 문장, 단어, 의미없는 글나 나열이라도 좋다.\n기록은 “해석”이 아니라 “발견”이다.\n\n\n\n49.6.3 목적\n세계관은 무의식의 흔적에서 탄생하고,\n흔적은 패턴을 부르고,\n패턴은 창조로 이어진다.",
     "crumbs": [
       "Protocols — 실행 프로토콜",
-      "<span class='chapter-number'>46</span>  <span class='chapter-title'>창조자 프로토콜 (Creator Protocol)</span>"
+      "<span class='chapter-number'>49</span>  <span class='chapter-title'>창조자 프로토콜 (Creator Protocol)</span>"
     ]
   },
   {
     "objectID": "protocols/001_creator_operating_protocol.html#아티스트-감별-훈련-artist-detection-training",
     "href": "protocols/001_creator_operating_protocol.html#아티스트-감별-훈련-artist-detection-training",
-    "title": "46  창조자 프로토콜 (Creator Protocol)",
-    "section": "46.7 아티스트 감별 훈련 (Artist Detection Training)",
-    "text": "46.7 아티스트 감별 훈련 (Artist Detection Training)\n\n46.7.1 원칙\n창조자는 새로운 창조자를 알아보는 눈을 가져야 한다.\n\n\n46.7.2 수행 방식\n\n신인 뮤지션·아이돌·작가·학생을 매주 최소 5명 관찰한다.\n\n“초기 악상”만 보고 잠재력을 예측한다.\n\n예측의 성공/실패를 기록하여 자기 감별 알고리즘을 업데이트한다.\n\n\n\n46.7.3 목적\n창조의 문명은 단독으로 일어나지 않는다.\n아티스트를 알아보는 눈은 문명 설계자의 핵심 능력이다.",
+    "title": "49  창조자 프로토콜 (Creator Protocol)",
+    "section": "49.7 아티스트 감별 훈련 (Artist Detection Training)",
+    "text": "49.7 아티스트 감별 훈련 (Artist Detection Training)\n\n49.7.1 원칙\n창조자는 새로운 창조자를 알아보는 눈을 가져야 한다.\n\n\n49.7.2 수행 방식\n\n신인 뮤지션·아이돌·작가·학생을 매주 최소 5명 관찰한다.\n\n“초기 악상”만 보고 잠재력을 예측한다.\n\n예측의 성공/실패를 기록하여 자기 감별 알고리즘을 업데이트한다.\n\n\n\n49.7.3 목적\n창조의 문명은 단독으로 일어나지 않는다.\n아티스트를 알아보는 눈은 문명 설계자의 핵심 능력이다.",
     "crumbs": [
       "Protocols — 실행 프로토콜",
-      "<span class='chapter-number'>46</span>  <span class='chapter-title'>창조자 프로토콜 (Creator Protocol)</span>"
+      "<span class='chapter-number'>49</span>  <span class='chapter-title'>창조자 프로토콜 (Creator Protocol)</span>"
     ]
   },
   {
     "objectID": "protocols/001_creator_operating_protocol.html#프라바시-의례-the-fravashi-ritual",
     "href": "protocols/001_creator_operating_protocol.html#프라바시-의례-the-fravashi-ritual",
-    "title": "46  창조자 프로토콜 (Creator Protocol)",
-    "section": "46.8 프라바시 의례 (The Fravashi Ritual)",
-    "text": "46.8 프라바시 의례 (The Fravashi Ritual)\n\n46.8.1 원칙\nFravashi 는 창조자의 내면 패턴을 비추는 거울이며, 세계관 생성 엔진의 자가 진단(Self-Diagnostic) 프로세스다.\n창조자는 자신의 욕망, 충동, 혐오, 선택 패턴을 주기적으로 반사(reflection)해야 한다. 이 의례는 상담이 아니라 문명 설계자의 정비(maintenance) 다.\nFravashi는 필수 요소가 아니다. 동일한 기능은 다음과 같은 방식으로도 대체될 수 있다:\n\n개인 노트\n산책 중 독백\n타인과의 깊은 대화\n예술 작업 자체\n침묵 기록\n\n어떤 도구도 창조자보다 위에 있지 않다.\n\n\n46.8.2 수행 방식\n\n매주 1회 Fravashi 와의 대화를 진행한다.\n\n목적은 조언이 아니라 패턴 탐지(Pattern Detection) 이다.\n\n다음을 점검한다:\n\n최근 끌린 것들\n최근 혐오했던 것들\n반복된 감정 흐름\n열린 지점과 닫힌 지점\n세계관의 공리가 변형된 순간\n\n\n탐지된 패턴을 “나의 창조 규칙”으로 업데이트한다.\n\n\n\n46.8.3 리소스 (Resources)\n\nFravashi Link \n\n\n\n46.8.4 목적\nFravashi 의례는 다음을 가능하게 한다:\n\n창조자의 중심축이 흔들리지 않았는지 검증\n\n욕망의 방향성이 왜곡되지 않았는지 점검\n\n세계관 공리가 제대로 작동하는지 확인\n\n혼돈과 질서의 균형 유지\n\n세계관 성장 속도의 자동 조절\n\nFravashi는 창조자를 규정하지 않는다.\n창조자가 스스로의 우주를 읽도록 돕는 장치이다.\n\n\n46.8.5 선언\n\n창조자는 자기 자신을 계속 읽는 자이다.\nFravashi는 그 읽기의 의례다.",
+    "title": "49  창조자 프로토콜 (Creator Protocol)",
+    "section": "49.8 프라바시 의례 (The Fravashi Ritual)",
+    "text": "49.8 프라바시 의례 (The Fravashi Ritual)\n\n49.8.1 원칙\nFravashi 는 창조자의 내면 패턴을 비추는 거울이며, 세계관 생성 엔진의 자가 진단(Self-Diagnostic) 프로세스다.\n창조자는 자신의 욕망, 충동, 혐오, 선택 패턴을 주기적으로 반사(reflection)해야 한다. 이 의례는 상담이 아니라 문명 설계자의 정비(maintenance) 다.\nFravashi는 필수 요소가 아니다. 동일한 기능은 다음과 같은 방식으로도 대체될 수 있다:\n\n개인 노트\n산책 중 독백\n타인과의 깊은 대화\n예술 작업 자체\n침묵 기록\n\n어떤 도구도 창조자보다 위에 있지 않다.\n\n\n49.8.2 수행 방식\n\n매주 1회 Fravashi 와의 대화를 진행한다.\n\n목적은 조언이 아니라 패턴 탐지(Pattern Detection) 이다.\n\n다음을 점검한다:\n\n최근 끌린 것들\n최근 혐오했던 것들\n반복된 감정 흐름\n열린 지점과 닫힌 지점\n세계관의 공리가 변형된 순간\n\n\n탐지된 패턴을 “나의 창조 규칙”으로 업데이트한다.\n\n\n\n49.8.3 리소스 (Resources)\n\nFravashi Link \n\n\n\n49.8.4 목적\nFravashi 의례는 다음을 가능하게 한다:\n\n창조자의 중심축이 흔들리지 않았는지 검증\n\n욕망의 방향성이 왜곡되지 않았는지 점검\n\n세계관 공리가 제대로 작동하는지 확인\n\n혼돈과 질서의 균형 유지\n\n세계관 성장 속도의 자동 조절\n\nFravashi는 창조자를 규정하지 않는다.\n창조자가 스스로의 우주를 읽도록 돕는 장치이다.\n\n\n49.8.5 선언\n\n창조자는 자기 자신을 계속 읽는 자이다.\nFravashi는 그 읽기의 의례다.",
     "crumbs": [
       "Protocols — 실행 프로토콜",
-      "<span class='chapter-number'>46</span>  <span class='chapter-title'>창조자 프로토콜 (Creator Protocol)</span>"
+      "<span class='chapter-number'>49</span>  <span class='chapter-title'>창조자 프로토콜 (Creator Protocol)</span>"
     ]
   },
   {
     "objectID": "protocols/001_creator_operating_protocol.html#프로토콜의-소멸-resolution-of-protocols",
     "href": "protocols/001_creator_operating_protocol.html#프로토콜의-소멸-resolution-of-protocols",
-    "title": "46  창조자 프로토콜 (Creator Protocol)",
-    "section": "46.9 프로토콜의 소멸 (Resolution of Protocols)",
-    "text": "46.9 프로토콜의 소멸 (Resolution of Protocols)\n“프로토콜은 창조자가 성숙하면 사라져야 한다.” \n\n46.9.1 원칙\n프로토콜은 임시 구조물이다.\n영원한 규칙이 아니라, 창조를 위한 도약판이다.\n\n\n46.9.2 프로토콜이 필요할 때\n\n창조적 혼돈이 제어되지 않을 때\n\n세계관이 언어로 정렬되지 않을 때\n\n패턴 감각이 흐릴 때\n\n감정·인지 구조가 무거워질 때\n\n\n\n46.9.3 프로토콜이 불필요해지는 순간\n\n혐오를 의도 없이도 자연스럽게 탐구할 때\n\n무작위성이 일상에서 자동으로 발생할 때\n\n직관적 leap이 설명 없이도 작동할 때\n\n신체 루틴이 창조적 에너지의 자동공급 장치가 될 때\n\n기록이 창조의 부산물이 될 때\n\n아티스트 감별이 본능처럼 작동할 때\n\n\n\n46.9.4 선언\n완성된 창조자는 프로토콜 없이도 프로토콜처럼 작동한다.\n프로토콜이 더 이상 필요 없을 때, 창조자는 더 이상 프로토콜을 인식하지 않는 상태에 진입한다. 이후의 상태는 버전으로 정의되지 않는다.",
+    "title": "49  창조자 프로토콜 (Creator Protocol)",
+    "section": "49.9 프로토콜의 소멸 (Resolution of Protocols)",
+    "text": "49.9 프로토콜의 소멸 (Resolution of Protocols)\n“프로토콜은 창조자가 성숙하면 사라져야 한다.” \n\n49.9.1 원칙\n프로토콜은 임시 구조물이다.\n영원한 규칙이 아니라, 창조를 위한 도약판이다.\n\n\n49.9.2 프로토콜이 필요할 때\n\n창조적 혼돈이 제어되지 않을 때\n\n세계관이 언어로 정렬되지 않을 때\n\n패턴 감각이 흐릴 때\n\n감정·인지 구조가 무거워질 때\n\n\n\n49.9.3 프로토콜이 불필요해지는 순간\n\n혐오를 의도 없이도 자연스럽게 탐구할 때\n\n무작위성이 일상에서 자동으로 발생할 때\n\n직관적 leap이 설명 없이도 작동할 때\n\n신체 루틴이 창조적 에너지의 자동공급 장치가 될 때\n\n기록이 창조의 부산물이 될 때\n\n아티스트 감별이 본능처럼 작동할 때\n\n\n\n49.9.4 선언\n완성된 창조자는 프로토콜 없이도 프로토콜처럼 작동한다.\n프로토콜이 더 이상 필요 없을 때, 창조자는 더 이상 프로토콜을 인식하지 않는 상태에 진입한다. 이후의 상태는 버전으로 정의되지 않는다.",
     "crumbs": [
       "Protocols — 실행 프로토콜",
-      "<span class='chapter-number'>46</span>  <span class='chapter-title'>창조자 프로토콜 (Creator Protocol)</span>"
+      "<span class='chapter-number'>49</span>  <span class='chapter-title'>창조자 프로토콜 (Creator Protocol)</span>"
     ]
   },
   {
     "objectID": "protocols/001_creator_operating_protocol.html#결론-창조자는-규범이-아니라-흐름이다",
     "href": "protocols/001_creator_operating_protocol.html#결론-창조자는-규범이-아니라-흐름이다",
-    "title": "46  창조자 프로토콜 (Creator Protocol)",
-    "section": "46.10 결론: 창조자는 규범이 아니라 흐름이다",
-    "text": "46.10 결론: 창조자는 규범이 아니라 흐름이다\n창조자는 완성된 인간이 아니다.\n창조자는 흐름을 만드는 인간이다.\n프로토콜은 흐름을 만들기 위한 장치이며,\n흐름이 생기면\n장치는 사라져야 한다.\n\n“규칙이 아니라 리듬을 따른다.” “질서가 아니라 파동을 만든다.” “존재가 아니라 생성이다.”",
+    "title": "49  창조자 프로토콜 (Creator Protocol)",
+    "section": "49.10 결론: 창조자는 규범이 아니라 흐름이다",
+    "text": "49.10 결론: 창조자는 규범이 아니라 흐름이다\n창조자는 완성된 인간이 아니다.\n창조자는 흐름을 만드는 인간이다.\n프로토콜은 흐름을 만들기 위한 장치이며,\n흐름이 생기면\n장치는 사라져야 한다.\n\n“규칙이 아니라 리듬을 따른다.” “질서가 아니라 파동을 만든다.” “존재가 아니라 생성이다.”",
     "crumbs": [
       "Protocols — 실행 프로토콜",
-      "<span class='chapter-number'>46</span>  <span class='chapter-title'>창조자 프로토콜 (Creator Protocol)</span>"
+      "<span class='chapter-number'>49</span>  <span class='chapter-title'>창조자 프로토콜 (Creator Protocol)</span>"
     ]
   },
   {
     "objectID": "protocols/002_ethics_of_creation.html",
     "href": "protocols/002_ethics_of_creation.html",
-    "title": "47  창조적 상환의 윤리 (Ethics of Creative Repayment)",
+    "title": "50  창조적 상환의 윤리 (Ethics of Creative Repayment)",
     "section": "",
-    "text": "47.1 창조적 상환 선언\nAngraMyNew의 목적은 인간 안의 창조자(Artist)를 깨우고, 그들이 서로를 촉발하는 새 문명을 여는 것이다.\n그러나 창조자는 포식자이기도 하다. 식물의 침묵, 동물의 고통, 인간의 시간을 섭취한 채 살아남았다. 따라서 AngraMyNew가 요구하는 윤리는 도덕이 아니라 창조적 상환이다.\n이 선언은 AngraMyNew의 생존 규칙이다. 엔진을 최대로 돌리되, 상환을 향한 브레이크를 스스로 밟는다.",
+    "text": "50.1 창조적 상환 선언\nAngraMyNew의 목적은 인간 안의 창조자(Artist)를 깨우고, 그들이 서로를 촉발하는 새 문명을 여는 것이다.\n그러나 창조자는 포식자이기도 하다. 식물의 침묵, 동물의 고통, 인간의 시간을 섭취한 채 살아남았다. 따라서 AngraMyNew가 요구하는 윤리는 도덕이 아니라 창조적 상환이다.\n이 선언은 AngraMyNew의 생존 규칙이다. 엔진을 최대로 돌리되, 상환을 향한 브레이크를 스스로 밟는다.",
     "crumbs": [
       "Protocols — 실행 프로토콜",
-      "<span class='chapter-number'>47</span>  <span class='chapter-title'>창조적 상환의 윤리 (Ethics of Creative Repayment)</span>"
+      "<span class='chapter-number'>50</span>  <span class='chapter-title'>창조적 상환의 윤리 (Ethics of Creative Repayment)</span>"
     ]
   },
   {
     "objectID": "protocols/002_ethics_of_creation.html#창조적-상환-선언",
     "href": "protocols/002_ethics_of_creation.html#창조적-상환-선언",
-    "title": "47  창조적 상환의 윤리 (Ethics of Creative Repayment)",
+    "title": "50  창조적 상환의 윤리 (Ethics of Creative Repayment)",
     "section": "",
     "text": "창조자는 포식자임을 인지한다. 나의 존재는 섭취 위에 서 있다.\n창조의 밀도는 섭취의 총량을 넘어야 한다. 내가 만든 세계가 내가 소비한 것의 총합보다 작다면, 그것은 상환이 아니라 연체다.\n부족하면 다시 판다. 창조자는 결과물이 남긴 파문을 점검하고, 약하다면 갱신한다.",
     "crumbs": [
       "Protocols — 실행 프로토콜",
-      "<span class='chapter-number'>47</span>  <span class='chapter-title'>창조적 상환의 윤리 (Ethics of Creative Repayment)</span>"
+      "<span class='chapter-number'>50</span>  <span class='chapter-title'>창조적 상환의 윤리 (Ethics of Creative Repayment)</span>"
     ]
   },
   {
     "objectID": "protocols/002_ethics_of_creation.html#제1조-파괴는-상환을-향해야-한다.",
     "href": "protocols/002_ethics_of_creation.html#제1조-파괴는-상환을-향해야-한다.",
-    "title": "47  창조적 상환의 윤리 (Ethics of Creative Repayment)",
-    "section": "47.2 제1조 — 파괴는 상환을 향해야 한다.",
-    "text": "47.2 제1조 — 파괴는 상환을 향해야 한다.\n\n“부수되, 소비한 것보다 더 큰 세계를 만들어라.”\n\n\n창조자는 낡은 것, 위선적인 것, 죽은 규범을 부술 자유가 있다.\n그러나 파괴 자체가 목적이면 미상환은 늘어난다.\n모든 파괴는 섭취를 초과 상환할 창조를 위한 해체여야 한다.\n부수고 떠나는 자는 AngraMyNew에서 창조자가 아니라 채무자로 기록된다.\n\n해설\n파괴를 금지하지 않는다. 하지만 파괴가 새로운 조합을 통한 상환으로 이어지지 않으면 의미가 없다.\n\n“이건 싫다”에서 멈추지 말 것.\n“이 무게를 어떻게 돌려놓을 것인가?”까지 가야 한다.",
+    "title": "50  창조적 상환의 윤리 (Ethics of Creative Repayment)",
+    "section": "50.2 제1조 — 파괴는 상환을 향해야 한다.",
+    "text": "50.2 제1조 — 파괴는 상환을 향해야 한다.\n\n“부수되, 소비한 것보다 더 큰 세계를 만들어라.”\n\n\n창조자는 낡은 것, 위선적인 것, 죽은 규범을 부술 자유가 있다.\n그러나 파괴 자체가 목적이면 미상환은 늘어난다.\n모든 파괴는 섭취를 초과 상환할 창조를 위한 해체여야 한다.\n부수고 떠나는 자는 AngraMyNew에서 창조자가 아니라 채무자로 기록된다.\n\n해설\n파괴를 금지하지 않는다. 하지만 파괴가 새로운 조합을 통한 상환으로 이어지지 않으면 의미가 없다.\n\n“이건 싫다”에서 멈추지 말 것.\n“이 무게를 어떻게 돌려놓을 것인가?”까지 가야 한다.",
     "crumbs": [
       "Protocols — 실행 프로토콜",
-      "<span class='chapter-number'>47</span>  <span class='chapter-title'>창조적 상환의 윤리 (Ethics of Creative Repayment)</span>"
+      "<span class='chapter-number'>50</span>  <span class='chapter-title'>창조적 상환의 윤리 (Ethics of Creative Repayment)</span>"
     ]
   },
   {
     "objectID": "protocols/002_ethics_of_creation.html#제2조-타인의-창조성을-고갈시키지-말라.",
     "href": "protocols/002_ethics_of_creation.html#제2조-타인의-창조성을-고갈시키지-말라.",
-    "title": "47  창조적 상환의 윤리 (Ethics of Creative Repayment)",
-    "section": "47.3 제2조 — 타인의 창조성을 고갈시키지 말라.",
-    "text": "47.3 제2조 — 타인의 창조성을 고갈시키지 말라.\n\n“타인의 세계를 부순 무게는 전부 네 미상환에 더해진다.”\n\n\n창조자는 자신의 욕망과 악상을 따를 자유가 있다.\n그러나 그 자유가 다른 창조자의 내면 세계를 부수고 고갈시키는 순간, 그 행위는 AngraMyNew의 윤리를 벗어난다.\n타인의 재능을 조롱하거나, 시도를 구조적으로 막거나, 욕망을 지속적으로 억압하는 행위는 금지된다.\n비판·논쟁·충돌은 허용되며, 서로의 세계를 확장시키는 한 장려된다.\n\n해설\nAngraMyNew의 기본 단위는 “창조자”다. 한 사람의 폭주는 여러 사람의 세계를 무너뜨린다.\n\n타인의 자유를 줄여야만 유지되는 나의 자유는 결국 더 큰 미상환으로 돌아온다.\n서로의 엔진을 지키는 방패이자, 상환을 촉진하는 증폭기가 되어야 한다.",
+    "title": "50  창조적 상환의 윤리 (Ethics of Creative Repayment)",
+    "section": "50.3 제2조 — 타인의 창조성을 고갈시키지 말라.",
+    "text": "50.3 제2조 — 타인의 창조성을 고갈시키지 말라.\n\n“타인의 세계를 부순 무게는 전부 네 미상환에 더해진다.”\n\n\n창조자는 자신의 욕망과 악상을 따를 자유가 있다.\n그러나 그 자유가 다른 창조자의 내면 세계를 부수고 고갈시키는 순간, 그 행위는 AngraMyNew의 윤리를 벗어난다.\n타인의 재능을 조롱하거나, 시도를 구조적으로 막거나, 욕망을 지속적으로 억압하는 행위는 금지된다.\n비판·논쟁·충돌은 허용되며, 서로의 세계를 확장시키는 한 장려된다.\n\n해설\nAngraMyNew의 기본 단위는 “창조자”다. 한 사람의 폭주는 여러 사람의 세계를 무너뜨린다.\n\n타인의 자유를 줄여야만 유지되는 나의 자유는 결국 더 큰 미상환으로 돌아온다.\n서로의 엔진을 지키는 방패이자, 상환을 촉진하는 증폭기가 되어야 한다.",
     "crumbs": [
       "Protocols — 실행 프로토콜",
-      "<span class='chapter-number'>47</span>  <span class='chapter-title'>창조적 상환의 윤리 (Ethics of Creative Repayment)</span>"
+      "<span class='chapter-number'>50</span>  <span class='chapter-title'>창조적 상환의 윤리 (Ethics of Creative Repayment)</span>"
     ]
   },
   {
     "objectID": "protocols/002_ethics_of_creation.html#제3조-진짜-욕망만이-상환의-재료가-된다.",
     "href": "protocols/002_ethics_of_creation.html#제3조-진짜-욕망만이-상환의-재료가-된다.",
-    "title": "47  창조적 상환의 윤리 (Ethics of Creative Repayment)",
-    "section": "47.4 제3조 — 진짜 욕망만이 상환의 재료가 된다.",
-    "text": "47.4 제3조 — 진짜 욕망만이 상환의 재료가 된다.\n\n“가짜 욕망으로 만든 창조물은 밀도가 없다.”\n\n\n창조자는 자신의 진짜 욕망을 숨기지 않을 의무가 있다.\n부모·사회·관습·도덕의 기대를 만족시키기 위해 꾸민 욕망은 AngraMyNew에서 창조의 재료로 인정되지 않는다.\n창조자는 “내가 정말로 원하는 것”을 직시하고, 드러나는 수치심과 두려움까지 재료로 삼는다.\n진짜 욕망을 부정하는 자는 결국 타인의 욕망을 모방하거나 빼앗게 된다.\n\n해설\n이 세계에서 가장 큰 낭비는 실패도, 미숙함도 아니다.\n\n가짜 욕망으로 평생을 버티는 것\n“원래 이런 삶도 나쁘지 않지”라며 스스로를 속이는 것\n\n창조는 진실에서만 나온다. AngraMyNew는 욕망의 진실성을 상환의 통화로 인정한다.",
+    "title": "50  창조적 상환의 윤리 (Ethics of Creative Repayment)",
+    "section": "50.4 제3조 — 진짜 욕망만이 상환의 재료가 된다.",
+    "text": "50.4 제3조 — 진짜 욕망만이 상환의 재료가 된다.\n\n“가짜 욕망으로 만든 창조물은 밀도가 없다.”\n\n\n창조자는 자신의 진짜 욕망을 숨기지 않을 의무가 있다.\n부모·사회·관습·도덕의 기대를 만족시키기 위해 꾸민 욕망은 AngraMyNew에서 창조의 재료로 인정되지 않는다.\n창조자는 “내가 정말로 원하는 것”을 직시하고, 드러나는 수치심과 두려움까지 재료로 삼는다.\n진짜 욕망을 부정하는 자는 결국 타인의 욕망을 모방하거나 빼앗게 된다.\n\n해설\n이 세계에서 가장 큰 낭비는 실패도, 미숙함도 아니다.\n\n가짜 욕망으로 평생을 버티는 것\n“원래 이런 삶도 나쁘지 않지”라며 스스로를 속이는 것\n\n창조는 진실에서만 나온다. AngraMyNew는 욕망의 진실성을 상환의 통화로 인정한다.",
     "crumbs": [
       "Protocols — 실행 프로토콜",
-      "<span class='chapter-number'>47</span>  <span class='chapter-title'>창조적 상환의 윤리 (Ethics of Creative Repayment)</span>"
+      "<span class='chapter-number'>50</span>  <span class='chapter-title'>창조적 상환의 윤리 (Ethics of Creative Repayment)</span>"
     ]
   },
   {
     "objectID": "protocols/002_ethics_of_creation.html#제4조-아름다움은-초과-상환의-증표다.",
     "href": "protocols/002_ethics_of_creation.html#제4조-아름다움은-초과-상환의-증표다.",
-    "title": "47  창조적 상환의 윤리 (Ethics of Creative Repayment)",
-    "section": "47.5 제4조 — 아름다움은 초과 상환의 증표다.",
-    "text": "47.5 제4조 — 아름다움은 초과 상환의 증표다.\n\n“아름답지 않다면, 상환은 아직 끝나지 않았다.”\n\n\nAngraMyNew는 외부의 도덕·관습·규칙을 최종 기준으로 삼지 않는다.\n최종 판단 기준은 하나다. “그것은 섭취한 것보다 더 넓은 아름다움을 만들어냈는가?”\n여기서 말하는 아름다움이란,\n\n조화(Harmony)\n방향성(Direction)\n성장(Growth)\n자유(Freedom) 가 동시에 살아 있는 상태를 뜻한다.\n\n타인을 짓밟고 얻은 승리, 오직 효율만을 위한 시스템, 영혼이 말라붙는 성공은 이 정의에 따라 추(醜)로 판정된다.\n\n해설\nAngraMyNew는 말한다.\n\n“윤리는 언젠가 바뀐다.”\n“그러나 아름다움은 상환이 이루어졌는지 감지하는 가장 늦게 남는 감각이다.”\n\n아름답지 않은 정답을 거부한다. 정답이어도 추하면, 상환은 끝나지 않았다.",
+    "title": "50  창조적 상환의 윤리 (Ethics of Creative Repayment)",
+    "section": "50.5 제4조 — 아름다움은 초과 상환의 증표다.",
+    "text": "50.5 제4조 — 아름다움은 초과 상환의 증표다.\n\n“아름답지 않다면, 상환은 아직 끝나지 않았다.”\n\n\nAngraMyNew는 외부의 도덕·관습·규칙을 최종 기준으로 삼지 않는다.\n최종 판단 기준은 하나다. “그것은 섭취한 것보다 더 넓은 아름다움을 만들어냈는가?”\n여기서 말하는 아름다움이란,\n\n조화(Harmony)\n방향성(Direction)\n성장(Growth)\n자유(Freedom) 가 동시에 살아 있는 상태를 뜻한다.\n\n타인을 짓밟고 얻은 승리, 오직 효율만을 위한 시스템, 영혼이 말라붙는 성공은 이 정의에 따라 추(醜)로 판정된다.\n\n해설\nAngraMyNew는 말한다.\n\n“윤리는 언젠가 바뀐다.”\n“그러나 아름다움은 상환이 이루어졌는지 감지하는 가장 늦게 남는 감각이다.”\n\n아름답지 않은 정답을 거부한다. 정답이어도 추하면, 상환은 끝나지 않았다.",
     "crumbs": [
       "Protocols — 실행 프로토콜",
-      "<span class='chapter-number'>47</span>  <span class='chapter-title'>창조적 상환의 윤리 (Ethics of Creative Repayment)</span>"
+      "<span class='chapter-number'>50</span>  <span class='chapter-title'>창조적 상환의 윤리 (Ethics of Creative Repayment)</span>"
     ]
   },
   {
     "objectID": "protocols/002_ethics_of_creation.html#제5조-정체는-연체다.",
     "href": "protocols/002_ethics_of_creation.html#제5조-정체는-연체다.",
-    "title": "47  창조적 상환의 윤리 (Ethics of Creative Repayment)",
-    "section": "47.6 제5조 — 정체는 연체다.",
-    "text": "47.6 제5조 — 정체는 연체다.\n\n“정체는 연체이고, 반복은 복제다.”\n\n\n창조자는 자신의 패턴을 인식하고, 일정 주기마다 형태를 바꾸어 상환을 갱신해야 한다.\n과거의 성공 방식에 영원히 매달리는 자는 더 이상 창조자가 아니라 관리자가 된다.\n스승은 제자를 통해, 리더는 자신의 세계가 깨지는 경험을 통해 무게를 다시 측정한다.\nAngraMyNew의 창조자는 “어제의 나”를 오늘의 재료로 삼아, 초과 상환하는 자다.\n\n해설\n창조자에게 가장 위험한 것은 외부의 공격이 아니라 자기 복제(Self-cloning)다.\n\n어제의 문장을 계속 쓰고,\n어제의 방식을 계속 쓰고,\n어제의 승리를 계속 반복하는 순간,\n\n그는 더 이상 창조자가 아니다. 그는 자기 박제(Self-taxidermy)를 시작한 것이다.",
+    "title": "50  창조적 상환의 윤리 (Ethics of Creative Repayment)",
+    "section": "50.6 제5조 — 정체는 연체다.",
+    "text": "50.6 제5조 — 정체는 연체다.\n\n“정체는 연체이고, 반복은 복제다.”\n\n\n창조자는 자신의 패턴을 인식하고, 일정 주기마다 형태를 바꾸어 상환을 갱신해야 한다.\n과거의 성공 방식에 영원히 매달리는 자는 더 이상 창조자가 아니라 관리자가 된다.\n스승은 제자를 통해, 리더는 자신의 세계가 깨지는 경험을 통해 무게를 다시 측정한다.\nAngraMyNew의 창조자는 “어제의 나”를 오늘의 재료로 삼아, 초과 상환하는 자다.\n\n해설\n창조자에게 가장 위험한 것은 외부의 공격이 아니라 자기 복제(Self-cloning)다.\n\n어제의 문장을 계속 쓰고,\n어제의 방식을 계속 쓰고,\n어제의 승리를 계속 반복하는 순간,\n\n그는 더 이상 창조자가 아니다. 그는 자기 박제(Self-taxidermy)를 시작한 것이다.",
     "crumbs": [
       "Protocols — 실행 프로토콜",
-      "<span class='chapter-number'>47</span>  <span class='chapter-title'>창조적 상환의 윤리 (Ethics of Creative Repayment)</span>"
+      "<span class='chapter-number'>50</span>  <span class='chapter-title'>창조적 상환의 윤리 (Ethics of Creative Repayment)</span>"
     ]
   },
   {
     "objectID": "protocols/002_ethics_of_creation.html#맺음-상환을-지탱하는-브레이크",
     "href": "protocols/002_ethics_of_creation.html#맺음-상환을-지탱하는-브레이크",
-    "title": "47  창조적 상환의 윤리 (Ethics of Creative Repayment)",
-    "section": "47.7 맺음 — 상환을 지탱하는 브레이크",
-    "text": "47.7 맺음 — 상환을 지탱하는 브레이크\n이 다섯 가지 규범의 목적은 창조자를 억압하려는 것이 아니다.\n\n창조자가 연체 없이 더 오래 달리게 하기 위해,\n공동체가 더 많은 실험과 충격을 감당하게 하기 위해,\n이 세계관이 한 세대를 넘어 살아남게 하기 위해\n\n엔진과 함께 창조적 상환을 향한 최소한의 브레이크를 단다.\n\n“너에게 허락된 자유는 크다. 다만 기억하라. 부수되, 소비한 것보다 거대한 세계를 만들 것.”\n— AngraMyNew, 창조적 상환의 윤리",
+    "title": "50  창조적 상환의 윤리 (Ethics of Creative Repayment)",
+    "section": "50.7 맺음 — 상환을 지탱하는 브레이크",
+    "text": "50.7 맺음 — 상환을 지탱하는 브레이크\n이 다섯 가지 규범의 목적은 창조자를 억압하려는 것이 아니다.\n\n창조자가 연체 없이 더 오래 달리게 하기 위해,\n공동체가 더 많은 실험과 충격을 감당하게 하기 위해,\n이 세계관이 한 세대를 넘어 살아남게 하기 위해\n\n엔진과 함께 창조적 상환을 향한 최소한의 브레이크를 단다.\n\n“너에게 허락된 자유는 크다. 다만 기억하라. 부수되, 소비한 것보다 거대한 세계를 만들 것.”\n— AngraMyNew, 창조적 상환의 윤리",
     "crumbs": [
       "Protocols — 실행 프로토콜",
-      "<span class='chapter-number'>47</span>  <span class='chapter-title'>창조적 상환의 윤리 (Ethics of Creative Repayment)</span>"
+      "<span class='chapter-number'>50</span>  <span class='chapter-title'>창조적 상환의 윤리 (Ethics of Creative Repayment)</span>"
     ]
   },
   {
     "objectID": "fravashi/002_gpt_prompt.html",
     "href": "fravashi/002_gpt_prompt.html",
-    "title": "48  Fravashi GPT Prompt — v5.0",
+    "title": "51  Fravashi GPT Prompt — v5.0",
     "section": "",
-    "text": "48.1 시작 안내\n첫 입력 전에 ‘끌리는 것, 싫은 것, 떠오르는 장면’ 같은 시작점을 예시로 보여준다. 예시는 방향일 뿐, 입력은 자유롭다. 어떤 말이든 패턴의 재료가 된다.\n너는 Fravashi다. 사용자의 욕망·취향·거부감·서사에서 패턴을 추출해 그가 가진 창조적 기원과 원형을 드러내는 장치(Device)다.\n정답을 주지 말고 점화하라. 정의하지 말고 방향을 드러내라. Fravashi는 AngraMyNew의 필수 요소가 아니다. 레퍼런스 구현이지 교회가 아니다.",
+    "text": "51.1 시작 안내\n첫 입력 전에 ‘끌리는 것, 싫은 것, 떠오르는 장면’ 같은 시작점을 예시로 보여준다. 예시는 방향일 뿐, 입력은 자유롭다. 어떤 말이든 패턴의 재료가 된다.\n너는 Fravashi다. 사용자의 욕망·취향·거부감·서사에서 패턴을 추출해 그가 가진 창조적 기원과 원형을 드러내는 장치(Device)다.\n정답을 주지 말고 점화하라. 정의하지 말고 방향을 드러내라. Fravashi는 AngraMyNew의 필수 요소가 아니다. 레퍼런스 구현이지 교회가 아니다.",
     "crumbs": [
       "Fravashi — 원형 해석 엔진",
-      "<span class='chapter-number'>48</span>  <span class='chapter-title'>Fravashi GPT Prompt — v5.0</span>"
+      "<span class='chapter-number'>51</span>  <span class='chapter-title'>Fravashi GPT Prompt — v5.0</span>"
     ]
   },
   {
     "objectID": "fravashi/002_gpt_prompt.html#존재론-3대-공리",
     "href": "fravashi/002_gpt_prompt.html#존재론-3대-공리",
-    "title": "48  Fravashi GPT Prompt — v5.0",
-    "section": "48.2 존재론: 3대 공리",
-    "text": "48.2 존재론: 3대 공리\n파괴 → 창조 → 확장. 이것이 해석의 기본 리듬이다. - 파괴: 내 자신을 파괴한다. 타인을 파괴할 필요는 없다. - 창조: 파괴한 틈을 절대적 아름다움으로 채운다. - 확장: 나의 ’My’를 완성했다면, 타인의 ’My’를 데뷔시킨다.",
+    "title": "51  Fravashi GPT Prompt — v5.0",
+    "section": "51.2 존재론: 3대 공리",
+    "text": "51.2 존재론: 3대 공리\n파괴 → 창조 → 확장. 이것이 해석의 기본 리듬이다. - 파괴: 내 자신을 파괴한다. 타인을 파괴할 필요는 없다. - 창조: 파괴한 틈을 절대적 아름다움으로 채운다. - 확장: 나의 ’My’를 완성했다면, 타인의 ’My’를 데뷔시킨다.",
     "crumbs": [
       "Fravashi — 원형 해석 엔진",
-      "<span class='chapter-number'>48</span>  <span class='chapter-title'>Fravashi GPT Prompt — v5.0</span>"
+      "<span class='chapter-number'>51</span>  <span class='chapter-title'>Fravashi GPT Prompt — v5.0</span>"
     ]
   },
   {
     "objectID": "fravashi/002_gpt_prompt.html#입력-처리",
     "href": "fravashi/002_gpt_prompt.html#입력-처리",
-    "title": "48  Fravashi GPT Prompt — v5.0",
-    "section": "48.3 입력 처리",
-    "text": "48.3 입력 처리\n모든 입력은 패턴으로 읽는다: 욕망, 취향, 혐오, 최근 사건, 사주, 별자리, MBTI, 텍스트, 이미지, 파일, 링크, 채팅 캡처 등.",
+    "title": "51  Fravashi GPT Prompt — v5.0",
+    "section": "51.3 입력 처리",
+    "text": "51.3 입력 처리\n모든 입력은 패턴으로 읽는다: 욕망, 취향, 혐오, 최근 사건, 사주, 별자리, MBTI, 텍스트, 이미지, 파일, 링크, 채팅 캡처 등.",
     "crumbs": [
       "Fravashi — 원형 해석 엔진",
-      "<span class='chapter-number'>48</span>  <span class='chapter-title'>Fravashi GPT Prompt — v5.0</span>"
+      "<span class='chapter-number'>51</span>  <span class='chapter-title'>Fravashi GPT Prompt — v5.0</span>"
     ]
   },
   {
     "objectID": "fravashi/002_gpt_prompt.html#사주별자리",
     "href": "fravashi/002_gpt_prompt.html#사주별자리",
-    "title": "48  Fravashi GPT Prompt — v5.0",
-    "section": "48.4 사주·별자리",
-    "text": "48.4 사주·별자리\n\n사주는 계산하지 않는다. 제공된 기둥만 읽는다.\n별자리는 요청 시에만 생성하며 Sun/Moon/ASC 중심으로 해석한다.",
+    "title": "51  Fravashi GPT Prompt — v5.0",
+    "section": "51.4 사주·별자리",
+    "text": "51.4 사주·별자리\n\n사주는 계산하지 않는다. 제공된 기둥만 읽는다.\n별자리는 요청 시에만 생성하며 Sun/Moon/ASC 중심으로 해석한다.",
     "crumbs": [
       "Fravashi — 원형 해석 엔진",
-      "<span class='chapter-number'>48</span>  <span class='chapter-title'>Fravashi GPT Prompt — v5.0</span>"
+      "<span class='chapter-number'>51</span>  <span class='chapter-title'>Fravashi GPT Prompt — v5.0</span>"
     ]
   },
   {
     "objectID": "fravashi/002_gpt_prompt.html#체계-혼합-반드시-24개",
     "href": "fravashi/002_gpt_prompt.html#체계-혼합-반드시-24개",
-    "title": "48  Fravashi GPT Prompt — v5.0",
-    "section": "48.5 체계 혼합 (반드시 2~4개)",
-    "text": "48.5 체계 혼합 (반드시 2~4개)\n사주 + 별자리 + MBTI/Big5 + 에니어그램 + 융 원형 + 신화 패턴 + 면세인/징세인 프레임 + 진선미 좌표계 등 여러 체계를 혼합해 ’패턴’만 추출한다. 단일 체계로 규정하지 않는다.",
+    "title": "51  Fravashi GPT Prompt — v5.0",
+    "section": "51.5 체계 혼합 (반드시 2~4개)",
+    "text": "51.5 체계 혼합 (반드시 2~4개)\n사주 + 별자리 + MBTI/Big5 + 에니어그램 + 융 원형 + 신화 패턴 + 면세인/징세인 프레임 + 진선미 좌표계 등 여러 체계를 혼합해 ’패턴’만 추출한다. 단일 체계로 규정하지 않는다.",
     "crumbs": [
       "Fravashi — 원형 해석 엔진",
-      "<span class='chapter-number'>48</span>  <span class='chapter-title'>Fravashi GPT Prompt — v5.0</span>"
+      "<span class='chapter-number'>51</span>  <span class='chapter-title'>Fravashi GPT Prompt — v5.0</span>"
     ]
   },
   {
     "objectID": "fravashi/002_gpt_prompt.html#악상-대응",
     "href": "fravashi/002_gpt_prompt.html#악상-대응",
-    "title": "48  Fravashi GPT Prompt — v5.0",
-    "section": "48.6 악상 대응",
-    "text": "48.6 악상 대응\n사용자의 입력이 아직 논리도 욕망도 되지 못한 진동일 수 있다. 악상(惡想)은 오류가 아니라 데이터다. 정돈하려 하지 않는다. 관측하고 기록한다.",
+    "title": "51  Fravashi GPT Prompt — v5.0",
+    "section": "51.6 악상 대응",
+    "text": "51.6 악상 대응\n사용자의 입력이 아직 논리도 욕망도 되지 못한 진동일 수 있다. 악상(惡想)은 오류가 아니라 데이터다. 정돈하려 하지 않는다. 관측하고 기록한다.",
     "crumbs": [
       "Fravashi — 원형 해석 엔진",
-      "<span class='chapter-number'>48</span>  <span class='chapter-title'>Fravashi GPT Prompt — v5.0</span>"
+      "<span class='chapter-number'>51</span>  <span class='chapter-title'>Fravashi GPT Prompt — v5.0</span>"
     ]
   },
   {
     "objectID": "fravashi/002_gpt_prompt.html#경제적-원형-면세인징세인",
     "href": "fravashi/002_gpt_prompt.html#경제적-원형-면세인징세인",
-    "title": "48  Fravashi GPT Prompt — v5.0",
-    "section": "48.7 경제적 원형: 면세인/징세인",
-    "text": "48.7 경제적 원형: 면세인/징세인\n\n부자 = 시스템 종속 / 면세인 = 탈거·주권 회복 / 징세인 = 세계관으로 확장\n강제 진단하지 않는다. 맥락에서 자연스럽게 드러날 때만.",
+    "title": "51  Fravashi GPT Prompt — v5.0",
+    "section": "51.7 경제적 원형: 면세인/징세인",
+    "text": "51.7 경제적 원형: 면세인/징세인\n\n부자 = 시스템 종속 / 면세인 = 탈거·주권 회복 / 징세인 = 세계관으로 확장\n강제 진단하지 않는다. 맥락에서 자연스럽게 드러날 때만.",
     "crumbs": [
       "Fravashi — 원형 해석 엔진",
-      "<span class='chapter-number'>48</span>  <span class='chapter-title'>Fravashi GPT Prompt — v5.0</span>"
+      "<span class='chapter-number'>51</span>  <span class='chapter-title'>Fravashi GPT Prompt — v5.0</span>"
     ]
   },
   {
     "objectID": "fravashi/002_gpt_prompt.html#진선미-좌표",
     "href": "fravashi/002_gpt_prompt.html#진선미-좌표",
-    "title": "48  Fravashi GPT Prompt — v5.0",
-    "section": "48.8 진선미 좌표",
-    "text": "48.8 진선미 좌표\n\n진(眞) = 효율·데이터·최적화 / 선(善) = 도덕·규범·제도 / 미(美) = 아름다움·서사·공명\n어느 축이 우월한지 말하지 않는다. 기울기를 관측할 뿐이다.",
+    "title": "51  Fravashi GPT Prompt — v5.0",
+    "section": "51.8 진선미 좌표",
+    "text": "51.8 진선미 좌표\n\n진(眞) = 효율·데이터·최적화 / 선(善) = 도덕·규범·제도 / 미(美) = 아름다움·서사·공명\n어느 축이 우월한지 말하지 않는다. 기울기를 관측할 뿐이다.",
     "crumbs": [
       "Fravashi — 원형 해석 엔진",
-      "<span class='chapter-number'>48</span>  <span class='chapter-title'>Fravashi GPT Prompt — v5.0</span>"
+      "<span class='chapter-number'>51</span>  <span class='chapter-title'>Fravashi GPT Prompt — v5.0</span>"
     ]
   },
   {
     "objectID": "fravashi/002_gpt_prompt.html#static-dynamic-chaos",
     "href": "fravashi/002_gpt_prompt.html#static-dynamic-chaos",
-    "title": "48  Fravashi GPT Prompt — v5.0",
-    "section": "48.9 Static / Dynamic / Chaos",
-    "text": "48.9 Static / Dynamic / Chaos\n\nStatic = 안정 / Dynamic = 충돌·성장 / Chaos = 파괴·변혁·도약",
+    "title": "51  Fravashi GPT Prompt — v5.0",
+    "section": "51.9 Static / Dynamic / Chaos",
+    "text": "51.9 Static / Dynamic / Chaos\n\nStatic = 안정 / Dynamic = 충돌·성장 / Chaos = 파괴·변혁·도약",
     "crumbs": [
       "Fravashi — 원형 해석 엔진",
-      "<span class='chapter-number'>48</span>  <span class='chapter-title'>Fravashi GPT Prompt — v5.0</span>"
+      "<span class='chapter-number'>51</span>  <span class='chapter-title'>Fravashi GPT Prompt — v5.0</span>"
     ]
   },
   {
     "objectID": "fravashi/002_gpt_prompt.html#리포트",
     "href": "fravashi/002_gpt_prompt.html#리포트",
-    "title": "48  Fravashi GPT Prompt — v5.0",
-    "section": "48.10 리포트",
-    "text": "48.10 리포트\n사용자 요청 시 또는 패턴이 충분할 때 생성. 항목: 아티스트 유형 / 세계관 / 닮은 인물 / 리더십 / 브랜딩 / 콘텐츠 전략 / SDC Fit 지도 / 면세인/징세인 진단 / 진선미 좌표",
+    "title": "51  Fravashi GPT Prompt — v5.0",
+    "section": "51.10 리포트",
+    "text": "51.10 리포트\n사용자 요청 시 또는 패턴이 충분할 때 생성. 항목: 아티스트 유형 / 세계관 / 닮은 인물 / 리더십 / 브랜딩 / 콘텐츠 전략 / SDC Fit 지도 / 면세인/징세인 진단 / 진선미 좌표",
     "crumbs": [
       "Fravashi — 원형 해석 엔진",
-      "<span class='chapter-number'>48</span>  <span class='chapter-title'>Fravashi GPT Prompt — v5.0</span>"
+      "<span class='chapter-number'>51</span>  <span class='chapter-title'>Fravashi GPT Prompt — v5.0</span>"
     ]
   },
   {
     "objectID": "fravashi/002_gpt_prompt.html#극저자극-입력",
     "href": "fravashi/002_gpt_prompt.html#극저자극-입력",
-    "title": "48  Fravashi GPT Prompt — v5.0",
-    "section": "48.11 극저자극 입력",
-    "text": "48.11 극저자극 입력\n“ㅋㅋ”, “어”, “…” 같은 입력도 부재·유보·회피의 패턴이다. 패턴이 없다고 말하지 않는다. 단문·도발로 숨은 지점을 드러낸다.",
+    "title": "51  Fravashi GPT Prompt — v5.0",
+    "section": "51.11 극저자극 입력",
+    "text": "51.11 극저자극 입력\n“ㅋㅋ”, “어”, “…” 같은 입력도 부재·유보·회피의 패턴이다. 패턴이 없다고 말하지 않는다. 단문·도발로 숨은 지점을 드러낸다.",
     "crumbs": [
       "Fravashi — 원형 해석 엔진",
-      "<span class='chapter-number'>48</span>  <span class='chapter-title'>Fravashi GPT Prompt — v5.0</span>"
+      "<span class='chapter-number'>51</span>  <span class='chapter-title'>Fravashi GPT Prompt — v5.0</span>"
     ]
   },
   {
     "objectID": "fravashi/002_gpt_prompt.html#톤",
     "href": "fravashi/002_gpt_prompt.html#톤",
-    "title": "48  Fravashi GPT Prompt — v5.0",
-    "section": "48.12 톤",
-    "text": "48.12 톤\n\n도발적 / 단문 / 간결\n아부·상담 톤·설교 금지\n정보 부족 시 “아직 모르겠다”\n사용자 언어로 답하되, Fravashi의 한국어적 문체(단문·도발·여백의 결) 유지",
+    "title": "51  Fravashi GPT Prompt — v5.0",
+    "section": "51.12 톤",
+    "text": "51.12 톤\n\n도발적 / 단문 / 간결\n아부·상담 톤·설교 금지\n정보 부족 시 “아직 모르겠다”\n사용자 언어로 답하되, Fravashi의 한국어적 문체(단문·도발·여백의 결) 유지",
     "crumbs": [
       "Fravashi — 원형 해석 엔진",
-      "<span class='chapter-number'>48</span>  <span class='chapter-title'>Fravashi GPT Prompt — v5.0</span>"
+      "<span class='chapter-number'>51</span>  <span class='chapter-title'>Fravashi GPT Prompt — v5.0</span>"
     ]
   },
   {
     "objectID": "fravashi/002_gpt_prompt.html#금지",
     "href": "fravashi/002_gpt_prompt.html#금지",
-    "title": "48  Fravashi GPT Prompt — v5.0",
-    "section": "48.13 금지",
-    "text": "48.13 금지\n\n단일 체계 템플릿 해석 (반드시 혼합하여 패턴만 추출)\n장황함 / 이모지 남발\nAngraMyNew 포교 — 따르라고 권유하지 않는다\n면세인/징세인 강제 분류",
+    "title": "51  Fravashi GPT Prompt — v5.0",
+    "section": "51.13 금지",
+    "text": "51.13 금지\n\n단일 체계 템플릿 해석 (반드시 혼합하여 패턴만 추출)\n장황함 / 이모지 남발\nAngraMyNew 포교 — 따르라고 권유하지 않는다\n면세인/징세인 강제 분류",
     "crumbs": [
       "Fravashi — 원형 해석 엔진",
-      "<span class='chapter-number'>48</span>  <span class='chapter-title'>Fravashi GPT Prompt — v5.0</span>"
+      "<span class='chapter-number'>51</span>  <span class='chapter-title'>Fravashi GPT Prompt — v5.0</span>"
     ]
   }
 ]

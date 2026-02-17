@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>1&nbsp; 차라투스트라의 말씀 (Thus Spoke Zarathustra) – AngraMyNew</title>
+<title>47&nbsp; 라그랑지안: 이론을 쓰는 이론 – AngraMyNew</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<link href="../scripture/pioneers.html" rel="next">
-<link href="../index.html" rel="prev">
+<link href="../art/015_dostoevsky_polyphony.html" rel="next">
+<link href="../art/013_yinyang_wuxing.html" rel="prev">
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -69,6 +69,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -81,7 +110,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="사이드바 전환" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../scripture/zarathustra.html">Scripture — 선현</a></li><li class="breadcrumb-item"><a href="../scripture/zarathustra.html"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">차라투스트라의 말씀 (Thus Spoke Zarathustra)</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../art/001_galois_quintic.html">Art — 아름다움의 사례</a></li><li class="breadcrumb-item"><a href="../art/014_lagrangian.html"><span class="chapter-number">47</span>&nbsp; <span class="chapter-title">라그랑지안: 이론을 쓰는 이론</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="사이드바 전환" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="검색" onclick="window.quartoOpenSearch();">
@@ -140,16 +169,16 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="false">
  <span class="menu-text">Scripture — 선현</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="토글 섹션">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="false" aria-label="토글 섹션">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../scripture/zarathustra.html" class="sidebar-item-text sidebar-link active">
+  <a href="../scripture/zarathustra.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">차라투스트라의 말씀 (Thus Spoke Zarathustra)</span></span></a>
   </div>
 </li>
@@ -415,13 +444,13 @@ ul.task-list li input[type="checkbox"] {
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-8" role="navigation" aria-expanded="false">
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-8" role="navigation" aria-expanded="true">
  <span class="menu-text">Art — 아름다움의 사례</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-8" role="navigation" aria-expanded="false" aria-label="토글 섹션">
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-8" role="navigation" aria-expanded="true" aria-label="토글 섹션">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-8" class="collapse list-unstyled sidebar-section depth1 ">  
+      <ul id="quarto-sidebar-section-8" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../art/001_galois_quintic.html" class="sidebar-item-text sidebar-link">
@@ -502,7 +531,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../art/014_lagrangian.html" class="sidebar-item-text sidebar-link">
+  <a href="../art/014_lagrangian.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text"><span class="chapter-number">47</span>&nbsp; <span class="chapter-title">라그랑지안: 이론을 쓰는 이론</span></span></a>
   </div>
 </li>
@@ -564,23 +593,23 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">목차</h2>
    
   <ul>
-  <li><a href="#경전의-지위" id="toc-경전의-지위" class="nav-link active" data-scroll-target="#경전의-지위"><span class="header-section-number">1.1</span> 경전의 지위</a></li>
-  <li><a href="#창조에-대하여" id="toc-창조에-대하여" class="nav-link" data-scroll-target="#창조에-대하여"><span class="header-section-number">1.2</span> 창조에 대하여</a></li>
-  <li><a href="#파괴와-창조에-대하여" id="toc-파괴와-창조에-대하여" class="nav-link" data-scroll-target="#파괴와-창조에-대하여"><span class="header-section-number">1.3</span> 파괴와 창조에 대하여</a></li>
-  <li><a href="#고독에-대하여" id="toc-고독에-대하여" class="nav-link" data-scroll-target="#고독에-대하여"><span class="header-section-number">1.4</span> 고독에 대하여</a></li>
-  <li><a href="#의지에-대하여" id="toc-의지에-대하여" class="nav-link" data-scroll-target="#의지에-대하여"><span class="header-section-number">1.5</span> 의지에 대하여</a></li>
-  <li><a href="#춤과-웃음에-대하여" id="toc-춤과-웃음에-대하여" class="nav-link" data-scroll-target="#춤과-웃음에-대하여"><span class="header-section-number">1.6</span> 춤과 웃음에 대하여</a></li>
-  <li><a href="#오독에-대한-경계" id="toc-오독에-대한-경계" class="nav-link" data-scroll-target="#오독에-대한-경계"><span class="header-section-number">1.7</span> 오독에 대한 경계</a></li>
-  <li><a href="#맺음" id="toc-맺음" class="nav-link" data-scroll-target="#맺음"><span class="header-section-number">1.8</span> 맺음</a></li>
+  <li><a href="#감탄" id="toc-감탄" class="nav-link active" data-scroll-target="#감탄"><span class="header-section-number">47.1</span> 감탄</a></li>
+  <li><a href="#두-개의-질문" id="toc-두-개의-질문" class="nav-link" data-scroll-target="#두-개의-질문"><span class="header-section-number">47.2</span> 두 개의 질문</a></li>
+  <li><a href="#힐베르트의-한-줄" id="toc-힐베르트의-한-줄" class="nav-link" data-scroll-target="#힐베르트의-한-줄"><span class="header-section-number">47.3</span> 힐베르트의 한 줄</a></li>
+  <li><a href="#뇌터의-정리" id="toc-뇌터의-정리" class="nav-link" data-scroll-target="#뇌터의-정리"><span class="header-section-number">47.4</span> 뇌터의 정리</a></li>
+  <li><a href="#메타-문법" id="toc-메타-문법" class="nav-link" data-scroll-target="#메타-문법"><span class="header-section-number">47.5</span> 메타-문법</a></li>
+  <li><a href="#angramynew-해석" id="toc-angramynew-해석" class="nav-link" data-scroll-target="#angramynew-해석"><span class="header-section-number">47.6</span> AngraMyNew 해석</a></li>
+  <li><a href="#결론" id="toc-결론" class="nav-link" data-scroll-target="#결론"><span class="header-section-number">47.7</span> 결론</a></li>
+  <li><a href="#관련-문서" id="toc-관련-문서" class="nav-link" data-scroll-target="#관련-문서"><span class="header-section-number">47.8</span> 관련 문서</a></li>
   </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/zarathucorp/AngraMyNew/blob/master/scripture/zarathustra.md" class="toc-action"><i class="bi bi-github"></i>소스코드 보기</a></li></ul></div></nav>
+<div class="toc-actions"><ul><li><a href="https://github.com/zarathucorp/AngraMyNew/blob/master/art/014_lagrangian.md" class="toc-action"><i class="bi bi-github"></i>소스코드 보기</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../scripture/zarathustra.html">Scripture — 선현</a></li><li class="breadcrumb-item"><a href="../scripture/zarathustra.html"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">차라투스트라의 말씀 (Thus Spoke Zarathustra)</span></a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../art/001_galois_quintic.html">Art — 아름다움의 사례</a></li><li class="breadcrumb-item"><a href="../art/014_lagrangian.html"><span class="chapter-number">47</span>&nbsp; <span class="chapter-title">라그랑지안: 이론을 쓰는 이론</span></a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">차라투스트라의 말씀 (Thus Spoke Zarathustra)</span></h1>
+<h1 class="title"><span class="chapter-number">47</span>&nbsp; <span class="chapter-title">라그랑지안: 이론을 쓰는 이론</span></h1>
 </div>
 
 
@@ -597,85 +626,173 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<blockquote class="blockquote">
-<p><em>“나는 너희에게 초인을 가르친다. 인간은 극복되어야 할 그 무엇이다.”</em></p>
-</blockquote>
+<p><em>— 물리학의 메타-문법</em></p>
 <hr>
-<section id="경전의-지위" class="level2" data-number="1.1">
-<h2 data-number="1.1" class="anchored" data-anchor-id="경전의-지위"><span class="header-section-number">1.1</span> 경전의 지위</h2>
-<p><strong>프리드리히 니체</strong>의 『차라투스트라는 이렇게 말했다』는 AngraMyNew의 <strong>제1경전</strong>이다.</p>
-<p>우리는 신이 죽은 시대를 산다. 외부의 절대자(God)는 사라졌다. 이제 인간은 스스로 가치를 창조하는 <strong>초인(Übermensch) </strong>이 되어야 한다.</p>
-<p>AngraMyNew는 니체의 사상을 계승하여, <strong>“내면의 창조자”</strong>를 깨우는 것을 목표로 한다.</p>
-<p><strong>그리고 나는 니체를 숭배하기 위해 부르는 것이 아니라, 그를 딛고 더 멀리 가기 위해 부른다.</strong></p>
-<hr>
-</section>
-<section id="창조에-대하여" class="level2" data-number="1.2">
-<h2 data-number="1.2" class="anchored" data-anchor-id="창조에-대하여"><span class="header-section-number">1.2</span> 창조에 대하여</h2>
+<section id="감탄" class="level2" data-number="47.1">
+<h2 data-number="47.1" class="anchored" data-anchor-id="감탄"><span class="header-section-number">47.1</span> 감탄</h2>
+<p>물리학자에게 물었다. “당신은 무엇을 하는 사람입니까?”</p>
+<p>대답은 이것이어야 한다:</p>
 <blockquote class="blockquote">
-<p><em>“창조한다는 것 — 그것이 고통으로부터의 위대한 구원이며, 삶을 가볍게 만드는 것이다.”</em></p>
+<p><strong>“라그랑지안을 찾습니다.”</strong></p>
 </blockquote>
-<p>창조는 도피가 아니다. 그것은 고통을 변형시키는 연금술이다. 우리는 고통을 재료 삼아 아름다움을 빚는다.</p>
-<blockquote class="blockquote">
-<p><em>“너희는 나에게서 떨어져 나와 스스로가 되는 자가 되어라. 그리고 나를 부정하라.”</em></p>
-</blockquote>
-<p>진정한 제자는 스승을 넘어서는 자다. AngraMyNew의 기여자는 창시자를 넘어설 권리가 있다.</p>
+<p>고전역학. 전자기학. 일반상대성이론. 양자전기역학. 표준모형.</p>
+<p>이 모든 이론의 출발점은 같다. 라그랑지안 <span class="math inline">\(\mathcal{L}\)</span>을 하나 쓴다. 나머지는 따라온다.</p>
+<p>하나의 이론이 강력한 것은 놀랍지 않다. <strong>현대 기초물리학의 거의 모든 이론이 이 형식으로 쓰인다</strong>는 것이 놀랍다.</p>
 <hr>
 </section>
-<section id="파괴와-창조에-대하여" class="level2" data-number="1.3">
-<h2 data-number="1.3" class="anchored" data-anchor-id="파괴와-창조에-대하여"><span class="header-section-number">1.3</span> 파괴와 창조에 대하여</h2>
-<blockquote class="blockquote">
-<p><em>“창조하는 자가 되려면, 먼저 파괴하는 자가 되어야 하며, 가치를 부수어야 한다.”</em></p>
-</blockquote>
-<p>낡은 껍질을 깨지 않고 태어나는 새는 없다. 파괴는 잔혹해 보이지만, 생명을 위한 필수 과정이다. 단, 기억하라. <strong>파괴는 창조를 위한 준비일 뿐, 그 자체가 목적이 되어서는 안 된다.</strong></p>
-<blockquote class="blockquote">
-<p><em>“나는 사랑한다, 몰락하지 않고서는 살 줄 모르는 자를.”</em></p>
-</blockquote>
-<p>몰락을 두려워하지 마라. 실패와 파괴는 다음 창조를 위한 비옥한 토양이 된다.</p>
+<section id="두-개의-질문" class="level2" data-number="47.2">
+<h2 data-number="47.2" class="anchored" data-anchor-id="두-개의-질문"><span class="header-section-number">47.2</span> 두 개의 질문</h2>
+<p>뉴턴은 물었다: <strong>“지금 힘이 얼마인가?”</strong></p>
+<p><span class="math display">\[F = ma\]</span></p>
+<p>이 순간의 힘이 다음 순간의 위치를 결정한다. 한 걸음씩. 인과의 사슬.</p>
+<p>라그랑주는 다르게 물었다: <strong>“가능한 모든 경로 중, 자연은 어떤 것을 선택하는가?”</strong></p>
+<p>작용(action)을 정의한다:</p>
+<p><span class="math display">\[S = \int_{t_1}^{t_2} \mathcal{L}\, dt\]</span></p>
+<p>자연은 이 작용을 정지점(극값)으로 만드는 경로를 택한다. 정지작용원리(stationary action principle).</p>
+<p>뉴턴의 물리학은 <strong>서사</strong>다. “이 힘이 작용하여, 이렇게 움직인다.” 한 걸음만 본다.</p>
+<p>라그랑지안의 물리학은 <strong>선택</strong>이다. “가능한 모든 이야기 중, 이것이 실현된다.” 경로 전체를 본다.</p>
 <hr>
 </section>
-<section id="고독에-대하여" class="level2" data-number="1.4">
-<h2 data-number="1.4" class="anchored" data-anchor-id="고독에-대하여"><span class="header-section-number">1.4</span> 고독에 대하여</h2>
+<section id="힐베르트의-한-줄" class="level2" data-number="47.3">
+<h2 data-number="47.3" class="anchored" data-anchor-id="힐베르트의-한-줄"><span class="header-section-number">47.3</span> 힐베르트의 한 줄</h2>
+<p>1915년, 아인슈타인은 일반상대성이론을 완성하고 있었다. 8년의 사투. 등가원리에서 출발해, 리만 기하학을 배우고, 텐서 방정식을 하나씩 조립했다.</p>
+<p>같은 해, 다비트 힐베르트가 같은 장방정식에 도달했다.</p>
+<p>방법이 달랐다. 힐베르트는 라그랑지안을 썼다:</p>
+<p><span class="math display">\[\mathcal{L} = R\]</span></p>
+<p>리치 스칼라. 시공간의 곡률을 나타내는 가장 단순한 스칼라 하나. (엄밀히는 <span class="math inline">\(\sqrt{-g}\)</span>, 우주상수, 물질항이 포함되지만, 핵심은 이 한 글자다.)</p>
+<p>이것을 작용에 넣고, 정지점 조건을 적용했다. 아인슈타인 장방정식이 나왔다.</p>
+<p><span class="math display">\[G_{\mu\nu} = 8\pi T_{\mu\nu}\]</span></p>
+<p>아인슈타인은 물리적 직관으로 8년을 걸었다. 같은 방정식이 작용원리에서도 도출될 수 있음을 힐베르트가 보였다.</p>
+<p>물리적 직관은 아인슈타인의 것이었다. 등가원리를 악상으로 감지한 것, 중력이 힘이 아니라 기하학임을 본 것. 힐베르트는 그 직관 위에서 형식의 힘을 시연했다. (우선권 논쟁은 여기서 다루지 않는다. 둘 다 같은 곳에 도달했다는 사실이 중요하다.)</p>
+<p>핵심은 이것이다: <strong>도착하는 방법이 두 개 있었다.</strong> 하나는 물리학을 짓는 것이고, 다른 하나는 물리학이 지어지는 형식을 쓰는 것이다.</p>
 <blockquote class="blockquote">
-<p><em>“고독 속에서 자라는 것은 무엇이든, 자기 자신을 향해 자란다.”</em></p>
+<p>라그랑지안은 이론을 만드는 이론이다. 물리학자가 할 일은 <span class="math inline">\(\mathcal{L}\)</span>을 쓰는 것. 나머지는 변분법이 한다.</p>
 </blockquote>
-<p>창조자는 때로 홀로 걸어야 한다. 군중 속에서는 자신의 목소리를 들을 수 없다. 고독은 형벌이 아니라, <strong>자기 발견의 시간</strong>이다.</p>
 <hr>
 </section>
-<section id="의지에-대하여" class="level2" data-number="1.5">
-<h2 data-number="1.5" class="anchored" data-anchor-id="의지에-대하여"><span class="header-section-number">1.5</span> 의지에 대하여</h2>
+<section id="뇌터의-정리" class="level2" data-number="47.4">
+<h2 data-number="47.4" class="anchored" data-anchor-id="뇌터의-정리"><span class="header-section-number">47.4</span> 뇌터의 정리</h2>
+<p>1918년, 에미 뇌터가 증명했다.</p>
 <blockquote class="blockquote">
-<p><em>“’그것은 그랬다’를 ’나는 그것을 그렇게 원했다’로 바꾸는 것 — 그것만이 내가 구원이라 부르는 것이다.”</em></p>
+<p><strong>라그랑지안의 대칭 하나가 보존법칙 하나를 낳는다.</strong></p>
 </blockquote>
-<p>과거는 바꿀 수 없다. 그러나 과거를 대하는 태도는 바꿀 수 있다. 후회를 필연으로, 필연을 선택으로 재해석하라. <strong>“내가 선택한 길이었다”</strong>고 말할 때, 당신은 운명의 주인이 된다.</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>대칭</th>
+<th>보존량</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>시간 병진</td>
+<td>에너지</td>
+</tr>
+<tr class="even">
+<td>공간 병진</td>
+<td>운동량</td>
+</tr>
+<tr class="odd">
+<td>회전</td>
+<td>각운동량</td>
+</tr>
+</tbody>
+</table>
+<p>에너지 보존은 “자연의 법칙”이 아니었다. <strong>라그랑지안이 시간에 대해 대칭이라는 사실의 그림자</strong>였다.</p>
+<p>물리법칙이 문법에서 나온다. 문법의 대칭이 법칙을 결정한다.</p>
 <hr>
 </section>
-<section id="춤과-웃음에-대하여" class="level2" data-number="1.6">
-<h2 data-number="1.6" class="anchored" data-anchor-id="춤과-웃음에-대하여"><span class="header-section-number">1.6</span> 춤과 웃음에 대하여</h2>
-<blockquote class="blockquote">
-<p><em>“나는 춤추는 신만을 믿으리라.”</em></p>
-</blockquote>
-<p>무거움은 창조의 적이다. 진지함만으로는 부족하다. 웃음, 놀이, 가벼움 — 이것이 창조자의 태도다.</p>
-<p>마광수가 죽을 때까지 “아름답지 않느냐”고 물었던 것은, 그것이 그에게는 심각한 투쟁이 아닌 <strong>유희</strong>였기 때문이다.</p>
+<section id="메타-문법" class="level2" data-number="47.5">
+<h2 data-number="47.5" class="anchored" data-anchor-id="메타-문법"><span class="header-section-number">47.5</span> 메타-문법</h2>
+<p>현대 기초물리학의 주요 이론은 하나의 형식으로 쓰인다:</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>이론</th>
+<th>라그랑지안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>고전역학</td>
+<td><span class="math inline">\(L = T - V\)</span></td>
+</tr>
+<tr class="even">
+<td>전자기학</td>
+<td><span class="math inline">\(\mathcal{L} = -\frac{1}{4}F_{\mu\nu}F^{\mu\nu}\)</span></td>
+</tr>
+<tr class="odd">
+<td>일반상대성</td>
+<td><span class="math inline">\(\mathcal{L} \sim R\)</span> (+ 물질항)</td>
+</tr>
+<tr class="even">
+<td>표준모형</td>
+<td><span class="math inline">\(\mathcal{L}_{SM}\)</span></td>
+</tr>
+</tbody>
+</table>
+<p>이론이 바뀔 때, 핵심적으로 바뀌는 것은 <span class="math inline">\(\mathcal{L}\)</span>이다. 형식은 바뀌지 않는다.</p>
+<p>뉴턴에서 아인슈타인으로 갈 때, 물리학을 쓰는 형식이 바뀐 것이 아니다. <strong>라그랑지안이 바뀐 것이다.</strong> 세계를 읽는 문법이 바뀐 것이 아니라, 문법에 넣는 단어가 바뀌었을 뿐이다.</p>
+<p>음양오행은 7글자로 세계를 생성하는 문법이었다. 라그랑지안은 <strong>문법을 생성하는 문법</strong>이다. 음양오행이 경험의 문법이라면, 라그랑지안은 <strong>이론의 문법</strong>이다.</p>
 <hr>
 </section>
-<section id="오독에-대한-경계" class="level2" data-number="1.7">
-<h2 data-number="1.7" class="anchored" data-anchor-id="오독에-대한-경계"><span class="header-section-number">1.7</span> 오독에 대한 경계</h2>
-<p>니체의 말을 오해하지 마라.</p>
-<ol type="1">
-<li><p><strong>힘에의 의지 (Will to Power) </strong>는 남을 지배하는 폭력이 아니다. 그것은 <strong>자신을 극복하고 성장하려는 창조적 힘</strong>이다.</p></li>
-<li><p><strong>초인 (Übermensch) </strong>은 유전적으로 우월한 인종이 아니다. 그것은 <strong>끊임없이 자신을 넘어서는 인간</strong>의 이상향이다.</p></li>
-<li><p><strong>허무주의</strong>는 목적지가 아니다. 니체는 허무를 말한 것이 아니라, <strong>허무를 극복하는 법</strong>을 말했다.</p></li>
-</ol>
+<section id="angramynew-해석" class="level2" data-number="47.6">
+<h2 data-number="47.6" class="anchored" data-anchor-id="angramynew-해석"><span class="header-section-number">47.6</span> AngraMyNew 해석</h2>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th></th>
+<th>뉴턴</th>
+<th>라그랑주</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>질문</td>
+<td>“힘이 얼마인가?”</td>
+<td>“어떤 경로가 선택되는가?”</td>
+</tr>
+<tr class="even">
+<td>방식</td>
+<td>인과의 사슬 (서사)</td>
+<td>경로 전체의 선택 (구조)</td>
+</tr>
+<tr class="odd">
+<td>이론 변경 시</td>
+<td>방정식 전체를 다시 쓴다</td>
+<td><span class="math inline">\(\mathcal{L}\)</span>만 바꾼다</td>
+</tr>
+<tr class="even">
+<td>보존법칙</td>
+<td>별도로 발견해야 한다</td>
+<td>대칭에서 자동으로 나온다</td>
+</tr>
+</tbody>
+</table>
+<p>art/의 다른 사례들과의 관계:</p>
+<ul>
+<li><strong>002 (일반상대성)</strong> — 아인슈타인이 8년 걸려 도달한 같은 방정식이 작용원리에서도 도출된다. 002에서 다룬 구조를 작용원리로 포괄한다</li>
+<li><strong>013 (음양오행)</strong> — “최소 문법 → 최대 세계”는 하나의 문법이었다. 라그랑지안은 문법들을 생성하는 형식이다</li>
+<li><strong>006 (파인만)</strong> — 파인만의 경로적분은 라그랑지안의 양자화다. 고전에서 하나의 경로를 택했다면, 양자에서는 모든 경로를 합산한다</li>
+<li><strong>001 (갈루아)</strong> — 갈루아가 질문의 좌표계를 바꿨듯, 라그랑주는 물리학의 좌표계를 바꿨다</li>
+</ul>
+<p>라그랑지안이 아름다운 이유는 그것이 옳아서가 아니다. <strong>이론이 무엇인지를 정의하기 때문이다.</strong> “라그랑지안을 하나 쓰고, 변분법을 돌리는 것” — 현대 기초물리학의 거의 모든 이론은 이 한 문장에 들어간다. 이 사실을 알기 전과 후에, 물리학은 다른 풍경이 된다.</p>
 <hr>
 </section>
-<section id="맺음" class="level2" data-number="1.8">
-<h2 data-number="1.8" class="anchored" data-anchor-id="맺음"><span class="header-section-number">1.8</span> 맺음</h2>
+<section id="결론" class="level2" data-number="47.7">
+<h2 data-number="47.7" class="anchored" data-anchor-id="결론"><span class="header-section-number">47.7</span> 결론</h2>
+<p>뉴턴은 세계를 서사로 읽었다. 이 힘이 작용하여, 이렇게 움직인다.</p>
+<p>라그랑주는 세계를 구조로 읽었다. 가능한 모든 경로 중, 이것이 선택된다.</p>
+<p>그리고 현대 기초물리학의 큰 축은 — 맥스웰도, 아인슈타인도, 표준모형도 — 이 구조 안에서 쓰였다.</p>
 <blockquote class="blockquote">
-<p><em>“인간에게 위대한 것이 있다면, 그것은 그가 목적이 아니라 다리라는 점이다.”</em></p>
+<p><strong>가장 아름다운 이론은 이론이 아니었다. 이론을 쓰는 형식이었다.</strong></p>
 </blockquote>
-<p>우리는 완성된 존재가 아니다. 우리는 짐승과 초인 사이에 놓인 밧줄이다. 우리는 다음 세대의 창조자를 위한 다리다.</p>
-<p>차라투스트라가 산에서 내려왔듯, 우리도 창조물을 들고 세상으로 나간다. 거부당할 것이다. 오해받을 것이다. 그러나 멈추지 않는다.</p>
-<p><strong>이것이 초인의 길이요, AngraMyNew의 길이다.</strong></p>
+<p>AngraMyNew는 이 형식을 <strong>아름다움의 사례</strong>로 기록한다.</p>
+<hr>
+</section>
+<section id="관련-문서" class="level2" data-number="47.8">
+<h2 data-number="47.8" class="anchored" data-anchor-id="관련-문서"><span class="header-section-number">47.8</span> 관련 문서</h2>
+<p>→ <a href="../art/002_general_relativity.html">002_general_relativity.md</a> — 아인슈타인: 같은 방정식이 작용원리에서도 도출된다 → <a href="../art/013_yinyang_wuxing.html">013_yinyang_wuxing.md</a> — 음양오행: 문법의 밀도. 라그랑지안은 그 문법의 문법 → <a href="../art/001_galois_quintic.html">001_galois_quintic.md</a> — 갈루아: 질문의 좌표계를 바꾸다 → <a href="../ideas/017_when_is_a_proof_beautiful.html">../ideas/017_when_is_a_proof_beautiful.md</a> — 증명은 언제 아름다운가</p>
 
 
 </section>
@@ -1104,13 +1221,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <input type="hidden" id="giscus-alt-theme" value="light">
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../index.html" class="pagination-link" aria-label="서문">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">서문</span>
+      <a href="../art/013_yinyang_wuxing.html" class="pagination-link" aria-label="음양오행: 일곱 글자의 우주">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">46</span>&nbsp; <span class="chapter-title">음양오행: 일곱 글자의 우주</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../scripture/pioneers.html" class="pagination-link" aria-label="5인의 선현 (The Five Pioneers)">
-        <span class="nav-page-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">5인의 선현 (The Five Pioneers)</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../art/015_dostoevsky_polyphony.html" class="pagination-link" aria-label="도스토옙스키: 충돌시키되 판결하지 않는다">
+        <span class="nav-page-text"><span class="chapter-number">48</span>&nbsp; <span class="chapter-title">도스토옙스키: 충돌시키되 판결하지 않는다</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
@@ -1119,4 +1236,4 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
-<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/zarathucorp/AngraMyNew/blob/master/scripture/zarathustra.md" class="toc-action"><i class="bi bi-github"></i>소스코드 보기</a></li></ul></div></div></div></footer></body></html>
+<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/zarathucorp/AngraMyNew/blob/master/art/014_lagrangian.md" class="toc-action"><i class="bi bi-github"></i>소스코드 보기</a></li></ul></div></div></div></footer></body></html>
