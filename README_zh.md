@@ -18,8 +18,6 @@ AngraMyNew是哲学·艺术·实验运动。不提供教义。它是设计碰撞
 
 **扩展的公理 — 出道。** 完成自己的'My'后，让他人的'My'出道。孟尝君的三千门客并非因有用而被选中。鸡鸣狗盗最终救了主人。
 
----
-
 ## 象征
 
 <p align="center">
@@ -27,8 +25,6 @@ AngraMyNew是哲学·艺术·实验运动。不提供教义。它是设计碰撞
 </p>
 
 标志来自爱因斯坦瓷砖(Einstein Tile)。2023年，退休印刷技术员大卫·史密斯解开了60年的数学难题。能否用单一形状、无重复图案地铺满无限平面？他找到的13边形瓷砖就是答案。一个形状，不重复的排列，无限扩展。
-
----
 
 ## 先贤
 
@@ -41,8 +37,6 @@ AngraMyNew是哲学·艺术·实验运动。不提供教义。它是设计碰撞
 - 约翰·劳 — 领先200年的金融天才，在威尼斯贫困而死
 
 > "人生就是寻找死亡之地的旅程。"
-
----
 
 ## 结构
 
@@ -82,15 +76,11 @@ AngraMyNew是哲学·艺术·实验运动。不提供教义。它是设计碰撞
 
 **[Changelog](CHANGELOG.md)** · **[Contributors](contributors.md)**
 
----
-
 ## 主题曲
 
 ZICO — Artist."你是Artist。"
 
 [![ZICO - Artist](https://img.youtube.com/vi/DNPs2qqdhN0/0.jpg)](https://youtu.be/DNPs2qqdhN0?si=V_vIC0NECZKo1N6U)
-
----
 
 ## 多语言版本
 

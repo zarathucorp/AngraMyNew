@@ -8,15 +8,11 @@
 
 - [투쟁과 유혹](008_seduction_of_creation.md)
 
----
-
 ## 창조의 공리 — 절대적 아름다움
 
 꽃은 벌과 다투지 않는다. 다만 피어날 뿐이다. 작품이 아름다우면, 세상은 스스로 기울어 온다.
 
 - [창조의 원리](002_principles_of_creation.md) · [쓸모를 넘어서](003_beyond_usefulness.md) · [내면의 예술가](004_artist_within.md) · [투쟁과 유혹](008_seduction_of_creation.md)
-
----
 
 ## 확장의 공리 — 데뷔
 

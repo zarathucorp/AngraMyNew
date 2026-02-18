@@ -18,8 +18,6 @@ AngraMyNew is a philosophy, art, and experimental movement. It offers no doctrin
 
 **Axiom of Expansion — Debut.** Once you complete your 'My', debut another's 'My'. Mengchangjun's three thousand retainers were not chosen for usefulness. A rooster's crow and a dog's theft ultimately saved their lord.
 
----
-
 ## Symbol
 
 <p align="center">
@@ -27,8 +25,6 @@ AngraMyNew is a philosophy, art, and experimental movement. It offers no doctrin
 </p>
 
 The logo comes from the Einstein Tile. In 2023, retired print technician David Smith solved a 60-year-old mathematical puzzle. Can a single shape tile an infinite plane without repeating patterns? The 13-sided tile he found was the answer. One shape, no repeating arrangement, infinite expansion.
-
----
 
 ## Pioneers
 
@@ -41,8 +37,6 @@ Create your own values like Nietzsche, embrace even the seemingly useless like M
 - John Law — Financial genius 200 years ahead, died in poverty in Venice
 
 > "Life is a journey to find the place where you will die."
-
----
 
 ## Structure
 
@@ -82,15 +76,11 @@ Create your own values like Nietzsche, embrace even the seemingly useless like M
 
 **[Changelog](CHANGELOG.md)** · **[Contributors](contributors.md)**
 
----
-
 ## Theme Song
 
 ZICO — Artist. "You are an Artist."
 
 [![ZICO - Artist](https://img.youtube.com/vi/DNPs2qqdhN0/0.jpg)](https://youtu.be/DNPs2qqdhN0?si=V_vIC0NECZKo1N6U)
-
----
 
 ## Languages
 
