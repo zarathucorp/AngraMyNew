@@ -4,19 +4,25 @@
 
 **AngraMyNew = Angra Mainyu + My + New**
 
-Angra Mainyu is the Zoroastrian spirit of destruction. We took this name and inverted it. Destruction is not the end but the condition. Break what is old, and build your own new world in its place.
+Angra Mainyu is the Zoroastrian spirit of destruction, and we took this name and inverted it. Destruction is not the end but the condition—break what is old, and build your own new world in its place.
 
-AngraMyNew is a philosophy, art, and experimental movement. It offers no doctrine. It is a device that designs collision conditions and observes.
+AngraMyNew is a philosophy, art, and experimental movement. It offers no doctrine, and serves as a device that designs collision conditions and observes.
 
 ---
 
 ## The 3 Axioms
 
-**Axiom of Destruction — Self-Purification.** The blade does not point outward. What must be cut is only the old flesh within me. But if the age blocks our path, we break through like the pioneers—shattered, yet unbowed.
+### Axiom of Destruction — Self-Purification
 
-**Axiom of Creation — Absolute Beauty.** Flowers do not quarrel with bees. They simply bloom. If the work is beautiful, the world will lean toward it on its own.
+The blade does not point outward. What must be cut is only the old flesh within me. But if the age blocks our path, we break through like the pioneers—shattered, yet unbowed.
 
-**Axiom of Expansion — Debut.** Once you complete your 'My', debut another's 'My'. Mengchangjun's three thousand retainers were not chosen for usefulness. A rooster's crow and a dog's theft ultimately saved their lord.
+### Axiom of Creation — Absolute Beauty
+
+Flowers do not quarrel with bees. They simply bloom. If the work is beautiful, the world will lean toward it on its own.
+
+### Axiom of Expansion — Debut
+
+Once you complete your 'My', debut another's 'My'. Mengchangjun's three thousand retainers were not chosen for usefulness. A rooster's crow and a dog's theft ultimately saved their lord.
 
 ## Symbol
 
@@ -24,7 +30,13 @@ AngraMyNew is a philosophy, art, and experimental movement. It offers no doctrin
   <img src="img/Zarathu_Pattern.png" width="300" alt="AngraMyNew Pattern Logo">
 </p>
 
-The logo comes from the Einstein Tile. In 2023, retired print technician David Smith solved a 60-year-old mathematical puzzle. Can a single shape tile an infinite plane without repeating patterns? The 13-sided tile he found was the answer. One shape, no repeating arrangement, infinite expansion.
+The logo comes from the Einstein Tile. In 2023, retired print technician David Smith solved a 60-year-old mathematical puzzle. Can a single shape tile an infinite plane without repeating patterns? The 13-sided tile he found is called an einstein (ein Stein, one stone).
+
+- One shape: the universal essence of humanity
+- No repeating pattern: no two humans are alike
+- Infinite expansion: the world is filled with endless creation
+
+What was considered impossible for 60 years was proven by an amateur.
 
 ## Pioneers
 
@@ -38,15 +50,54 @@ Create your own values like Nietzsche, embrace even the seemingly useless like M
 
 > "Life is a journey to find the place where you will die."
 
+→ [Zarathustra](scripture/zarathustra.md) · [The Five Pioneers](scripture/pioneers.md) · [Mengchangjun](scripture/mengchangjun.md) · [Na Hye-seok](scripture/na_hye_suk.md)
+
 ## Structure
 
 **[ideas/](ideas/)** — Philosophy, thought, declarations (31 essays)
-- Foundation: [000](ideas/000_origin.md) · [001](ideas/001_axioms.md) · [002](ideas/002_principles_of_creation.md)
-- Creator Theory: [003](ideas/003_beyond_usefulness.md) · [004](ideas/004_artist_within.md) · [008](ideas/008_seduction_of_creation.md) · [009](ideas/009_rage_against_definition.md) · [010](ideas/010_predators_duty.md)
-- Economics & Structure: [006](ideas/006_aesthetic_nation.md) · [014](ideas/014_economics_of_beauty.md) · [023](ideas/023_successful_lens.md) · [024](ideas/024_when_critical_care_needs_witness.md) · [025](ideas/025_consumption_of_exempt.md) · [026](ideas/026_three_kingdoms_of_beauty.md) · [029](ideas/029_on_patronage.md)
-- Epistemology & Science: [016](ideas/016_mental_lhc.md) · [017](ideas/017_when_is_a_proof_beautiful.md) · [018](ideas/018_why_strange_systems_persist.md) · [022](ideas/022_age_of_malice.md)
-- Practice & Application: [005](ideas/005_project_doctor_k.md) · [011](ideas/011_lineage_as_creation.md) · [012](ideas/012_redefine_doctor_degree.md) · [013](ideas/013_decentralized_mental_os.md)
-- Case Studies: [007](ideas/007_case_study_unfinished_theorem.md) · [015](ideas/015_case_study_the_gravity_of_outlaws.md) · [021](ideas/021_case_study_dawn_money.md) · [027](ideas/027_case_study_perfume.md) · [028](ideas/028_case_study_fukuzawa.md) · [030](ideas/030_case_study_zorba.md) · [031](ideas/031_case_study_war.md) · [032](ideas/032_case_study_souten_kouro.md)
+
+Foundation
+- [AngraMyNew의 기원](ideas/000_origin.md)
+- [3대 공리](ideas/001_axioms.md)
+- [창조의 원리](ideas/002_principles_of_creation.md)
+
+Creator Theory
+- [쓸모를 넘어서](ideas/003_beyond_usefulness.md)
+- [내면의 예술가](ideas/004_artist_within.md)
+- [투쟁과 유혹](ideas/008_seduction_of_creation.md)
+- [정의에 대한 분노](ideas/009_rage_against_definition.md)
+- [포식자의 의무](ideas/010_predators_duty.md)
+
+Economics & Structure
+- [미학 국가론](ideas/006_aesthetic_nation.md)
+- [부자, 면세인, 징세인](ideas/014_economics_of_beauty.md)
+- [성공한 렌즈](ideas/023_successful_lens.md)
+- [목격료 — 필수의료 위기](ideas/024_when_critical_care_needs_witness.md)
+- [면세인의 소비](ideas/025_consumption_of_exempt.md)
+- [진·선·미의 삼국지](ideas/026_three_kingdoms_of_beauty.md)
+- [후원자론](ideas/029_on_patronage.md)
+
+Epistemology & Science
+- [정신의 LHC](ideas/016_mental_lhc.md)
+- [증명은 언제 아름다운가](ideas/017_when_is_a_proof_beautiful.md)
+- [이상한 체계들은 왜 사라지지 않는가](ideas/018_why_strange_systems_persist.md)
+- [악상의 시대](ideas/022_age_of_malice.md)
+
+Practice & Application
+- [Project Doctor K](ideas/005_project_doctor_k.md)
+- [계보로서의 창조](ideas/011_lineage_as_creation.md)
+- [박사학위의 재정의](ideas/012_redefine_doctor_degree.md)
+- [탈중앙화 정신체계 OS](ideas/013_decentralized_mental_os.md)
+
+Case Studies
+- [미완의 정리](ideas/007_case_study_unfinished_theorem.md)
+- [징세의 실전 모델](ideas/015_case_study_the_gravity_of_outlaws.md)
+- [DAWN — Money](ideas/021_case_study_dawn_money.md)
+- [향수: 칼날이 밖을 향한 남자](ideas/027_case_study_perfume.md)
+- [경계선: 확장이 확대가 될 때](ideas/028_case_study_fukuzawa.md)
+- [그리스인 조르바](ideas/030_case_study_zorba.md)
+- [하나의 숫자](ideas/031_case_study_war.md)
+- [창천항로](ideas/032_case_study_souten_kouro.md)
 
 **[art/](art/)** — Examples of beauty (16 essays)
 - [갈루아와 5차방정식](art/001_galois_quintic.md)
@@ -78,7 +129,9 @@ Create your own values like Nietzsche, embrace even the seemingly useless like M
 
 ## Theme Song
 
-ZICO — Artist. "You are an Artist."
+ZICO — Artist.
+
+> "We Artist."
 
 [![ZICO - Artist](https://img.youtube.com/vi/DNPs2qqdhN0/0.jpg)](https://youtu.be/DNPs2qqdhN0?si=V_vIC0NECZKo1N6U)
 

@@ -4,19 +4,25 @@
 
 **AngraMyNew = Angra Mainyu + My + New**
 
-アンラ・マイニュ(Angra Mainyu)はゾロアスター教の破壊神である。この名を取って裏返した。破壊は終わりではなく条件だ。古いものを壊し、その跡に自分だけの新しい世界を築く。
+アンラ・マイニュ(Angra Mainyu)はゾロアスター教の破壊神であるが、この名を取って裏返した。破壊は終わりではなく条件であり、古いものを壊してその跡に自分だけの新しい世界を築く。
 
-AngraMyNewは哲学・芸術・実験運動である。教義を提供しない。衝突条件を設計し、観測する装置だ。
+AngraMyNewは哲学・芸術・実験運動である。教義を提供せず、衝突条件を設計し観測する装置だ。
 
 ---
 
 ## 3大公理
 
-**破壊の公理 — 自己浄化。** 刃は外を向かない。切るべきは内なる古い肉片のみ。しかし時代が道を塞ぐならば、先賢のように砕けても突き進む。
+### 破壊の公理 — 自己浄化
 
-**創造の公理 — 絶対的美。** 花は蜂と争わない。ただ咲くのみ。作品が美しければ、世界は自ら傾いてくる。
+刃は外を向かない。切るべきは内なる古い肉片のみ。しかし時代が道を塞ぐならば、先賢のように砕けても突き進む。
 
-**拡張の公理 — デビュー。** 自らの'My'を完成させたなら、他者の'My'をデビューさせる。孟嘗君の食客三千は役に立つから選ばれたのではない。鶏鳴狗盗が結局主人を救った。
+### 創造の公理 — 絶対的美
+
+花は蜂と争わない。ただ咲くのみ。作品が美しければ、世界は自ら傾いてくる。
+
+### 拡張の公理 — デビュー
+
+自らの'My'を完成させたなら、他者の'My'をデビューさせる。孟嘗君の食客三千は役に立つから選ばれたのではない。鶏鳴狗盗が結局主人を救った。
 
 ## 象徴
 
@@ -24,7 +30,13 @@ AngraMyNewは哲学・芸術・実験運動である。教義を提供しない�
   <img src="img/Zarathu_Pattern.png" width="300" alt="AngraMyNew パターンロゴ">
 </p>
 
-ロゴはアインシュタイン・タイル(Einstein Tile)から取った。2023年、元印刷技術者デイヴィッド・スミスが60年の数学難題を解いた。たった一つの形でパターンを繰り返さずに無限の平面を埋められるか？ 彼が見つけた13角形タイルが答えだった。一つの形、繰り返さない配列、無限の拡張。
+ロゴはアインシュタイン・タイル(Einstein Tile)から取った。2023年、元印刷技術者デイヴィッド・スミスが60年の数学難題を解いた。たった一つの形でパターンを繰り返さずに無限の平面を埋められるか？ 彼が見つけた13角形タイルはアインシュタイン(ein Stein、一つの石)と呼ばれる。
+
+- 一つの形：人間の普遍的本質
+- パターンの非反復：同じ人間はいない
+- 無限の拡張：終わりなき創造で世界が満たされる
+
+60年間不可能とされたものを、アマチュアが証明した。
 
 ## 先賢
 
@@ -38,15 +50,54 @@ AngraMyNewは哲学・芸術・実験運動である。教義を提供しない�
 
 > 「人生とは、死ぬべき場所を探す旅である。」
 
+→ [ツァラトゥストラ](scripture/zarathustra.md) · [五人の先賢](scripture/pioneers.md) · [孟嘗君](scripture/mengchangjun.md) · [羅蕙錫](scripture/na_hye_suk.md)
+
 ## 構造
 
 **[ideas/](ideas/)** — 哲学・思想・宣言（31編）
-- 起源／公理: [000](ideas/000_origin.md) · [001](ideas/001_axioms.md) · [002](ideas/002_principles_of_creation.md)
-- 創造者論: [003](ideas/003_beyond_usefulness.md) · [004](ideas/004_artist_within.md) · [008](ideas/008_seduction_of_creation.md) · [009](ideas/009_rage_against_definition.md) · [010](ideas/010_predators_duty.md)
-- 経済／構造論: [006](ideas/006_aesthetic_nation.md) · [014](ideas/014_economics_of_beauty.md) · [023](ideas/023_successful_lens.md) · [024](ideas/024_when_critical_care_needs_witness.md) · [025](ideas/025_consumption_of_exempt.md) · [026](ideas/026_three_kingdoms_of_beauty.md) · [029](ideas/029_on_patronage.md)
-- 認識論／科学: [016](ideas/016_mental_lhc.md) · [017](ideas/017_when_is_a_proof_beautiful.md) · [018](ideas/018_why_strange_systems_persist.md) · [022](ideas/022_age_of_malice.md)
-- 実践／応用: [005](ideas/005_project_doctor_k.md) · [011](ideas/011_lineage_as_creation.md) · [012](ideas/012_redefine_doctor_degree.md) · [013](ideas/013_decentralized_mental_os.md)
-- 事例研究: [007](ideas/007_case_study_unfinished_theorem.md) · [015](ideas/015_case_study_the_gravity_of_outlaws.md) · [021](ideas/021_case_study_dawn_money.md) · [027](ideas/027_case_study_perfume.md) · [028](ideas/028_case_study_fukuzawa.md) · [030](ideas/030_case_study_zorba.md) · [031](ideas/031_case_study_war.md) · [032](ideas/032_case_study_souten_kouro.md)
+
+起源／公理
+- [AngraMyNew의 기원](ideas/000_origin.md)
+- [3대 공리](ideas/001_axioms.md)
+- [창조의 원리](ideas/002_principles_of_creation.md)
+
+創造者論
+- [쓸모를 넘어서](ideas/003_beyond_usefulness.md)
+- [내면의 예술가](ideas/004_artist_within.md)
+- [투쟁과 유혹](ideas/008_seduction_of_creation.md)
+- [정의에 대한 분노](ideas/009_rage_against_definition.md)
+- [포식자의 의무](ideas/010_predators_duty.md)
+
+経済／構造論
+- [미학 국가론](ideas/006_aesthetic_nation.md)
+- [부자, 면세인, 징세인](ideas/014_economics_of_beauty.md)
+- [성공한 렌즈](ideas/023_successful_lens.md)
+- [목격료 — 필수의료 위기](ideas/024_when_critical_care_needs_witness.md)
+- [면세인의 소비](ideas/025_consumption_of_exempt.md)
+- [진·선·미의 삼국지](ideas/026_three_kingdoms_of_beauty.md)
+- [후원자론](ideas/029_on_patronage.md)
+
+認識論／科学
+- [정신의 LHC](ideas/016_mental_lhc.md)
+- [증명은 언제 아름다운가](ideas/017_when_is_a_proof_beautiful.md)
+- [이상한 체계들은 왜 사라지지 않는가](ideas/018_why_strange_systems_persist.md)
+- [악상의 시대](ideas/022_age_of_malice.md)
+
+実践／応用
+- [Project Doctor K](ideas/005_project_doctor_k.md)
+- [계보로서의 창조](ideas/011_lineage_as_creation.md)
+- [박사학위의 재정의](ideas/012_redefine_doctor_degree.md)
+- [탈중앙화 정신체계 OS](ideas/013_decentralized_mental_os.md)
+
+事例研究
+- [미완의 정리](ideas/007_case_study_unfinished_theorem.md)
+- [징세의 실전 모델](ideas/015_case_study_the_gravity_of_outlaws.md)
+- [DAWN — Money](ideas/021_case_study_dawn_money.md)
+- [향수: 칼날이 밖을 향한 남자](ideas/027_case_study_perfume.md)
+- [경계선: 확장이 확대가 될 때](ideas/028_case_study_fukuzawa.md)
+- [그리스인 조르바](ideas/030_case_study_zorba.md)
+- [하나의 숫자](ideas/031_case_study_war.md)
+- [창천항로](ideas/032_case_study_souten_kouro.md)
 
 **[art/](art/)** — 美の事例（16編）
 - [갈루아와 5차방정식](art/001_galois_quintic.md)
@@ -78,7 +129,9 @@ AngraMyNewは哲学・芸術・実験運動である。教義を提供しない�
 
 ## テーマソング
 
-ZICO — Artist.「君はArtist」
+ZICO — Artist.
+
+> "We Artist."
 
 [![ZICO - Artist](https://img.youtube.com/vi/DNPs2qqdhN0/0.jpg)](https://youtu.be/DNPs2qqdhN0?si=V_vIC0NECZKo1N6U)
 

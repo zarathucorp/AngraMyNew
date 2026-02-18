@@ -1,5 +1,34 @@
 # Changelog
 
+## v7.3 — 문맥 복원 + 구조표 선별 복구 (2026-02-18)
+
+### 변경 — 전반 문맥/호흡 보정 (49 files)
+- ideas/scripture/protocols 전반 문장을 단문 중심에서 자연스러운 복문 흐름으로 재정렬
+- 사례편 핵심 논거 보강:
+  - `ideas/021_case_study_dawn_money.md` — 가사 인용 앵커 보강, 무대 섹션 복구, 맺음 문맥 확장
+  - `ideas/028_case_study_fukuzawa.md` — 역사 서술 연결 강화, 확장/확대 비교표 추가
+  - `ideas/029_on_patronage.md` — 투자/후원/삼국지 경제구조 비교표 복구
+  - `ideas/032_case_study_souten_kouro.md` — 좌표 교체의 대가(지워지는 정보) 단락 보강, WAR 문서와 연결
+- `ideas/009_rage_against_definition.md` 등 이론편에서 구조표를 재도입해 정의/비교 가독성 강화
+
+### 변경 — art/ 구조표·불릿 선택 복구 (7편)
+- `art/006_feynman_diagram.md` — 다이어그램↔수식 대응표 복구, 확장 bullet 복구
+- `art/007_nagarjuna_emptiness.md` — 사구비판(Catuṣkoṭi) 4항 표 복구, 후속 확장 bullet 보강
+- `art/008_klimt_kiss.md` — 창조자/악상/행위 표 + 파인만/클림트 비교표 복구
+- `art/009_mozart_pure_beauty.md` — 베토벤/모차르트 구조 비교표 복구
+- `art/013_yinyang_wuxing.md` — 오행 매핑표, 표준모형 비교표, 시스템 스케일 비교표 복구
+- `art/014_lagrangian.md` — 대칭↔보존량 표, 이론↔라그랑지안 표, 뉴턴↔라그랑주 비교표 복구
+- `art/015_dostoevsky_polyphony.md` — 단성/다성 비교표, 독자 경험 비교표 복구
+
+### 변경 — 서문/안내 문서 정렬
+- `index.qmd` + README 4개국어(`README*.md`) 구조 동기화
+  - 3대 공리 섹션을 독립 소제목으로 분리
+  - 상징(Einstein tile) 해석을 bullet로 명시
+  - ideas 목록을 숫자 링크열에서 제목형 목록으로 재구성
+  - scripture 바로가기 링크 추가
+
+---
+
 ## v7.2 — WAR + 창천항로 사례연구, ideas/ 전체 리라이트 (2026-02-18)
 
 ### 추가
