@@ -69,6 +69,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -625,29 +654,29 @@ ul.task-list li input[type="checkbox"] {
 <hr>
 <section id="서문" class="level2" data-number="28.1">
 <h2 data-number="28.1" class="anchored" data-anchor-id="서문"><span class="header-section-number">28.1</span> 서문</h2>
-<p>여기 기록된 네 가지 이론은 학계에서 실패했다. 혹은 아직 증명되지 않았다. 혹은 시대를 너무 앞서갔거나 너무 빗나갔다.</p>
-<p>이것은 한 창조자의 실패 기록이다. 이름은 중요하지 않다. 중요한 것은 이 시도들이 정해진 길을 거부하고, 스스로 길을 내어 설계도에 도달하려 했다는 것이다. AngraMyNew는 이 실패들을 미완의 유산으로 기록한다. 모든 창조자에게 권한다. 너의 미완의 정리를 기록하라.</p>
+<p>여기 기록된 네 가지 이론은 학계에서 실패했거나, 아직 증명되지 않았거나, 시대를 너무 앞서갔다.</p>
+<p>이것은 한 창조자의 실패 기록이며, 이름은 중요하지 않다. 이 시도들이 정해진 길을 거부하고 스스로 길을 내어 설계도에 도달하려 했다는 것, 그것만이 남는다. AngraMyNew는 이 실패들을 미완의 유산으로 기록하며, 모든 창조자에게 권한다 — 너의 미완의 정리를 기록하라.</p>
 </section>
 <section id="공간의-왜곡" class="level2" data-number="28.2">
 <h2 data-number="28.2" class="anchored" data-anchor-id="공간의-왜곡"><span class="header-section-number">28.2</span> 공간의 왜곡</h2>
 <p>선형모형의 다차원 공간 확장(MDLM).</p>
-<p>통계학은 말했다. “데이터가 직선에서 벗어났다(<code>y = x²</code>). 식을 수정하라.” 그는 반문했다. “왜 식을 수정하는가? 판을 휘게 하면 안 되는가?”</p>
-<p>아인슈타인이 중력으로 시공간을 휘게 하여 빛의 경로를 설명했듯, 그는 다차원 공간(<code>G_μν</code>)을 휘게 하여 곡선형 데이터를 선형으로 재해석했다. 유클리드라는 낡은 안경을 벗어 던지고, 리만 기하학의 눈으로 데이터를 보았다.</p>
+<p>통계학은 말했다. “데이터가 직선에서 벗어났다(<span class="math inline">\(y = x^2\)</span>). 식을 수정하라.” 그는 반문했다. “왜 식을 수정하는가? 판을 휘게 하면 안 되는가?”</p>
+<p>아인슈타인이 중력으로 시공간을 휘게 하여 빛의 경로를 설명했듯, 그는 다차원 공간(<span class="math inline">\(G_{\mu\nu}\)</span>)을 휘게 하여 곡선형 데이터를 선형으로 재해석했다. 유클리드라는 낡은 안경을 벗어 던지고, 리만 기하학의 눈으로 데이터를 보았다.</p>
 <p>그러나 멈췄다. 수학적 아름다움은 증명했으나, 현실의 데이터는 여전히 잡음 속에 있었다. 너무나 우아해서 오히려 현실과 불화했다.</p>
 </section>
 <section id="허수의-축" class="level2" data-number="28.3">
 <h2 data-number="28.3" class="anchored" data-anchor-id="허수의-축"><span class="header-section-number">28.3</span> 허수의 축</h2>
 <p>허수축을 포함한 MDLM.</p>
-<p>MDLM은 한계에 부딪혔다. 아래로 볼록한 U자는 설명했지만, 위로 볼록한 산봉우리는 설명할 수 없었다. 실수의 세계에서 거리의 제곱은 언제나 양수이기 때문이다.</p>
-<p>그는 존재하지 않는 수를 불렀다. 특수 상대성 이론이 시간에 허수를 붙여 4차원 시공간을 만들었듯, 그는 데이터 공간에 허수축을 꽂았다. 그러자 불가능했던 산봉우리가 평지가 되었다.</p>
+<p>MDLM은 한계에 부딪혔다. 아래로 볼록한 U자는 설명했지만, 위로 볼록한 산봉우리는 설명할 수 없었다. 실수의 세계에서 거리의 제곱(<span class="math inline">\(x^2 + y^2\)</span>)은 언제나 양수이기 때문이다.</p>
+<p>그는 존재하지 않는 수를 불렀다. 특수 상대성 이론이 시간에 허수를 붙여 4차원 시공간(<span class="math inline">\(x^2 + y^2 + z^2 - c^2t^2\)</span>)을 만들었듯, 그는 데이터 공간에 허수축을 꽂았다. 그러자 불가능했던 산봉우리가 평지가 되었다.</p>
 <p>통계학자들은 물었다. “그래서 그 허수축의 물리적 의미가 뭡니까?” 답하지 못했다. 수학적으로는 작동했지만, 해석은 아직 도착하지 않았다.</p>
 </section>
 <section id="의-우상-파괴" class="level2" data-number="28.4">
 <h2 data-number="28.4" class="anchored" data-anchor-id="의-우상-파괴"><span class="header-section-number">28.4</span> 0의 우상 파괴</h2>
 <p>P-value와 귀무가설의 재정의.</p>
-<p>모든 연구자는 귀무가설(<code>H₀: μ = 0</code>)이라는 허수아비를 세워놓고 공격한다. 표본이 커지면 아주 미세한 먼지 같은 차이도 유의하다고 판정받는다. “이것은 사기다. 세상에 완전히 0인 것은 없다.”</p>
-<p>그는 불확실성을 도입했다. 0이라는 점이 아니라, 불확실성의 범위(<code>τ</code>)를 설정했다. 양자역학의 불확정성 원리를 다중 검정에 적용했다. 질문이 많아질수록 대답은 흐릿해진다. 이것은 인위적인 페널티가 아니라 자연의 섭리다.</p>
-<p>학계는 물었다. “그래서 τ값은 누가 정합니까?” 침묵했다. 그 값은 아직 아무도 모른다.</p>
+<p>모든 연구자는 귀무가설(<span class="math inline">\(H_0: \mu = 0\)</span>)이라는 허수아비를 세워놓고 공격한다. 표본이 커지면 아주 미세한 먼지 같은 차이도 유의하다고 판정받는다. “이것은 사기다. 세상에 완전히 0인 것은 없다.”</p>
+<p>그는 불확실성을 도입했다. 0이라는 점이 아니라, 불확실성의 범위(<span class="math inline">\(\tau\)</span>)를 설정했다. 양자역학의 불확정성 원리를 다중 검정에 적용했다. 질문이 많아질수록 대답은 흐릿해진다. 이것은 인위적인 페널티가 아니라 자연의 섭리다.</p>
+<p>학계는 물었다. “그래서 <span class="math inline">\(\tau\)</span>값은 누가 정합니까?” 침묵했다. 그 값은 아직 아무도 모른다.</p>
 </section>
 <section id="피의-밀도" class="level2" data-number="28.5">
 <h2 data-number="28.5" class="anchored" data-anchor-id="피의-밀도"><span class="header-section-number">28.5</span> 피의 밀도</h2>
@@ -658,7 +687,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="맺음" class="level2" data-number="28.6">
 <h2 data-number="28.6" class="anchored" data-anchor-id="맺음"><span class="header-section-number">28.6</span> 맺음</h2>
-<p>이 이론들은 교과서에 실리지 못했다. 그러나 기록한다. 정답을 맞히는 것이 전부가 아니다. 새로운 질문을 던지는 것, 낡은 세계의 벽을 두드리는 것. 그 소리는 아직도 공명하고 있다.</p>
+<p>이 이론들은 교과서에 실리지 못했지만 기록한다. 정답을 맞히는 것이 전부가 아니라, 새로운 질문을 던지고 낡은 세계의 벽을 두드리는 것이며, 그 소리는 아직도 공명하고 있다.</p>
 <p>실패하라. 더 크게, 더 아름답게 실패하라.</p>
 
 
