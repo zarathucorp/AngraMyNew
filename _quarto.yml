@@ -65,6 +65,8 @@ book:
         - ideas/027_case_study_perfume.md
         - ideas/028_case_study_fukuzawa.md
         - ideas/030_case_study_zorba.md
+        - ideas/031_case_study_war.md
+        - ideas/032_case_study_souten_kouro.md
     - part: "Art — 아름다움의 사례"
       chapters:
         - art/001_galois_quintic.md
@@ -82,6 +84,7 @@ book:
         - art/013_yinyang_wuxing.md
         - art/014_lagrangian.md
         - art/015_dostoevsky_polyphony.md
+        - art/016_goedel_incompleteness.md
     - part: "Protocols — 실행 프로토콜"
       chapters:
         - protocols/001_creator_operating_protocol.md

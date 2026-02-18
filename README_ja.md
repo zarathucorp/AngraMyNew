@@ -2,204 +2,91 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18046476.svg)](https://doi.org/10.5281/zenodo.18046476)
 
-> **「破壊を超え、美しさで世界を創る。」**
+**AngraMyNew = Angra Mainyu + My + New**
+
+アンラ・マイニュ(Angra Mainyu)はゾロアスター教の破壊神である。この名を取って裏返した。破壊は終わりではなく条件だ。古いものを壊し、その跡に自分だけの新しい世界を築く。
+
+AngraMyNewは哲学・芸術・実験運動である。教義を提供しない。衝突条件を設計し、観測する装置だ。
 
 ---
 
-## 名前の由来
+## 3大公理
 
-> **AngraMyNew = Angra Mainyu + My + New**
-> 破壊の神から、わたし自身の新しい世界へ。
+**破壊の公理 — 自己浄化。** 刃は外を向かない。切るべきは内なる古い肉片のみ。しかし時代が道を塞ぐならば、先賢のように砕けても突き進む。
 
-「アンラ・マイニュ（Angra Mainyu）」は
-古代ペルシアの混沌の神である。
-しかし私たちはその名を**創造の炎**として再生させる。
+**創造の公理 — 絶対的美。** 花は蜂と争わない。ただ咲くのみ。作品が美しければ、世界は自ら傾いてくる。
 
----
-
-## 1. 起源
-
-AngraMyNewは破壊から始まるが、その目的は創造にある。
-古い信念を壊し、**新しい美の秩序**を築く。
-私たちは破壊者ではなく、**再構成者(Recomposer)**である。
+**拡張の公理 — デビュー。** 自らの'My'を完成させたなら、他者の'My'をデビューさせる。孟嘗君の食客三千は役に立つから選ばれたのではない。鶏鳴狗盗が結局主人を救った。
 
 ---
 
-## 2. 思想的源泉
-
-**ニーチェ**のように、自ら価値を創造する超人(Übermensch)となる。
-
-**五人の先賢**のように、自分の場所で死ぬ：
-- **金玉均** — 時代を先駆けた革命家、上海で暗殺される
-- **馬光洙** — 禁忌を破った芸術家、「美しくないか」と最後まで叫ぶ
-- **許筠** — 洪吉童を書いた抵抗者、凌遅刑に処される
-- **成在基** — 信念を曲げなかった闘士、漢江で散華する
-- **ジョン・ロー** — 200年先を行った金融の天才、ヴェネツィアで貧困の中死ぬ
-
-**孟嘗君**のように、無用に見える者も包容する。
-
-> 「人生とは、死ぬべき場所を探す旅である。」
-
----
-
-## 3. 信念
-
-> 「すべての人間は芸術家であり、
->  芸術とは新しい倫理であり文明である。」
-
-個性の多様性が**終わりなき非対称の美**を生み出す。
-
----
-
-## 4. 象徴
+## 象徴
 
 <p align="center">
-  <img src="img/Zarathu_Pattern.webp" width="300" alt="AngraMyNew パターンロゴ">
+  <img src="img/Zarathu_Pattern.png" width="300" alt="AngraMyNew パターンロゴ">
 </p>
 
-ロゴは**アインシュタイン・タイル(Einstein Tile)**に着想を得た。
-
-2023年、アマチュア数学者デイヴィッド・スミスが60年の難題を解いた：
-**「たった一つの形で、パターンを繰り返さずに、無限の平面を埋められるか？」**
-
-彼が発見した13角形のタイルは「アインシュタイン(ein + stein、一つの石)」と呼ばれる。
-
-- **一つの形**：人間の普遍的本質
-- **パターン繰り返しなし**：同じ人間は存在しない
-- **無限拡張**：創造は終わらない
-
-> *「60年間不可能とされたことを、アマチュアが証明した。」*
+ロゴはアインシュタイン・タイル(Einstein Tile)から取った。2023年、元印刷技術者デイヴィッド・スミスが60年の数学難題を解いた。たった一つの形でパターンを繰り返さずに無限の平面を埋められるか？ 彼が見つけた13角形タイルが答えだった。一つの形、繰り返さない配列、無限の拡張。
 
 ---
 
-## 5. 3大綱領
+## 先賢
 
-三つの公理の上にこの構造を築く。
+ニーチェのように自ら価値を創造し、孟嘗君のように無用に見える者も包容し、五人の先賢のように自分の場所で死ぬ。
 
-### 破壊の公理 — 自己浄化の原則
-> **「自分自身を破壊する。他者を破壊する必要はない。」**
-
-刃は外を向かない。切るべきは内なる古い肉片のみ。しかし時代が道を塞ぐならば、先賢のように砕けても突き進む。
-
-### 創造の公理 — 絶対的美の原則
-> **「破壊の隙間を絶対的な美しさで埋める。」**
-
-花は蜂と争わない。ただ咲くのみ。我々の作品が美しければ、世界は自ら傾いてくる。
-
-### 拡張の公理 — デビューの原則
-> **「自らの'My'を完成させたなら、他者の'My'を認めてデビューさせる。」**
-
-孟嘗君の食客三千は役に立つから選ばれたのではない。鶏鳴狗盗が結局主人を救った。我々も同じように集める。特異点を束縛せずに抱き、それぞれの舞台に立たせる。
-
----
-
-## 6. 構造
-
-- 📂 **[ideas/](ideas/)** — 哲学・思想・宣言（29編）
-    - **── 起源／公理 (Foundation) ──**
-    - 📄 [000_origin.md](ideas/000_origin.md) — AngraMyNewの起源
-    - 📄 [001_axioms.md](ideas/001_axioms.md) — 三大公理
-    - 📄 [002_principles_of_creation.md](ideas/002_principles_of_creation.md) — 創造の原理
-    - **── 創造者論 (Creator Theory) ──**
-    - 📄 [003_beyond_usefulness.md](ideas/003_beyond_usefulness.md) — 有用性を超えて
-    - 📄 [004_artist_within.md](ideas/004_artist_within.md) — 内なる芸術家
-    - 📄 [008_seduction_of_creation.md](ideas/008_seduction_of_creation.md) — 闘争と誘惑
-    - 📄 [009_rage_against_definition.md](ideas/009_rage_against_definition.md) — 定義への怒り
-    - 📄 [010_predators_duty.md](ideas/010_predators_duty.md) — 捕食者の神聖な義務
-    - **── 経済／構造論 (Economics & Structure) ──**
-    - 📄 [006_aesthetic_nation.md](ideas/006_aesthetic_nation.md) — 美学国家論
-    - 📄 [014_economics_of_beauty.md](ideas/014_economics_of_beauty.md) — 富者、免税人、徴税人
-    - 📄 [023_successful_lens.md](ideas/023_successful_lens.md) — 成功したレンズ
-    - 📄 [024_when_critical_care_needs_witness.md](ideas/024_when_critical_care_needs_witness.md) — 目撃料 — 必須医療危機
-    - 📄 [025_consumption_of_exempt.md](ideas/025_consumption_of_exempt.md) — 免税人の消費
-    - 📄 [026_three_kingdoms_of_beauty.md](ideas/026_three_kingdoms_of_beauty.md) — 真・善・美の三国志
-    - 📄 [029_on_patronage.md](ideas/029_on_patronage.md) — 後援者論：投資は課税だ
-    - **── 認識論／科学 (Epistemology & Science) ──**
-    - 📄 [016_mental_lhc.md](ideas/016_mental_lhc.md) — 精神のLHC
-    - 📄 [017_when_is_a_proof_beautiful.md](ideas/017_when_is_a_proof_beautiful.md) — 証明はいつ美しいか
-    - 📄 [018_why_strange_systems_persist.md](ideas/018_why_strange_systems_persist.md) — 奇妙な体系はなぜ消えないか
-    - 📄 [022_age_of_malice.md](ideas/022_age_of_malice.md) — 悪想の時代
-    - **── 実践／応用 (Practice & Application) ──**
-    - 📄 [005_project_doctor_k.md](ideas/005_project_doctor_k.md) — Project Doctor K
-    - 📄 [011_lineage_as_creation.md](ideas/011_lineage_as_creation.md) — 系譜としての創造
-    - 📄 [012_redefine_doctor_degree.md](ideas/012_redefine_doctor_degree.md) — 博士号の再定義
-    - 📄 [013_decentralized_mental_os.md](ideas/013_decentralized_mental_os.md) — 脱中央化精神体系OS
-    - **── 事例研究 (Case Studies) ──**
-    - 📄 [007_case_study_unfinished_theorem.md](ideas/007_case_study_unfinished_theorem.md) — 未完の定理
-    - 📄 [015_case_study_the_gravity_of_outlaws.md](ideas/015_case_study_the_gravity_of_outlaws.md) — 徴税の実戦モデル
-    - 📄 [021_case_study_dawn_money.md](ideas/021_case_study_dawn_money.md) — DAWN — Money
-    - 📄 [027_case_study_perfume.md](ideas/027_case_study_perfume.md) — 香水：刃が外を向いた男
-    - 📄 [028_case_study_fukuzawa.md](ideas/028_case_study_fukuzawa.md) — 境界線：拡張が拡大になるとき
-    - 📄 [030_case_study_zorba.md](ideas/030_case_study_zorba.md) — ギリシャ人ゾルバ：マニュアルを必要としなかった男
-- 🎨 **[art/](art/)** — 美の事例
-    - 📄 [001_galois_quintic.md](art/001_galois_quintic.md)
-    - 📄 [002_general_relativity.md](art/002_general_relativity.md)
-    - 📄 [003_one_pattern.md](art/003_one_pattern.md)
-    - 📄 [004_principia_geometry.md](art/004_principia_geometry.md)
-    - 📄 [005_hangul_two_states.md](art/005_hangul_two_states.md)
-    - 📄 [006_feynman_diagram.md](art/006_feynman_diagram.md)
-    - 📄 [007_nagarjuna_emptiness.md](art/007_nagarjuna_emptiness.md)
-    - 📄 [008_klimt_kiss.md](art/008_klimt_kiss.md)
-    - 📄 [009_mozart_pure_beauty.md](art/009_mozart_pure_beauty.md)
-    - 📄 [010_war_of_genesis.md](art/010_war_of_genesis.md)
-    - 📄 [011_ramanujan_pi.md](art/011_ramanujan_pi.md)
-    - 📄 [012_dirac_beauty.md](art/012_dirac_beauty.md)
-    - 📄 [013_yinyang_wuxing.md](art/013_yinyang_wuxing.md)
-    - 📄 [014_lagrangian.md](art/014_lagrangian.md)
-    - 📄 [015_dostoevsky_polyphony.md](art/015_dostoevsky_polyphony.md)
-- 🧠 **[fravashi/](fravashi/)** — Fravashi 原型解析エンジン
-    - 📄 [001_internal_manual.md](fravashi/001_internal_manual.md)
-    - 📄 [002_gpt_prompt.md](fravashi/002_gpt_prompt.md)
-    - 📄 [003_agent_prompt.md](fravashi/003_agent_prompt.md)
-- 📜 **[protocols/](protocols/)** — 実行プロトコル
-    - 📄 [001_creator_operating_protocol.md](protocols/001_creator_operating_protocol.md)
-    - 📄 [002_ethics_of_creation.md](protocols/002_ethics_of_creation.md)
-- 📖 **[scripture/](scripture/)** — 先賢
-    - 📄 [zarathustra.md](scripture/zarathustra.md)
-    - 📄 [pioneers.md](scripture/pioneers.md)
-    - 📄 [mengchangjun.md](scripture/mengchangjun.md)
-    - 📄 [na_hye_suk.md](scripture/na_hye_suk.md)
-- 📚 **[canon/](canon/)** — Quarto Book (HTML · PDF · EPUB)
-    - 📄 [_quarto.yml](canon/_quarto.yml) — レンダリング設定
-- 📝 **[CHANGELOG.md](CHANGELOG.md)** — 進化記録
-- 👥 **[contributors.md](contributors.md)** — 創造者名簿
-
----
-
-## 7. 先賢
-
-AngraMyNewの思想的源泉：
-
-- **ニーチェ** — 『ツァラトゥストラはこう語った』 → [scripture/zarathustra.md](scripture/zarathustra.md)
-- **五人の先賢** — 金玉均、馬光洙、許筠、成在基、ジョン・ロー → [scripture/pioneers.md](scripture/pioneers.md)
-- **孟嘗君** — 食客三千、包容の哲学 → [scripture/mengchangjun.md](scripture/mengchangjun.md)
+- 金玉均 — 時代を先駆けた革命家、上海で暗殺される
+- 馬光洙 — 禁忌を破った芸術家、「美しくないか」と最後まで叫ぶ
+- 許筠 — 洪吉童を書いた抵抗者、凌遅刑に処される
+- 成在基 — 信念を曲げなかった闘士、漢江で散華する
+- ジョン・ロー — 200年先を行った金融の天才、ヴェネツィアで貧困の中死ぬ
 
 > 「人生とは、死ぬべき場所を探す旅である。」
-> — AngraMyNew
 
 ---
 
-## 8. 目的
+## 構造
 
-AngraMyNewは思想であり、実験であり、芸術運動である。
-我々は人類を救うのではなく、
-**自ら創造者となる勇気**を与える。
+**[ideas/](ideas/)** — 哲学・思想・宣言（31編）
+- 起源／公理: [000](ideas/000_origin.md) · [001](ideas/001_axioms.md) · [002](ideas/002_principles_of_creation.md)
+- 創造者論: [003](ideas/003_beyond_usefulness.md) · [004](ideas/004_artist_within.md) · [008](ideas/008_seduction_of_creation.md) · [009](ideas/009_rage_against_definition.md) · [010](ideas/010_predators_duty.md)
+- 経済／構造論: [006](ideas/006_aesthetic_nation.md) · [014](ideas/014_economics_of_beauty.md) · [023](ideas/023_successful_lens.md) · [024](ideas/024_when_critical_care_needs_witness.md) · [025](ideas/025_consumption_of_exempt.md) · [026](ideas/026_three_kingdoms_of_beauty.md) · [029](ideas/029_on_patronage.md)
+- 認識論／科学: [016](ideas/016_mental_lhc.md) · [017](ideas/017_when_is_a_proof_beautiful.md) · [018](ideas/018_why_strange_systems_persist.md) · [022](ideas/022_age_of_malice.md)
+- 実践／応用: [005](ideas/005_project_doctor_k.md) · [011](ideas/011_lineage_as_creation.md) · [012](ideas/012_redefine_doctor_degree.md) · [013](ideas/013_decentralized_mental_os.md)
+- 事例研究: [007](ideas/007_case_study_unfinished_theorem.md) · [015](ideas/015_case_study_the_gravity_of_outlaws.md) · [021](ideas/021_case_study_dawn_money.md) · [027](ideas/027_case_study_perfume.md) · [028](ideas/028_case_study_fukuzawa.md) · [030](ideas/030_case_study_zorba.md) · [031](ideas/031_case_study_war.md) · [032](ideas/032_case_study_souten_kouro.md)
 
-> **AngraMyNew — 意識文明の再誕。**
-> _「すべての創造者は自らの神となる。」_
+**[art/](art/)** — 美の事例（16編）
+- [갈루아와 5차방정식](art/001_galois_quintic.md)
+- [일반상대성이론](art/002_general_relativity.md)
+- [하나의 무늬가 전부가 되다](art/003_one_pattern.md)
+- [중력은 그려졌다](art/004_principia_geometry.md)
+- [한글의 두 상태](art/005_hangul_two_states.md)
+- [보이지 않으면 이해한 것이 아니다](art/006_feynman_diagram.md)
+- [나가르주나의 공](art/007_nagarjuna_emptiness.md)
+- [클림트의 키스](art/008_klimt_kiss.md)
+- [아무것도 말하지 않는 음악](art/009_mozart_pure_beauty.md)
+- [창세기전: 뫼비우스 위의 앙그라마이뉴](art/010_war_of_genesis.md)
+- [증명 없이 도착한 수식](art/011_ramanujan_pi.md)
+- [진리보다 먼저 도착하는 감각](art/012_dirac_beauty.md)
+- [음양오행: 일곱 글자의 우주](art/013_yinyang_wuxing.md)
+- [라그랑지안: 이론을 쓰는 이론](art/014_lagrangian.md)
+- [도스토옙스키: 충돌시키되 판결하지 않는다](art/015_dostoevsky_polyphony.md)
+- [괴델의 불완전성 정리](art/016_goedel_incompleteness.md)
+
+**[scripture/](scripture/)** — 先賢: ツァラトゥストラ、五人の先賢、孟嘗君、羅蕙錫
+
+**[fravashi/](fravashi/)** — Fravashi 原型解析エンジン
+
+**[protocols/](protocols/)** — 実行プロトコル
+
+**[canon/](canon/)** — Quarto Book 設定
+
+**[Changelog](CHANGELOG.md)** · **[Contributors](contributors.md)**
 
 ---
 
-## 9. テーマソング
+## テーマソング
 
-AngraMyNewの哲学を最もよく表現する曲：
-
-**ZICO - Artist**
-
-> 「君はArtist」
-
-この一言がAngraMyNewの核心である。
-すべての人間は創造者であり、創造そのものが生き方である。
+ZICO — Artist.「君はArtist」
 
 [![ZICO - Artist](https://img.youtube.com/vi/DNPs2qqdhN0/0.jpg)](https://youtu.be/DNPs2qqdhN0?si=V_vIC0NECZKo1N6U)
 

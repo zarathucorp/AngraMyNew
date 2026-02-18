@@ -75,7 +75,7 @@
 이 질문은 돈의 문제가 아니다.
 **삶을 결제하는 구조 자체**에 대한 질문이다.
 
-→ [014_economics_of_beauty.md](014_economics_of_beauty.md) — 종속, 면세, 징세
+→ [부자, 면세인, 그리고 징세인 (The Economics of Beauty)](014_economics_of_beauty.md) — 종속, 면세, 징세
 
 ---
 
@@ -295,6 +295,6 @@ DAWN은 같은 구조를 **두 개의 매체**로 동시에 보여준다.
 
 ### 관련 문서
 
-→ [014_economics_of_beauty.md](014_economics_of_beauty.md) — 부자, 면세인, 징세인
-→ [015_case_study_the_gravity_of_outlaws.md](015_case_study_the_gravity_of_outlaws.md) — 철구와 과즙세연
-→ [016_mental_lhc.md](016_mental_lhc.md) — 정신의 LHC: 관측 보고서
+→ [부자, 면세인, 그리고 징세인 (The Economics of Beauty)](014_economics_of_beauty.md) — 부자, 면세인, 징세인
+→ [징세의 실전 모델: 혼돈, 욕망, 주권의 아키텍처](015_case_study_the_gravity_of_outlaws.md) — 철구와 과즙세연
+→ [AngraMyNew는 정신의 LHC다](016_mental_lhc.md) — 정신의 LHC: 관측 보고서

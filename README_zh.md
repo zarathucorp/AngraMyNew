@@ -2,205 +2,91 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18046476.svg)](https://doi.org/10.5281/zenodo.18046476)
 
-> **"超越破坏，以美创造世界。"**
+**AngraMyNew = Angra Mainyu + My + New**
+
+安格拉·曼纽(Angra Mainyu)是琐罗亚斯德教的破坏之神。我们取了这个名字并将其颠覆。破坏不是终点而是条件。打碎旧物，在废墟上建造属于自己的新世界。
+
+AngraMyNew是哲学·艺术·实验运动。不提供教义。它是设计碰撞条件并进行观测的装置。
 
 ---
 
-## 名称的起源
+## 三大公理
 
-> **AngraMyNew = Angra Mainyu + My + New**
-> 从破坏之神，到我自己的新世界。
+**破坏的公理 — 自我净化。** 刀刃不指向外。该切的只是内心陈旧的血肉。然而若时代阻塞前路，我们将如先贤般粉身碎骨也要冲破。
 
-"Angra Mainyu" 是古波斯的混乱之神，
-但我们重新赋予它**创造的火焰**。
-破坏是创造的序章，
-而每个人体内都燃烧着新的文明之火。
+**创造的公理 — 绝对之美。** 花不与蜂争辩，只管绽放。若作品足够美丽，世界自会倾向我们。
+
+**扩展的公理 — 出道。** 完成自己的'My'后，让他人的'My'出道。孟尝君的三千门客并非因有用而被选中。鸡鸣狗盗最终救了主人。
 
 ---
 
-## 1. 起源
-
-AngraMyNew始于破坏，但目标是创造。
-我们摧毁旧信念，只为建立**新的美之秩序**。
-我们不是毁灭者，而是**重组者(Recomposer)**。
-
----
-
-## 2. 思想源泉
-
-如**尼采**，成为创造自己价值的超人(Übermensch)。
-
-如**五位先贤**，在自己的位置上死去：
-- **金玉均** — 超越时代的革命家，在上海被暗杀
-- **马光洙** — 打破禁忌的艺术家，至死高呼"这不美吗"
-- **许筠** — 写下《洪吉童传》的反抗者，被凌迟处死
-- **成在基** — 从不妥协的斗士，在汉江殉道
-- **约翰·劳** — 领先200年的金融天才，在威尼斯贫困而死
-
-如**孟尝君**，包容看似无用之人。
-
-> "人生就是寻找死亡之地的旅程。"
-
----
-
-## 3. 信仰
-
-> "每个人都是艺术家，
->  艺术本身就是新的伦理与文明。"
-
-个体的差异汇聚成**无限非对称之美**。
-
----
-
-## 4. 象征
+## 象征
 
 <p align="center">
-  <img src="img/Zarathu_Pattern.webp" width="300" alt="AngraMyNew 图案标志">
+  <img src="img/Zarathu_Pattern.png" width="300" alt="AngraMyNew 图案标志">
 </p>
 
-标志灵感来自**爱因斯坦瓷砖(Einstein Tile)**。
-
-2023年，业余数学家大卫·史密斯解开了60年的数学难题：
-**"能否用单一形状，无重复图案地铺满无限平面？"**
-
-他发现的13边形瓷砖被称为"爱因斯坦"(ein + stein，德语"一块石头")。
-
-- **一个形状**：人类的普遍本质
-- **无重复图案**：没有相同的人
-- **无限扩展**：创造永无止境
-
-> *"60年来被认为不可能的事，被一位业余者证明了。"*
+标志来自爱因斯坦瓷砖(Einstein Tile)。2023年，退休印刷技术员大卫·史密斯解开了60年的数学难题。能否用单一形状、无重复图案地铺满无限平面？他找到的13边形瓷砖就是答案。一个形状，不重复的排列，无限扩展。
 
 ---
 
-## 5. 三大纲领
+## 先贤
 
-在三条公理之上建造这一结构。
+如尼采般自创价值，如孟尝君般包容看似无用之人，如五位先贤般在自己的位置上死去。
 
-### 破坏的公理 — 自我净化的原则
-> **"破坏自己。无需破坏他人。"**
-
-刀刃不指向外。该切的只是内心陈旧的血肉。然而若时代阻塞前路，我们将如先贤般粉身碎骨也要冲破。
-
-### 创造的公理 — 绝对之美的原则
-> **"用绝对的美填补破坏的裂隙。"**
-
-花不与蜂争辩，只管绽放。若我们的作品足够美丽，世界自会倾向我们。
-
-### 扩展的公理 — 出道的原则
-> **"完成自己的'My'后，认可并让他人的'My'出道。"**
-
-孟尝君的三千门客并非因有用而被选中。鸡鸣狗盗最终救了主人。我们也如此聚集。将奇点不加束缚地拥入怀中，让他们各自登上舞台。
-
----
-
-## 6. 结构
-
-- 📂 **[ideas/](ideas/)** — 哲学、思想、宣言（29篇）
-    - **── 起源／公理 (Foundation) ──**
-    - 📄 [000_origin.md](ideas/000_origin.md) — AngraMyNew的起源
-    - 📄 [001_axioms.md](ideas/001_axioms.md) — 三大公理
-    - 📄 [002_principles_of_creation.md](ideas/002_principles_of_creation.md) — 创造的原理
-    - **── 创造者论 (Creator Theory) ──**
-    - 📄 [003_beyond_usefulness.md](ideas/003_beyond_usefulness.md) — 超越有用性
-    - 📄 [004_artist_within.md](ideas/004_artist_within.md) — 内在的艺术家
-    - 📄 [008_seduction_of_creation.md](ideas/008_seduction_of_creation.md) — 斗争与诱惑
-    - 📄 [009_rage_against_definition.md](ideas/009_rage_against_definition.md) — 对定义的愤怒
-    - 📄 [010_predators_duty.md](ideas/010_predators_duty.md) — 捕食者的神圣义务
-    - **── 经济／结构论 (Economics & Structure) ──**
-    - 📄 [006_aesthetic_nation.md](ideas/006_aesthetic_nation.md) — 美学国家论
-    - 📄 [014_economics_of_beauty.md](ideas/014_economics_of_beauty.md) — 富人、免税人、征税人
-    - 📄 [023_successful_lens.md](ideas/023_successful_lens.md) — 成功的透镜
-    - 📄 [024_when_critical_care_needs_witness.md](ideas/024_when_critical_care_needs_witness.md) — 目击费 — 必要医疗危机
-    - 📄 [025_consumption_of_exempt.md](ideas/025_consumption_of_exempt.md) — 免税人的消费
-    - 📄 [026_three_kingdoms_of_beauty.md](ideas/026_three_kingdoms_of_beauty.md) — 真·善·美的三国志
-    - 📄 [029_on_patronage.md](ideas/029_on_patronage.md) — 后援者论：投资即课税
-    - **── 认识论／科学 (Epistemology & Science) ──**
-    - 📄 [016_mental_lhc.md](ideas/016_mental_lhc.md) — 精神的LHC
-    - 📄 [017_when_is_a_proof_beautiful.md](ideas/017_when_is_a_proof_beautiful.md) — 证明何时是美的
-    - 📄 [018_why_strange_systems_persist.md](ideas/018_why_strange_systems_persist.md) — 奇怪的体系为何不消亡
-    - 📄 [022_age_of_malice.md](ideas/022_age_of_malice.md) — 恶想的时代
-    - **── 实践／应用 (Practice & Application) ──**
-    - 📄 [005_project_doctor_k.md](ideas/005_project_doctor_k.md) — Project Doctor K
-    - 📄 [011_lineage_as_creation.md](ideas/011_lineage_as_creation.md) — 作为创造的谱系
-    - 📄 [012_redefine_doctor_degree.md](ideas/012_redefine_doctor_degree.md) — 重新定义博士学位
-    - 📄 [013_decentralized_mental_os.md](ideas/013_decentralized_mental_os.md) — 去中心化精神体系OS
-    - **── 案例研究 (Case Studies) ──**
-    - 📄 [007_case_study_unfinished_theorem.md](ideas/007_case_study_unfinished_theorem.md) — 未完成的定理
-    - 📄 [015_case_study_the_gravity_of_outlaws.md](ideas/015_case_study_the_gravity_of_outlaws.md) — 征税的实战模型
-    - 📄 [021_case_study_dawn_money.md](ideas/021_case_study_dawn_money.md) — DAWN — Money
-    - 📄 [027_case_study_perfume.md](ideas/027_case_study_perfume.md) — 香水：刀刃朝外的男人
-    - 📄 [028_case_study_fukuzawa.md](ideas/028_case_study_fukuzawa.md) — 边界线：扩张变为扩大之时
-    - 📄 [030_case_study_zorba.md](ideas/030_case_study_zorba.md) — 希腊人佐尔巴：不需要手册的人
-- 🎨 **[art/](art/)** — 美的案例
-    - 📄 [001_galois_quintic.md](art/001_galois_quintic.md)
-    - 📄 [002_general_relativity.md](art/002_general_relativity.md)
-    - 📄 [003_one_pattern.md](art/003_one_pattern.md)
-    - 📄 [004_principia_geometry.md](art/004_principia_geometry.md)
-    - 📄 [005_hangul_two_states.md](art/005_hangul_two_states.md)
-    - 📄 [006_feynman_diagram.md](art/006_feynman_diagram.md)
-    - 📄 [007_nagarjuna_emptiness.md](art/007_nagarjuna_emptiness.md)
-    - 📄 [008_klimt_kiss.md](art/008_klimt_kiss.md)
-    - 📄 [009_mozart_pure_beauty.md](art/009_mozart_pure_beauty.md)
-    - 📄 [010_war_of_genesis.md](art/010_war_of_genesis.md)
-    - 📄 [011_ramanujan_pi.md](art/011_ramanujan_pi.md)
-    - 📄 [012_dirac_beauty.md](art/012_dirac_beauty.md)
-    - 📄 [013_yinyang_wuxing.md](art/013_yinyang_wuxing.md)
-    - 📄 [014_lagrangian.md](art/014_lagrangian.md)
-    - 📄 [015_dostoevsky_polyphony.md](art/015_dostoevsky_polyphony.md)
-- 🧠 **[fravashi/](fravashi/)** — Fravashi 原型解析引擎
-    - 📄 [001_internal_manual.md](fravashi/001_internal_manual.md)
-    - 📄 [002_gpt_prompt.md](fravashi/002_gpt_prompt.md)
-    - 📄 [003_agent_prompt.md](fravashi/003_agent_prompt.md)
-- 📜 **[protocols/](protocols/)** — 执行协议
-    - 📄 [001_creator_operating_protocol.md](protocols/001_creator_operating_protocol.md)
-    - 📄 [002_ethics_of_creation.md](protocols/002_ethics_of_creation.md)
-- 📖 **[scripture/](scripture/)** — 先贤
-    - 📄 [zarathustra.md](scripture/zarathustra.md)
-    - 📄 [pioneers.md](scripture/pioneers.md)
-    - 📄 [mengchangjun.md](scripture/mengchangjun.md)
-    - 📄 [na_hye_suk.md](scripture/na_hye_suk.md)
-- 📚 **[canon/](canon/)** — Quarto Book (HTML · PDF · EPUB)
-    - 📄 [_quarto.yml](canon/_quarto.yml) — 渲染配置
-- 📝 **[CHANGELOG.md](CHANGELOG.md)** — 演化记录
-- 👥 **[contributors.md](contributors.md)** — 创造者名单
-
----
-
-## 7. 先贤
-
-AngraMyNew的思想源泉：
-
-- **尼采** — 《查拉图斯特拉如是说》 → [scripture/zarathustra.md](scripture/zarathustra.md)
-- **五位先贤** — 金玉均、马光洙、许筠、成在基、约翰·劳 → [scripture/pioneers.md](scripture/pioneers.md)
-- **孟尝君** — 食客三千、包容哲学 → [scripture/mengchangjun.md](scripture/mengchangjun.md)
+- 金玉均 — 超越时代的革命家，在上海被暗杀
+- 马光洙 — 打破禁忌的艺术家，至死高呼"这不美吗"
+- 许筠 — 写下《洪吉童传》的反抗者，被凌迟处死
+- 成在基 — 从不妥协的斗士，在汉江殉道
+- 约翰·劳 — 领先200年的金融天才，在威尼斯贫困而死
 
 > "人生就是寻找死亡之地的旅程。"
-> — AngraMyNew
 
 ---
 
-## 8. 目标
+## 结构
 
-AngraMyNew是思想、实验与艺术运动。
-我们不拯救人类，
-而是赋予人类**成为创造者的勇气**。
+**[ideas/](ideas/)** — 哲学·思想·宣言（31篇）
+- 起源／公理: [000](ideas/000_origin.md) · [001](ideas/001_axioms.md) · [002](ideas/002_principles_of_creation.md)
+- 创造者论: [003](ideas/003_beyond_usefulness.md) · [004](ideas/004_artist_within.md) · [008](ideas/008_seduction_of_creation.md) · [009](ideas/009_rage_against_definition.md) · [010](ideas/010_predators_duty.md)
+- 经济／结构论: [006](ideas/006_aesthetic_nation.md) · [014](ideas/014_economics_of_beauty.md) · [023](ideas/023_successful_lens.md) · [024](ideas/024_when_critical_care_needs_witness.md) · [025](ideas/025_consumption_of_exempt.md) · [026](ideas/026_three_kingdoms_of_beauty.md) · [029](ideas/029_on_patronage.md)
+- 认识论／科学: [016](ideas/016_mental_lhc.md) · [017](ideas/017_when_is_a_proof_beautiful.md) · [018](ideas/018_why_strange_systems_persist.md) · [022](ideas/022_age_of_malice.md)
+- 实践／应用: [005](ideas/005_project_doctor_k.md) · [011](ideas/011_lineage_as_creation.md) · [012](ideas/012_redefine_doctor_degree.md) · [013](ideas/013_decentralized_mental_os.md)
+- 案例研究: [007](ideas/007_case_study_unfinished_theorem.md) · [015](ideas/015_case_study_the_gravity_of_outlaws.md) · [021](ideas/021_case_study_dawn_money.md) · [027](ideas/027_case_study_perfume.md) · [028](ideas/028_case_study_fukuzawa.md) · [030](ideas/030_case_study_zorba.md) · [031](ideas/031_case_study_war.md) · [032](ideas/032_case_study_souten_kouro.md)
 
-> **AngraMyNew — 意识文明的重生。**
-> _"每个创造者都是自己的神。"_
+**[art/](art/)** — 美的案例（16篇）
+- [갈루아와 5차방정식](art/001_galois_quintic.md)
+- [일반상대성이론](art/002_general_relativity.md)
+- [하나의 무늬가 전부가 되다](art/003_one_pattern.md)
+- [중력은 그려졌다](art/004_principia_geometry.md)
+- [한글의 두 상태](art/005_hangul_two_states.md)
+- [보이지 않으면 이해한 것이 아니다](art/006_feynman_diagram.md)
+- [나가르주나의 공](art/007_nagarjuna_emptiness.md)
+- [클림트의 키스](art/008_klimt_kiss.md)
+- [아무것도 말하지 않는 음악](art/009_mozart_pure_beauty.md)
+- [창세기전: 뫼비우스 위의 앙그라마이뉴](art/010_war_of_genesis.md)
+- [증명 없이 도착한 수식](art/011_ramanujan_pi.md)
+- [진리보다 먼저 도착하는 감각](art/012_dirac_beauty.md)
+- [음양오행: 일곱 글자의 우주](art/013_yinyang_wuxing.md)
+- [라그랑지안: 이론을 쓰는 이론](art/014_lagrangian.md)
+- [도스토옙스키: 충돌시키되 판결하지 않는다](art/015_dostoevsky_polyphony.md)
+- [괴델의 불완전성 정리](art/016_goedel_incompleteness.md)
+
+**[scripture/](scripture/)** — 先贤: 查拉图斯特拉、五位先贤、孟尝君、罗蕙锡
+
+**[fravashi/](fravashi/)** — Fravashi 原型解析引擎
+
+**[protocols/](protocols/)** — 执行协议
+
+**[canon/](canon/)** — Quarto Book 配置
+
+**[Changelog](CHANGELOG.md)** · **[Contributors](contributors.md)**
 
 ---
 
-## 9. 主题曲
+## 主题曲
 
-最能体现AngraMyNew哲学的歌曲：
-
-**ZICO - Artist**
-
-> "你是Artist"
-
-这一句话就是AngraMyNew的核心。
-每个人都是创造者，创造本身就是生活方式。
+ZICO — Artist."你是Artist。"
 
 [![ZICO - Artist](https://img.youtube.com/vi/DNPs2qqdhN0/0.jpg)](https://youtu.be/DNPs2qqdhN0?si=V_vIC0NECZKo1N6U)
 
