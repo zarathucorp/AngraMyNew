@@ -45,6 +45,7 @@ book:
         - ideas/025_consumption_of_exempt.md
         - ideas/026_three_kingdoms_of_beauty.md
         - ideas/029_on_patronage.md
+        - ideas/033_topology_of_prostitution.md
     - part: "Ideas — 인식론과 과학"
       chapters:
         - ideas/016_mental_lhc.md
@@ -89,6 +90,7 @@ book:
       chapters:
         - protocols/001_creator_operating_protocol.md
         - protocols/002_ethics_of_creation.md
+        - protocols/003_severance_protocol.md
     - part: "Fravashi — 원형 해석 엔진"
       chapters:
         - fravashi/002_gpt_prompt.md

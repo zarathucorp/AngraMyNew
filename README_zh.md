@@ -2,11 +2,11 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18046476.svg)](https://doi.org/10.5281/zenodo.18046476)
 
+*超越破坏，以美构建世界*
+
 **AngraMyNew = Angra Mainyu + My + New**
 
-安格拉·曼纽(Angra Mainyu)是琐罗亚斯德教的破坏之神，我们取了这个名字并将其颠覆。破坏不是终点而是条件——打碎旧物，在废墟上建造属于自己的新世界。
-
-AngraMyNew是哲学·艺术·实验运动。不提供教义，而是设计碰撞条件并进行观测的装置。
+重新诠释琐罗亚斯德教的破坏之神安格拉·曼纽(Angra Mainyu)。破坏不是终点而是起点——打碎旧物，在废墟上建造属于自己的新世界。
 
 ---
 
@@ -54,7 +54,7 @@ AngraMyNew是哲学·艺术·实验运动。不提供教义，而是设计碰撞
 
 ## 结构
 
-**[ideas/](ideas/)** — 哲学·思想·宣言（31篇）
+**[ideas/](ideas/)** — 哲学·思想·宣言（32篇）
 
 起源／公理
 - [AngraMyNew의 기원](ideas/000_origin.md)
@@ -76,6 +76,7 @@ AngraMyNew是哲学·艺术·实验运动。不提供教义，而是设计碰撞
 - [면세인의 소비](ideas/025_consumption_of_exempt.md)
 - [진·선·미의 삼국지](ideas/026_three_kingdoms_of_beauty.md)
 - [후원자론](ideas/029_on_patronage.md)
+- [매춘의 위상학](ideas/033_topology_of_prostitution.md)
 
 认识论／科学
 - [정신의 LHC](ideas/016_mental_lhc.md)

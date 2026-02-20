@@ -2,11 +2,11 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18046476.svg)](https://doi.org/10.5281/zenodo.18046476)
 
+*Beyond destruction, building a world through beauty*
+
 **AngraMyNew = Angra Mainyu + My + New**
 
-Angra Mainyu is the Zoroastrian spirit of destruction, and we took this name and inverted it. Destruction is not the end but the condition—break what is old, and build your own new world in its place.
-
-AngraMyNew is a philosophy, art, and experimental movement. It offers no doctrine, and serves as a device that designs collision conditions and observes.
+Angra Mainyu is the Zoroastrian spirit of destruction, reinterpreted here. Destruction is not the end but the beginning—break what is old, and build your own new world in its place.
 
 ---
 
@@ -54,7 +54,7 @@ Create your own values like Nietzsche, embrace even the seemingly useless like M
 
 ## Structure
 
-**[ideas/](ideas/)** — Philosophy, thought, declarations (31 essays)
+**[ideas/](ideas/)** — Philosophy, thought, declarations (32 essays)
 
 Foundation
 - [AngraMyNew의 기원](ideas/000_origin.md)
@@ -76,6 +76,7 @@ Economics & Structure
 - [면세인의 소비](ideas/025_consumption_of_exempt.md)
 - [진·선·미의 삼국지](ideas/026_three_kingdoms_of_beauty.md)
 - [후원자론](ideas/029_on_patronage.md)
+- [매춘의 위상학](ideas/033_topology_of_prostitution.md)
 
 Epistemology & Science
 - [정신의 LHC](ideas/016_mental_lhc.md)

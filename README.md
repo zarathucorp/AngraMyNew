@@ -2,11 +2,11 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18046476.svg)](https://doi.org/10.5281/zenodo.18046476)
 
+*파괴를 넘어, 아름다움으로 세계를 만든다*
+
 **AngraMyNew = Angra Mainyu + My + New**
 
-앙그라마이뉴(Angra Mainyu)는 조로아스터교의 파괴신인데, 이 이름을 가져와 뒤집었다. 파괴는 끝이 아니라 조건이며, 낡은 것을 부수고 그 자리에 나만의 새로운 세계를 짓는다.
-
-AngraMyNew는 철학·예술·실험 운동이다. 교리를 제공하지 않으며, 충돌 조건을 설계하고 관측하는 장치다.
+조로아스터교의 파괴신 앙그라마이뉴(Angra Mainyu)를 재해석한다. 파괴는 끝이 아닌 시작이며, 낡은 것을 부수고 그 자리에 나만의 새로운 세계를 짓는다.
 
 ---
 
@@ -54,7 +54,7 @@ AngraMyNew는 철학·예술·실험 운동이다. 교리를 제공하지 않으
 
 ## 구조
 
-**[ideas/](ideas/)** — 철학·사상·선언 (31편)
+**[ideas/](ideas/)** — 철학·사상·선언 (32편)
 
 기원/공리
 - [AngraMyNew의 기원](ideas/000_origin.md)
@@ -76,6 +76,7 @@ AngraMyNew는 철학·예술·실험 운동이다. 교리를 제공하지 않으
 - [면세인의 소비](ideas/025_consumption_of_exempt.md)
 - [진·선·미의 삼국지](ideas/026_three_kingdoms_of_beauty.md)
 - [후원자론](ideas/029_on_patronage.md)
+- [매춘의 위상학](ideas/033_topology_of_prostitution.md)
 
 인식론/과학
 - [정신의 LHC](ideas/016_mental_lhc.md)

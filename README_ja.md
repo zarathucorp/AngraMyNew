@@ -2,11 +2,11 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18046476.svg)](https://doi.org/10.5281/zenodo.18046476)
 
+*破壊を超え、美しさで世界を創る*
+
 **AngraMyNew = Angra Mainyu + My + New**
 
-アンラ・マイニュ(Angra Mainyu)はゾロアスター教の破壊神であるが、この名を取って裏返した。破壊は終わりではなく条件であり、古いものを壊してその跡に自分だけの新しい世界を築く。
-
-AngraMyNewは哲学・芸術・実験運動である。教義を提供せず、衝突条件を設計し観測する装置だ。
+ゾロアスター教の破壊神アンラ・マイニュ(Angra Mainyu)を再解釈する。破壊は終わりではなく始まりであり、古いものを壊してその跡に自分だけの新しい世界を築く。
 
 ---
 
@@ -54,7 +54,7 @@ AngraMyNewは哲学・芸術・実験運動である。教義を提供せず、�
 
 ## 構造
 
-**[ideas/](ideas/)** — 哲学・思想・宣言（31編）
+**[ideas/](ideas/)** — 哲学・思想・宣言（32編）
 
 起源／公理
 - [AngraMyNew의 기원](ideas/000_origin.md)
@@ -76,6 +76,7 @@ AngraMyNewは哲学・芸術・実験運動である。教義を提供せず、�
 - [면세인의 소비](ideas/025_consumption_of_exempt.md)
 - [진·선·미의 삼국지](ideas/026_three_kingdoms_of_beauty.md)
 - [후원자론](ideas/029_on_patronage.md)
+- [매춘의 위상학](ideas/033_topology_of_prostitution.md)
 
 認識論／科学
 - [정신의 LHC](ideas/016_mental_lhc.md)
