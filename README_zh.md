@@ -54,7 +54,7 @@
 
 ## 结构
 
-**[ideas/](ideas/)** — 哲学·思想·宣言（32篇）
+**[ideas/](ideas/)** — 哲学·思想·宣言（35篇）
 
 起源／公理
 - [AngraMyNew의 기원](ideas/000_origin.md)
@@ -77,6 +77,9 @@
 - [진·선·미의 삼국지](ideas/026_three_kingdoms_of_beauty.md)
 - [후원자론](ideas/029_on_patronage.md)
 - [매춘의 위상학](ideas/033_topology_of_prostitution.md)
+- [죽음: 시스템이 징수하는 마지막 세금](ideas/034_death_the_final_tax.md)
+- [결혼: 종속의 합병인가, 주권자의 쌍성계인가](ideas/035_marriage_binary_star_or_shackle.md)
+- [K-매트릭스: 단일 궤도의 블랙홀](ideas/036_k_matrix_single_orbit.md)
 
 认识论／科学
 - [정신의 LHC](ideas/016_mental_lhc.md)
