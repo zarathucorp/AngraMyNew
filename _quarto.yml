@@ -7,9 +7,9 @@ project:
 
 book:
   title: "AngraMyNew"
-  subtitle: "파괴, 창조, 확장 — 의식 문명의 실험 장치"
+  subtitle: "v7.7 — 파괴, 창조, 확장 — 의식 문명의 실험 장치"
   author: "Zarathu"
-  date: "v7.7 | 2026-02-23"
+  date: today
   repo-url: https://github.com/zarathucorp/AngraMyNew
   repo-branch: master
   repo-actions: [source]
