@@ -54,7 +54,7 @@
 
 ## 構造
 
-**[ideas/](ideas/)** — 哲学・思想・宣言（36編）
+**[ideas/](ideas/)** — 哲学・思想・宣言（37編）
 
 起源／公理
 - [AngraMyNew의 기원](ideas/000_origin.md)
@@ -81,6 +81,7 @@
 - [결혼: 종속의 합병인가, 주권자의 쌍성계인가](ideas/035_marriage_binary_star_or_shackle.md)
 - [K-매트릭스: 단일 궤도의 블랙홀](ideas/036_k_matrix_single_orbit.md)
 - [음의 기울기: 내리막의 미적분학](ideas/037_negative_slope.md)
+- [위상학적 종교개혁: 제네바에서 조선까지](ideas/038_topological_reformation.md)
 
 認識論／科学
 - [정신의 LHC](ideas/016_mental_lhc.md)
