@@ -54,7 +54,7 @@
 
 ## 구조
 
-**[ideas/](ideas/)** — 철학·사상·선언 (37편)
+**[ideas/](ideas/)** — 철학·사상·선언 (38편)
 
 기원/공리
 - [AngraMyNew의 기원](ideas/000_origin.md)
@@ -86,6 +86,7 @@
 인식론/과학
 - [정신의 LHC](ideas/016_mental_lhc.md)
 - [증명은 언제 아름다운가](ideas/017_when_is_a_proof_beautiful.md)
+- [세 개의 손실함수](ideas/039_three_loss_functions.md)
 - [이상한 체계들은 왜 사라지지 않는가](ideas/018_why_strange_systems_persist.md)
 - [악상의 시대](ideas/022_age_of_malice.md)
 
