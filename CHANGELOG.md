@@ -1,5 +1,25 @@
 # Changelog
 
+## v8.0 — 아름다움의 사례 9편 (2026-02-28)
+
+### 추가
+- `art/017_bcs_superconductivity.md` — 밀어내는 것들이 함께 흐르다: BCS 초전도
+- `art/018_gaussian_integer.md` — 보이지 않던 인수: 가우스 정수와 좌표계의 확장
+- `art/019_generating_function.md` — 세지 않고 센다: 생성함수
+- `art/020_continued_fraction.md` — 가장 단순한 수가 가장 무리하다: 연분수와 황금비
+- `art/021_coordinate_guarantee.md` — 영감이 필요 없는 증명: 보조선 vs 좌표
+- `art/022_p_adic_distance.md` — 가까움은 하나가 아니다: p-adic 거리
+- `art/023_probabilistic_method.md` — 구성 없는 존재: 에르되시의 확률적 방법
+- `art/024_hodge_combinatorics.md` — 없는 기하학을 지었다: 허준이와 조합론의 호지 이론
+- `art/025_yi_sang_ogamdo.md` — 뜻을 지운 자리: 이상의 오감도
+
+### 변경
+- `_quarto.yml` — art/017–025 챕터 추가, v8.0 버전 반영
+- README (한/영/일/중) — art/ 편수 16편→25편, 017–025 항목 추가
+- `fravashi/004_agent_context_guide.md` — art/ 편수 24편→25편, 사례 목록 6편 추가
+
+---
+
 ## v7.9 — 독백의 두 얼굴 (2026-02-28)
 
 ### 추가

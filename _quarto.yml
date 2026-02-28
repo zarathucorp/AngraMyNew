@@ -7,7 +7,7 @@ project:
 
 book:
   title: "AngraMyNew"
-  subtitle: "v7.9 — 파괴, 창조, 확장 — 의식 문명의 실험 장치"
+  subtitle: "v8.0 — 파괴, 창조, 확장 — 의식 문명의 실험 장치"
   author: "Zarathu"
   date: today
   repo-url: https://github.com/zarathucorp/AngraMyNew
@@ -93,6 +93,15 @@ book:
         - art/014_lagrangian.md
         - art/015_dostoevsky_polyphony.md
         - art/016_goedel_incompleteness.md
+        - art/017_bcs_superconductivity.md
+        - art/018_gaussian_integer.md
+        - art/019_generating_function.md
+        - art/020_continued_fraction.md
+        - art/021_coordinate_guarantee.md
+        - art/022_p_adic_distance.md
+        - art/023_probabilistic_method.md
+        - art/024_hodge_combinatorics.md
+        - art/025_yi_sang_ogamdo.md
     - part: "Protocols — 실행 프로토콜"
       chapters:
         - protocols/001_creator_operating_protocol.md
