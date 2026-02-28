@@ -75,6 +75,7 @@ book:
         - ideas/030_case_study_zorba.md
         - ideas/031_case_study_war.md
         - ideas/032_case_study_souten_kouro.md
+        - ideas/041_case_study_arthdal_chronicles.md
     - part: "Art — 아름다움의 사례"
       chapters:
         - art/001_galois_quintic.md

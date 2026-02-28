@@ -54,7 +54,7 @@ Create your own values like Nietzsche, embrace even the seemingly useless like M
 
 ## Structure
 
-**[ideas/](ideas/)** — Philosophy, thought, declarations (39 essays)
+**[ideas/](ideas/)** — Philosophy, thought, declarations (40 essays)
 
 Foundation
 - [AngraMyNew의 기원](ideas/000_origin.md)
@@ -106,6 +106,7 @@ Case Studies
 - [그리스인 조르바](ideas/030_case_study_zorba.md)
 - [하나의 숫자](ideas/031_case_study_war.md)
 - [창천항로](ideas/032_case_study_souten_kouro.md)
+- [아스달 연대기: 서사는 사실일 필요가 없다](ideas/041_case_study_arthdal_chronicles.md)
 
 **[art/](art/)** — Examples of beauty (25 essays)
 - [갈루아와 5차방정식](art/001_galois_quintic.md)

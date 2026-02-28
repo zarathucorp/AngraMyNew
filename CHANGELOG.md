@@ -1,8 +1,10 @@
 # Changelog
 
-## v8.0 — 아름다움의 사례 9편 (2026-02-28)
+## v8.0 — 아름다움의 사례 9편 + 아스달 연대기 (2026-02-28)
 
 ### 추가
+- `ideas/041_case_study_arthdal_chronicles.md` — 아스달 연대기: 서사는 사실일 필요가 없다
+  - 타곤(서사를 짓다), 은섬(서사가 되다), 탄야(서사를 춤추다) — 검증 없는 서사가 왕좌에 닿는 세 경로
 - `art/017_bcs_superconductivity.md` — 밀어내는 것들이 함께 흐르다: BCS 초전도
 - `art/018_gaussian_integer.md` — 보이지 않던 인수: 가우스 정수와 좌표계의 확장
 - `art/019_generating_function.md` — 세지 않고 센다: 생성함수
@@ -14,8 +16,8 @@
 - `art/025_yi_sang_ogamdo.md` — 뜻을 지운 자리: 이상의 오감도
 
 ### 변경
-- `_quarto.yml` — art/017–025 챕터 추가, v8.0 버전 반영
-- README (한/영/일/중) — art/ 편수 16편→25편, 017–025 항목 추가
+- `_quarto.yml` — art/017–025 챕터 추가, ideas/041 챕터 추가, v8.0 버전 반영
+- README (한/영/일/중) — ideas/ 편수 39편→40편, art/ 편수 16편→25편
 - `fravashi/004_agent_context_guide.md` — art/ 편수 24편→25편, 사례 목록 6편 추가
 
 ---
