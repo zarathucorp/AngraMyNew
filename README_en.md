@@ -54,7 +54,7 @@ Create your own values like Nietzsche, embrace even the seemingly useless like M
 
 ## Structure
 
-**[ideas/](ideas/)** — Philosophy, thought, declarations (38 essays)
+**[ideas/](ideas/)** — Philosophy, thought, declarations (39 essays)
 
 Foundation
 - [AngraMyNew의 기원](ideas/000_origin.md)
@@ -87,6 +87,7 @@ Epistemology & Science
 - [정신의 LHC](ideas/016_mental_lhc.md)
 - [증명은 언제 아름다운가](ideas/017_when_is_a_proof_beautiful.md)
 - [세 개의 손실함수](ideas/039_three_loss_functions.md)
+- [독백의 두 얼굴: 통속과 외설은 왜 같은 실패인가](ideas/040_two_faces_of_monologue.md)
 - [이상한 체계들은 왜 사라지지 않는가](ideas/018_why_strange_systems_persist.md)
 - [악상의 시대](ideas/022_age_of_malice.md)
 

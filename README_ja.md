@@ -54,7 +54,7 @@
 
 ## 構造
 
-**[ideas/](ideas/)** — 哲学・思想・宣言（38編）
+**[ideas/](ideas/)** — 哲学・思想・宣言（39編）
 
 起源／公理
 - [AngraMyNew의 기원](ideas/000_origin.md)
@@ -87,6 +87,7 @@
 - [정신의 LHC](ideas/016_mental_lhc.md)
 - [증명은 언제 아름다운가](ideas/017_when_is_a_proof_beautiful.md)
 - [세 개의 손실함수](ideas/039_three_loss_functions.md)
+- [독백의 두 얼굴: 통속과 외설은 왜 같은 실패인가](ideas/040_two_faces_of_monologue.md)
 - [이상한 체계들은 왜 사라지지 않는가](ideas/018_why_strange_systems_persist.md)
 - [악상의 시대](ideas/022_age_of_malice.md)
 
