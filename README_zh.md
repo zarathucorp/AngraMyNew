@@ -54,7 +54,7 @@
 
 ## 结构
 
-**[ideas/](ideas/)** — 哲学·思想·宣言（40篇）
+**[ideas/](ideas/)** — 哲学·思想·宣言（41篇）
 
 起源／公理
 - [AngraMyNew의 기원](ideas/000_origin.md)
@@ -82,6 +82,7 @@
 - [K-매트릭스: 단일 궤도의 블랙홀](ideas/036_k_matrix_single_orbit.md)
 - [음의 기울기: 내리막의 미적분학](ideas/037_negative_slope.md)
 - [위상학적 종교개혁: 제네바에서 조선까지](ideas/038_topological_reformation.md)
+- [모방의 삼각형: 욕망에 원본은 없다](ideas/042_mimetic_triangle.md)
 
 认识论／科学
 - [정신의 LHC](ideas/016_mental_lhc.md)
@@ -108,7 +109,7 @@
 - [창천항로](ideas/032_case_study_souten_kouro.md)
 - [아스달 연대기: 서사는 사실일 필요가 없다](ideas/041_case_study_arthdal_chronicles.md)
 
-**[art/](art/)** — 美的案例（25篇）
+**[art/](art/)** — 美的案例（26篇）
 - [갈루아와 5차방정식](art/001_galois_quintic.md)
 - [일반상대성이론](art/002_general_relativity.md)
 - [하나의 무늬가 전부가 되다](art/003_one_pattern.md)
@@ -134,6 +135,7 @@
 - [구성 없는 존재](art/023_probabilistic_method.md)
 - [없는 기하학을 지었다](art/024_hodge_combinatorics.md)
 - [뜻을 지운 자리](art/025_yi_sang_ogamdo.md)
+- [지울수록 또렷해지는 것](art/026_renormalization_group.md)
 
 **[scripture/](scripture/)** — 先贤: 查拉图斯特拉、五位先贤、孟尝君、罗蕙锡
 
