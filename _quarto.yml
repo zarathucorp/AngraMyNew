@@ -135,29 +135,46 @@ format:
     documentclass: book
     classoption:
       - openany
-      - 11pt
+      - 10pt
+      - oneside
     pdf-engine: xelatex
     toc: true
     toc-depth: 3
     number-sections: true
+    linestretch: 1.6
     colorlinks: true
     linkcolor: black
     urlcolor: black
     citecolor: black
     geometry:
-      - top=1in
-      - right=1in
-      - left=1.2in
-      - bottom=1in
+      - paperwidth=176mm
+      - paperheight=248mm
+      - left=22mm
+      - right=22mm
+      - top=20mm
+      - bottom=25mm
+      - headsep=8mm
+      - footskip=12mm
+      - headheight=14pt
+      - heightrounded
     include-in-header:
       text: |
         \usepackage{xeCJK}
-        \xeCJKsetup{CJKspace=true}
-        \setCJKmainfont[BoldFont=KoPubWorldBatang_Pro Bold]{KoPubWorldBatang_Pro Medium}
-        \setCJKsansfont{KoPubWorldDotum_Pro Medium}
+        \xeCJKsetup{CJKspace=true, PunctStyle=plain}
+        \setCJKmainfont[BoldFont=KoPubWorldBatang_Pro Bold, ItalicFont=KoPubWorldBatang_Pro Medium]{KoPubWorldBatang_Pro Medium}
+        \setCJKsansfont[BoldFont=KoPubWorldDotum_Pro Bold]{KoPubWorldDotum_Pro Medium}
         \setCJKmonofont{NanumGothicCoding}
-        \usepackage{setspace}
-        \onehalfspacing
+        \usepackage{microtype}
+        \usepackage{amsmath}
+        \allowdisplaybreaks
+        \widowpenalty=10000
+        \clubpenalty=10000
+        \usepackage{fancyhdr}
+        \pagestyle{fancy}
+        \fancyhf{}
+        \fancyhead[R]{\small\rightmark}
+        \fancyfoot[C]{\thepage}
+        \fancypagestyle{plain}{\fancyhf{}\fancyfoot[C]{\thepage}\renewcommand{\headrulewidth}{0pt}}
   docx:
     toc: true
     toc-depth: 3
@@ -167,5 +184,6 @@ format:
     toc: true
     toc-depth: 3
     lang: ko
+    css: canon/epub.css
 
 bibliography: canon/book.bib

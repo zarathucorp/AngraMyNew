@@ -1,5 +1,30 @@
 # Changelog
 
+## v8.1.1 — 크라운판 PDF + docx/epub 스타일링 (2026-03-01)
+
+### 변경
+- `_quarto.yml` — PDF 포맷을 크라운판(176×248mm) 출판 스타일로 전면 개편
+  - 종이 크기: US Letter → 크라운판 176×248mm
+  - 폰트 크기: 11pt → 10pt, 행간 1.6
+  - 여백: 좌우 대칭 22mm, 상단 20mm, 하단 25mm
+  - fancyhdr 머리말/꼬리말: 절 제목 + 페이지 번호
+  - microtype, amsmath, widow/club penalty 추가
+  - xeCJK: PunctStyle=plain, Bold/Italic 폰트 매핑 명시
+- `_quarto.yml` — docx/epub 포맷 개선
+  - epub: CSS 스타일시트 연결
+- `canon/reference.docx` — PDF와 동일한 폰트 체계로 재설정
+  - 본문: KoPubWorldBatang_Pro Medium 10pt, 행간 1.6
+  - 제목: KoPubWorldDotum_Pro Medium (H1 18pt ~ H5 10pt)
+  - 코드: NanumGothicCoding 9pt
+  - 페이지 크기: 크라운판 176×248mm
+- `canon/epub.css` — epub 전용 스타일시트 신규 생성
+  - 본문 KoPubWorldBatang, 제목 KoPubWorldDotum, 코드 NanumGothicCoding
+  - 행간 1.8, 양쪽 정렬, word-break: keep-all
+  - blockquote, 코드블록, 테이블 스타일링
+- `art/006_feynman_diagram.md` — 특수문자(●, ⁻, γ) → ASCII 호환 문자로 변환 (PDF 렌더링 안정성)
+
+---
+
 ## v8.1 — 모방의 삼각형 + 재규격화군 (2026-02-28)
 
 ### 추가
