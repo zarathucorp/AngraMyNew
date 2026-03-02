@@ -56,4 +56,10 @@
 
 ---
 
-→ [3대 공리](001_axioms.md) · [부자, 면세인, 징세인](014_economics_of_beauty.md) · [면세인의 소비](025_consumption_of_exempt.md) · [후원자론](029_on_patronage.md) · [징세의 실전 모델](015_case_study_the_gravity_of_outlaws.md)
+## 관련 문서
+
+- [3대 공리](001_axioms.md)
+- [부자, 면세인, 징세인](014_economics_of_beauty.md)
+- [면세인의 소비](025_consumption_of_exempt.md)
+- [후원자론](029_on_patronage.md)
+- [징세의 실전 모델](015_case_study_the_gravity_of_outlaws.md)

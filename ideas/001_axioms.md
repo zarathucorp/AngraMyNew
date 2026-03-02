@@ -19,3 +19,12 @@
 나의 'My'를 완성했다면, 타인의 'My'를 인정하고 데뷔시킨다. 전국시대 맹상군은 문객 삼천을 거느렸는데, 쓸모로 뽑은 자들이 아니었다. 닭 울음 흉내꾼과 개 도둑질꾼처럼 어디에 쓸지 알 수 없는 인간들을 품었고, 결국 그 기이한 재능들이 주인의 목숨을 살렸다. 특이점을 미리 심사하지 않고 각자의 무대에 세우는 것, 그것이 확장이다.
 
 - [맹상군](../scripture/mengchangjun.md) · [Project Doctor K](005_project_doctor_k.md)
+
+## 관련 문서
+
+- [투쟁과 유혹](008_seduction_of_creation.md)
+- [창조의 원리](002_principles_of_creation.md)
+- [쓸모를 넘어서](003_beyond_usefulness.md)
+- [내면의 예술가](004_artist_within.md)
+- [맹상군](../scripture/mengchangjun.md)
+- [Project Doctor K](005_project_doctor_k.md)

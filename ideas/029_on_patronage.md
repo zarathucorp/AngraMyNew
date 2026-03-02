@@ -94,9 +94,11 @@
 
 이것이 촉나라의 경제다. 안전망 없이, 밀도만으로.
 
-→ [부자, 면세인, 그리고 징세인](014_economics_of_beauty.md)
-→ [진·선·미의 삼국지](026_three_kingdoms_of_beauty.md)
-→ [면세인의 소비](025_consumption_of_exempt.md)
-→ [쓸모를 넘어서](003_beyond_usefulness.md)
-→ [맹상군](../scripture/mengchangjun.md)
-→ [혼돈, 욕망, 주권의 중력](015_case_study_the_gravity_of_outlaws.md)
+## 관련 문서
+
+- [부자, 면세인, 그리고 징세인](014_economics_of_beauty.md)
+- [진·선·미의 삼국지](026_three_kingdoms_of_beauty.md)
+- [면세인의 소비](025_consumption_of_exempt.md)
+- [쓸모를 넘어서](003_beyond_usefulness.md)
+- [맹상군](../scripture/mengchangjun.md)
+- [혼돈, 욕망, 주권의 중력](015_case_study_the_gravity_of_outlaws.md)

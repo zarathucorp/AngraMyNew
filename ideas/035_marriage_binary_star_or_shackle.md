@@ -78,8 +78,10 @@ AngraMyNew는 여기서 이분법을 거부한다.
 
 쳇바퀴 안에서든 쌍성계 안에서든, 상대의 My를 내 것으로 납치하지 않고 증언하는 순간 — 결혼은 비로소 확장이 된다. 자녀가 있다면 그 아이의 My까지. 없다면 둘의 궤도만으로도 충분하다.
 
-→ [부자, 면세인, 그리고 징세인](014_economics_of_beauty.md)
-→ [죽음: 시스템이 징수하는 마지막 세금](034_death_the_final_tax.md)
-→ [면세인의 소비](025_consumption_of_exempt.md)
-→ [매춘의 위상학](033_topology_of_prostitution.md)
-→ [절단 프로토콜](../protocols/003_severance_protocol.md)
+## 관련 문서
+
+- [부자, 면세인, 그리고 징세인](014_economics_of_beauty.md)
+- [죽음: 시스템이 징수하는 마지막 세금](034_death_the_final_tax.md)
+- [면세인의 소비](025_consumption_of_exempt.md)
+- [매춘의 위상학](033_topology_of_prostitution.md)
+- [절단 프로토콜](../protocols/003_severance_protocol.md)

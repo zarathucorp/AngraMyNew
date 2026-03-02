@@ -56,4 +56,4 @@
 
 > "We Artist."
 
-[![ZICO - Artist](img/yt_zico_artist.jpg)](https://youtu.be/DNPs2qqdhN0?si=V_vIC0NECZKo1N6U)
+[![ZICO - Artist](img/yt_zico_artist.jpg){width=70%}](https://youtu.be/DNPs2qqdhN0?si=V_vIC0NECZKo1N6U)

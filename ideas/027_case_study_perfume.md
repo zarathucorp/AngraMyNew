@@ -65,8 +65,10 @@
 
 > *칼날이 밖을 향하면, 만든 것이 아무리 아름다워도 끝은 먹잇감이다.*
 
-→ [3대 공리](001_axioms.md)
-→ [진·선·미의 삼국지](026_three_kingdoms_of_beauty.md)
-→ [부자, 면세인, 그리고 징세인](014_economics_of_beauty.md)
-→ [독백의 두 얼굴](040_two_faces_of_monologue.md)
-→ [창조의 원리](002_principles_of_creation.md)
+## 관련 문서
+
+- [3대 공리](001_axioms.md)
+- [진·선·미의 삼국지](026_three_kingdoms_of_beauty.md)
+- [부자, 면세인, 그리고 징세인](014_economics_of_beauty.md)
+- [독백의 두 얼굴](040_two_faces_of_monologue.md)
+- [창조의 원리](002_principles_of_creation.md)

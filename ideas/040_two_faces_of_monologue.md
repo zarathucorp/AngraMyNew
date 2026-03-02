@@ -115,7 +115,9 @@
 > 구획을 알아야 부순다. 부수되 제안해야 한다. 제안하되 거부당할 수 있어야 한다.
 > 그래야 독백이 대화가 된다.
 
-→ [세 개의 손실함수](039_three_loss_functions.md)
-→ [향수: 칼날이 밖을 향한 남자](027_case_study_perfume.md)
-→ [부자, 면세인, 그리고 징세인](014_economics_of_beauty.md)
-→ [창조의 원리](002_principles_of_creation.md)
+## 관련 문서
+
+- [세 개의 손실함수](039_three_loss_functions.md)
+- [향수: 칼날이 밖을 향한 남자](027_case_study_perfume.md)
+- [부자, 면세인, 그리고 징세인](014_economics_of_beauty.md)
+- [창조의 원리](002_principles_of_creation.md)

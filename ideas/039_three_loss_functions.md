@@ -114,9 +114,11 @@ AngraMyNew가 미(美)를 원점으로 삼는 것은 미로 진과 선을 대체
 >
 > 원점이 움직이면 좌표계가 무너진다. 그래서 미가 원점이다.
 
-→ [증명은 언제 아름다운가](017_when_is_a_proof_beautiful.md)
-→ [AngraMyNew는 정신의 LHC다](016_mental_lhc.md)
-→ [진·선·미의 삼국지](026_three_kingdoms_of_beauty.md)
-→ [위상학적 종교개혁](038_topological_reformation.md)
-→ [독백의 두 얼굴](040_two_faces_of_monologue.md)
-→ [창조의 원리](002_principles_of_creation.md)
+## 관련 문서
+
+- [증명은 언제 아름다운가](017_when_is_a_proof_beautiful.md)
+- [AngraMyNew는 정신의 LHC다](016_mental_lhc.md)
+- [진·선·미의 삼국지](026_three_kingdoms_of_beauty.md)
+- [위상학적 종교개혁](038_topological_reformation.md)
+- [독백의 두 얼굴](040_two_faces_of_monologue.md)
+- [창조의 원리](002_principles_of_creation.md)

@@ -105,8 +105,10 @@
 
 이것이 후쿠자와의 비극이다. 그리고 확장의 공리가 가장 경계해야 할 패턴이다.
 
-→ [3대 공리](001_axioms.md)
-→ [진·선·미의 삼국지](026_three_kingdoms_of_beauty.md)
-→ [5인의 선현](../scripture/pioneers.md)
-→ [부자, 면세인, 그리고 징세인](014_economics_of_beauty.md)
-→ [향수: 칼날이 밖을 향한 남자](027_case_study_perfume.md)
+## 관련 문서
+
+- [3대 공리](001_axioms.md)
+- [진·선·미의 삼국지](026_three_kingdoms_of_beauty.md)
+- [5인의 선현](../scripture/pioneers.md)
+- [부자, 면세인, 그리고 징세인](014_economics_of_beauty.md)
+- [향수: 칼날이 밖을 향한 남자](027_case_study_perfume.md)

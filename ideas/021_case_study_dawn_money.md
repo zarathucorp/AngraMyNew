@@ -45,6 +45,8 @@
 
 돈은 답이 아니라 질문을 증폭시키는 장치이고, 무대는 그 질문을 몸으로 재현하는 장치다.
 
-→ [부자, 면세인, 그리고 징세인](014_economics_of_beauty.md)
-→ [징세의 실전 모델](015_case_study_the_gravity_of_outlaws.md)
-→ [정신의 LHC](016_mental_lhc.md)
+## 관련 문서
+
+- [부자, 면세인, 그리고 징세인](014_economics_of_beauty.md)
+- [징세의 실전 모델](015_case_study_the_gravity_of_outlaws.md)
+- [정신의 LHC](016_mental_lhc.md)

@@ -66,6 +66,8 @@
 
 `아스달 연대기`를 실패한 드라마로만 두면 한 가지를 놓친다. 새 나라를 세운다는 것은 왕을 바꾼다는 뜻이 아니다. 승인의 문법을 바꾼다는 뜻이다.
 
-→ [창천항로](032_case_study_souten_kouro.md)
-→ [위상학적 종교개혁](038_topological_reformation.md)
-→ [창조의 원리](002_principles_of_creation.md)
+## 관련 문서
+
+- [창천항로](032_case_study_souten_kouro.md)
+- [위상학적 종교개혁](038_topological_reformation.md)
+- [창조의 원리](002_principles_of_creation.md)

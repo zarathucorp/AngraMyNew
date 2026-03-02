@@ -48,6 +48,8 @@
 
 좌표를 새로 세우는 힘은, 무엇을 비추고 무엇을 지우는지까지 드러낼 때 완성된다.
 
-→ [진·선·미의 삼국지](026_three_kingdoms_of_beauty.md)
-→ [하나의 숫자](031_case_study_war.md)
-→ [쓸모를 넘어서](003_beyond_usefulness.md)
+## 관련 문서
+
+- [진·선·미의 삼국지](026_three_kingdoms_of_beauty.md)
+- [하나의 숫자](031_case_study_war.md)
+- [쓸모를 넘어서](003_beyond_usefulness.md)

@@ -96,8 +96,10 @@
 2. **끊어서 회수된 에너지로 네 세계를 한 뼘 지어라.** 글 한 편, 곡 하나, 대화 하나. 크기는 상관없다.
 3. **타인의 세계에 진심으로 한 번 접속하라.** 응원하고 알아봐주는 것. 확장은 거기서 시작된다.
 
-→ [부자, 면세인, 그리고 징세인](014_economics_of_beauty.md)
-→ [면세인의 소비](025_consumption_of_exempt.md)
-→ [후원자론](029_on_patronage.md)
-→ [매춘의 위상학](033_topology_of_prostitution.md)
-→ [절단 프로토콜](../protocols/003_severance_protocol.md)
+## 관련 문서
+
+- [부자, 면세인, 그리고 징세인](014_economics_of_beauty.md)
+- [면세인의 소비](025_consumption_of_exempt.md)
+- [후원자론](029_on_patronage.md)
+- [매춘의 위상학](033_topology_of_prostitution.md)
+- [절단 프로토콜](../protocols/003_severance_protocol.md)

@@ -85,7 +85,9 @@
 
 창조자는 이 삼각형의 구조를 안다. 그래서 들어가지 않거나, 들어가되 방향을 바꾼다. 살아 있는 자를 모방하면 경쟁이 되고, 죽은 자를 모방하면 계보가 된다.
 
-→ [미학 국가론](006_aesthetic_nation.md)
-→ [면세인의 소비](025_consumption_of_exempt.md)
-→ [계보로서의 창조](011_lineage_as_creation.md)
-→ [아스달 연대기](041_case_study_arthdal_chronicles.md)
+## 관련 문서
+
+- [미학 국가론](006_aesthetic_nation.md)
+- [면세인의 소비](025_consumption_of_exempt.md)
+- [계보로서의 창조](011_lineage_as_creation.md)
+- [아스달 연대기](041_case_study_arthdal_chronicles.md)

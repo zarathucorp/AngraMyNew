@@ -49,6 +49,8 @@ AngraMyNew는 과학도 논리도 AI도 부정하지 않는다. 다만 하나의
 
 아직 답도 질문도 아닌 상태에서 무언가를 뿜어낼 수 있는가. 그것이 이 시대의 분류 기준이다.
 
-→ [혼돈, 욕망, 주권의 중력](015_case_study_the_gravity_of_outlaws.md)
-→ [부자, 면세인, 그리고 징세인](014_economics_of_beauty.md)
-→ [라마누잔의 원주율](../art/011_ramanujan_pi.md)
+## 관련 문서
+
+- [혼돈, 욕망, 주권의 중력](015_case_study_the_gravity_of_outlaws.md)
+- [부자, 면세인, 그리고 징세인](014_economics_of_beauty.md)
+- [라마누잔의 원주율](../art/011_ramanujan_pi.md)

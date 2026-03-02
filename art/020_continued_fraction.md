@@ -7,7 +7,7 @@
 
 모든 실수는 이렇게 쓸 수 있다.
 
-$$a_0 + \cfrac{1}{a_1 + \cfrac{1}{a_2 + \cfrac{1}{a_3 + \cdots}}}$$
+$$a_0 + \dfrac{1}{a_1 + \dfrac{1}{a_2 + \dfrac{1}{a_3 + \cdots}}}$$
 
 간단히 $[a_0;\, a_1, a_2, a_3, \ldots]$로 표기한다. 연분수(continued fraction). 분수 안에 분수가 끝없이 들어간다.
 
