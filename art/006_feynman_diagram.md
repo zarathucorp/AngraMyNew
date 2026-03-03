@@ -25,13 +25,11 @@ $$\langle B | A \rangle = \int \mathcal{D}[x(t)] \; e^{i S[x]/\hbar}$$
 
 그런데 이 낙서의 모든 선과 점이 복잡한 적분 항과 정확히 1:1로 대응했다. 가장 단순한 예로, 전자 둘이 광자 하나를 주고받는 과정을 보면:
 
-```text
-e- ---->---o---->--- e-
-            |
-            | gamma
-            |
-e- ---->---o---->--- e-
-```
+$$\begin{array}{ccccc}
+e^- & \xrightarrow{\quad} & \bullet & \xrightarrow{\quad} & e^- \\
+& & \downarrow \gamma & & \\
+e^- & \xrightarrow{\quad} & \bullet & \xrightarrow{\quad} & e^-
+\end{array}$$
 
 이 그림이 곧 수식이다:
 

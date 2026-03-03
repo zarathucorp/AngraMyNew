@@ -4,7 +4,7 @@
 
 ## 왜 더러운 것이 빛나는가
 
-[![DAWN - Money](../img/yt_dawn_money.jpg)](https://youtu.be/m3aeC8V9GCo)
+[![DAWN - Money](../img/yt_dawn_money.jpg){width=70%}](https://youtu.be/m3aeC8V9GCo)
 
 이 노래의 핵심 질문은 단순하다. "돈이란 건 더러운 건데 왜 빛이 나." 여기서 더러움은 도덕적 타락이 아니고, 빛남은 선함의 증거가 아니다. 이 노래는 돈의 선악을 따지지 않는다. 돈이 왜 중력을 가지는가를 묻는다. 윤리가 아니라 물리다.
 

@@ -1,5 +1,22 @@
 # Changelog
 
+## v8.1.4 — ideas/035 삭제 + 면세 프레이밍 수정 + Feynman 다이어그램 LaTeX 전환 (2026-03-03)
+
+### 삭제
+- `ideas/035_marriage_binary_star_or_shackle.md` — 036(K-매트릭스)이 이미 더 강하게 커버하며, 한계 섹션이 비혼을 "못하는 것"으로 프레이밍하는 문제. 진부함으로 판단하여 삭제
+
+### 변경
+- `ideas/036_k_matrix_single_orbit.md` — 035 참조 링크 제거, "자녀의 My는 부모의 My가 아니다" 텍스트로 흡수. 한계 섹션: 면세인을 지방/소도시/비주류로 한정하던 프레이밍 → "궤도의 물리적 위치는 면세와 무관하다"로 수정
+- `ideas/025_consumption_of_exempt.md` — 마지막 섹션 "돈" → "에너지"로 수정 (시스템세는 돈뿐 아니라 시간·감정·공명 전부)
+- `art/006_feynman_diagram.md` — ASCII art → LaTeX 수식 블록(`array` 환경)으로 전환, `\big\downarrow` → `\downarrow` (epub texmath 호환)
+- `ideas/021_case_study_dawn_money.md` — 이미지 `{width=70%}` 추가 (PDF 크기 조정)
+- `ideas/038_topological_reformation.md` — 관련 문서에서 035 제거
+- `_quarto.yml` — 035 챕터 제거, subtitle 버전 v8.1.2 → v8.1.4
+- README (한/영/일/중) — 035 항목 제거, ideas/ 편수 41 → 40
+- `fravashi/004_agent_context_guide.md` — 035 제거, 편수 40편, 삭제 이력에 035 추가
+
+---
+
 ## v8.1.3 — ideas/ 관련 문서 섹션 추가 + epub 수식 호환 (2026-03-02)
 
 ### 변경

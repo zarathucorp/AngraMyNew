@@ -54,7 +54,7 @@
 
 ## 構造
 
-**[ideas/](ideas/)** — 哲学・思想・宣言（41編）
+**[ideas/](ideas/)** — 哲学・思想・宣言（40編）
 
 起源／公理
 - [AngraMyNew의 기원](ideas/000_origin.md)
@@ -78,7 +78,6 @@
 - [후원자론](ideas/029_on_patronage.md)
 - [매춘의 위상학](ideas/033_topology_of_prostitution.md)
 - [죽음: 시스템이 징수하는 마지막 세금](ideas/034_death_the_final_tax.md)
-- [결혼: 종속의 합병인가, 주권자의 쌍성계인가](ideas/035_marriage_binary_star_or_shackle.md)
 - [K-매트릭스: 단일 궤도의 블랙홀](ideas/036_k_matrix_single_orbit.md)
 - [음의 기울기: 내리막의 미적분학](ideas/037_negative_slope.md)
 - [위상학적 종교개혁: 제네바에서 조선까지](ideas/038_topological_reformation.md)
