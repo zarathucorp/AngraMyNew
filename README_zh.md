@@ -54,7 +54,7 @@
 
 ## 结构
 
-**[ideas/](ideas/)** — 哲学·思想·宣言（43篇）
+**[ideas/](ideas/)** — 哲学·思想·宣言（44篇）
 
 起源／公理
 - [AngraMyNew的起源](ideas/000_origin.md)
@@ -64,7 +64,7 @@
 创造者论
 - [超越有用性](ideas/003_beyond_usefulness.md)
 - [内在的艺术家](ideas/004_artist_within.md)
-- [轨道的刻印](ideas/043_creator_as_reference.md)
+- [刻印: 轨道的曲率](ideas/043_creator_as_reference.md)
 - [斗争与诱惑](ideas/008_seduction_of_creation.md)
 - [对定义的愤怒](ideas/009_rage_against_definition.md)
 - [捕食者的义务](ideas/010_predators_duty.md)
@@ -110,6 +110,7 @@
 - [一个数字](ideas/031_case_study_war.md)
 - [苍天航路](ideas/032_case_study_souten_kouro.md)
 - [阿斯达年代记：叙事不必真实](ideas/041_case_study_arthdal_chronicles.md)
+- [当世界观成为语言](ideas/046_case_study_worldview_as_language.md)
 
 **[art/](art/)** — 美的案例（26篇）
 - [伽罗瓦与五次方程](art/001_galois_quintic.md)

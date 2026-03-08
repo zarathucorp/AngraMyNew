@@ -54,7 +54,7 @@ Create your own values like Nietzsche, embrace even the seemingly useless like M
 
 ## Structure
 
-**[ideas/](ideas/)** — Philosophy, thought, declarations (43 essays)
+**[ideas/](ideas/)** — Philosophy, thought, declarations (44 essays)
 
 Foundation
 - [Origin of AngraMyNew](ideas/000_origin.md)
@@ -64,7 +64,7 @@ Foundation
 Creator Theory
 - [Beyond Usefulness](ideas/003_beyond_usefulness.md)
 - [The Artist Within](ideas/004_artist_within.md)
-- [Orbital Imprint](ideas/043_creator_as_reference.md)
+- [Imprint: The Curvature of an Orbit](ideas/043_creator_as_reference.md)
 - [Struggle and Seduction](ideas/008_seduction_of_creation.md)
 - [Rage Against Definition](ideas/009_rage_against_definition.md)
 - [The Predator's Duty](ideas/010_predators_duty.md)
@@ -110,6 +110,7 @@ Case Studies
 - [One Number](ideas/031_case_study_war.md)
 - [Souten Kouro](ideas/032_case_study_souten_kouro.md)
 - [The Arthdal Chronicles: Narrative Need Not Be True](ideas/041_case_study_arthdal_chronicles.md)
+- [When a Worldview Becomes Language](ideas/046_case_study_worldview_as_language.md)
 
 **[art/](art/)** — Examples of beauty (26 essays)
 - [Galois and the Quintic Equation](art/001_galois_quintic.md)

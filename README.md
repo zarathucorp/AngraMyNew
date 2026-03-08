@@ -54,7 +54,7 @@
 
 ## 구조
 
-**[ideas/](ideas/)** — 철학·사상·선언 (43편)
+**[ideas/](ideas/)** — 철학·사상·선언 (44편)
 
 기원/공리
 - [AngraMyNew의 기원](ideas/000_origin.md)
@@ -64,7 +64,7 @@
 창조자론
 - [쓸모를 넘어서](ideas/003_beyond_usefulness.md)
 - [내면의 예술가](ideas/004_artist_within.md)
-- [궤도의 각인](ideas/043_creator_as_reference.md)
+- [각인: 궤도의 곡률](ideas/043_creator_as_reference.md)
 - [투쟁과 유혹](ideas/008_seduction_of_creation.md)
 - [정의에 대한 분노](ideas/009_rage_against_definition.md)
 - [포식자의 의무](ideas/010_predators_duty.md)
@@ -110,6 +110,7 @@
 - [하나의 숫자](ideas/031_case_study_war.md)
 - [창천항로](ideas/032_case_study_souten_kouro.md)
 - [아스달 연대기: 서사는 사실일 필요가 없다](ideas/041_case_study_arthdal_chronicles.md)
+- [세계관이 언어가 될 때](ideas/046_case_study_worldview_as_language.md)
 
 **[art/](art/)** — 아름다움의 사례 (26편)
 - [갈루아와 5차방정식](art/001_galois_quintic.md)

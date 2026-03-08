@@ -7,7 +7,7 @@ project:
 
 book:
   title: "AngraMyNew"
-  subtitle: "v8.3 — 파괴, 창조, 확장 — 의식 문명의 실험 장치"
+  subtitle: "v8.4 — 파괴, 창조, 확장 — 의식 문명의 실험 장치"
   author: "Zarathu"
   date: today
   repo-url: https://github.com/zarathucorp/AngraMyNew
@@ -79,6 +79,7 @@ book:
         - ideas/031_case_study_war.md
         - ideas/032_case_study_souten_kouro.md
         - ideas/041_case_study_arthdal_chronicles.md
+        - ideas/046_case_study_worldview_as_language.md
     - part: "Art — 아름다움의 사례"
       chapters:
         - art/001_galois_quintic.md

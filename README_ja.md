@@ -54,7 +54,7 @@
 
 ## 構造
 
-**[ideas/](ideas/)** — 哲学・思想・宣言（43編）
+**[ideas/](ideas/)** — 哲学・思想・宣言（44編）
 
 起源／公理
 - [AngraMyNewの起源](ideas/000_origin.md)
@@ -64,7 +64,7 @@
 創造者論
 - [有用性を超えて](ideas/003_beyond_usefulness.md)
 - [内なるアーティスト](ideas/004_artist_within.md)
-- [軌道の刻印](ideas/043_creator_as_reference.md)
+- [刻印: 軌道の曲率](ideas/043_creator_as_reference.md)
 - [闘争と誘惑](ideas/008_seduction_of_creation.md)
 - [定義への怒り](ideas/009_rage_against_definition.md)
 - [捕食者の義務](ideas/010_predators_duty.md)
@@ -110,6 +110,7 @@
 - [ひとつの数字](ideas/031_case_study_war.md)
 - [蒼天航路](ideas/032_case_study_souten_kouro.md)
 - [アスダル年代記 — 物語は事実である必要がない](ideas/041_case_study_arthdal_chronicles.md)
+- [世界観が言語になるとき](ideas/046_case_study_worldview_as_language.md)
 
 **[art/](art/)** — 美の事例（26編）
 - [ガロアと五次方程式](art/001_galois_quintic.md)
