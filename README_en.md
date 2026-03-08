@@ -54,7 +54,7 @@ Create your own values like Nietzsche, embrace even the seemingly useless like M
 
 ## Structure
 
-**[ideas/](ideas/)** — Philosophy, thought, declarations (44 essays)
+**[ideas/](ideas/)** — Philosophy, thought, declarations (45 essays)
 
 Foundation
 - [Origin of AngraMyNew](ideas/000_origin.md)
@@ -68,6 +68,7 @@ Creator Theory
 - [Struggle and Seduction](ideas/008_seduction_of_creation.md)
 - [Rage Against Definition](ideas/009_rage_against_definition.md)
 - [The Predator's Duty](ideas/010_predators_duty.md)
+- [Density Without Curvature](ideas/047_density_without_curvature.md)
 
 Economics & Structure
 - [Aesthetic Nation](ideas/006_aesthetic_nation.md)

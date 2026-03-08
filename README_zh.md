@@ -54,7 +54,7 @@
 
 ## 结构
 
-**[ideas/](ideas/)** — 哲学·思想·宣言（44篇）
+**[ideas/](ideas/)** — 哲学·思想·宣言（45篇）
 
 起源／公理
 - [AngraMyNew的起源](ideas/000_origin.md)
@@ -68,6 +68,7 @@
 - [斗争与诱惑](ideas/008_seduction_of_creation.md)
 - [对定义的愤怒](ideas/009_rage_against_definition.md)
 - [捕食者的义务](ideas/010_predators_duty.md)
+- [没有曲率的密度](ideas/047_density_without_curvature.md)
 
 经济／结构论
 - [美学国家论](ideas/006_aesthetic_nation.md)

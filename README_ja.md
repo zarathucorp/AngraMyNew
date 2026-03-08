@@ -54,7 +54,7 @@
 
 ## 構造
 
-**[ideas/](ideas/)** — 哲学・思想・宣言（44編）
+**[ideas/](ideas/)** — 哲学・思想・宣言（45編）
 
 起源／公理
 - [AngraMyNewの起源](ideas/000_origin.md)
@@ -68,6 +68,7 @@
 - [闘争と誘惑](ideas/008_seduction_of_creation.md)
 - [定義への怒り](ideas/009_rage_against_definition.md)
 - [捕食者の義務](ideas/010_predators_duty.md)
+- [曲率のない密度](ideas/047_density_without_curvature.md)
 
 経済／構造論
 - [美学国家論](ideas/006_aesthetic_nation.md)

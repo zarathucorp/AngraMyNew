@@ -54,7 +54,7 @@
 
 ## 구조
 
-**[ideas/](ideas/)** — 철학·사상·선언 (44편)
+**[ideas/](ideas/)** — 철학·사상·선언 (45편)
 
 기원/공리
 - [AngraMyNew의 기원](ideas/000_origin.md)
@@ -68,6 +68,7 @@
 - [투쟁과 유혹](ideas/008_seduction_of_creation.md)
 - [정의에 대한 분노](ideas/009_rage_against_definition.md)
 - [포식자의 의무](ideas/010_predators_duty.md)
+- [곡률 없는 밀도](ideas/047_density_without_curvature.md)
 
 경제/구조론
 - [미학 국가론](ideas/006_aesthetic_nation.md)

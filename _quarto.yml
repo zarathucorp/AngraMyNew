@@ -7,7 +7,7 @@ project:
 
 book:
   title: "AngraMyNew"
-  subtitle: "v8.4 — 파괴, 창조, 확장 — 의식 문명의 실험 장치"
+  subtitle: "v9.0 — 파괴, 창조, 확장 — 의식 문명의 실험 장치"
   author: "Zarathu"
   date: today
   repo-url: https://github.com/zarathucorp/AngraMyNew
@@ -37,6 +37,7 @@ book:
         - ideas/008_seduction_of_creation.md
         - ideas/009_rage_against_definition.md
         - ideas/010_predators_duty.md
+        - ideas/047_density_without_curvature.md
     - part: "Ideas — 경제와 구조"
       chapters:
         - ideas/006_aesthetic_nation.md
