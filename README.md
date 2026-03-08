@@ -54,7 +54,7 @@
 
 ## 구조
 
-**[ideas/](ideas/)** — 철학·사상·선언 (40편)
+**[ideas/](ideas/)** — 철학·사상·선언 (41편)
 
 기원/공리
 - [AngraMyNew의 기원](ideas/000_origin.md)
@@ -64,6 +64,7 @@
 창조자론
 - [쓸모를 넘어서](ideas/003_beyond_usefulness.md)
 - [내면의 예술가](ideas/004_artist_within.md)
+- [궤도의 각인](ideas/043_creator_as_reference.md)
 - [투쟁과 유혹](ideas/008_seduction_of_creation.md)
 - [정의에 대한 분노](ideas/009_rage_against_definition.md)
 - [포식자의 의무](ideas/010_predators_duty.md)
