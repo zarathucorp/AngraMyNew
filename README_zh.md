@@ -54,7 +54,7 @@
 
 ## 结构
 
-**[ideas/](ideas/)** — 哲学·思想·宣言（41篇）
+**[ideas/](ideas/)** — 哲学·思想·宣言（43篇）
 
 起源／公理
 - [AngraMyNew的起源](ideas/000_origin.md)
@@ -83,6 +83,7 @@
 - [负斜率：下坡的微积分](ideas/037_negative_slope.md)
 - [拓扑式宗教改革：从日内瓦到朝鲜](ideas/038_topological_reformation.md)
 - [模仿的三角形：欲望没有原本](ideas/042_mimetic_triangle.md)
+- [没有梵蒂冈的教皇](ideas/045_pope_without_vatican.md)
 
 认识论／科学
 - [精神的LHC](ideas/016_mental_lhc.md)
@@ -91,6 +92,7 @@
 - [独白的两张面孔：通俗与猥亵为何是同一种失败](ideas/040_two_faces_of_monologue.md)
 - [奇怪的体系为何不会消失](ideas/018_why_strange_systems_persist.md)
 - [恶想的时代](ideas/022_age_of_malice.md)
+- [故障的传感器](ideas/044_broken_sensor.md)
 
 实践／应用
 - [Project Doctor K](ideas/005_project_doctor_k.md)

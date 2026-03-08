@@ -54,7 +54,7 @@
 
 ## 構造
 
-**[ideas/](ideas/)** — 哲学・思想・宣言（41編）
+**[ideas/](ideas/)** — 哲学・思想・宣言（43編）
 
 起源／公理
 - [AngraMyNewの起源](ideas/000_origin.md)
@@ -83,6 +83,7 @@
 - [負の傾き — 下り坂の微積分学](ideas/037_negative_slope.md)
 - [位相的宗教改革 — ジュネーブから朝鮮まで](ideas/038_topological_reformation.md)
 - [模倣の三角形 — 欲望にオリジナルはない](ideas/042_mimetic_triangle.md)
+- [バチカンなき教皇](ideas/045_pope_without_vatican.md)
 
 認識論／科学
 - [精神のLHC](ideas/016_mental_lhc.md)
@@ -91,6 +92,7 @@
 - [独白の二つの顔 — 通俗と猥雑はなぜ同じ失敗なのか](ideas/040_two_faces_of_monologue.md)
 - [奇妙な体系はなぜ消えないのか](ideas/018_why_strange_systems_persist.md)
 - [悪想の時代](ideas/022_age_of_malice.md)
+- [壊れたセンサー](ideas/044_broken_sensor.md)
 
 実践／応用
 - [Project Doctor K](ideas/005_project_doctor_k.md)

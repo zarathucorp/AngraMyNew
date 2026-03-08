@@ -54,7 +54,7 @@ Create your own values like Nietzsche, embrace even the seemingly useless like M
 
 ## Structure
 
-**[ideas/](ideas/)** — Philosophy, thought, declarations (41 essays)
+**[ideas/](ideas/)** — Philosophy, thought, declarations (43 essays)
 
 Foundation
 - [Origin of AngraMyNew](ideas/000_origin.md)
@@ -83,6 +83,7 @@ Economics & Structure
 - [Negative Slope: The Calculus of Descent](ideas/037_negative_slope.md)
 - [Topological Reformation: From Geneva to Joseon](ideas/038_topological_reformation.md)
 - [The Mimetic Triangle: Desire Has No Original](ideas/042_mimetic_triangle.md)
+- [A Pope Without the Vatican](ideas/045_pope_without_vatican.md)
 
 Epistemology & Science
 - [The Mental LHC](ideas/016_mental_lhc.md)
@@ -91,6 +92,7 @@ Epistemology & Science
 - [The Two Faces of Monologue: Why Banality and Obscenity Are the Same Failure](ideas/040_two_faces_of_monologue.md)
 - [Why Strange Systems Persist](ideas/018_why_strange_systems_persist.md)
 - [The Age of Malice](ideas/022_age_of_malice.md)
+- [The Broken Sensor](ideas/044_broken_sensor.md)
 
 Practice & Application
 - [Project Doctor K](ideas/005_project_doctor_k.md)

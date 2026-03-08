@@ -7,7 +7,7 @@ project:
 
 book:
   title: "AngraMyNew"
-  subtitle: "v8.2 — 파괴, 창조, 확장 — 의식 문명의 실험 장치"
+  subtitle: "v8.3 — 파괴, 창조, 확장 — 의식 문명의 실험 장치"
   author: "Zarathu"
   date: today
   repo-url: https://github.com/zarathucorp/AngraMyNew
@@ -52,6 +52,7 @@ book:
         - ideas/037_negative_slope.md
         - ideas/038_topological_reformation.md
         - ideas/042_mimetic_triangle.md
+        - ideas/045_pope_without_vatican.md
     - part: "Ideas — 인식론과 과학"
       chapters:
         - ideas/016_mental_lhc.md
@@ -60,6 +61,7 @@ book:
         - ideas/040_two_faces_of_monologue.md
         - ideas/018_why_strange_systems_persist.md
         - ideas/022_age_of_malice.md
+        - ideas/044_broken_sensor.md
     - part: "Ideas — 실천과 적용"
       chapters:
         - ideas/005_project_doctor_k.md

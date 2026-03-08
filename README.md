@@ -54,7 +54,7 @@
 
 ## 구조
 
-**[ideas/](ideas/)** — 철학·사상·선언 (41편)
+**[ideas/](ideas/)** — 철학·사상·선언 (43편)
 
 기원/공리
 - [AngraMyNew의 기원](ideas/000_origin.md)
@@ -83,6 +83,7 @@
 - [음의 기울기: 내리막의 미적분학](ideas/037_negative_slope.md)
 - [위상학적 종교개혁: 제네바에서 조선까지](ideas/038_topological_reformation.md)
 - [모방의 삼각형: 욕망에 원본은 없다](ideas/042_mimetic_triangle.md)
+- [바티칸 없는 교황](ideas/045_pope_without_vatican.md)
 
 인식론/과학
 - [정신의 LHC](ideas/016_mental_lhc.md)
@@ -91,6 +92,7 @@
 - [독백의 두 얼굴: 통속과 외설은 왜 같은 실패인가](ideas/040_two_faces_of_monologue.md)
 - [이상한 체계들은 왜 사라지지 않는가](ideas/018_why_strange_systems_persist.md)
 - [악상의 시대](ideas/022_age_of_malice.md)
+- [고장 난 센서](ideas/044_broken_sensor.md)
 
 실천/적용
 - [Project Doctor K](ideas/005_project_doctor_k.md)
