@@ -55,3 +55,12 @@ P-value와 귀무가설의 재정의.
 이 이론들은 교과서에 실리지 못했지만 기록한다. 정답을 맞히는 것이 전부가 아니라, 새로운 질문을 던지고 낡은 세계의 벽을 두드리는 것이며, 그 소리는 아직도 공명하고 있다.
 
 실패하라. 더 크게, 더 아름답게 실패하라.
+
+## 관련 문서
+
+- [창조의 원리](002_principles_of_creation.md)
+- [증명은 언제 아름다운가](017_when_is_a_proof_beautiful.md)
+- [박사학위의 재정의](012_redefine_doctor_degree.md)
+- [곡률 없는 밀도](047_density_without_curvature.md)
+- [일반상대성이론](../art/002_general_relativity.md)
+- [증명 없이 도착한 수식](../art/011_ramanujan_pi.md)

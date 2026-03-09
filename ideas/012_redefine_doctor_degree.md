@@ -51,3 +51,10 @@ AngraMyNew 박사는 영구 상태가 아니다. 이 형식이 더 이상 필요
 ## 맺음
 
 박사는 증명된 자가 아니다. 감히 세계를 하나 제출한 자다.
+
+## 관련 문서
+
+- [미완의 정리](007_case_study_unfinished_theorem.md)
+- [창조의 원리](002_principles_of_creation.md)
+- [탈중앙화 정신체계 OS](013_decentralized_mental_os.md)
+- [각인: 궤도의 곡률](043_creator_as_reference.md)

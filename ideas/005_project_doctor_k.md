@@ -40,3 +40,11 @@ Project Doctor K는 기술 프로젝트가 아니다. 잃어버린 의술의 밀
 Doctor K는 수가를 받지 않는다. 대신 전 세계가 그 치유를 목격하고, 후원을 보낸다. 생계는 시스템이 아닌 인류의 감사가 책임진다.
 
 의술은 예술이다. 예술가는 자유로워야 한다.
+
+## 관련 문서
+
+- [필수의료 위기 — 치료에도 관객이 있어야 하는 시대](024_when_critical_care_needs_witness.md)
+- [부자, 면세인, 그리고 징세인](014_economics_of_beauty.md)
+- [후원자론](029_on_patronage.md)
+- [미학 국가론](006_aesthetic_nation.md)
+- [바티칸 없는 교황](045_pope_without_vatican.md)
