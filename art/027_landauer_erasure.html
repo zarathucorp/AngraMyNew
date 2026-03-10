@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>1&nbsp; 차라투스트라 – AngraMyNew</title>
+<title>81&nbsp; 잊는 데 드는 열 – AngraMyNew</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<link href="../scripture/pioneers.html" rel="next">
-<link href="../index.html" rel="prev">
+<link href="../protocols/001_creator_operating_protocol.html" rel="next">
+<link href="../art/026_renormalization_group.html" rel="prev">
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -69,6 +69,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -81,7 +110,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="사이드바 전환" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../scripture/zarathustra.html">Scripture — 선현</a></li><li class="breadcrumb-item"><a href="../scripture/zarathustra.html"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">차라투스트라</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../art/001_galois_quintic.html">Art — 아름다움의 사례</a></li><li class="breadcrumb-item"><a href="../art/027_landauer_erasure.html"><span class="chapter-number">81</span>&nbsp; <span class="chapter-title">잊는 데 드는 열</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="사이드바 전환" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="검색" onclick="window.quartoOpenSearch();">
@@ -140,16 +169,16 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="false">
  <span class="menu-text">Scripture — 선현</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="토글 섹션">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="false" aria-label="토글 섹션">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../scripture/zarathustra.html" class="sidebar-item-text sidebar-link active">
+  <a href="../scripture/zarathustra.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">차라투스트라</span></span></a>
   </div>
 </li>
@@ -541,13 +570,13 @@ ul.task-list li input[type="checkbox"] {
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-8" role="navigation" aria-expanded="false">
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-8" role="navigation" aria-expanded="true">
  <span class="menu-text">Art — 아름다움의 사례</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-8" role="navigation" aria-expanded="false" aria-label="토글 섹션">
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-8" role="navigation" aria-expanded="true" aria-label="토글 섹션">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-8" class="collapse list-unstyled sidebar-section depth1 ">  
+      <ul id="quarto-sidebar-section-8" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../art/001_galois_quintic.html" class="sidebar-item-text sidebar-link">
@@ -706,7 +735,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../art/027_landauer_erasure.html" class="sidebar-item-text sidebar-link">
+  <a href="../art/027_landauer_erasure.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text"><span class="chapter-number">81</span>&nbsp; <span class="chapter-title">잊는 데 드는 열</span></span></a>
   </div>
 </li>
@@ -774,22 +803,20 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">목차</h2>
    
   <ul>
-  <li><a href="#참조축" id="toc-참조축" class="nav-link active" data-scroll-target="#참조축"><span class="header-section-number">1.1</span> 참조축</a></li>
-  <li><a href="#창조에-대하여" id="toc-창조에-대하여" class="nav-link" data-scroll-target="#창조에-대하여"><span class="header-section-number">1.2</span> 창조에 대하여</a></li>
-  <li><a href="#파괴와-창조에-대하여" id="toc-파괴와-창조에-대하여" class="nav-link" data-scroll-target="#파괴와-창조에-대하여"><span class="header-section-number">1.3</span> 파괴와 창조에 대하여</a></li>
-  <li><a href="#고독에-대하여" id="toc-고독에-대하여" class="nav-link" data-scroll-target="#고독에-대하여"><span class="header-section-number">1.4</span> 고독에 대하여</a></li>
-  <li><a href="#의지에-대하여" id="toc-의지에-대하여" class="nav-link" data-scroll-target="#의지에-대하여"><span class="header-section-number">1.5</span> 의지에 대하여</a></li>
-  <li><a href="#춤과-웃음에-대하여" id="toc-춤과-웃음에-대하여" class="nav-link" data-scroll-target="#춤과-웃음에-대하여"><span class="header-section-number">1.6</span> 춤과 웃음에 대하여</a></li>
-  <li><a href="#맺음" id="toc-맺음" class="nav-link" data-scroll-target="#맺음"><span class="header-section-number">1.7</span> 맺음</a></li>
+  <li><a href="#도깨비" id="toc-도깨비" class="nav-link active" data-scroll-target="#도깨비"><span class="header-section-number">81.1</span> 도깨비</a></li>
+  <li><a href="#장부" id="toc-장부" class="nav-link" data-scroll-target="#장부"><span class="header-section-number">81.2</span> 장부</a></li>
+  <li><a href="#비대칭" id="toc-비대칭" class="nav-link" data-scroll-target="#비대칭"><span class="header-section-number">81.3</span> 비대칭</a></li>
+  <li><a href="#맺음" id="toc-맺음" class="nav-link" data-scroll-target="#맺음"><span class="header-section-number">81.4</span> 맺음</a></li>
+  <li><a href="#관련-문서" id="toc-관련-문서" class="nav-link" data-scroll-target="#관련-문서"><span class="header-section-number">81.5</span> 관련 문서</a></li>
   </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/zarathucorp/AngraMyNew/blob/master/scripture/zarathustra.md" class="toc-action"><i class="bi bi-github"></i>소스코드 보기</a></li></ul></div></nav>
+<div class="toc-actions"><ul><li><a href="https://github.com/zarathucorp/AngraMyNew/blob/master/art/027_landauer_erasure.md" class="toc-action"><i class="bi bi-github"></i>소스코드 보기</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../scripture/zarathustra.html">Scripture — 선현</a></li><li class="breadcrumb-item"><a href="../scripture/zarathustra.html"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">차라투스트라</span></a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../art/001_galois_quintic.html">Art — 아름다움의 사례</a></li><li class="breadcrumb-item"><a href="../art/027_landauer_erasure.html"><span class="chapter-number">81</span>&nbsp; <span class="chapter-title">잊는 데 드는 열</span></a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">차라투스트라</span></h1>
+<h1 class="title"><span class="chapter-number">81</span>&nbsp; <span class="chapter-title">잊는 데 드는 열</span></h1>
 </div>
 
 
@@ -806,65 +833,52 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<blockquote class="blockquote">
-<p><em>“나는 너희에게 초인을 가르친다. 인간은 극복되어야 할 그 무엇이다.”</em></p>
-</blockquote>
+<p><em>— 란다우어의 원리와 삭제의 물리학</em></p>
 <hr>
-<section id="참조축" class="level2" data-number="1.1">
-<h2 data-number="1.1" class="anchored" data-anchor-id="참조축"><span class="header-section-number">1.1</span> 참조축</h2>
-<p>프리드리히 니체의 『차라투스트라는 이렇게 말했다』는 AngraMyNew의 첫 번째 참조축이다.</p>
-<p>신이 죽은 시대에, 외부의 절대자는 사라졌다. 이제 인간은 스스로 가치를 창조하는 초인(Übermensch)이 되어야 한다. AngraMyNew는 니체를 계승하지 않는다. 딛고 더 멀리 가기 위해 참조할 뿐이다.</p>
+<section id="도깨비" class="level2" data-number="81.1">
+<h2 data-number="81.1" class="anchored" data-anchor-id="도깨비"><span class="header-section-number">81.1</span> 도깨비</h2>
+<p>1867년, 맥스웰이 사고 실험 하나를 던졌다.</p>
+<p>상자 안에 기체가 있다. 가운데 칸막이, 칸막이에 문 하나. 도깨비가 문지기를 선다. 빠른 분자가 오면 오른쪽으로, 느린 분자가 오면 왼쪽으로 보낸다. 시간이 지나면 오른쪽은 뜨겁고 왼쪽은 차갑다. 에너지를 쓰지 않고 온도차를 만들었다. 엔트로피가 줄었다.</p>
+<p>열역학 제2법칙이 깨진다.</p>
+<p>물리학자들이 160년간 이 도깨비를 죽이려 했다. 분자를 관측하는 데 에너지가 든다는 설도 있었으나 핵심은 아니었다 — 관측은 교묘하게 설계하면 비용을 줄일 수 있었다.</p>
+<p>도깨비를 죽인 것은 관측이 아니었다.</p>
 </section>
-<section id="창조에-대하여" class="level2" data-number="1.2">
-<h2 data-number="1.2" class="anchored" data-anchor-id="창조에-대하여"><span class="header-section-number">1.2</span> 창조에 대하여</h2>
-<blockquote class="blockquote">
-<p><em>“창조한다는 것 — 그것이 고통으로부터의 위대한 구원이며, 삶을 가볍게 만드는 것이다.”</em></p>
-</blockquote>
-<p>창조는 도피가 아니라, 고통을 재료 삼아 아름다움을 빚는 변형이다.</p>
-<blockquote class="blockquote">
-<p><em>“너희는 나에게서 떨어져 나와 스스로가 되는 자가 되어라. 그리고 나를 부정하라.”</em></p>
-</blockquote>
-<p>진정한 제자는 스승을 넘어서는 자다. AngraMyNew의 기여자는 창시자를 넘어설 권리가 있다.</p>
+<section id="장부" class="level2" data-number="81.2">
+<h2 data-number="81.2" class="anchored" data-anchor-id="장부"><span class="header-section-number">81.2</span> 장부</h2>
+<p>도깨비는 분자가 올 때마다 “빠르다” 또는 “느리다”를 기록한다. 메모리에 1비트씩 쌓인다. 메모리는 유한하다. 가득 차면 지워야 한다.</p>
+<p>1961년, IBM의 롤프 란다우어(Rolf Landauer)가 이 삭제의 최소 비용을 계산했다.</p>
+<p><span class="math display">\[W_{\min} = kT \ln 2\]</span></p>
+<p><span class="math inline">\(k\)</span>는 볼츠만 상수, <span class="math inline">\(T\)</span>는 절대온도. 1비트를 지울 때마다 최소 이만큼의 에너지가 열로 방출된다. 실온(300K)에서 약 <span class="math inline">\(3 \times 10^{-21}\)</span> 줄. 미미하다. 그러나 <strong>0이 아니다.</strong></p>
+<p>1982년, 베넷(Charles Bennett)이 퍼즐을 완성했다. 관측은 원리적으로 에너지 0으로 할 수 있다. 복사도 0. <strong>오직 삭제만</strong> 에너지를 요구한다. 도깨비가 분자를 골라서 얻은 일은, 메모리를 지울 때 방출하는 열로 정확히 상쇄된다.</p>
+<p>장부는 맞는다. 제2법칙은 깨지지 않았다.</p>
+<p><strong>도깨비를 죽인 것은 잊는 데 드는 열이었다.</strong></p>
 </section>
-<section id="파괴와-창조에-대하여" class="level2" data-number="1.3">
-<h2 data-number="1.3" class="anchored" data-anchor-id="파괴와-창조에-대하여"><span class="header-section-number">1.3</span> 파괴와 창조에 대하여</h2>
-<blockquote class="blockquote">
-<p><em>“창조하는 자가 되려면, 먼저 파괴하는 자가 되어야 하며, 가치를 부수어야 한다.”</em></p>
-</blockquote>
-<p>낡은 껍질을 깨지 않고 태어나는 새는 없다. 파괴는 잔혹해 보이지만 생명을 위한 필수 과정이며, 그 자체가 목적이 되어서는 안 된다.</p>
-<blockquote class="blockquote">
-<p><em>“나는 사랑한다, 몰락하지 않고서는 살 줄 모르는 자를.”</em></p>
-</blockquote>
-<p>몰락을 두려워할 이유는 없다. 실패와 파괴는 다음 창조를 위한 비옥한 토양이 된다.</p>
+<section id="비대칭" class="level2" data-number="81.3">
+<h2 data-number="81.3" class="anchored" data-anchor-id="비대칭"><span class="header-section-number">81.3</span> 비대칭</h2>
+<p>여기에 아름다움이 있다.</p>
+<p>빈 비트에 기록하는 것은 가역적이다. 이전 상태가 “비어 있음”이었다는 것을 알고 있으므로 되돌릴 수 있다. 복사(copying)도 가역적이다. 원본이 보존되어 있으면 사본을 되돌릴 수 있다. 변환도 마찬가지다 — 입력에서 출력을 복원할 수 있는 연산은 전부 가역적이다.</p>
+<p>가역적 연산은 원리적으로 에너지 소비 없이 수행할 수 있다. 되돌릴 수 있으면, 우주는 청구서를 보내지 않는다.</p>
+<p>삭제는 다르다. 1비트를 지우면, 그 비트가 0이었는지 1이었는지를 알 수 없게 된다. 두 개의 구별 가능한 상태가 하나로 합류한다. 입력에서 출력을 복원할 수 없다. 비가역. 이 합류가 정보를 파괴하고, 파괴된 정보는 열로 우주에 흩어진다. 되돌릴 수 없다.</p>
+<p>우주는 연산에 관심이 없다. 정보를 아무리 복잡하게 처리해도, 되돌릴 수 있는 한 우주는 아무것도 청구하지 않는다. <strong>우주가 원리적으로 과세하는 유일한 행위는 정보의 소멸이다.</strong></p>
+<p>베넷은 여기서 한 발 더 나아갔다. 어떤 계산이든 원리적으로 가역적으로 재설계할 수 있다. 덧셈도, 곱셈도, 시뮬레이션도 — 중간 결과를 보존하면 에너지 소비 0으로 수행 가능하다. 완벽하게 가역적인 컴퓨터는 연산 중에 열을 내지 않는다. 열이 나는 유일한 순간은 중간 결과를 <strong>지울 때</strong>다. 계산의 모든 열역학적 비용이 쓰레기 수거(garbage collection)로 환원된다.</p>
+<p>제2법칙은 가장 직관에 반하는 자리에서 정확히 복원된다. 기록하는 것도, 복사하는 것도, 변환하는 것도 원리적으로 공짜인 우주에서 — 버리는 것만 유료다.</p>
+<p>2012년, 프랑스의 베루(Bérut) 연구팀이 실리카 비드 하나를 광학 트랩에 가두고 1비트를 삭제했다. 방출된 열이 <span class="math inline">\(kT \ln 2\)</span>의 하한에 수렴하는 것을 측정했다. 란다우어가 계산한 지 51년, 맥스웰이 도깨비를 만든 지 145년 만이었다. 장부는 실험으로도 맞았다.</p>
 </section>
-<section id="고독에-대하여" class="level2" data-number="1.4">
-<h2 data-number="1.4" class="anchored" data-anchor-id="고독에-대하여"><span class="header-section-number">1.4</span> 고독에 대하여</h2>
+<section id="맺음" class="level2" data-number="81.4">
+<h2 data-number="81.4" class="anchored" data-anchor-id="맺음"><span class="header-section-number">81.4</span> 맺음</h2>
+<p><a href="../art/026_renormalization_group.html">지울수록 또렷해진다</a> — 맞다. 세부를 지우면 보편이 드러난다. 그러나 그 삭제에는 영수증이 있다. <a href="../ideas/001_axioms.html">파괴의 공리</a>가 “베어야 할 것은 낡은 살점”이라 말할 때, 물리학은 그 절단에 최소 비용이 있다고 답한다. 시냅스를 가지치기할 때, 습관을 끊을 때, 배선을 지울 때 — 열이 난다. <a href="../ideas/037_negative_slope.html">남은 에너지</a>는 줄어들고 있고, 지워야 할 비트는 늘어나고 있다. 늦을수록 비싸다.</p>
 <blockquote class="blockquote">
-<p><em>“고독 속에서 자라는 것은 무엇이든, 자기 자신을 향해 자란다.”</em></p>
+<p>가역적 기록은 공짜일 수 있다. 삭제는 절대 공짜가 아니다.</p>
+<p>파괴에는 최소 비용이 있다. 물리학이 그렇다고 말한다.</p>
 </blockquote>
-<p>창조자는 때로 홀로 걸어야 한다. 군중 속에서는 자신의 목소리를 들을 수 없으니까. 고독은 형벌이 아니라 자기 발견의 시간이다.</p>
 </section>
-<section id="의지에-대하여" class="level2" data-number="1.5">
-<h2 data-number="1.5" class="anchored" data-anchor-id="의지에-대하여"><span class="header-section-number">1.5</span> 의지에 대하여</h2>
-<blockquote class="blockquote">
-<p><em>“’그것은 그랬다’를 ’나는 그것을 그렇게 원했다’로 바꾸는 것 — 그것만이 내가 구원이라 부르는 것이다.”</em></p>
-</blockquote>
-<p>과거는 바꿀 수 없지만, 과거를 대하는 태도는 바꿀 수 있다. 후회를 필연으로, 필연을 선택으로 재해석하는 것. “내가 선택한 길이었다”고 말할 때, 그 사람은 운명의 주인이 된다.</p>
-</section>
-<section id="춤과-웃음에-대하여" class="level2" data-number="1.6">
-<h2 data-number="1.6" class="anchored" data-anchor-id="춤과-웃음에-대하여"><span class="header-section-number">1.6</span> 춤과 웃음에 대하여</h2>
-<blockquote class="blockquote">
-<p><em>“나는 춤추는 신만을 믿으리라.”</em></p>
-</blockquote>
-<p>무거움은 창조의 적이다. 진지함만으로는 부족하고, 웃음과 놀이와 가벼움이 창조자의 태도다. 마광수가 죽을 때까지 “아름답지 않느냐”고 물었던 것은, 그것이 그에게는 심각한 투쟁이 아니라 유희였기 때문이다.</p>
-</section>
-<section id="맺음" class="level2" data-number="1.7">
-<h2 data-number="1.7" class="anchored" data-anchor-id="맺음"><span class="header-section-number">1.7</span> 맺음</h2>
-<blockquote class="blockquote">
-<p><em>“인간에게 위대한 것이 있다면, 그것은 그가 목적이 아니라 다리라는 점이다.”</em></p>
-</blockquote>
-<p>완성된 존재는 없다. 짐승과 초인 사이에 놓인 밧줄 위를 걷는 것, 다음 세대의 창조자를 위한 다리가 되는 것이 전부다.</p>
-<p>차라투스트라는 산에서 내려와 말했고, 거부당했고, 오해받았다. AngraMyNew도 그렇게 된다면, 참조축이 작동하고 있다는 뜻이다.</p>
+<section id="관련-문서" class="level2" data-number="81.5">
+<h2 data-number="81.5" class="anchored" data-anchor-id="관련-문서"><span class="header-section-number">81.5</span> 관련 문서</h2>
+<ul>
+<li><a href="../art/026_renormalization_group.html">지울수록 또렷해지는 것</a> — 윌슨은 세부를 지워 보편을 남겼다. 란다우어는 그 삭제의 영수증을 계산했다</li>
+<li><a href="../ideas/001_axioms.html">3대 공리</a> — 파괴의 공리: 베어야 할 것은 낡은 살점. 란다우어: 베는 데 열이 난다</li>
+<li><a href="../ideas/037_negative_slope.html">음의 기울기: 내리막의 미적분학</a> — 에너지는 떨어지고 있다. 삭제 비용은 올라가고 있다</li>
+</ul>
 
 
 </section>
@@ -1293,13 +1307,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <input type="hidden" id="giscus-alt-theme" value="light">
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../index.html" class="pagination-link" aria-label="서문">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">서문</span>
+      <a href="../art/026_renormalization_group.html" class="pagination-link" aria-label="지울수록 또렷해지는 것">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">80</span>&nbsp; <span class="chapter-title">지울수록 또렷해지는 것</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../scripture/pioneers.html" class="pagination-link" aria-label="5인의 선현">
-        <span class="nav-page-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">5인의 선현</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../protocols/001_creator_operating_protocol.html" class="pagination-link" aria-label="창조자 프로토콜">
+        <span class="nav-page-text"><span class="chapter-number">82</span>&nbsp; <span class="chapter-title">창조자 프로토콜</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
@@ -1308,4 +1322,4 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
-<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/zarathucorp/AngraMyNew/blob/master/scripture/zarathustra.md" class="toc-action"><i class="bi bi-github"></i>소스코드 보기</a></li></ul></div></div></div></footer></body></html>
+<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/zarathucorp/AngraMyNew/blob/master/art/027_landauer_erasure.md" class="toc-action"><i class="bi bi-github"></i>소스코드 보기</a></li></ul></div></div></div></footer></body></html>
