@@ -54,7 +54,7 @@
 
 ## 구조
 
-**[ideas/](ideas/)** — 철학·사상·선언 (45편)
+**[ideas/](ideas/)** — 철학·사상·선언 (50편)
 
 기원/공리
 - [AngraMyNew의 기원](ideas/000_origin.md)
@@ -85,6 +85,8 @@
 - [위상학적 종교개혁: 제네바에서 조선까지](ideas/038_topological_reformation.md)
 - [모방의 삼각형: 욕망에 원본은 없다](ideas/042_mimetic_triangle.md)
 - [바티칸 없는 교황](ideas/045_pope_without_vatican.md)
+- [프로듀서론: 터빈을 세우는 자](ideas/049_producer_theory.md)
+- [스카우터론: 곡률 전의 눈](ideas/050_scout_theory.md)
 
 인식론/과학
 - [정신의 LHC](ideas/016_mental_lhc.md)
@@ -94,12 +96,14 @@
 - [이상한 체계들은 왜 사라지지 않는가](ideas/018_why_strange_systems_persist.md)
 - [악상의 시대](ideas/022_age_of_malice.md)
 - [고장 난 센서](ideas/044_broken_sensor.md)
+- [두 원점](ideas/048_two_origins.md)
 
 실천/적용
 - [Project Doctor K](ideas/005_project_doctor_k.md)
 - [계보로서의 창조](ideas/011_lineage_as_creation.md)
 - [박사학위의 재정의](ideas/012_redefine_doctor_degree.md)
 - [탈중앙화 정신체계 OS](ideas/013_decentralized_mental_os.md)
+- [아카이브론: 밀도의 보험](ideas/051_archive_theory.md)
 
 사례연구
 - [미완의 정리](ideas/007_case_study_unfinished_theorem.md)
@@ -112,8 +116,9 @@
 - [창천항로](ideas/032_case_study_souten_kouro.md)
 - [아스달 연대기: 서사는 사실일 필요가 없다](ideas/041_case_study_arthdal_chronicles.md)
 - [세계관이 언어가 될 때](ideas/046_case_study_worldview_as_language.md)
+- [프로듀스101: 곡률을 선지급하는 기계](ideas/052_case_study_produce101.md)
 
-**[art/](art/)** — 아름다움의 사례 (26편)
+**[art/](art/)** — 아름다움의 사례 (27편)
 - [갈루아와 5차방정식](art/001_galois_quintic.md)
 - [일반상대성이론](art/002_general_relativity.md)
 - [하나의 무늬가 전부가 되다](art/003_one_pattern.md)
@@ -140,6 +145,7 @@
 - [없는 기하학을 지었다](art/024_hodge_combinatorics.md)
 - [뜻을 지운 자리](art/025_yi_sang_ogamdo.md)
 - [지울수록 또렷해지는 것](art/026_renormalization_group.md)
+- [잊는 데 드는 열](art/027_landauer_erasure.md)
 
 **[scripture/](scripture/)** — 선현: 차라투스트라, 5인의 선현, 맹상군, 나혜석
 

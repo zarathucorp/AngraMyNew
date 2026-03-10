@@ -54,7 +54,7 @@
 
 ## 结构
 
-**[ideas/](ideas/)** — 哲学·思想·宣言（45篇）
+**[ideas/](ideas/)** — 哲学·思想·宣言（50篇）
 
 起源／公理
 - [AngraMyNew的起源](ideas/000_origin.md)
@@ -85,6 +85,8 @@
 - [拓扑式宗教改革：从日内瓦到朝鲜](ideas/038_topological_reformation.md)
 - [模仿的三角形：欲望没有原本](ideas/042_mimetic_triangle.md)
 - [没有梵蒂冈的教皇](ideas/045_pope_without_vatican.md)
+- [制作人论：建造涡轮的人](ideas/049_producer_theory.md)
+- [侦察论：曲率前的眼睛](ideas/050_scout_theory.md)
 
 认识论／科学
 - [精神的LHC](ideas/016_mental_lhc.md)
@@ -94,12 +96,14 @@
 - [奇怪的体系为何不会消失](ideas/018_why_strange_systems_persist.md)
 - [恶想的时代](ideas/022_age_of_malice.md)
 - [故障的传感器](ideas/044_broken_sensor.md)
+- [两个原点](ideas/048_two_origins.md)
 
 实践／应用
 - [Project Doctor K](ideas/005_project_doctor_k.md)
 - [作为谱系的创造](ideas/011_lineage_as_creation.md)
 - [博士学位的重新定义](ideas/012_redefine_doctor_degree.md)
 - [去中心化精神体系OS](ideas/013_decentralized_mental_os.md)
+- [档案论：密度的保险](ideas/051_archive_theory.md)
 
 案例研究
 - [未完成的定理](ideas/007_case_study_unfinished_theorem.md)
@@ -112,8 +116,9 @@
 - [苍天航路](ideas/032_case_study_souten_kouro.md)
 - [阿斯达年代记：叙事不必真实](ideas/041_case_study_arthdal_chronicles.md)
 - [当世界观成为语言](ideas/046_case_study_worldview_as_language.md)
+- [Produce 101：预付曲率的机器](ideas/052_case_study_produce101.md)
 
-**[art/](art/)** — 美的案例（26篇）
+**[art/](art/)** — 美的案例（27篇）
 - [伽罗瓦与五次方程](art/001_galois_quintic.md)
 - [广义相对论](art/002_general_relativity.md)
 - [一个图样成为全部](art/003_one_pattern.md)
@@ -140,6 +145,7 @@
 - [在不存在之处建起几何](art/024_hodge_combinatorics.md)
 - [抹去意义的地方](art/025_yi_sang_ogamdo.md)
 - [越抹越清晰之物](art/026_renormalization_group.md)
+- [遗忘所需的热量](art/027_landauer_erasure.md)
 
 **[scripture/](scripture/)** — 先贤: 查拉图斯特拉、五位先贤、孟尝君、罗蕙锡
 

@@ -54,7 +54,7 @@
 
 ## 構造
 
-**[ideas/](ideas/)** — 哲学・思想・宣言（45編）
+**[ideas/](ideas/)** — 哲学・思想・宣言（50編）
 
 起源／公理
 - [AngraMyNewの起源](ideas/000_origin.md)
@@ -85,6 +85,8 @@
 - [位相的宗教改革 — ジュネーブから朝鮮まで](ideas/038_topological_reformation.md)
 - [模倣の三角形 — 欲望にオリジナルはない](ideas/042_mimetic_triangle.md)
 - [バチカンなき教皇](ideas/045_pope_without_vatican.md)
+- [プロデューサー論：タービンを立てる者](ideas/049_producer_theory.md)
+- [スカウター論：曲率前の目](ideas/050_scout_theory.md)
 
 認識論／科学
 - [精神のLHC](ideas/016_mental_lhc.md)
@@ -94,12 +96,14 @@
 - [奇妙な体系はなぜ消えないのか](ideas/018_why_strange_systems_persist.md)
 - [悪想の時代](ideas/022_age_of_malice.md)
 - [壊れたセンサー](ideas/044_broken_sensor.md)
+- [二つの原点](ideas/048_two_origins.md)
 
 実践／応用
 - [Project Doctor K](ideas/005_project_doctor_k.md)
 - [系譜としての創造](ideas/011_lineage_as_creation.md)
 - [博士号の再定義](ideas/012_redefine_doctor_degree.md)
 - [脱中心化精神体系OS](ideas/013_decentralized_mental_os.md)
+- [アーカイブ論：密度の保険](ideas/051_archive_theory.md)
 
 事例研究
 - [未完の定理](ideas/007_case_study_unfinished_theorem.md)
@@ -112,8 +116,9 @@
 - [蒼天航路](ideas/032_case_study_souten_kouro.md)
 - [アスダル年代記 — 物語は事実である必要がない](ideas/041_case_study_arthdal_chronicles.md)
 - [世界観が言語になるとき](ideas/046_case_study_worldview_as_language.md)
+- [プロデュース101：曲率を前払いする機械](ideas/052_case_study_produce101.md)
 
-**[art/](art/)** — 美の事例（26編）
+**[art/](art/)** — 美の事例（27編）
 - [ガロアと五次方程式](art/001_galois_quintic.md)
 - [一般相対性理論](art/002_general_relativity.md)
 - [ひとつの模様がすべてになる](art/003_one_pattern.md)
@@ -140,6 +145,7 @@
 - [ない幾何学を建てた](art/024_hodge_combinatorics.md)
 - [意味を消した場所](art/025_yi_sang_ogamdo.md)
 - [消すほど鮮明になるもの](art/026_renormalization_group.md)
+- [忘れるのに必要な熱](art/027_landauer_erasure.md)
 
 **[scripture/](scripture/)** — 先賢: ツァラトゥストラ、五人の先賢、孟嘗君、羅蕙錫
 

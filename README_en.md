@@ -54,7 +54,7 @@ Create your own values like Nietzsche, embrace even the seemingly useless like M
 
 ## Structure
 
-**[ideas/](ideas/)** — Philosophy, thought, declarations (45 essays)
+**[ideas/](ideas/)** — Philosophy, thought, declarations (50 essays)
 
 Foundation
 - [Origin of AngraMyNew](ideas/000_origin.md)
@@ -85,6 +85,8 @@ Economics & Structure
 - [Topological Reformation: From Geneva to Joseon](ideas/038_topological_reformation.md)
 - [The Mimetic Triangle: Desire Has No Original](ideas/042_mimetic_triangle.md)
 - [A Pope Without the Vatican](ideas/045_pope_without_vatican.md)
+- [Producer Theory: The One Who Builds the Turbine](ideas/049_producer_theory.md)
+- [Scout Theory: The Eye Before Curvature](ideas/050_scout_theory.md)
 
 Epistemology & Science
 - [The Mental LHC](ideas/016_mental_lhc.md)
@@ -94,12 +96,14 @@ Epistemology & Science
 - [Why Strange Systems Persist](ideas/018_why_strange_systems_persist.md)
 - [The Age of Malice](ideas/022_age_of_malice.md)
 - [The Broken Sensor](ideas/044_broken_sensor.md)
+- [Two Origins](ideas/048_two_origins.md)
 
 Practice & Application
 - [Project Doctor K](ideas/005_project_doctor_k.md)
 - [Creation as Lineage](ideas/011_lineage_as_creation.md)
 - [Redefining the Doctorate](ideas/012_redefine_doctor_degree.md)
 - [A Decentralized Mental OS](ideas/013_decentralized_mental_os.md)
+- [Archive Theory: Insurance for Density](ideas/051_archive_theory.md)
 
 Case Studies
 - [The Unfinished Theorem](ideas/007_case_study_unfinished_theorem.md)
@@ -112,8 +116,9 @@ Case Studies
 - [Souten Kouro](ideas/032_case_study_souten_kouro.md)
 - [The Arthdal Chronicles: Narrative Need Not Be True](ideas/041_case_study_arthdal_chronicles.md)
 - [When a Worldview Becomes Language](ideas/046_case_study_worldview_as_language.md)
+- [Produce 101: A Machine That Prepays Curvature](ideas/052_case_study_produce101.md)
 
-**[art/](art/)** — Examples of beauty (26 essays)
+**[art/](art/)** — Examples of beauty (27 essays)
 - [Galois and the Quintic Equation](art/001_galois_quintic.md)
 - [General Relativity](art/002_general_relativity.md)
 - [When One Pattern Becomes Everything](art/003_one_pattern.md)
@@ -140,6 +145,7 @@ Case Studies
 - [Geometry Built Where None Existed](art/024_hodge_combinatorics.md)
 - [The Place Where Meaning Was Erased](art/025_yi_sang_ogamdo.md)
 - [What Grows Clearer as It Is Erased](art/026_renormalization_group.md)
+- [The Heat It Takes to Forget](art/027_landauer_erasure.md)
 
 **[scripture/](scripture/)** — Pioneers: Zarathustra, The Five, Mengchangjun, Na Hye-seok
 
