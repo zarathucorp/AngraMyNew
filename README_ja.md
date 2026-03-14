@@ -54,7 +54,7 @@
 
 ## 構造
 
-**[ideas/](ideas/)** — 哲学・思想・宣言（50編）
+**[ideas/](ideas/)** — 哲学・思想・宣言（51編）
 
 起源／公理
 - [AngraMyNewの起源](ideas/000_origin.md)
@@ -117,6 +117,7 @@
 - [アスダル年代記 — 物語は事実である必要がない](ideas/041_case_study_arthdal_chronicles.md)
 - [世界観が言語になるとき](ideas/046_case_study_worldview_as_language.md)
 - [プロデュース101：曲率を前払いする機械](ideas/052_case_study_produce101.md)
+- [火も金もない木](ideas/053_case_study_tree_without_fire_or_metal.md)
 
 **[art/](art/)** — 美の事例（27編）
 - [ガロアと五次方程式](art/001_galois_quintic.md)

@@ -54,7 +54,7 @@
 
 ## 结构
 
-**[ideas/](ideas/)** — 哲学·思想·宣言（50篇）
+**[ideas/](ideas/)** — 哲学·思想·宣言（51篇）
 
 起源／公理
 - [AngraMyNew的起源](ideas/000_origin.md)
@@ -117,6 +117,7 @@
 - [阿斯达年代记：叙事不必真实](ideas/041_case_study_arthdal_chronicles.md)
 - [当世界观成为语言](ideas/046_case_study_worldview_as_language.md)
 - [Produce 101：预付曲率的机器](ideas/052_case_study_produce101.md)
+- [没有火与金的树](ideas/053_case_study_tree_without_fire_or_metal.md)
 
 **[art/](art/)** — 美的案例（27篇）
 - [伽罗瓦与五次方程](art/001_galois_quintic.md)

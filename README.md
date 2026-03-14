@@ -54,7 +54,7 @@
 
 ## 구조
 
-**[ideas/](ideas/)** — 철학·사상·선언 (50편)
+**[ideas/](ideas/)** — 철학·사상·선언 (51편)
 
 기원/공리
 - [AngraMyNew의 기원](ideas/000_origin.md)
@@ -117,6 +117,7 @@
 - [아스달 연대기: 서사는 사실일 필요가 없다](ideas/041_case_study_arthdal_chronicles.md)
 - [세계관이 언어가 될 때](ideas/046_case_study_worldview_as_language.md)
 - [프로듀스101: 곡률을 선지급하는 기계](ideas/052_case_study_produce101.md)
+- [불도 쇠도 없는 나무](ideas/053_case_study_tree_without_fire_or_metal.md)
 
 **[art/](art/)** — 아름다움의 사례 (27편)
 - [갈루아와 5차방정식](art/001_galois_quintic.md)

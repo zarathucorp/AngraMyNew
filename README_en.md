@@ -54,7 +54,7 @@ Create your own values like Nietzsche, embrace even the seemingly useless like M
 
 ## Structure
 
-**[ideas/](ideas/)** — Philosophy, thought, declarations (50 essays)
+**[ideas/](ideas/)** — Philosophy, thought, declarations (51 essays)
 
 Foundation
 - [Origin of AngraMyNew](ideas/000_origin.md)
@@ -117,6 +117,7 @@ Case Studies
 - [The Arthdal Chronicles: Narrative Need Not Be True](ideas/041_case_study_arthdal_chronicles.md)
 - [When a Worldview Becomes Language](ideas/046_case_study_worldview_as_language.md)
 - [Produce 101: A Machine That Prepays Curvature](ideas/052_case_study_produce101.md)
+- [A Tree Without Fire or Metal](ideas/053_case_study_tree_without_fire_or_metal.md)
 
 **[art/](art/)** — Examples of beauty (27 essays)
 - [Galois and the Quintic Equation](art/001_galois_quintic.md)
