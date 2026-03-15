@@ -54,7 +54,7 @@
 
 ## 構造
 
-**[ideas/](ideas/)** — 哲学・思想・宣言（51編）
+**[ideas/](ideas/)** — 哲学・思想・宣言（53編）
 
 起源／公理
 - [AngraMyNewの起源](ideas/000_origin.md)
@@ -118,6 +118,8 @@
 - [世界観が言語になるとき](ideas/046_case_study_worldview_as_language.md)
 - [プロデュース101：曲率を前払いする機械](ideas/052_case_study_produce101.md)
 - [火も金もない木](ideas/053_case_study_tree_without_fire_or_metal.md)
+- [超然の解剖](ideas/054_case_study_anatomy_of_detachment.md)
+- [最後の取引](ideas/055_case_study_last_bargain.md)
 
 **[art/](art/)** — 美の事例（27編）
 - [ガロアと五次方程式](art/001_galois_quintic.md)
