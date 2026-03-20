@@ -54,72 +54,68 @@ Create your own values like Nietzsche, embrace even the seemingly useless like M
 
 ## Structure
 
+**Pioneers and Origin** — [Zarathustra](scripture/zarathustra.md) · [The Five Pioneers](scripture/pioneers.md) · [Mengchangjun](scripture/mengchangjun.md) · [Na Hye-seok](scripture/na_hye_suk.md) · [Origin](ideas/000_origin.md) · [The 3 Axioms](ideas/001_axioms.md) · [A Decentralized Mental OS](ideas/013_decentralized_mental_os.md) · [Principles of Creation](ideas/002_principles_of_creation.md)
+
 **[ideas/](ideas/)** — Philosophy, thought, declarations (53 essays)
 
-Foundation
-- [Origin of AngraMyNew](ideas/000_origin.md)
-- [The 3 Axioms](ideas/001_axioms.md)
-- [Principles of Creation](ideas/002_principles_of_creation.md)
-
-Creator Theory
+Artist and Aksang
 - [Beyond Usefulness](ideas/003_beyond_usefulness.md)
 - [The Artist Within](ideas/004_artist_within.md)
-- [Imprint: The Curvature of an Orbit](ideas/043_creator_as_reference.md)
+- [The Age of Malice](ideas/022_age_of_malice.md)
 - [Struggle and Seduction](ideas/008_seduction_of_creation.md)
 - [Rage Against Definition](ideas/009_rage_against_definition.md)
 - [The Predator's Duty](ideas/010_predators_duty.md)
-- [Density Without Curvature](ideas/047_density_without_curvature.md)
+- [The Two Faces of Monologue](ideas/040_two_faces_of_monologue.md)
+- [The Unfinished Theorem](ideas/007_case_study_unfinished_theorem.md)
+- [Perfume: The Man Whose Blade Pointed Outward](ideas/027_case_study_perfume.md)
+- [Zorba the Greek](ideas/030_case_study_zorba.md)
+- [Anatomy of Detachment](ideas/054_case_study_anatomy_of_detachment.md)
 
-Economics & Structure
-- [Aesthetic Nation](ideas/006_aesthetic_nation.md)
-- [The Rich, the Tax-Exempt, and the Tax-Collector](ideas/014_economics_of_beauty.md)
+Density and Curvature
+- [Imprint: The Curvature of an Orbit](ideas/043_creator_as_reference.md)
+- [Density Without Curvature](ideas/047_density_without_curvature.md)
+- [The Mental LHC](ideas/016_mental_lhc.md)
+- [When Is a Proof Beautiful?](ideas/017_when_is_a_proof_beautiful.md)
 - [The Successful Lens](ideas/023_successful_lens.md)
-- [Witness Fee — When Critical Care Needs Witness](ideas/024_when_critical_care_needs_witness.md)
+- [The Mimetic Triangle: Desire Has No Original](ideas/042_mimetic_triangle.md)
+- [Why Strange Systems Persist](ideas/018_why_strange_systems_persist.md)
+- [One Number](ideas/031_case_study_war.md)
+- [Souten Kouro](ideas/032_case_study_souten_kouro.md)
+- [A Tree Without Fire or Metal](ideas/053_case_study_tree_without_fire_or_metal.md)
+
+The Tax-Exempt and the Tax-Collector
+- [The Rich, the Tax-Exempt, and the Tax-Collector](ideas/014_economics_of_beauty.md)
 - [Consumption of the Tax-Exempt](ideas/025_consumption_of_exempt.md)
-- [The Three Kingdoms of Truth, Goodness, and Beauty](ideas/026_three_kingdoms_of_beauty.md)
-- [On Patronage](ideas/029_on_patronage.md)
 - [The Topology of Prostitution](ideas/033_topology_of_prostitution.md)
 - [Death: The Final Tax](ideas/034_death_the_final_tax.md)
 - [K-Matrix: The Black Hole of a Single Orbit](ideas/036_k_matrix_single_orbit.md)
 - [Negative Slope: The Calculus of Descent](ideas/037_negative_slope.md)
-- [Topological Reformation: From Geneva to Joseon](ideas/038_topological_reformation.md)
-- [The Mimetic Triangle: Desire Has No Original](ideas/042_mimetic_triangle.md)
-- [A Pope Without the Vatican](ideas/045_pope_without_vatican.md)
+- [The Broken Sensor](ideas/044_broken_sensor.md)
+- [When Critical Care Needs Witness](ideas/024_when_critical_care_needs_witness.md)
+- [A Practical Model of Taxation](ideas/015_case_study_the_gravity_of_outlaws.md)
+- [DAWN — Money](ideas/021_case_study_dawn_money.md)
+- [The Last Bargain](ideas/055_case_study_last_bargain.md)
+
+Debut and Expansion
+- [On Patronage](ideas/029_on_patronage.md)
 - [Producer Theory: The One Who Builds the Turbine](ideas/049_producer_theory.md)
 - [Scout Theory: The Eye Before Curvature](ideas/050_scout_theory.md)
-
-Epistemology & Science
-- [The Mental LHC](ideas/016_mental_lhc.md)
-- [When Is a Proof Beautiful?](ideas/017_when_is_a_proof_beautiful.md)
-- [Three Loss Functions](ideas/039_three_loss_functions.md)
-- [The Two Faces of Monologue: Why Banality and Obscenity Are the Same Failure](ideas/040_two_faces_of_monologue.md)
-- [Why Strange Systems Persist](ideas/018_why_strange_systems_persist.md)
-- [The Age of Malice](ideas/022_age_of_malice.md)
-- [The Broken Sensor](ideas/044_broken_sensor.md)
-- [Two Origins](ideas/048_two_origins.md)
-
-Practice & Application
 - [Project Doctor K](ideas/005_project_doctor_k.md)
 - [Creation as Lineage](ideas/011_lineage_as_creation.md)
 - [Redefining the Doctorate](ideas/012_redefine_doctor_degree.md)
-- [A Decentralized Mental OS](ideas/013_decentralized_mental_os.md)
 - [Archive Theory: Insurance for Density](ideas/051_archive_theory.md)
-
-Case Studies
-- [The Unfinished Theorem](ideas/007_case_study_unfinished_theorem.md)
-- [A Practical Model of Taxation](ideas/015_case_study_the_gravity_of_outlaws.md)
-- [DAWN — Money](ideas/021_case_study_dawn_money.md)
-- [Perfume: The Man Whose Blade Pointed Outward](ideas/027_case_study_perfume.md)
-- [The Borderline: When Expansion Becomes Enlargement](ideas/028_case_study_fukuzawa.md)
-- [Zorba the Greek](ideas/030_case_study_zorba.md)
-- [One Number](ideas/031_case_study_war.md)
-- [Souten Kouro](ideas/032_case_study_souten_kouro.md)
-- [The Arthdal Chronicles: Narrative Need Not Be True](ideas/041_case_study_arthdal_chronicles.md)
-- [When a Worldview Becomes Language](ideas/046_case_study_worldview_as_language.md)
 - [Produce 101: A Machine That Prepays Curvature](ideas/052_case_study_produce101.md)
-- [A Tree Without Fire or Metal](ideas/053_case_study_tree_without_fire_or_metal.md)
-- [Anatomy of Detachment](ideas/054_case_study_anatomy_of_detachment.md)
-- [The Last Bargain](ideas/055_case_study_last_bargain.md)
+- [The Borderline: When Expansion Becomes Enlargement](ideas/028_case_study_fukuzawa.md)
+
+Mental OS and Regime
+- [Three Loss Functions](ideas/039_three_loss_functions.md)
+- [The Three Kingdoms of Truth, Goodness, and Beauty](ideas/026_three_kingdoms_of_beauty.md)
+- [Topological Reformation: From Geneva to Joseon](ideas/038_topological_reformation.md)
+- [A Pope Without the Vatican](ideas/045_pope_without_vatican.md)
+- [Two Origins](ideas/048_two_origins.md)
+- [Aesthetic Nation](ideas/006_aesthetic_nation.md)
+- [When a Worldview Becomes Language](ideas/046_case_study_worldview_as_language.md)
+- [The Arthdal Chronicles: Narrative Need Not Be True](ideas/041_case_study_arthdal_chronicles.md)
 
 **[art/](art/)** — Examples of beauty (27 essays)
 - [Galois and the Quintic Equation](art/001_galois_quintic.md)
@@ -149,8 +145,6 @@ Case Studies
 - [The Place Where Meaning Was Erased](art/025_yi_sang_ogamdo.md)
 - [What Grows Clearer as It Is Erased](art/026_renormalization_group.md)
 - [The Heat It Takes to Forget](art/027_landauer_erasure.md)
-
-**[scripture/](scripture/)** — Pioneers: Zarathustra, The Five, Mengchangjun, Na Hye-seok
 
 **[fravashi/](fravashi/)** — Fravashi Archetype Engine
 

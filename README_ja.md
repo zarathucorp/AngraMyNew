@@ -54,72 +54,68 @@
 
 ## 構造
 
+**先賢と原点** — [ツァラトゥストラ](scripture/zarathustra.md) · [五人の先賢](scripture/pioneers.md) · [孟嘗君](scripture/mengchangjun.md) · [羅蕙錫](scripture/na_hye_suk.md) · [起源](ideas/000_origin.md) · [三大公理](ideas/001_axioms.md) · [脱中心化精神体系OS](ideas/013_decentralized_mental_os.md) · [創造の原理](ideas/002_principles_of_creation.md)
+
 **[ideas/](ideas/)** — 哲学・思想・宣言（53編）
 
-起源／公理
-- [AngraMyNewの起源](ideas/000_origin.md)
-- [三大公理](ideas/001_axioms.md)
-- [創造の原理](ideas/002_principles_of_creation.md)
-
-創造者論
+アーティストと悪想
 - [有用性を超えて](ideas/003_beyond_usefulness.md)
 - [内なるアーティスト](ideas/004_artist_within.md)
-- [刻印: 軌道の曲率](ideas/043_creator_as_reference.md)
+- [悪想の時代](ideas/022_age_of_malice.md)
 - [闘争と誘惑](ideas/008_seduction_of_creation.md)
 - [定義への怒り](ideas/009_rage_against_definition.md)
 - [捕食者の義務](ideas/010_predators_duty.md)
-- [曲率のない密度](ideas/047_density_without_curvature.md)
+- [独白の二つの顔](ideas/040_two_faces_of_monologue.md)
+- [未完の定理](ideas/007_case_study_unfinished_theorem.md)
+- [香水 — 刃が外を向いた男](ideas/027_case_study_perfume.md)
+- [ギリシア人ゾルバ](ideas/030_case_study_zorba.md)
+- [超然の解剖](ideas/054_case_study_anatomy_of_detachment.md)
 
-経済／構造論
-- [美学国家論](ideas/006_aesthetic_nation.md)
-- [富者・免税人・徴税人](ideas/014_economics_of_beauty.md)
+密度と曲率
+- [刻印: 軌道の曲率](ideas/043_creator_as_reference.md)
+- [曲率のない密度](ideas/047_density_without_curvature.md)
+- [精神のLHC](ideas/016_mental_lhc.md)
+- [証明はいつ美しいのか](ideas/017_when_is_a_proof_beautiful.md)
 - [成功したレンズ](ideas/023_successful_lens.md)
-- [目撃料 — 必須医療の危機](ideas/024_when_critical_care_needs_witness.md)
+- [模倣の三角形 — 欲望にオリジナルはない](ideas/042_mimetic_triangle.md)
+- [奇妙な体系はなぜ消えないのか](ideas/018_why_strange_systems_persist.md)
+- [ひとつの数字](ideas/031_case_study_war.md)
+- [蒼天航路](ideas/032_case_study_souten_kouro.md)
+- [火も金もない木](ideas/053_case_study_tree_without_fire_or_metal.md)
+
+免税人と徴税人
+- [富者・免税人・徴税人](ideas/014_economics_of_beauty.md)
 - [免税人の消費](ideas/025_consumption_of_exempt.md)
-- [真・善・美の三国志](ideas/026_three_kingdoms_of_beauty.md)
-- [パトロネージ論](ideas/029_on_patronage.md)
 - [売春のトポロジー](ideas/033_topology_of_prostitution.md)
 - [死 — システムが徴収する最後の税](ideas/034_death_the_final_tax.md)
 - [K-マトリクス — 単一軌道のブラックホール](ideas/036_k_matrix_single_orbit.md)
 - [負の傾き — 下り坂の微積分学](ideas/037_negative_slope.md)
-- [位相的宗教改革 — ジュネーブから朝鮮まで](ideas/038_topological_reformation.md)
-- [模倣の三角形 — 欲望にオリジナルはない](ideas/042_mimetic_triangle.md)
-- [バチカンなき教皇](ideas/045_pope_without_vatican.md)
+- [壊れたセンサー](ideas/044_broken_sensor.md)
+- [必須医療の危機](ideas/024_when_critical_care_needs_witness.md)
+- [徴税の実戦モデル](ideas/015_case_study_the_gravity_of_outlaws.md)
+- [DAWN — Money](ideas/021_case_study_dawn_money.md)
+- [最後の取引](ideas/055_case_study_last_bargain.md)
+
+デビューと拡張
+- [パトロネージ論](ideas/029_on_patronage.md)
 - [プロデューサー論：タービンを立てる者](ideas/049_producer_theory.md)
 - [スカウター論：曲率前の目](ideas/050_scout_theory.md)
-
-認識論／科学
-- [精神のLHC](ideas/016_mental_lhc.md)
-- [証明はいつ美しいのか](ideas/017_when_is_a_proof_beautiful.md)
-- [三つの損失関数](ideas/039_three_loss_functions.md)
-- [独白の二つの顔 — 通俗と猥雑はなぜ同じ失敗なのか](ideas/040_two_faces_of_monologue.md)
-- [奇妙な体系はなぜ消えないのか](ideas/018_why_strange_systems_persist.md)
-- [悪想の時代](ideas/022_age_of_malice.md)
-- [壊れたセンサー](ideas/044_broken_sensor.md)
-- [二つの原点](ideas/048_two_origins.md)
-
-実践／応用
 - [Project Doctor K](ideas/005_project_doctor_k.md)
 - [系譜としての創造](ideas/011_lineage_as_creation.md)
 - [博士号の再定義](ideas/012_redefine_doctor_degree.md)
-- [脱中心化精神体系OS](ideas/013_decentralized_mental_os.md)
 - [アーカイブ論：密度の保険](ideas/051_archive_theory.md)
-
-事例研究
-- [未完の定理](ideas/007_case_study_unfinished_theorem.md)
-- [徴税の実戦モデル](ideas/015_case_study_the_gravity_of_outlaws.md)
-- [DAWN — Money](ideas/021_case_study_dawn_money.md)
-- [香水 — 刃が外を向いた男](ideas/027_case_study_perfume.md)
-- [境界線 — 拡張が拡大になるとき](ideas/028_case_study_fukuzawa.md)
-- [ギリシア人ゾルバ](ideas/030_case_study_zorba.md)
-- [ひとつの数字](ideas/031_case_study_war.md)
-- [蒼天航路](ideas/032_case_study_souten_kouro.md)
-- [アスダル年代記 — 物語は事実である必要がない](ideas/041_case_study_arthdal_chronicles.md)
-- [世界観が言語になるとき](ideas/046_case_study_worldview_as_language.md)
 - [プロデュース101：曲率を前払いする機械](ideas/052_case_study_produce101.md)
-- [火も金もない木](ideas/053_case_study_tree_without_fire_or_metal.md)
-- [超然の解剖](ideas/054_case_study_anatomy_of_detachment.md)
-- [最後の取引](ideas/055_case_study_last_bargain.md)
+- [境界線 — 拡張が拡大になるとき](ideas/028_case_study_fukuzawa.md)
+
+精神OSと体制
+- [三つの損失関数](ideas/039_three_loss_functions.md)
+- [真・善・美の三国志](ideas/026_three_kingdoms_of_beauty.md)
+- [位相的宗教改革 — ジュネーブから朝鮮まで](ideas/038_topological_reformation.md)
+- [バチカンなき教皇](ideas/045_pope_without_vatican.md)
+- [二つの原点](ideas/048_two_origins.md)
+- [美学国家論](ideas/006_aesthetic_nation.md)
+- [世界観が言語になるとき](ideas/046_case_study_worldview_as_language.md)
+- [アスダル年代記 — 物語は事実である必要がない](ideas/041_case_study_arthdal_chronicles.md)
 
 **[art/](art/)** — 美の事例（27編）
 - [ガロアと五次方程式](art/001_galois_quintic.md)
@@ -149,8 +145,6 @@
 - [意味を消した場所](art/025_yi_sang_ogamdo.md)
 - [消すほど鮮明になるもの](art/026_renormalization_group.md)
 - [忘れるのに必要な熱](art/027_landauer_erasure.md)
-
-**[scripture/](scripture/)** — 先賢: ツァラトゥストラ、五人の先賢、孟嘗君、羅蕙錫
 
 **[fravashi/](fravashi/)** — Fravashi 原型解析エンジン
 

@@ -54,72 +54,68 @@
 
 ## 结构
 
+**先贤与原点** — [查拉图斯特拉](scripture/zarathustra.md) · [五位先贤](scripture/pioneers.md) · [孟尝君](scripture/mengchangjun.md) · [罗蕙锡](scripture/na_hye_suk.md) · [起源](ideas/000_origin.md) · [三大公理](ideas/001_axioms.md) · [去中心化精神体系OS](ideas/013_decentralized_mental_os.md) · [创造的原理](ideas/002_principles_of_creation.md)
+
 **[ideas/](ideas/)** — 哲学·思想·宣言（53篇）
 
-起源／公理
-- [AngraMyNew的起源](ideas/000_origin.md)
-- [三大公理](ideas/001_axioms.md)
-- [创造的原理](ideas/002_principles_of_creation.md)
-
-创造者论
+艺术家与恶想
 - [超越有用性](ideas/003_beyond_usefulness.md)
 - [内在的艺术家](ideas/004_artist_within.md)
-- [刻印: 轨道的曲率](ideas/043_creator_as_reference.md)
+- [恶想的时代](ideas/022_age_of_malice.md)
 - [斗争与诱惑](ideas/008_seduction_of_creation.md)
 - [对定义的愤怒](ideas/009_rage_against_definition.md)
 - [捕食者的义务](ideas/010_predators_duty.md)
-- [没有曲率的密度](ideas/047_density_without_curvature.md)
+- [独白的两张面孔](ideas/040_two_faces_of_monologue.md)
+- [未完成的定理](ideas/007_case_study_unfinished_theorem.md)
+- [香水：刀刃朝外的男人](ideas/027_case_study_perfume.md)
+- [希腊人左巴](ideas/030_case_study_zorba.md)
+- [超然的解剖](ideas/054_case_study_anatomy_of_detachment.md)
 
-经济／结构论
-- [美学国家论](ideas/006_aesthetic_nation.md)
-- [富人、免税人、征税人](ideas/014_economics_of_beauty.md)
+密度与曲率
+- [刻印: 轨道的曲率](ideas/043_creator_as_reference.md)
+- [没有曲率的密度](ideas/047_density_without_curvature.md)
+- [精神的LHC](ideas/016_mental_lhc.md)
+- [证明何时美丽](ideas/017_when_is_a_proof_beautiful.md)
 - [成功的透镜](ideas/023_successful_lens.md)
-- [目击费——必要医疗危机](ideas/024_when_critical_care_needs_witness.md)
+- [模仿的三角形：欲望没有原本](ideas/042_mimetic_triangle.md)
+- [奇怪的体系为何不会消失](ideas/018_why_strange_systems_persist.md)
+- [一个数字](ideas/031_case_study_war.md)
+- [苍天航路](ideas/032_case_study_souten_kouro.md)
+- [没有火与金的树](ideas/053_case_study_tree_without_fire_or_metal.md)
+
+免税人与征税人
+- [富人、免税人、征税人](ideas/014_economics_of_beauty.md)
 - [免税人的消费](ideas/025_consumption_of_exempt.md)
-- [真·善·美的三国志](ideas/026_three_kingdoms_of_beauty.md)
-- [赞助者论](ideas/029_on_patronage.md)
 - [卖春的拓扑学](ideas/033_topology_of_prostitution.md)
 - [死亡：系统征收的最后一税](ideas/034_death_the_final_tax.md)
 - [K-矩阵：单一轨道的黑洞](ideas/036_k_matrix_single_orbit.md)
 - [负斜率：下坡的微积分](ideas/037_negative_slope.md)
-- [拓扑式宗教改革：从日内瓦到朝鲜](ideas/038_topological_reformation.md)
-- [模仿的三角形：欲望没有原本](ideas/042_mimetic_triangle.md)
-- [没有梵蒂冈的教皇](ideas/045_pope_without_vatican.md)
+- [故障的传感器](ideas/044_broken_sensor.md)
+- [必要医疗危机](ideas/024_when_critical_care_needs_witness.md)
+- [征税的实战模型](ideas/015_case_study_the_gravity_of_outlaws.md)
+- [DAWN — Money](ideas/021_case_study_dawn_money.md)
+- [最后的讨价还价](ideas/055_case_study_last_bargain.md)
+
+出道与扩展
+- [赞助者论](ideas/029_on_patronage.md)
 - [制作人论：建造涡轮的人](ideas/049_producer_theory.md)
 - [侦察论：曲率前的眼睛](ideas/050_scout_theory.md)
-
-认识论／科学
-- [精神的LHC](ideas/016_mental_lhc.md)
-- [证明何时美丽](ideas/017_when_is_a_proof_beautiful.md)
-- [三个损失函数](ideas/039_three_loss_functions.md)
-- [独白的两张面孔：通俗与猥亵为何是同一种失败](ideas/040_two_faces_of_monologue.md)
-- [奇怪的体系为何不会消失](ideas/018_why_strange_systems_persist.md)
-- [恶想的时代](ideas/022_age_of_malice.md)
-- [故障的传感器](ideas/044_broken_sensor.md)
-- [两个原点](ideas/048_two_origins.md)
-
-实践／应用
 - [Project Doctor K](ideas/005_project_doctor_k.md)
 - [作为谱系的创造](ideas/011_lineage_as_creation.md)
 - [博士学位的重新定义](ideas/012_redefine_doctor_degree.md)
-- [去中心化精神体系OS](ideas/013_decentralized_mental_os.md)
 - [档案论：密度的保险](ideas/051_archive_theory.md)
-
-案例研究
-- [未完成的定理](ideas/007_case_study_unfinished_theorem.md)
-- [征税的实战模型](ideas/015_case_study_the_gravity_of_outlaws.md)
-- [DAWN — Money](ideas/021_case_study_dawn_money.md)
-- [香水：刀刃朝外的男人](ideas/027_case_study_perfume.md)
-- [边界线：扩张何时变成扩大](ideas/028_case_study_fukuzawa.md)
-- [希腊人左巴](ideas/030_case_study_zorba.md)
-- [一个数字](ideas/031_case_study_war.md)
-- [苍天航路](ideas/032_case_study_souten_kouro.md)
-- [阿斯达年代记：叙事不必真实](ideas/041_case_study_arthdal_chronicles.md)
-- [当世界观成为语言](ideas/046_case_study_worldview_as_language.md)
 - [Produce 101：预付曲率的机器](ideas/052_case_study_produce101.md)
-- [没有火与金的树](ideas/053_case_study_tree_without_fire_or_metal.md)
-- [超然的解剖](ideas/054_case_study_anatomy_of_detachment.md)
-- [最后的讨价还价](ideas/055_case_study_last_bargain.md)
+- [边界线：扩张何时变成扩大](ideas/028_case_study_fukuzawa.md)
+
+精神OS与体制
+- [三个损失函数](ideas/039_three_loss_functions.md)
+- [真·善·美的三国志](ideas/026_three_kingdoms_of_beauty.md)
+- [拓扑式宗教改革：从日内瓦到朝鲜](ideas/038_topological_reformation.md)
+- [没有梵蒂冈的教皇](ideas/045_pope_without_vatican.md)
+- [两个原点](ideas/048_two_origins.md)
+- [美学国家论](ideas/006_aesthetic_nation.md)
+- [当世界观成为语言](ideas/046_case_study_worldview_as_language.md)
+- [阿斯达年代记：叙事不必真实](ideas/041_case_study_arthdal_chronicles.md)
 
 **[art/](art/)** — 美的案例（27篇）
 - [伽罗瓦与五次方程](art/001_galois_quintic.md)
@@ -149,8 +145,6 @@
 - [抹去意义的地方](art/025_yi_sang_ogamdo.md)
 - [越抹越清晰之物](art/026_renormalization_group.md)
 - [遗忘所需的热量](art/027_landauer_erasure.md)
-
-**[scripture/](scripture/)** — 先贤: 查拉图斯特拉、五位先贤、孟尝君、罗蕙锡
 
 **[fravashi/](fravashi/)** — Fravashi 原型解析引擎
 

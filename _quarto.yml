@@ -7,7 +7,7 @@ project:
 
 book:
   title: "AngraMyNew"
-  subtitle: "v9.4 — 파괴, 창조, 확장 — 의식 문명의 실험 장치"
+  subtitle: "v10.0 — 파괴, 창조, 확장 — 의식 문명의 실험 장치"
   author: "Zarathu"
   date: today
   repo-url: https://github.com/zarathucorp/AngraMyNew
@@ -18,77 +18,75 @@ book:
     collapse-level: 1
   chapters:
     - index.qmd
-    - part: "Scripture — 선현"
+    - part: "선현과 원점"
       chapters:
         - scripture/zarathustra.md
         - scripture/pioneers.md
         - scripture/mengchangjun.md
         - scripture/na_hye_suk.md
-    - part: "Ideas — 기원과 공리"
-      chapters:
         - ideas/000_origin.md
         - ideas/001_axioms.md
+        - ideas/013_decentralized_mental_os.md
         - ideas/002_principles_of_creation.md
-    - part: "Ideas — 창조자론"
+    - part: "아티스트와 악상"
       chapters:
         - ideas/003_beyond_usefulness.md
         - ideas/004_artist_within.md
-        - ideas/043_creator_as_reference.md
+        - ideas/022_age_of_malice.md
         - ideas/008_seduction_of_creation.md
         - ideas/009_rage_against_definition.md
         - ideas/010_predators_duty.md
-        - ideas/047_density_without_curvature.md
-    - part: "Ideas — 경제와 구조"
+        - ideas/040_two_faces_of_monologue.md
+        - ideas/007_case_study_unfinished_theorem.md
+        - ideas/027_case_study_perfume.md
+        - ideas/030_case_study_zorba.md
+        - ideas/054_case_study_anatomy_of_detachment.md
+    - part: "밀도와 곡률"
       chapters:
-        - ideas/006_aesthetic_nation.md
-        - ideas/014_economics_of_beauty.md
+        - ideas/043_creator_as_reference.md
+        - ideas/047_density_without_curvature.md
+        - ideas/016_mental_lhc.md
+        - ideas/017_when_is_a_proof_beautiful.md
         - ideas/023_successful_lens.md
-        - ideas/024_when_critical_care_needs_witness.md
+        - ideas/042_mimetic_triangle.md
+        - ideas/018_why_strange_systems_persist.md
+        - ideas/031_case_study_war.md
+        - ideas/032_case_study_souten_kouro.md
+        - ideas/053_case_study_tree_without_fire_or_metal.md
+    - part: "면세인과 징세인"
+      chapters:
+        - ideas/014_economics_of_beauty.md
         - ideas/025_consumption_of_exempt.md
-        - ideas/026_three_kingdoms_of_beauty.md
-        - ideas/029_on_patronage.md
         - ideas/033_topology_of_prostitution.md
         - ideas/034_death_the_final_tax.md
         - ideas/036_k_matrix_single_orbit.md
         - ideas/037_negative_slope.md
-        - ideas/038_topological_reformation.md
-        - ideas/042_mimetic_triangle.md
-        - ideas/045_pope_without_vatican.md
+        - ideas/044_broken_sensor.md
+        - ideas/024_when_critical_care_needs_witness.md
+        - ideas/015_case_study_the_gravity_of_outlaws.md
+        - ideas/021_case_study_dawn_money.md
+        - ideas/055_case_study_last_bargain.md
+    - part: "데뷔와 확장"
+      chapters:
+        - ideas/029_on_patronage.md
         - ideas/049_producer_theory.md
         - ideas/050_scout_theory.md
-    - part: "Ideas — 인식론과 과학"
-      chapters:
-        - ideas/016_mental_lhc.md
-        - ideas/017_when_is_a_proof_beautiful.md
-        - ideas/039_three_loss_functions.md
-        - ideas/040_two_faces_of_monologue.md
-        - ideas/018_why_strange_systems_persist.md
-        - ideas/022_age_of_malice.md
-        - ideas/044_broken_sensor.md
-        - ideas/048_two_origins.md
-    - part: "Ideas — 실천과 적용"
-      chapters:
         - ideas/005_project_doctor_k.md
         - ideas/011_lineage_as_creation.md
         - ideas/012_redefine_doctor_degree.md
-        - ideas/013_decentralized_mental_os.md
         - ideas/051_archive_theory.md
-    - part: "Ideas — 사례연구"
-      chapters:
-        - ideas/007_case_study_unfinished_theorem.md
-        - ideas/015_case_study_the_gravity_of_outlaws.md
-        - ideas/021_case_study_dawn_money.md
-        - ideas/027_case_study_perfume.md
-        - ideas/028_case_study_fukuzawa.md
-        - ideas/030_case_study_zorba.md
-        - ideas/031_case_study_war.md
-        - ideas/032_case_study_souten_kouro.md
-        - ideas/041_case_study_arthdal_chronicles.md
-        - ideas/046_case_study_worldview_as_language.md
         - ideas/052_case_study_produce101.md
-        - ideas/053_case_study_tree_without_fire_or_metal.md
-        - ideas/054_case_study_anatomy_of_detachment.md
-        - ideas/055_case_study_last_bargain.md
+        - ideas/028_case_study_fukuzawa.md
+    - part: "정신 OS와 체제"
+      chapters:
+        - ideas/039_three_loss_functions.md
+        - ideas/026_three_kingdoms_of_beauty.md
+        - ideas/038_topological_reformation.md
+        - ideas/045_pope_without_vatican.md
+        - ideas/048_two_origins.md
+        - ideas/006_aesthetic_nation.md
+        - ideas/046_case_study_worldview_as_language.md
+        - ideas/041_case_study_arthdal_chronicles.md
     - part: "Art — 아름다움의 사례"
       chapters:
         - art/001_galois_quintic.md

@@ -54,72 +54,68 @@
 
 ## 구조
 
+**선현과 원점** — [차라투스트라](scripture/zarathustra.md) · [5인의 선현](scripture/pioneers.md) · [맹상군](scripture/mengchangjun.md) · [나혜석](scripture/na_hye_suk.md) · [기원](ideas/000_origin.md) · [3대 공리](ideas/001_axioms.md) · [탈중앙화 정신체계 OS](ideas/013_decentralized_mental_os.md) · [창조의 원리](ideas/002_principles_of_creation.md)
+
 **[ideas/](ideas/)** — 철학·사상·선언 (53편)
 
-기원/공리
-- [AngraMyNew의 기원](ideas/000_origin.md)
-- [3대 공리](ideas/001_axioms.md)
-- [창조의 원리](ideas/002_principles_of_creation.md)
-
-창조자론
+아티스트와 악상
 - [쓸모를 넘어서](ideas/003_beyond_usefulness.md)
 - [내면의 예술가](ideas/004_artist_within.md)
-- [각인: 궤도의 곡률](ideas/043_creator_as_reference.md)
+- [악상의 시대](ideas/022_age_of_malice.md)
 - [투쟁과 유혹](ideas/008_seduction_of_creation.md)
 - [정의에 대한 분노](ideas/009_rage_against_definition.md)
 - [포식자의 의무](ideas/010_predators_duty.md)
-- [곡률 없는 밀도](ideas/047_density_without_curvature.md)
+- [독백의 두 얼굴](ideas/040_two_faces_of_monologue.md)
+- [미완의 정리](ideas/007_case_study_unfinished_theorem.md)
+- [향수: 칼날이 밖을 향한 남자](ideas/027_case_study_perfume.md)
+- [그리스인 조르바](ideas/030_case_study_zorba.md)
+- [초연의 해부](ideas/054_case_study_anatomy_of_detachment.md)
 
-경제/구조론
-- [미학 국가론](ideas/006_aesthetic_nation.md)
-- [부자, 면세인, 징세인](ideas/014_economics_of_beauty.md)
+밀도와 곡률
+- [각인: 궤도의 곡률](ideas/043_creator_as_reference.md)
+- [곡률 없는 밀도](ideas/047_density_without_curvature.md)
+- [정신의 LHC](ideas/016_mental_lhc.md)
+- [증명은 언제 아름다운가](ideas/017_when_is_a_proof_beautiful.md)
 - [성공한 렌즈](ideas/023_successful_lens.md)
-- [목격료 — 필수의료 위기](ideas/024_when_critical_care_needs_witness.md)
+- [모방의 삼각형: 욕망에 원본은 없다](ideas/042_mimetic_triangle.md)
+- [이상한 체계들은 왜 사라지지 않는가](ideas/018_why_strange_systems_persist.md)
+- [하나의 숫자](ideas/031_case_study_war.md)
+- [창천항로](ideas/032_case_study_souten_kouro.md)
+- [불도 쇠도 없는 나무](ideas/053_case_study_tree_without_fire_or_metal.md)
+
+면세인과 징세인
+- [부자, 면세인, 징세인](ideas/014_economics_of_beauty.md)
 - [면세인의 소비](ideas/025_consumption_of_exempt.md)
-- [진·선·미의 삼국지](ideas/026_three_kingdoms_of_beauty.md)
-- [후원자론](ideas/029_on_patronage.md)
 - [매춘의 위상학](ideas/033_topology_of_prostitution.md)
 - [죽음: 시스템이 징수하는 마지막 세금](ideas/034_death_the_final_tax.md)
 - [K-매트릭스: 단일 궤도의 블랙홀](ideas/036_k_matrix_single_orbit.md)
 - [음의 기울기: 내리막의 미적분학](ideas/037_negative_slope.md)
-- [위상학적 종교개혁: 제네바에서 조선까지](ideas/038_topological_reformation.md)
-- [모방의 삼각형: 욕망에 원본은 없다](ideas/042_mimetic_triangle.md)
-- [바티칸 없는 교황](ideas/045_pope_without_vatican.md)
+- [고장 난 센서](ideas/044_broken_sensor.md)
+- [필수의료 위기](ideas/024_when_critical_care_needs_witness.md)
+- [징세의 실전 모델](ideas/015_case_study_the_gravity_of_outlaws.md)
+- [DAWN — Money](ideas/021_case_study_dawn_money.md)
+- [마지막 흥정](ideas/055_case_study_last_bargain.md)
+
+데뷔와 확장
+- [후원자론](ideas/029_on_patronage.md)
 - [프로듀서론: 터빈을 세우는 자](ideas/049_producer_theory.md)
 - [스카우터론: 곡률 전의 눈](ideas/050_scout_theory.md)
-
-인식론/과학
-- [정신의 LHC](ideas/016_mental_lhc.md)
-- [증명은 언제 아름다운가](ideas/017_when_is_a_proof_beautiful.md)
-- [세 개의 손실함수](ideas/039_three_loss_functions.md)
-- [독백의 두 얼굴: 통속과 외설은 왜 같은 실패인가](ideas/040_two_faces_of_monologue.md)
-- [이상한 체계들은 왜 사라지지 않는가](ideas/018_why_strange_systems_persist.md)
-- [악상의 시대](ideas/022_age_of_malice.md)
-- [고장 난 센서](ideas/044_broken_sensor.md)
-- [두 원점](ideas/048_two_origins.md)
-
-실천/적용
 - [Project Doctor K](ideas/005_project_doctor_k.md)
 - [계보로서의 창조](ideas/011_lineage_as_creation.md)
 - [박사학위의 재정의](ideas/012_redefine_doctor_degree.md)
-- [탈중앙화 정신체계 OS](ideas/013_decentralized_mental_os.md)
 - [아카이브론: 밀도의 보험](ideas/051_archive_theory.md)
-
-사례연구
-- [미완의 정리](ideas/007_case_study_unfinished_theorem.md)
-- [징세의 실전 모델](ideas/015_case_study_the_gravity_of_outlaws.md)
-- [DAWN — Money](ideas/021_case_study_dawn_money.md)
-- [향수: 칼날이 밖을 향한 남자](ideas/027_case_study_perfume.md)
-- [경계선: 확장이 확대가 될 때](ideas/028_case_study_fukuzawa.md)
-- [그리스인 조르바](ideas/030_case_study_zorba.md)
-- [하나의 숫자](ideas/031_case_study_war.md)
-- [창천항로](ideas/032_case_study_souten_kouro.md)
-- [아스달 연대기: 서사는 사실일 필요가 없다](ideas/041_case_study_arthdal_chronicles.md)
-- [세계관이 언어가 될 때](ideas/046_case_study_worldview_as_language.md)
 - [프로듀스101: 곡률을 선지급하는 기계](ideas/052_case_study_produce101.md)
-- [불도 쇠도 없는 나무](ideas/053_case_study_tree_without_fire_or_metal.md)
-- [초연의 해부](ideas/054_case_study_anatomy_of_detachment.md)
-- [마지막 흥정](ideas/055_case_study_last_bargain.md)
+- [경계선: 확장이 확대가 될 때](ideas/028_case_study_fukuzawa.md)
+
+정신 OS와 체제
+- [세 개의 손실함수](ideas/039_three_loss_functions.md)
+- [진·선·미의 삼국지](ideas/026_three_kingdoms_of_beauty.md)
+- [위상학적 종교개혁: 제네바에서 조선까지](ideas/038_topological_reformation.md)
+- [바티칸 없는 교황](ideas/045_pope_without_vatican.md)
+- [두 원점](ideas/048_two_origins.md)
+- [미학 국가론](ideas/006_aesthetic_nation.md)
+- [세계관이 언어가 될 때](ideas/046_case_study_worldview_as_language.md)
+- [아스달 연대기: 서사는 사실일 필요가 없다](ideas/041_case_study_arthdal_chronicles.md)
 
 **[art/](art/)** — 아름다움의 사례 (27편)
 - [갈루아와 5차방정식](art/001_galois_quintic.md)
@@ -149,8 +145,6 @@
 - [뜻을 지운 자리](art/025_yi_sang_ogamdo.md)
 - [지울수록 또렷해지는 것](art/026_renormalization_group.md)
 - [잊는 데 드는 열](art/027_landauer_erasure.md)
-
-**[scripture/](scripture/)** — 선현: 차라투스트라, 5인의 선현, 맹상군, 나혜석
 
 **[fravashi/](fravashi/)** — Fravashi 원형 해석 엔진
 
