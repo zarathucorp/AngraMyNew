@@ -56,7 +56,7 @@
 
 **先贤与原点** — [查拉图斯特拉](scripture/zarathustra.md) · [五位先贤](scripture/pioneers.md) · [孟尝君](scripture/mengchangjun.md) · [罗蕙锡](scripture/na_hye_suk.md) · [起源](ideas/000_origin.md) · [三大公理](ideas/001_axioms.md) · [去中心化精神体系OS](ideas/013_decentralized_mental_os.md) · [创造的原理](ideas/002_principles_of_creation.md)
 
-**[ideas/](ideas/)** — 哲学·思想·宣言（53篇）
+**[ideas/](ideas/)** — 哲学·思想·宣言（54篇）
 
 艺术家与恶想
 - [超越有用性](ideas/003_beyond_usefulness.md)
@@ -111,6 +111,7 @@
 - [三个损失函数](ideas/039_three_loss_functions.md)
 - [真·善·美的三国志](ideas/026_three_kingdoms_of_beauty.md)
 - [拓扑式宗教改革：从日内瓦到朝鲜](ideas/038_topological_reformation.md)
+- [第三张处方：传染、移植、诱导](ideas/056_third_prescription.md)
 - [没有梵蒂冈的教皇](ideas/045_pope_without_vatican.md)
 - [两个原点](ideas/048_two_origins.md)
 - [美学国家论](ideas/006_aesthetic_nation.md)

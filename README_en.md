@@ -56,7 +56,7 @@ Create your own values like Nietzsche, embrace even the seemingly useless like M
 
 **Pioneers and Origin** — [Zarathustra](scripture/zarathustra.md) · [The Five Pioneers](scripture/pioneers.md) · [Mengchangjun](scripture/mengchangjun.md) · [Na Hye-seok](scripture/na_hye_suk.md) · [Origin](ideas/000_origin.md) · [The 3 Axioms](ideas/001_axioms.md) · [A Decentralized Mental OS](ideas/013_decentralized_mental_os.md) · [Principles of Creation](ideas/002_principles_of_creation.md)
 
-**[ideas/](ideas/)** — Philosophy, thought, declarations (53 essays)
+**[ideas/](ideas/)** — Philosophy, thought, declarations (54 essays)
 
 Artist and Aksang
 - [Beyond Usefulness](ideas/003_beyond_usefulness.md)
@@ -111,6 +111,7 @@ Mental OS and Regime
 - [Three Loss Functions](ideas/039_three_loss_functions.md)
 - [The Three Kingdoms of Truth, Goodness, and Beauty](ideas/026_three_kingdoms_of_beauty.md)
 - [Topological Reformation: From Geneva to Joseon](ideas/038_topological_reformation.md)
+- [The Third Prescription: Contagion, Transplant, Induction](ideas/056_third_prescription.md)
 - [A Pope Without the Vatican](ideas/045_pope_without_vatican.md)
 - [Two Origins](ideas/048_two_origins.md)
 - [Aesthetic Nation](ideas/006_aesthetic_nation.md)

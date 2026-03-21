@@ -56,7 +56,7 @@
 
 **先賢と原点** — [ツァラトゥストラ](scripture/zarathustra.md) · [五人の先賢](scripture/pioneers.md) · [孟嘗君](scripture/mengchangjun.md) · [羅蕙錫](scripture/na_hye_suk.md) · [起源](ideas/000_origin.md) · [三大公理](ideas/001_axioms.md) · [脱中心化精神体系OS](ideas/013_decentralized_mental_os.md) · [創造の原理](ideas/002_principles_of_creation.md)
 
-**[ideas/](ideas/)** — 哲学・思想・宣言（53編）
+**[ideas/](ideas/)** — 哲学・思想・宣言（54編）
 
 アーティストと悪想
 - [有用性を超えて](ideas/003_beyond_usefulness.md)
@@ -111,6 +111,7 @@
 - [三つの損失関数](ideas/039_three_loss_functions.md)
 - [真・善・美の三国志](ideas/026_three_kingdoms_of_beauty.md)
 - [位相的宗教改革 — ジュネーブから朝鮮まで](ideas/038_topological_reformation.md)
+- [三番目の処方：伝染、移植、誘導](ideas/056_third_prescription.md)
 - [バチカンなき教皇](ideas/045_pope_without_vatican.md)
 - [二つの原点](ideas/048_two_origins.md)
 - [美学国家論](ideas/006_aesthetic_nation.md)

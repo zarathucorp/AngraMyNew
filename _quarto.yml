@@ -7,7 +7,7 @@ project:
 
 book:
   title: "AngraMyNew"
-  subtitle: "v10.0 — 파괴, 창조, 확장 — 의식 문명의 실험 장치"
+  subtitle: "v10.1 — 파괴, 창조, 확장 — 의식 문명의 실험 장치"
   author: "Zarathu"
   date: today
   repo-url: https://github.com/zarathucorp/AngraMyNew
@@ -82,6 +82,7 @@ book:
         - ideas/039_three_loss_functions.md
         - ideas/026_three_kingdoms_of_beauty.md
         - ideas/038_topological_reformation.md
+        - ideas/056_third_prescription.md
         - ideas/045_pope_without_vatican.md
         - ideas/048_two_origins.md
         - ideas/006_aesthetic_nation.md

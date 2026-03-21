@@ -1,5 +1,46 @@
 # Changelog
 
+## v10.1 — 세 번째 처방 + 전면 스타일 재작성 (2026-03-22)
+
+### 추가
+- `ideas/056_third_prescription.md` — 세 번째 처방: 전염, 이식, 유도
+  - 루터(체험의 전염), 칼뱅(제도의 이식), AngraMyNew(회로 설계 + 밀도 유도) 세 가지 확장 메커니즘 비교
+  - 프로듀서/스카우터/아카이브를 확장 인프라로 연결
+  - 촉한/그리스 사례로 밀도의 퇴적 특성 분석
+- `_quarto.yml` — 정신 OS와 체제 파트에 056 추가 (038 바로 뒤)
+
+### 변경
+- `ideas/038_topological_reformation.md` — 전면 재작성 (이문열식 복문 스타일)
+  - 루터: 내면의 종교적 체험(번개, 수도원) 추가. 성경 번역과 찬송가를 체험의 접근성 확장으로 재해석
+  - 칼뱅 예정론: "신이 미리 선택했다" → "신의 뜻은 알 수 없으니 복종하라"로 수정
+  - 접힘 4단계(텍스트/예정론/성상파괴/세속적 수도원) 재서술
+  - 관련 문서에 056 링크 추가
+- `ideas/009_rage_against_definition.md` — 전면 재작성: 테이블 남발·선언문 톤 → 흐르는 복문
+- `ideas/010_predators_duty.md` — 전면 재작성: 선언만 있던 30줄 → 도스토옙스키(잔인한 진실)/채플린(압도적 해방) 앵커 추가
+- `ideas/003_beyond_usefulness.md` — 전면 재작성: 하수/고수/최고수 AI 공식 제거 → 쓸모의 감옥/정가가 없는 것/세계를 만드는 자리로 흐름 전환, 피카소·면세인의 소비 앵커 추가
+- `ideas/008_seduction_of_creation.md` — 전면 재작성: 20줄 선언문 → 선현 3인 투쟁 구체화, 나훈아 유혹 앵커 추가, 모방의 삼각형 연결
+- `ideas/042_mimetic_triangle.md` — 재작성: 개념 정의 축소, 질문→경쟁→희생양→탈출 흐름으로 전환
+- `ideas/000_origin.md` — 스타일 재작성
+- `ideas/002_principles_of_creation.md` — 스타일 재작성
+- `ideas/004_artist_within.md` — 스타일 재작성
+- `ideas/005_project_doctor_k.md` — 축약 및 스타일 재작성
+- `ideas/011_lineage_as_creation.md` — 스타일 재작성
+- `ideas/012_redefine_doctor_degree.md` — 대폭 축약 및 재작성
+- `ideas/016_mental_lhc.md` — 축약 및 재작성
+- `ideas/034_death_the_final_tax.md` — 대폭 축약 및 재작성
+- `ideas/037_negative_slope.md` — 대폭 축약 및 재작성 (152줄 변경)
+- `ideas/039_three_loss_functions.md` — 재작성
+- `ideas/045_pope_without_vatican.md` — 재작성
+- `ideas/047_density_without_curvature.md` — 재작성
+- `ideas/048_two_origins.md` — 대폭 축약 및 재작성
+- `ideas/050_scout_theory.md` — 재작성
+- `ideas/051_archive_theory.md` — 축약 및 재작성
+- `ideas/052_case_study_produce101.md` — 축약 및 재작성
+- `fravashi/004_agent_context_guide.md` — 스타일 가이드 반영
+- README (한/영/일/중) — ideas/ 편수 53편→54편, 056 항목 추가
+
+---
+
 ## v10.0 — 목차 재구성: 개념 기반 6파트 체제 (2026-03-21)
 
 ### 변경

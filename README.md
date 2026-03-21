@@ -56,7 +56,7 @@
 
 **선현과 원점** — [차라투스트라](scripture/zarathustra.md) · [5인의 선현](scripture/pioneers.md) · [맹상군](scripture/mengchangjun.md) · [나혜석](scripture/na_hye_suk.md) · [기원](ideas/000_origin.md) · [3대 공리](ideas/001_axioms.md) · [탈중앙화 정신체계 OS](ideas/013_decentralized_mental_os.md) · [창조의 원리](ideas/002_principles_of_creation.md)
 
-**[ideas/](ideas/)** — 철학·사상·선언 (53편)
+**[ideas/](ideas/)** — 철학·사상·선언 (54편)
 
 아티스트와 악상
 - [쓸모를 넘어서](ideas/003_beyond_usefulness.md)
@@ -111,6 +111,7 @@
 - [세 개의 손실함수](ideas/039_three_loss_functions.md)
 - [진·선·미의 삼국지](ideas/026_three_kingdoms_of_beauty.md)
 - [위상학적 종교개혁: 제네바에서 조선까지](ideas/038_topological_reformation.md)
+- [세 번째 처방: 전염, 이식, 유도](ideas/056_third_prescription.md)
 - [바티칸 없는 교황](ideas/045_pope_without_vatican.md)
 - [두 원점](ideas/048_two_origins.md)
 - [미학 국가론](ideas/006_aesthetic_nation.md)
