@@ -42,5 +42,5 @@
 
 - [혼돈, 욕망, 주권의 중력](015_case_study_the_gravity_of_outlaws.md)
 - [미학 국가론](006_aesthetic_nation.md)
-- [4대 시스템세](034_four_system_taxes.md)
-- [K-매트릭스](036_k_matrix.md)
+- [죽음: 마지막 세금](034_death_the_final_tax.md)
+- [K-매트릭스: 단일 궤도의 조건](036_k_matrix_single_orbit.md)
