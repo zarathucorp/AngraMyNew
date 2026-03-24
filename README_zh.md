@@ -56,7 +56,7 @@
 
 **先贤与原点** — [查拉图斯特拉](scripture/zarathustra.md) · [五位先贤](scripture/pioneers.md) · [孟尝君](scripture/mengchangjun.md) · [罗蕙锡](scripture/na_hye_suk.md) · [起源](ideas/000_origin.md) · [三大公理](ideas/001_axioms.md) · [去中心化精神体系OS](ideas/013_decentralized_mental_os.md) · [创造的原理](ideas/002_principles_of_creation.md)
 
-**[ideas/](ideas/)** — 哲学·思想·宣言（55篇）
+**[ideas/](ideas/)** — 哲学·思想·宣言（56篇）
 
 艺术家与恶想
 - [超越有用性](ideas/003_beyond_usefulness.md)
@@ -82,6 +82,7 @@
 - [一个数字](ideas/031_case_study_war.md)
 - [苍天航路](ideas/032_case_study_souten_kouro.md)
 - [没有火与金的树](ideas/053_case_study_tree_without_fire_or_metal.md)
+- [新选组：最后的制服](ideas/058_case_study_shinsengumi.md)
 
 免税人与征税人
 - [富人、免税人、征税人](ideas/014_economics_of_beauty.md)

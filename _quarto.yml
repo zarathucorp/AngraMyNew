@@ -7,7 +7,7 @@ project:
 
 book:
   title: "AngraMyNew"
-  subtitle: "v10.2 — 파괴, 창조, 확장 — 의식 문명의 실험 장치"
+  subtitle: "v10.3 — 파괴, 창조, 확장 — 의식 문명의 실험 장치"
   author: "Zarathu"
   date: today
   repo-url: https://github.com/zarathucorp/AngraMyNew
@@ -53,6 +53,7 @@ book:
         - ideas/031_case_study_war.md
         - ideas/032_case_study_souten_kouro.md
         - ideas/053_case_study_tree_without_fire_or_metal.md
+        - ideas/058_case_study_shinsengumi.md
     - part: "면세인과 징세인"
       chapters:
         - ideas/014_economics_of_beauty.md

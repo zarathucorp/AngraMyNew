@@ -56,7 +56,7 @@ Create your own values like Nietzsche, embrace even the seemingly useless like M
 
 **Pioneers and Origin** — [Zarathustra](scripture/zarathustra.md) · [The Five Pioneers](scripture/pioneers.md) · [Mengchangjun](scripture/mengchangjun.md) · [Na Hye-seok](scripture/na_hye_suk.md) · [Origin](ideas/000_origin.md) · [The 3 Axioms](ideas/001_axioms.md) · [A Decentralized Mental OS](ideas/013_decentralized_mental_os.md) · [Principles of Creation](ideas/002_principles_of_creation.md)
 
-**[ideas/](ideas/)** — Philosophy, thought, declarations (55 essays)
+**[ideas/](ideas/)** — Philosophy, thought, declarations (56 essays)
 
 Artist and Aksang
 - [Beyond Usefulness](ideas/003_beyond_usefulness.md)
@@ -82,6 +82,7 @@ Density and Curvature
 - [One Number](ideas/031_case_study_war.md)
 - [Souten Kouro](ideas/032_case_study_souten_kouro.md)
 - [A Tree Without Fire or Metal](ideas/053_case_study_tree_without_fire_or_metal.md)
+- [Shinsengumi: The Last Uniform](ideas/058_case_study_shinsengumi.md)
 
 The Tax-Exempt and the Tax-Collector
 - [The Rich, the Tax-Exempt, and the Tax-Collector](ideas/014_economics_of_beauty.md)
