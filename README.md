@@ -56,7 +56,7 @@
 
 **선현과 원점** — [차라투스트라](scripture/zarathustra.md) · [5인의 선현](scripture/pioneers.md) · [맹상군](scripture/mengchangjun.md) · [나혜석](scripture/na_hye_suk.md) · [기원](ideas/000_origin.md) · [3대 공리](ideas/001_axioms.md) · [탈중앙화 정신체계 OS](ideas/013_decentralized_mental_os.md) · [창조의 원리](ideas/002_principles_of_creation.md)
 
-**[ideas/](ideas/)** — 철학·사상·선언 (54편)
+**[ideas/](ideas/)** — 철학·사상·선언 (55편)
 
 아티스트와 악상
 - [쓸모를 넘어서](ideas/003_beyond_usefulness.md)
@@ -104,6 +104,7 @@
 - [계보로서의 창조](ideas/011_lineage_as_creation.md)
 - [박사학위의 재정의](ideas/012_redefine_doctor_degree.md)
 - [아카이브론: 밀도의 보험](ideas/051_archive_theory.md)
+- [스타는 시스템의 균열이다](ideas/057_star_as_crack.md)
 - [프로듀스101: 곡률을 선지급하는 기계](ideas/052_case_study_produce101.md)
 - [경계선: 확장이 확대가 될 때](ideas/028_case_study_fukuzawa.md)
 

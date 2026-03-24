@@ -56,7 +56,7 @@
 
 **先贤与原点** — [查拉图斯特拉](scripture/zarathustra.md) · [五位先贤](scripture/pioneers.md) · [孟尝君](scripture/mengchangjun.md) · [罗蕙锡](scripture/na_hye_suk.md) · [起源](ideas/000_origin.md) · [三大公理](ideas/001_axioms.md) · [去中心化精神体系OS](ideas/013_decentralized_mental_os.md) · [创造的原理](ideas/002_principles_of_creation.md)
 
-**[ideas/](ideas/)** — 哲学·思想·宣言（54篇）
+**[ideas/](ideas/)** — 哲学·思想·宣言（55篇）
 
 艺术家与恶想
 - [超越有用性](ideas/003_beyond_usefulness.md)
@@ -104,6 +104,7 @@
 - [作为谱系的创造](ideas/011_lineage_as_creation.md)
 - [博士学位的重新定义](ideas/012_redefine_doctor_degree.md)
 - [档案论：密度的保险](ideas/051_archive_theory.md)
+- [明星是系统的裂缝](ideas/057_star_as_crack.md)
 - [Produce 101：预付曲率的机器](ideas/052_case_study_produce101.md)
 - [边界线：扩张何时变成扩大](ideas/028_case_study_fukuzawa.md)
 
