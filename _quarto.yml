@@ -7,7 +7,7 @@ project:
 
 book:
   title: "AngraMyNew"
-  subtitle: "v10.4 — 파괴, 창조, 확장 — 의식 문명의 실험 장치"
+  subtitle: "v10.5 — 파괴, 창조, 확장 — 의식 문명의 실험 장치"
   author: "Zarathu"
   date: today
   repo-url: https://github.com/zarathucorp/AngraMyNew
@@ -68,6 +68,7 @@ book:
         - ideas/015_case_study_the_gravity_of_outlaws.md
         - ideas/021_case_study_dawn_money.md
         - ideas/055_case_study_last_bargain.md
+        - ideas/060_case_study_puritan.md
     - part: "데뷔와 확장"
       chapters:
         - ideas/029_on_patronage.md

@@ -56,7 +56,7 @@
 
 **先賢と原点** — [ツァラトゥストラ](scripture/zarathustra.md) · [五人の先賢](scripture/pioneers.md) · [孟嘗君](scripture/mengchangjun.md) · [羅蕙錫](scripture/na_hye_suk.md) · [起源](ideas/000_origin.md) · [三大公理](ideas/001_axioms.md) · [エポケー：破壊以前の破壊](ideas/059_epoche.md) · [脱中心化精神体系OS](ideas/013_decentralized_mental_os.md) · [創造の原理](ideas/002_principles_of_creation.md)
 
-**[ideas/](ideas/)** — 哲学・思想・宣言（57編）
+**[ideas/](ideas/)** — 哲学・思想・宣言（58編）
 
 アーティストと悪想
 - [有用性を超えて](ideas/003_beyond_usefulness.md)
@@ -96,6 +96,7 @@
 - [徴税の実戦モデル](ideas/015_case_study_the_gravity_of_outlaws.md)
 - [DAWN — Money](ideas/021_case_study_dawn_money.md)
 - [最後の取引](ideas/055_case_study_last_bargain.md)
+- [清教徒：免税の極端](ideas/060_case_study_puritan.md)
 
 デビューと拡張
 - [パトロネージ論](ideas/029_on_patronage.md)

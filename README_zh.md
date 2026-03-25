@@ -56,7 +56,7 @@
 
 **先贤与原点** — [查拉图斯特拉](scripture/zarathustra.md) · [五位先贤](scripture/pioneers.md) · [孟尝君](scripture/mengchangjun.md) · [罗蕙锡](scripture/na_hye_suk.md) · [起源](ideas/000_origin.md) · [三大公理](ideas/001_axioms.md) · [悬搁：破坏之前的破坏](ideas/059_epoche.md) · [去中心化精神体系OS](ideas/013_decentralized_mental_os.md) · [创造的原理](ideas/002_principles_of_creation.md)
 
-**[ideas/](ideas/)** — 哲学·思想·宣言（57篇）
+**[ideas/](ideas/)** — 哲学·思想·宣言（58篇）
 
 艺术家与恶想
 - [超越有用性](ideas/003_beyond_usefulness.md)
@@ -96,6 +96,7 @@
 - [征税的实战模型](ideas/015_case_study_the_gravity_of_outlaws.md)
 - [DAWN — Money](ideas/021_case_study_dawn_money.md)
 - [最后的讨价还价](ideas/055_case_study_last_bargain.md)
+- [清教徒：免税的极端](ideas/060_case_study_puritan.md)
 
 出道与扩展
 - [赞助者论](ideas/029_on_patronage.md)
