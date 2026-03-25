@@ -7,7 +7,7 @@ project:
 
 book:
   title: "AngraMyNew"
-  subtitle: "v10.3 — 파괴, 창조, 확장 — 의식 문명의 실험 장치"
+  subtitle: "v10.4 — 파괴, 창조, 확장 — 의식 문명의 실험 장치"
   author: "Zarathu"
   date: today
   repo-url: https://github.com/zarathucorp/AngraMyNew
@@ -26,6 +26,7 @@ book:
         - scripture/na_hye_suk.md
         - ideas/000_origin.md
         - ideas/001_axioms.md
+        - ideas/059_epoche.md
         - ideas/013_decentralized_mental_os.md
         - ideas/002_principles_of_creation.md
     - part: "아티스트와 악상"
