@@ -56,7 +56,7 @@
 
 **선현과 원점** — [차라투스트라](scripture/zarathustra.md) · [5인의 선현](scripture/pioneers.md) · [맹상군](scripture/mengchangjun.md) · [나혜석](scripture/na_hye_suk.md) · [기원](ideas/000_origin.md) · [3대 공리](ideas/001_axioms.md) · [에포케: 파괴 이전의 파괴](ideas/059_epoche.md) · [물고기에게 물을 보여줄 수 있는가](ideas/061_water_and_fish.md) · [탈중앙화 정신체계 OS](ideas/013_decentralized_mental_os.md) · [창조의 원리](ideas/002_principles_of_creation.md)
 
-**[ideas/](ideas/)** — 철학·사상·선언 (59편)
+**[ideas/](ideas/)** — 철학·사상·선언 (61편)
 
 아티스트와 악상
 - [쓸모를 넘어서](ideas/003_beyond_usefulness.md)
@@ -76,6 +76,7 @@
 - [곡률 없는 밀도](ideas/047_density_without_curvature.md)
 - [정신의 LHC](ideas/016_mental_lhc.md)
 - [증명은 언제 아름다운가](ideas/017_when_is_a_proof_beautiful.md)
+- [완비성 공리: 끝까지 가본 적 없는 땅](ideas/062_completeness_axiom.md)
 - [성공한 렌즈](ideas/023_successful_lens.md)
 - [모방의 삼각형: 욕망에 원본은 없다](ideas/042_mimetic_triangle.md)
 - [이상한 체계들은 왜 사라지지 않는가](ideas/018_why_strange_systems_persist.md)
@@ -97,6 +98,7 @@
 - [DAWN — Money](ideas/021_case_study_dawn_money.md)
 - [마지막 흥정](ideas/055_case_study_last_bargain.md)
 - [청교도: 면세의 극단](ideas/060_case_study_puritan.md)
+- [임꺽정과 장길산: 산이 국가보다 먼저 질서를 만들 때](ideas/063_case_study_imkkeokjeong_janggilsan.md)
 
 데뷔와 확장
 - [후원자론](ideas/029_on_patronage.md)

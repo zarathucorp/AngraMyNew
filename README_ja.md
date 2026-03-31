@@ -56,7 +56,7 @@
 
 **先賢と原点** — [ツァラトゥストラ](scripture/zarathustra.md) · [五人の先賢](scripture/pioneers.md) · [孟嘗君](scripture/mengchangjun.md) · [羅蕙錫](scripture/na_hye_suk.md) · [起源](ideas/000_origin.md) · [三大公理](ideas/001_axioms.md) · [エポケー：破壊以前の破壊](ideas/059_epoche.md) · [魚に水を見せることはできるか](ideas/061_water_and_fish.md) · [脱中心化精神体系OS](ideas/013_decentralized_mental_os.md) · [創造の原理](ideas/002_principles_of_creation.md)
 
-**[ideas/](ideas/)** — 哲学・思想・宣言（59編）
+**[ideas/](ideas/)** — 哲学・思想・宣言（61編）
 
 アーティストと悪想
 - [有用性を超えて](ideas/003_beyond_usefulness.md)
@@ -76,6 +76,7 @@
 - [曲率のない密度](ideas/047_density_without_curvature.md)
 - [精神のLHC](ideas/016_mental_lhc.md)
 - [証明はいつ美しいのか](ideas/017_when_is_a_proof_beautiful.md)
+- [完備性公理 — 果てまで行ったことのない土地](ideas/062_completeness_axiom.md)
 - [成功したレンズ](ideas/023_successful_lens.md)
 - [模倣の三角形 — 欲望にオリジナルはない](ideas/042_mimetic_triangle.md)
 - [奇妙な体系はなぜ消えないのか](ideas/018_why_strange_systems_persist.md)
@@ -97,6 +98,7 @@
 - [DAWN — Money](ideas/021_case_study_dawn_money.md)
 - [最後の取引](ideas/055_case_study_last_bargain.md)
 - [清教徒：免税の極端](ideas/060_case_study_puritan.md)
+- [林巨正と張吉山：山が国家より先に秩序をつくるとき](ideas/063_case_study_imkkeokjeong_janggilsan.md)
 
 デビューと拡張
 - [パトロネージ論](ideas/029_on_patronage.md)

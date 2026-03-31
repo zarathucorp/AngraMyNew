@@ -7,7 +7,7 @@ project:
 
 book:
   title: "AngraMyNew"
-  subtitle: "v10.6 — 파괴, 창조, 확장 — 의식 문명의 실험 장치"
+  subtitle: "v10.7 — 파괴, 창조, 확장 — 의식 문명의 실험 장치"
   author: "Zarathu"
   date: today
   repo-url: https://github.com/zarathucorp/AngraMyNew
@@ -49,6 +49,7 @@ book:
         - ideas/047_density_without_curvature.md
         - ideas/016_mental_lhc.md
         - ideas/017_when_is_a_proof_beautiful.md
+        - ideas/062_completeness_axiom.md
         - ideas/023_successful_lens.md
         - ideas/042_mimetic_triangle.md
         - ideas/018_why_strange_systems_persist.md
@@ -70,6 +71,7 @@ book:
         - ideas/021_case_study_dawn_money.md
         - ideas/055_case_study_last_bargain.md
         - ideas/060_case_study_puritan.md
+        - ideas/063_case_study_imkkeokjeong_janggilsan.md
     - part: "데뷔와 확장"
       chapters:
         - ideas/029_on_patronage.md

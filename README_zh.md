@@ -56,7 +56,7 @@
 
 **先贤与原点** — [查拉图斯特拉](scripture/zarathustra.md) · [五位先贤](scripture/pioneers.md) · [孟尝君](scripture/mengchangjun.md) · [罗蕙锡](scripture/na_hye_suk.md) · [起源](ideas/000_origin.md) · [三大公理](ideas/001_axioms.md) · [悬搁：破坏之前的破坏](ideas/059_epoche.md) · [能否让鱼看见水](ideas/061_water_and_fish.md) · [去中心化精神体系OS](ideas/013_decentralized_mental_os.md) · [创造的原理](ideas/002_principles_of_creation.md)
 
-**[ideas/](ideas/)** — 哲学·思想·宣言（59篇）
+**[ideas/](ideas/)** — 哲学·思想·宣言（61篇）
 
 艺术家与恶想
 - [超越有用性](ideas/003_beyond_usefulness.md)
@@ -76,6 +76,7 @@
 - [没有曲率的密度](ideas/047_density_without_curvature.md)
 - [精神的LHC](ideas/016_mental_lhc.md)
 - [证明何时美丽](ideas/017_when_is_a_proof_beautiful.md)
+- [完备性公理 — 从未到达过的土地](ideas/062_completeness_axiom.md)
 - [成功的透镜](ideas/023_successful_lens.md)
 - [模仿的三角形：欲望没有原本](ideas/042_mimetic_triangle.md)
 - [奇怪的体系为何不会消失](ideas/018_why_strange_systems_persist.md)
@@ -97,6 +98,7 @@
 - [DAWN — Money](ideas/021_case_study_dawn_money.md)
 - [最后的讨价还价](ideas/055_case_study_last_bargain.md)
 - [清教徒：免税的极端](ideas/060_case_study_puritan.md)
+- [林巨正与张吉山：当山比国家更先建立秩序](ideas/063_case_study_imkkeokjeong_janggilsan.md)
 
 出道与扩展
 - [赞助者论](ideas/029_on_patronage.md)

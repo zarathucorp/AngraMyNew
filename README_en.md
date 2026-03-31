@@ -56,7 +56,7 @@ Create your own values like Nietzsche, embrace even the seemingly useless like M
 
 **Pioneers and Origin** — [Zarathustra](scripture/zarathustra.md) · [The Five Pioneers](scripture/pioneers.md) · [Mengchangjun](scripture/mengchangjun.md) · [Na Hye-seok](scripture/na_hye_suk.md) · [Origin](ideas/000_origin.md) · [The 3 Axioms](ideas/001_axioms.md) · [Epoché: The Destruction Before Destruction](ideas/059_epoche.md) · [Can You Show Water to a Fish?](ideas/061_water_and_fish.md) · [A Decentralized Mental OS](ideas/013_decentralized_mental_os.md) · [Principles of Creation](ideas/002_principles_of_creation.md)
 
-**[ideas/](ideas/)** — Philosophy, thought, declarations (59 essays)
+**[ideas/](ideas/)** — Philosophy, thought, declarations (61 essays)
 
 Artist and Aksang
 - [Beyond Usefulness](ideas/003_beyond_usefulness.md)
@@ -76,6 +76,7 @@ Density and Curvature
 - [Density Without Curvature](ideas/047_density_without_curvature.md)
 - [The Mental LHC](ideas/016_mental_lhc.md)
 - [When Is a Proof Beautiful?](ideas/017_when_is_a_proof_beautiful.md)
+- [The Completeness Axiom — Land Never Reached](ideas/062_completeness_axiom.md)
 - [The Successful Lens](ideas/023_successful_lens.md)
 - [The Mimetic Triangle: Desire Has No Original](ideas/042_mimetic_triangle.md)
 - [Why Strange Systems Persist](ideas/018_why_strange_systems_persist.md)
@@ -97,6 +98,7 @@ The Tax-Exempt and the Tax-Collector
 - [DAWN — Money](ideas/021_case_study_dawn_money.md)
 - [The Last Bargain](ideas/055_case_study_last_bargain.md)
 - [The Puritans: Tax Exemption Taken to the Extreme](ideas/060_case_study_puritan.md)
+- [Im Kkeokjeong and Jang Gil-san: When Mountains Build Order Before the State](ideas/063_case_study_imkkeokjeong_janggilsan.md)
 
 Debut and Expansion
 - [On Patronage](ideas/029_on_patronage.md)
