@@ -134,15 +134,14 @@ book:
         - fravashi/002_gpt_prompt.md
         - fravashi/003_agent_prompt.md
 
-comments:
-  giscus:
-    repo: zarathucorp/AngraMyNew
-    repo-id: "R_kgDOQOIfdQ"
-    category: "General"
-    category-id: "DIC_kwDOQOIfdc4C57p_"
-    mapping: pathname
-    reactions-enabled: true
-    theme: light
+website:
+  comments:
+    giscus:
+      repo: zarathucorp/AngraMyNew
+      category: "Announcements"
+      mapping: pathname
+      reactions-enabled: true
+      theme: light
 
 format:
   html:
