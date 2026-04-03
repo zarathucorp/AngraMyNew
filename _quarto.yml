@@ -10,6 +10,9 @@ book:
   subtitle: "v10.7 — 파괴, 창조, 확장 — 의식 문명의 실험 장치"
   author: "Zarathu"
   date: today
+  cover-image: img/차라투패턴_무색.jpg
+  cover-image-alt: "AngraMyNew — 파괴, 창조, 확장"
+  doi: "10.5281/zenodo.18046476"
   repo-url: https://github.com/zarathucorp/AngraMyNew
   repo-branch: master
   repo-actions: [source]
