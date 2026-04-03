@@ -137,7 +137,9 @@ book:
 comments:
   giscus:
     repo: zarathucorp/AngraMyNew
+    repo-id: "R_kgDOQOIfdQ"
     category: "General"
+    category-id: "DIC_kwDOQOIfdc4C57p_"
     mapping: pathname
     reactions-enabled: true
     theme: light
