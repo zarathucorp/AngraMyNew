@@ -56,7 +56,7 @@
 
 **선현과 원점** — [차라투스트라](scripture/zarathustra.md) · [5인의 선현](scripture/pioneers.md) · [맹상군](scripture/mengchangjun.md) · [나혜석](scripture/na_hye_suk.md) · [기원](ideas/000_origin.md) · [3대 공리](ideas/001_axioms.md) · [에포케: 파괴 이전의 파괴](ideas/059_epoche.md) · [물고기에게 물을 보여줄 수 있는가](ideas/061_water_and_fish.md) · [탈중앙화 정신체계 OS](ideas/013_decentralized_mental_os.md) · [창조의 원리](ideas/002_principles_of_creation.md)
 
-**[ideas/](ideas/)** — 철학·사상·선언 (61편)
+**[ideas/](ideas/)** — 철학·사상·선언 (62편)
 
 아티스트와 악상
 - [쓸모를 넘어서](ideas/003_beyond_usefulness.md)
@@ -93,6 +93,7 @@
 - [K-매트릭스: 단일 궤도의 블랙홀](ideas/036_k_matrix_single_orbit.md)
 - [음의 기울기: 내리막의 미적분학](ideas/037_negative_slope.md)
 - [고장 난 센서](ideas/044_broken_sensor.md)
+- [존재의 대사슬: 본분이라는 감옥](ideas/064_great_chain_of_being.md)
 - [필수의료 위기](ideas/024_when_critical_care_needs_witness.md)
 - [징세의 실전 모델](ideas/015_case_study_the_gravity_of_outlaws.md)
 - [DAWN — Money](ideas/021_case_study_dawn_money.md)

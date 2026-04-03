@@ -56,7 +56,7 @@ Create your own values like Nietzsche, embrace even the seemingly useless like M
 
 **Pioneers and Origin** — [Zarathustra](scripture/zarathustra.md) · [The Five Pioneers](scripture/pioneers.md) · [Mengchangjun](scripture/mengchangjun.md) · [Na Hye-seok](scripture/na_hye_suk.md) · [Origin](ideas/000_origin.md) · [The 3 Axioms](ideas/001_axioms.md) · [Epoché: The Destruction Before Destruction](ideas/059_epoche.md) · [Can You Show Water to a Fish?](ideas/061_water_and_fish.md) · [A Decentralized Mental OS](ideas/013_decentralized_mental_os.md) · [Principles of Creation](ideas/002_principles_of_creation.md)
 
-**[ideas/](ideas/)** — Philosophy, thought, declarations (61 essays)
+**[ideas/](ideas/)** — Philosophy, thought, declarations (62 essays)
 
 Artist and Aksang
 - [Beyond Usefulness](ideas/003_beyond_usefulness.md)
@@ -93,6 +93,7 @@ The Tax-Exempt and the Tax-Collector
 - [K-Matrix: The Black Hole of a Single Orbit](ideas/036_k_matrix_single_orbit.md)
 - [Negative Slope: The Calculus of Descent](ideas/037_negative_slope.md)
 - [The Broken Sensor](ideas/044_broken_sensor.md)
+- [The Great Chain of Being: The Prison of One's Station](ideas/064_great_chain_of_being.md)
 - [When Critical Care Needs Witness](ideas/024_when_critical_care_needs_witness.md)
 - [A Practical Model of Taxation](ideas/015_case_study_the_gravity_of_outlaws.md)
 - [DAWN — Money](ideas/021_case_study_dawn_money.md)

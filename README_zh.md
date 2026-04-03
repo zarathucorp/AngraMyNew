@@ -56,7 +56,7 @@
 
 **先贤与原点** — [查拉图斯特拉](scripture/zarathustra.md) · [五位先贤](scripture/pioneers.md) · [孟尝君](scripture/mengchangjun.md) · [罗蕙锡](scripture/na_hye_suk.md) · [起源](ideas/000_origin.md) · [三大公理](ideas/001_axioms.md) · [悬搁：破坏之前的破坏](ideas/059_epoche.md) · [能否让鱼看见水](ideas/061_water_and_fish.md) · [去中心化精神体系OS](ideas/013_decentralized_mental_os.md) · [创造的原理](ideas/002_principles_of_creation.md)
 
-**[ideas/](ideas/)** — 哲学·思想·宣言（61篇）
+**[ideas/](ideas/)** — 哲学·思想·宣言（62篇）
 
 艺术家与恶想
 - [超越有用性](ideas/003_beyond_usefulness.md)
@@ -93,6 +93,7 @@
 - [K-矩阵：单一轨道的黑洞](ideas/036_k_matrix_single_orbit.md)
 - [负斜率：下坡的微积分](ideas/037_negative_slope.md)
 - [故障的传感器](ideas/044_broken_sensor.md)
+- [存在的大锁链 — 本分之牢](ideas/064_great_chain_of_being.md)
 - [必要医疗危机](ideas/024_when_critical_care_needs_witness.md)
 - [征税的实战模型](ideas/015_case_study_the_gravity_of_outlaws.md)
 - [DAWN — Money](ideas/021_case_study_dawn_money.md)

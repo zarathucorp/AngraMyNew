@@ -7,7 +7,7 @@ project:
 
 book:
   title: "AngraMyNew"
-  subtitle: "v10.7 — 파괴, 창조, 확장 — 의식 문명의 실험 장치"
+  subtitle: "v10.8 — 파괴, 창조, 확장 — 의식 문명의 실험 장치"
   author: "Zarathu"
   date: today
   cover-image: img/차라투패턴_무색.jpg
@@ -69,6 +69,7 @@ book:
         - ideas/036_k_matrix_single_orbit.md
         - ideas/037_negative_slope.md
         - ideas/044_broken_sensor.md
+        - ideas/064_great_chain_of_being.md
         - ideas/024_when_critical_care_needs_witness.md
         - ideas/015_case_study_the_gravity_of_outlaws.md
         - ideas/021_case_study_dawn_money.md
