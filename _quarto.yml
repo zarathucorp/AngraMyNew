@@ -134,14 +134,13 @@ book:
         - fravashi/002_gpt_prompt.md
         - fravashi/003_agent_prompt.md
 
-website:
-  comments:
-    giscus:
-      repo: zarathucorp/AngraMyNew
-      category: "Announcements"
-      mapping: pathname
-      reactions-enabled: true
-      theme: light
+comments:
+  giscus:
+    repo: zarathucorp/AngraMyNew
+    category: "Announcements"
+    mapping: pathname
+    reactions-enabled: true
+    theme: light
 
 format:
   html:
