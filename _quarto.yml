@@ -7,7 +7,7 @@ project:
 
 book:
   title: "AngraMyNew"
-  subtitle: "v10.9 — 파괴, 창조, 확장 — 의식 문명의 실험 장치"
+  subtitle: "v10.10 — 파괴, 창조, 확장 — 의식 문명의 실험 장치"
   author: "Zarathu"
   date: today
   cover-image: img/차라투패턴_무색.jpg
@@ -138,6 +138,7 @@ book:
         - protocols/001_creator_operating_protocol.md
         - protocols/002_ethics_of_creation.md
         - protocols/003_severance_protocol.md
+        - protocols/004_aesthetic_correction.md
     - part: "Fravashi — 원형 해석 엔진"
       chapters:
         - fravashi/002_gpt_prompt.md
