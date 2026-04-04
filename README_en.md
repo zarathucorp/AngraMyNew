@@ -54,17 +54,17 @@ Create your own values like Nietzsche, embrace even the seemingly useless like M
 
 ## Structure
 
-**Pioneers and Origin** — [Zarathustra](scripture/zarathustra.md) · [The Five Pioneers](scripture/pioneers.md) · [Mengchangjun](scripture/mengchangjun.md) · [Na Hye-seok](scripture/na_hye_suk.md) · [Origin](ideas/000_origin.md) · [The 3 Axioms](ideas/001_axioms.md) · [Epoché: The Destruction Before Destruction](ideas/059_epoche.md) · [Can You Show Water to a Fish?](ideas/061_water_and_fish.md) · [A Decentralized Mental OS](ideas/013_decentralized_mental_os.md) · [Principles of Creation](ideas/002_principles_of_creation.md)
+**Pioneers and Origin** — [Zarathustra](scripture/zarathustra.md) · [The Five Pioneers](scripture/pioneers.md) · [Mengchangjun](scripture/mengchangjun.md) · [Na Hye-seok](scripture/na_hye_suk.md) · [Origin](ideas/000_origin.md) · [The 3 Axioms](ideas/001_axioms.md) · [Principles of Creation](ideas/002_principles_of_creation.md) · [A Decentralized Mental OS](ideas/013_decentralized_mental_os.md) · [Epoché: The Destruction Before Destruction](ideas/059_epoche.md) · [Can You Show Water to a Fish?](ideas/061_water_and_fish.md)
 
-**[ideas/](ideas/)** — Philosophy, thought, declarations (62 essays)
+**[ideas/](ideas/)** — Philosophy, thought, declarations (66 essays)
 
 Artist and Aksang
 - [Beyond Usefulness](ideas/003_beyond_usefulness.md)
 - [The Artist Within](ideas/004_artist_within.md)
-- [The Age of Malice](ideas/022_age_of_malice.md)
 - [Struggle and Seduction](ideas/008_seduction_of_creation.md)
 - [Rage Against Definition](ideas/009_rage_against_definition.md)
 - [The Predator's Duty](ideas/010_predators_duty.md)
+- [The Age of Malice](ideas/022_age_of_malice.md)
 - [The Two Faces of Monologue](ideas/040_two_faces_of_monologue.md)
 - [The Unfinished Theorem](ideas/007_case_study_unfinished_theorem.md)
 - [Perfume: The Man Whose Blade Pointed Outward](ideas/027_case_study_perfume.md)
@@ -72,14 +72,14 @@ Artist and Aksang
 - [Anatomy of Detachment](ideas/054_case_study_anatomy_of_detachment.md)
 
 Density and Curvature
-- [Imprint: The Curvature of an Orbit](ideas/043_creator_as_reference.md)
-- [Density Without Curvature](ideas/047_density_without_curvature.md)
 - [The Mental LHC](ideas/016_mental_lhc.md)
 - [When Is a Proof Beautiful?](ideas/017_when_is_a_proof_beautiful.md)
-- [The Completeness Axiom — Land Never Reached](ideas/062_completeness_axiom.md)
+- [Why Strange Systems Persist](ideas/018_why_strange_systems_persist.md)
 - [The Successful Lens](ideas/023_successful_lens.md)
 - [The Mimetic Triangle: Desire Has No Original](ideas/042_mimetic_triangle.md)
-- [Why Strange Systems Persist](ideas/018_why_strange_systems_persist.md)
+- [Imprint: The Curvature of an Orbit](ideas/043_creator_as_reference.md)
+- [Density Without Curvature](ideas/047_density_without_curvature.md)
+- [The Completeness Axiom — Land Never Reached](ideas/062_completeness_axiom.md)
 - [One Number](ideas/031_case_study_war.md)
 - [Souten Kouro](ideas/032_case_study_souten_kouro.md)
 - [A Tree Without Fire or Metal](ideas/053_case_study_tree_without_fire_or_metal.md)
@@ -87,6 +87,7 @@ Density and Curvature
 
 The Tax-Exempt and the Tax-Collector
 - [The Rich, the Tax-Exempt, and the Tax-Collector](ideas/014_economics_of_beauty.md)
+- [When Critical Care Needs Witness](ideas/024_when_critical_care_needs_witness.md)
 - [Consumption of the Tax-Exempt](ideas/025_consumption_of_exempt.md)
 - [The Topology of Prostitution](ideas/033_topology_of_prostitution.md)
 - [Death: The Final Tax](ideas/034_death_the_final_tax.md)
@@ -94,7 +95,7 @@ The Tax-Exempt and the Tax-Collector
 - [Negative Slope: The Calculus of Descent](ideas/037_negative_slope.md)
 - [The Broken Sensor](ideas/044_broken_sensor.md)
 - [The Great Chain of Being: The Prison of One's Station](ideas/064_great_chain_of_being.md)
-- [When Critical Care Needs Witness](ideas/024_when_critical_care_needs_witness.md)
+- [Abandoned Coordinate](ideas/068_abandoned_coordinate.md)
 - [A Practical Model of Taxation](ideas/015_case_study_the_gravity_of_outlaws.md)
 - [DAWN — Money](ideas/021_case_study_dawn_money.md)
 - [The Last Bargain](ideas/055_case_study_last_bargain.md)
@@ -102,29 +103,32 @@ The Tax-Exempt and the Tax-Collector
 - [Im Kkeokjeong and Jang Gil-san: When Mountains Build Order Before the State](ideas/063_case_study_imkkeokjeong_janggilsan.md)
 
 Debut and Expansion
-- [On Patronage](ideas/029_on_patronage.md)
-- [Producer Theory: The One Who Builds the Turbine](ideas/049_producer_theory.md)
-- [Scout Theory: The Eye Before Curvature](ideas/050_scout_theory.md)
 - [Project Doctor K](ideas/005_project_doctor_k.md)
 - [Creation as Lineage](ideas/011_lineage_as_creation.md)
 - [Redefining the Doctorate](ideas/012_redefine_doctor_degree.md)
+- [On Patronage](ideas/029_on_patronage.md)
+- [Producer Theory: The One Who Builds the Turbine](ideas/049_producer_theory.md)
+- [Scout Theory: The Eye Before Curvature](ideas/050_scout_theory.md)
 - [Archive Theory: Insurance for Density](ideas/051_archive_theory.md)
 - [The Star Is a Crack in the System](ideas/057_star_as_crack.md)
-- [Produce 101: A Machine That Prepays Curvature](ideas/052_case_study_produce101.md)
+- [Reserve Currency](ideas/065_reserve_currency.md)
 - [The Borderline: When Expansion Becomes Enlargement](ideas/028_case_study_fukuzawa.md)
+- [Produce 101: A Machine That Prepays Curvature](ideas/052_case_study_produce101.md)
 
 Mental OS and Regime
-- [Three Loss Functions](ideas/039_three_loss_functions.md)
+- [Aesthetic Nation](ideas/006_aesthetic_nation.md)
 - [The Three Kingdoms of Truth, Goodness, and Beauty](ideas/026_three_kingdoms_of_beauty.md)
 - [Topological Reformation: From Geneva to Joseon](ideas/038_topological_reformation.md)
-- [The Third Prescription: Contagion, Transplant, Induction](ideas/056_third_prescription.md)
+- [Three Loss Functions](ideas/039_three_loss_functions.md)
 - [A Pope Without the Vatican](ideas/045_pope_without_vatican.md)
 - [Two Origins](ideas/048_two_origins.md)
-- [Aesthetic Nation](ideas/006_aesthetic_nation.md)
-- [When a Worldview Becomes Language](ideas/046_case_study_worldview_as_language.md)
+- [The Third Prescription: Contagion, Transplant, Induction](ideas/056_third_prescription.md)
+- [Cheap Civil War](ideas/066_cheap_civil_war.md)
+- [Where Civilizations Rage](ideas/067_where_civilizations_rage.md)
 - [The Arthdal Chronicles: Narrative Need Not Be True](ideas/041_case_study_arthdal_chronicles.md)
+- [When a Worldview Becomes Language](ideas/046_case_study_worldview_as_language.md)
 
-**[art/](art/)** — Examples of beauty (27 essays)
+**[art/](art/)** — Examples of beauty (28 essays)
 - [Galois and the Quintic Equation](art/001_galois_quintic.md)
 - [General Relativity](art/002_general_relativity.md)
 - [When One Pattern Becomes Everything](art/003_one_pattern.md)
@@ -152,6 +156,7 @@ Mental OS and Regime
 - [The Place Where Meaning Was Erased](art/025_yi_sang_ogamdo.md)
 - [What Grows Clearer as It Is Erased](art/026_renormalization_group.md)
 - [The Heat It Takes to Forget](art/027_landauer_erasure.md)
+- [From Black to Color: Redon's Transformation](art/028_redon_noir_to_color.md)
 
 **[fravashi/](fravashi/)** — Fravashi Archetype Engine
 

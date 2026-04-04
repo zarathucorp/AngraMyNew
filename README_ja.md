@@ -54,17 +54,17 @@
 
 ## 構造
 
-**先賢と原点** — [ツァラトゥストラ](scripture/zarathustra.md) · [五人の先賢](scripture/pioneers.md) · [孟嘗君](scripture/mengchangjun.md) · [羅蕙錫](scripture/na_hye_suk.md) · [起源](ideas/000_origin.md) · [三大公理](ideas/001_axioms.md) · [エポケー：破壊以前の破壊](ideas/059_epoche.md) · [魚に水を見せることはできるか](ideas/061_water_and_fish.md) · [脱中心化精神体系OS](ideas/013_decentralized_mental_os.md) · [創造の原理](ideas/002_principles_of_creation.md)
+**先賢と原点** — [ツァラトゥストラ](scripture/zarathustra.md) · [五人の先賢](scripture/pioneers.md) · [孟嘗君](scripture/mengchangjun.md) · [羅蕙錫](scripture/na_hye_suk.md) · [起源](ideas/000_origin.md) · [三大公理](ideas/001_axioms.md) · [創造の原理](ideas/002_principles_of_creation.md) · [脱中心化精神体系OS](ideas/013_decentralized_mental_os.md) · [エポケー：破壊以前の破壊](ideas/059_epoche.md) · [魚に水を見せることはできるか](ideas/061_water_and_fish.md)
 
-**[ideas/](ideas/)** — 哲学・思想・宣言（62編）
+**[ideas/](ideas/)** — 哲学・思想・宣言（66編）
 
 アーティストと悪想
 - [有用性を超えて](ideas/003_beyond_usefulness.md)
 - [内なるアーティスト](ideas/004_artist_within.md)
-- [悪想の時代](ideas/022_age_of_malice.md)
 - [闘争と誘惑](ideas/008_seduction_of_creation.md)
 - [定義への怒り](ideas/009_rage_against_definition.md)
 - [捕食者の義務](ideas/010_predators_duty.md)
+- [悪想の時代](ideas/022_age_of_malice.md)
 - [独白の二つの顔](ideas/040_two_faces_of_monologue.md)
 - [未完の定理](ideas/007_case_study_unfinished_theorem.md)
 - [香水 — 刃が外を向いた男](ideas/027_case_study_perfume.md)
@@ -72,14 +72,14 @@
 - [超然の解剖](ideas/054_case_study_anatomy_of_detachment.md)
 
 密度と曲率
-- [刻印: 軌道の曲率](ideas/043_creator_as_reference.md)
-- [曲率のない密度](ideas/047_density_without_curvature.md)
 - [精神のLHC](ideas/016_mental_lhc.md)
 - [証明はいつ美しいのか](ideas/017_when_is_a_proof_beautiful.md)
-- [完備性公理 — 果てまで行ったことのない土地](ideas/062_completeness_axiom.md)
+- [奇妙な体系はなぜ消えないのか](ideas/018_why_strange_systems_persist.md)
 - [成功したレンズ](ideas/023_successful_lens.md)
 - [模倣の三角形 — 欲望にオリジナルはない](ideas/042_mimetic_triangle.md)
-- [奇妙な体系はなぜ消えないのか](ideas/018_why_strange_systems_persist.md)
+- [刻印: 軌道の曲率](ideas/043_creator_as_reference.md)
+- [曲率のない密度](ideas/047_density_without_curvature.md)
+- [完備性公理 — 果てまで行ったことのない土地](ideas/062_completeness_axiom.md)
 - [ひとつの数字](ideas/031_case_study_war.md)
 - [蒼天航路](ideas/032_case_study_souten_kouro.md)
 - [火も金もない木](ideas/053_case_study_tree_without_fire_or_metal.md)
@@ -87,6 +87,7 @@
 
 免税人と徴税人
 - [富者・免税人・徴税人](ideas/014_economics_of_beauty.md)
+- [必須医療の危機](ideas/024_when_critical_care_needs_witness.md)
 - [免税人の消費](ideas/025_consumption_of_exempt.md)
 - [売春のトポロジー](ideas/033_topology_of_prostitution.md)
 - [死 — システムが徴収する最後の税](ideas/034_death_the_final_tax.md)
@@ -94,7 +95,7 @@
 - [負の傾き — 下り坂の微積分学](ideas/037_negative_slope.md)
 - [壊れたセンサー](ideas/044_broken_sensor.md)
 - [存在の大鎖 — 本分という牢獄](ideas/064_great_chain_of_being.md)
-- [必須医療の危機](ideas/024_when_critical_care_needs_witness.md)
+- [捨てられた座標](ideas/068_abandoned_coordinate.md)
 - [徴税の実戦モデル](ideas/015_case_study_the_gravity_of_outlaws.md)
 - [DAWN — Money](ideas/021_case_study_dawn_money.md)
 - [最後の取引](ideas/055_case_study_last_bargain.md)
@@ -102,29 +103,32 @@
 - [林巨正と張吉山：山が国家より先に秩序をつくるとき](ideas/063_case_study_imkkeokjeong_janggilsan.md)
 
 デビューと拡張
-- [パトロネージ論](ideas/029_on_patronage.md)
-- [プロデューサー論：タービンを立てる者](ideas/049_producer_theory.md)
-- [スカウター論：曲率前の目](ideas/050_scout_theory.md)
 - [Project Doctor K](ideas/005_project_doctor_k.md)
 - [系譜としての創造](ideas/011_lineage_as_creation.md)
 - [博士号の再定義](ideas/012_redefine_doctor_degree.md)
+- [パトロネージ論](ideas/029_on_patronage.md)
+- [プロデューサー論：タービンを立てる者](ideas/049_producer_theory.md)
+- [スカウター論：曲率前の目](ideas/050_scout_theory.md)
 - [アーカイブ論：密度の保険](ideas/051_archive_theory.md)
 - [スターはシステムの亀裂である](ideas/057_star_as_crack.md)
-- [プロデュース101：曲率を前払いする機械](ideas/052_case_study_produce101.md)
+- [基軸通貨](ideas/065_reserve_currency.md)
 - [境界線 — 拡張が拡大になるとき](ideas/028_case_study_fukuzawa.md)
+- [プロデュース101：曲率を前払いする機械](ideas/052_case_study_produce101.md)
 
 精神OSと体制
-- [三つの損失関数](ideas/039_three_loss_functions.md)
+- [美学国家論](ideas/006_aesthetic_nation.md)
 - [真・善・美の三国志](ideas/026_three_kingdoms_of_beauty.md)
 - [位相的宗教改革 — ジュネーブから朝鮮まで](ideas/038_topological_reformation.md)
-- [三番目の処方：伝染、移植、誘導](ideas/056_third_prescription.md)
+- [三つの損失関数](ideas/039_three_loss_functions.md)
 - [バチカンなき教皇](ideas/045_pope_without_vatican.md)
 - [二つの原点](ideas/048_two_origins.md)
-- [美学国家論](ideas/006_aesthetic_nation.md)
-- [世界観が言語になるとき](ideas/046_case_study_worldview_as_language.md)
+- [三番目の処方：伝染、移植、誘導](ideas/056_third_prescription.md)
+- [安い内戦](ideas/066_cheap_civil_war.md)
+- [文明はどこで激怒するのか](ideas/067_where_civilizations_rage.md)
 - [アスダル年代記 — 物語は事実である必要がない](ideas/041_case_study_arthdal_chronicles.md)
+- [世界観が言語になるとき](ideas/046_case_study_worldview_as_language.md)
 
-**[art/](art/)** — 美の事例（27編）
+**[art/](art/)** — 美の事例（28編）
 - [ガロアと五次方程式](art/001_galois_quintic.md)
 - [一般相対性理論](art/002_general_relativity.md)
 - [ひとつの模様がすべてになる](art/003_one_pattern.md)
@@ -152,6 +156,7 @@
 - [意味を消した場所](art/025_yi_sang_ogamdo.md)
 - [消すほど鮮明になるもの](art/026_renormalization_group.md)
 - [忘れるのに必要な熱](art/027_landauer_erasure.md)
+- [黒い絵が色を得るまで](art/028_redon_noir_to_color.md)
 
 **[fravashi/](fravashi/)** — Fravashi 原型解析エンジン
 
