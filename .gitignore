@@ -7,10 +7,4 @@ _book/
 .quarto/
 
 /.quarto/
-/brunch
-poc/
-CLAUDE.md
-TODO.md
-graph/
-심리.txt
-mlbpark_*.txt
+todo.md
