@@ -82,7 +82,7 @@ $$
 
 ## 관련 문서
 - [죽음: 시스템이 징수하는 마지막 세금](034_death_the_final_tax.md)
-- [K-매트릭스: 단일 궤도의 블랙홀](036_k_matrix_single_orbit.md)
+- [K-매트릭스: 출구 비용의 사회](036_k_matrix_single_orbit.md)
 - [5인의 선현](../scripture/pioneers.md)
 - [고장 난 센서](044_broken_sensor.md)
 - [창조의 원리](002_principles_of_creation.md)

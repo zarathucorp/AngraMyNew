@@ -66,4 +66,4 @@
 
 - [음의 기울기: 내리막의 미적분학](037_negative_slope.md)
 - [죽음: 시스템이 징수하는 마지막 세금](034_death_the_final_tax.md)
-- [K-매트릭스: 단일 궤도의 블랙홀](036_k_matrix_single_orbit.md)
+- [K-매트릭스: 출구 비용의 사회](036_k_matrix_single_orbit.md)

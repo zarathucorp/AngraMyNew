@@ -49,5 +49,5 @@
 - [내면의 예술가](004_artist_within.md)
 - [독백의 두 얼굴](040_two_faces_of_monologue.md)
 - [세 개의 손실함수](039_three_loss_functions.md)
-- [K-매트릭스: 단일 궤도의 블랙홀](036_k_matrix_single_orbit.md)
-- [모방의 삼각형: 욕망에 원본은 없다](042_mimetic_triangle.md)
+- [K-매트릭스: 출구 비용의 사회](036_k_matrix_single_orbit.md)
+- [모방의 삼각형: 산 자를 따르면 경쟁, 죽은 자를 따르면 계보](042_mimetic_triangle.md)

@@ -103,7 +103,7 @@
 ## 관련 문서
 
 - [곡률 없는 밀도](047_density_without_curvature.md)
-- [프로듀서론: 터빈을 세우는 자](049_producer_theory.md)
-- [스카우터론: 곡률 전의 눈](050_scout_theory.md)
-- [아카이브론: 밀도의 보험](051_archive_theory.md)
+- [프로듀서론: 타인의 세계로 먹고사는 자](049_producer_theory.md)
+- [스카우터론: 증명할 수 없는 보증](050_scout_theory.md)
+- [아카이브론: 세상이 오기 전에 남기는 자](051_archive_theory.md)
 - [고장 난 센서](044_broken_sensor.md)

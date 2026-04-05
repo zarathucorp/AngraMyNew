@@ -60,5 +60,5 @@ AngraMyNew도 마찬가지다. 이것은 탈중앙화 정신체계의 첫 번째
 
 - [박사학위의 재정의](012_redefine_doctor_degree.md)
 - [세계관이 언어가 될 때](046_case_study_worldview_as_language.md)
-- [K-매트릭스: 단일 궤도의 블랙홀](036_k_matrix_single_orbit.md)
+- [K-매트릭스: 출구 비용의 사회](036_k_matrix_single_orbit.md)
 - [성공한 렌즈](023_successful_lens.md)

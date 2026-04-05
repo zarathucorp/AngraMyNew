@@ -52,5 +52,5 @@
 
 - [위상학적 종교개혁: 제네바에서 조선까지](038_topological_reformation.md)
 - [세계관이 언어가 될 때](046_case_study_worldview_as_language.md)
-- [모방의 삼각형: 욕망에 원본은 없다](042_mimetic_triangle.md)
+- [모방의 삼각형: 산 자를 따르면 경쟁, 죽은 자를 따르면 계보](042_mimetic_triangle.md)
 - [악상의 시대](022_age_of_malice.md)

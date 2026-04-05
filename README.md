@@ -56,9 +56,9 @@
 
 **선현과 원점** — [차라투스트라](scripture/zarathustra.md) · [5인의 선현](scripture/pioneers.md) · [맹상군](scripture/mengchangjun.md) · [나혜석](scripture/na_hye_suk.md) · [기원](ideas/000_origin.md) · [3대 공리](ideas/001_axioms.md) · [창조의 원리](ideas/002_principles_of_creation.md) · [탈중앙화 정신체계 OS](ideas/013_decentralized_mental_os.md) · [에포케: 파괴 이전의 파괴](ideas/059_epoche.md) · [물고기에게 물을 보여줄 수 있는가](ideas/061_water_and_fish.md)
 
-**[ideas/](ideas/)** — 철학·사상·선언 (67편)
+**[ideas/](ideas/)** — 철학·사상·선언 (66편)
 
-아티스트와 악상
+내면의 예술가
 - [쓸모를 넘어서](ideas/003_beyond_usefulness.md)
 - [내면의 예술가](ideas/004_artist_within.md)
 - [미완의 정리](ideas/007_case_study_unfinished_theorem.md)
@@ -78,7 +78,7 @@
 - [성공한 렌즈](ideas/023_successful_lens.md)
 - [하나의 숫자](ideas/031_case_study_war.md)
 - [창천항로](ideas/032_case_study_souten_kouro.md)
-- [모방의 삼각형: 욕망에 원본은 없다](ideas/042_mimetic_triangle.md)
+- [모방의 삼각형: 산 자를 따르면 경쟁, 죽은 자를 따르면 계보](ideas/042_mimetic_triangle.md)
 - [각인: 궤도의 곡률](ideas/043_creator_as_reference.md)
 - [곡률 없는 밀도](ideas/047_density_without_curvature.md)
 - [불도 쇠도 없는 나무](ideas/053_case_study_tree_without_fire_or_metal.md)
@@ -93,12 +93,11 @@
 - [면세인의 소비](ideas/025_consumption_of_exempt.md)
 - [매춘의 위상학](ideas/033_topology_of_prostitution.md)
 - [죽음: 시스템이 징수하는 마지막 세금](ideas/034_death_the_final_tax.md)
-- [K-매트릭스: 단일 궤도의 블랙홀](ideas/036_k_matrix_single_orbit.md)
+- [K-매트릭스: 출구 비용의 사회](ideas/036_k_matrix_single_orbit.md)
 - [음의 기울기: 내리막의 미적분학](ideas/037_negative_slope.md)
 - [고장 난 센서](ideas/044_broken_sensor.md)
 - [마지막 흥정](ideas/055_case_study_last_bargain.md)
 - [청교도: 면세의 극단](ideas/060_case_study_puritan.md)
-- [임꺽정과 장길산: 산이 국가보다 먼저 질서를 만들 때](ideas/063_case_study_imkkeokjeong_janggilsan.md)
 - [존재의 대사슬: 본분이라는 감옥](ideas/064_great_chain_of_being.md)
 - [버려진 좌표](ideas/068_abandoned_coordinate.md)
 
@@ -108,9 +107,9 @@
 - [박사학위의 재정의](ideas/012_redefine_doctor_degree.md)
 - [경계선: 확장이 확대가 될 때](ideas/028_case_study_fukuzawa.md)
 - [후원자론](ideas/029_on_patronage.md)
-- [프로듀서론: 터빈을 세우는 자](ideas/049_producer_theory.md)
-- [스카우터론: 곡률 전의 눈](ideas/050_scout_theory.md)
-- [아카이브론: 밀도의 보험](ideas/051_archive_theory.md)
+- [프로듀서론: 타인의 세계로 먹고사는 자](ideas/049_producer_theory.md)
+- [스카우터론: 증명할 수 없는 보증](ideas/050_scout_theory.md)
+- [아카이브론: 세상이 오기 전에 남기는 자](ideas/051_archive_theory.md)
 - [프로듀스101: 곡률을 선지급하는 기계](ideas/052_case_study_produce101.md)
 - [스타는 시스템의 균열이다](ideas/057_star_as_crack.md)
 - [기축통화](ideas/065_reserve_currency.md)

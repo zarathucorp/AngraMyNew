@@ -71,4 +71,4 @@
 - [존재의 대사슬](064_great_chain_of_being.md)
 - [왜 이상한 체계들은 사라지지 않는가](018_why_strange_systems_persist.md)
 - [위상학적 종교개혁](038_topological_reformation.md)
-- [K-매트릭스: 단일 궤도의 블랙홀](036_k_matrix_single_orbit.md)
+- [K-매트릭스: 출구 비용의 사회](036_k_matrix_single_orbit.md)

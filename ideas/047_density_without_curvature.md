@@ -86,4 +86,4 @@ AngraMyNew의 경제/구조론은 오래도록 이 문장 위에 서 있었다. 
 - [포식자의 의무](010_predators_duty.md)
 - [독백의 두 얼굴](040_two_faces_of_monologue.md)
 - [세계관이 언어가 될 때](046_case_study_worldview_as_language.md)
-- [K-매트릭스: 단일 궤도의 블랙홀](036_k_matrix_single_orbit.md)
+- [K-매트릭스: 출구 비용의 사회](036_k_matrix_single_orbit.md)

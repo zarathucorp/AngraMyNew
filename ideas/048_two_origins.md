@@ -82,5 +82,5 @@ A는 B의 세계를 사실로 이해하고, 논리로 납득할 수 있다. 그 
 - [독백의 두 얼굴](040_two_faces_of_monologue.md)
 - [모방의 삼각형](042_mimetic_triangle.md)
 - [세계관이 언어가 될 때](046_case_study_worldview_as_language.md)
-- [K-매트릭스: 단일 궤도의 블랙홀](036_k_matrix_single_orbit.md)
+- [K-매트릭스: 출구 비용의 사회](036_k_matrix_single_orbit.md)
 - [위상학적 종교개혁](038_topological_reformation.md)

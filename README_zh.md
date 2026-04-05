@@ -56,9 +56,9 @@
 
 **先贤与原点** — [查拉图斯特拉](scripture/zarathustra.md) · [五位先贤](scripture/pioneers.md) · [孟尝君](scripture/mengchangjun.md) · [罗蕙锡](scripture/na_hye_suk.md) · [起源](ideas/000_origin.md) · [三大公理](ideas/001_axioms.md) · [创造的原理](ideas/002_principles_of_creation.md) · [去中心化精神体系OS](ideas/013_decentralized_mental_os.md) · [悬搁：破坏之前的破坏](ideas/059_epoche.md) · [能否让鱼看见水](ideas/061_water_and_fish.md)
 
-**[ideas/](ideas/)** — 哲学·思想·宣言（67篇）
+**[ideas/](ideas/)** — 哲学·思想·宣言（66篇）
 
-艺术家与恶想
+内在的艺术家
 - [超越有用性](ideas/003_beyond_usefulness.md)
 - [内在的艺术家](ideas/004_artist_within.md)
 - [未完成的定理](ideas/007_case_study_unfinished_theorem.md)
@@ -78,7 +78,7 @@
 - [成功的透镜](ideas/023_successful_lens.md)
 - [一个数字](ideas/031_case_study_war.md)
 - [苍天航路](ideas/032_case_study_souten_kouro.md)
-- [模仿的三角形：欲望没有原本](ideas/042_mimetic_triangle.md)
+- [模仿的三角形：追随活人成竞争，追随死者成谱系](ideas/042_mimetic_triangle.md)
 - [刻印: 轨道的曲率](ideas/043_creator_as_reference.md)
 - [没有曲率的密度](ideas/047_density_without_curvature.md)
 - [没有火与金的树](ideas/053_case_study_tree_without_fire_or_metal.md)
@@ -93,12 +93,11 @@
 - [免税人的消费](ideas/025_consumption_of_exempt.md)
 - [卖春的拓扑学](ideas/033_topology_of_prostitution.md)
 - [死亡：系统征收的最后一税](ideas/034_death_the_final_tax.md)
-- [K-矩阵：单一轨道的黑洞](ideas/036_k_matrix_single_orbit.md)
+- [K-矩阵：出口成本的社会](ideas/036_k_matrix_single_orbit.md)
 - [负斜率：下坡的微积分](ideas/037_negative_slope.md)
 - [故障的传感器](ideas/044_broken_sensor.md)
 - [最后的讨价还价](ideas/055_case_study_last_bargain.md)
 - [清教徒：免税的极端](ideas/060_case_study_puritan.md)
-- [林巨正与张吉山：当山比国家更先建立秩序](ideas/063_case_study_imkkeokjeong_janggilsan.md)
 - [存在的大锁链 — 本分之牢](ideas/064_great_chain_of_being.md)
 - [被遗弃的坐标](ideas/068_abandoned_coordinate.md)
 
@@ -108,9 +107,9 @@
 - [博士学位的重新定义](ideas/012_redefine_doctor_degree.md)
 - [边界线：扩张何时变成扩大](ideas/028_case_study_fukuzawa.md)
 - [赞助者论](ideas/029_on_patronage.md)
-- [制作人论：建造涡轮的人](ideas/049_producer_theory.md)
-- [侦察论：曲率前的眼睛](ideas/050_scout_theory.md)
-- [档案论：密度的保险](ideas/051_archive_theory.md)
+- [制作人论：以他人的世界谋生的人](ideas/049_producer_theory.md)
+- [侦察论：无法证明的担保](ideas/050_scout_theory.md)
+- [档案论：在世界到来之前留下的人](ideas/051_archive_theory.md)
 - [Produce 101：预付曲率的机器](ideas/052_case_study_produce101.md)
 - [明星是系统的裂缝](ideas/057_star_as_crack.md)
 - [基轴货币](ideas/065_reserve_currency.md)

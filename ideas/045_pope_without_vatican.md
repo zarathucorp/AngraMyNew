@@ -66,4 +66,4 @@
 - [포식자의 의무](010_predators_duty.md)
 - [각인: 궤도의 곡률](043_creator_as_reference.md)
 - [고장 난 센서](044_broken_sensor.md)
-- [프로듀서론: 터빈을 세우는 자](049_producer_theory.md)
+- [프로듀서론: 타인의 세계로 먹고사는 자](049_producer_theory.md)

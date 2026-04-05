@@ -56,9 +56,9 @@
 
 **先賢と原点** — [ツァラトゥストラ](scripture/zarathustra.md) · [五人の先賢](scripture/pioneers.md) · [孟嘗君](scripture/mengchangjun.md) · [羅蕙錫](scripture/na_hye_suk.md) · [起源](ideas/000_origin.md) · [三大公理](ideas/001_axioms.md) · [創造の原理](ideas/002_principles_of_creation.md) · [脱中心化精神体系OS](ideas/013_decentralized_mental_os.md) · [エポケー：破壊以前の破壊](ideas/059_epoche.md) · [魚に水を見せることはできるか](ideas/061_water_and_fish.md)
 
-**[ideas/](ideas/)** — 哲学・思想・宣言（67編）
+**[ideas/](ideas/)** — 哲学・思想・宣言（66編）
 
-アーティストと悪想
+内なるアーティスト
 - [有用性を超えて](ideas/003_beyond_usefulness.md)
 - [内なるアーティスト](ideas/004_artist_within.md)
 - [未完の定理](ideas/007_case_study_unfinished_theorem.md)
@@ -78,7 +78,7 @@
 - [成功したレンズ](ideas/023_successful_lens.md)
 - [ひとつの数字](ideas/031_case_study_war.md)
 - [蒼天航路](ideas/032_case_study_souten_kouro.md)
-- [模倣の三角形 — 欲望にオリジナルはない](ideas/042_mimetic_triangle.md)
+- [模倣の三角形 — 生者に倣えば競争、死者に倣えば系譜](ideas/042_mimetic_triangle.md)
 - [刻印: 軌道の曲率](ideas/043_creator_as_reference.md)
 - [曲率のない密度](ideas/047_density_without_curvature.md)
 - [火も金もない木](ideas/053_case_study_tree_without_fire_or_metal.md)
@@ -93,12 +93,11 @@
 - [免税人の消費](ideas/025_consumption_of_exempt.md)
 - [売春のトポロジー](ideas/033_topology_of_prostitution.md)
 - [死 — システムが徴収する最後の税](ideas/034_death_the_final_tax.md)
-- [K-マトリクス — 単一軌道のブラックホール](ideas/036_k_matrix_single_orbit.md)
+- [K-マトリクス — 出口コストの社会](ideas/036_k_matrix_single_orbit.md)
 - [負の傾き — 下り坂の微積分学](ideas/037_negative_slope.md)
 - [壊れたセンサー](ideas/044_broken_sensor.md)
 - [最後の取引](ideas/055_case_study_last_bargain.md)
 - [清教徒：免税の極端](ideas/060_case_study_puritan.md)
-- [林巨正と張吉山：山が国家より先に秩序をつくるとき](ideas/063_case_study_imkkeokjeong_janggilsan.md)
 - [存在の大鎖 — 本分という牢獄](ideas/064_great_chain_of_being.md)
 - [捨てられた座標](ideas/068_abandoned_coordinate.md)
 
@@ -108,9 +107,9 @@
 - [博士号の再定義](ideas/012_redefine_doctor_degree.md)
 - [境界線 — 拡張が拡大になるとき](ideas/028_case_study_fukuzawa.md)
 - [パトロネージ論](ideas/029_on_patronage.md)
-- [プロデューサー論：タービンを立てる者](ideas/049_producer_theory.md)
-- [スカウター論：曲率前の目](ideas/050_scout_theory.md)
-- [アーカイブ論：密度の保険](ideas/051_archive_theory.md)
+- [プロデューサー論：他人の世界で食べていく者](ideas/049_producer_theory.md)
+- [スカウター論：証明できない保証](ideas/050_scout_theory.md)
+- [アーカイブ論：世界が来る前に残す者](ideas/051_archive_theory.md)
 - [プロデュース101：曲率を前払いする機械](ideas/052_case_study_produce101.md)
 - [スターはシステムの亀裂である](ideas/057_star_as_crack.md)
 - [基軸通貨](ideas/065_reserve_currency.md)

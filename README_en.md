@@ -56,9 +56,9 @@ Create your own values like Nietzsche, embrace even the seemingly useless like M
 
 **Pioneers and Origin** — [Zarathustra](scripture/zarathustra.md) · [The Five Pioneers](scripture/pioneers.md) · [Mengchangjun](scripture/mengchangjun.md) · [Na Hye-seok](scripture/na_hye_suk.md) · [Origin](ideas/000_origin.md) · [The 3 Axioms](ideas/001_axioms.md) · [Principles of Creation](ideas/002_principles_of_creation.md) · [A Decentralized Mental OS](ideas/013_decentralized_mental_os.md) · [Epoché: The Destruction Before Destruction](ideas/059_epoche.md) · [Can You Show Water to a Fish?](ideas/061_water_and_fish.md)
 
-**[ideas/](ideas/)** — Philosophy, thought, declarations (67 essays)
+**[ideas/](ideas/)** — Philosophy, thought, declarations (66 essays)
 
-Artist and Aksang
+The Artist Within
 - [Beyond Usefulness](ideas/003_beyond_usefulness.md)
 - [The Artist Within](ideas/004_artist_within.md)
 - [The Unfinished Theorem](ideas/007_case_study_unfinished_theorem.md)
@@ -78,7 +78,7 @@ Density and Curvature
 - [The Successful Lens](ideas/023_successful_lens.md)
 - [One Number](ideas/031_case_study_war.md)
 - [Souten Kouro](ideas/032_case_study_souten_kouro.md)
-- [The Mimetic Triangle: Desire Has No Original](ideas/042_mimetic_triangle.md)
+- [The Mimetic Triangle: Follow the Living and You Get Competition; Follow the Dead and You Get Lineage](ideas/042_mimetic_triangle.md)
 - [Imprint: The Curvature of an Orbit](ideas/043_creator_as_reference.md)
 - [Density Without Curvature](ideas/047_density_without_curvature.md)
 - [A Tree Without Fire or Metal](ideas/053_case_study_tree_without_fire_or_metal.md)
@@ -93,12 +93,11 @@ The Tax-Exempt and the Tax-Collector
 - [Consumption of the Tax-Exempt](ideas/025_consumption_of_exempt.md)
 - [The Topology of Prostitution](ideas/033_topology_of_prostitution.md)
 - [Death: The Final Tax](ideas/034_death_the_final_tax.md)
-- [K-Matrix: The Black Hole of a Single Orbit](ideas/036_k_matrix_single_orbit.md)
+- [K-Matrix: A Society of Exit Costs](ideas/036_k_matrix_single_orbit.md)
 - [Negative Slope: The Calculus of Descent](ideas/037_negative_slope.md)
 - [The Broken Sensor](ideas/044_broken_sensor.md)
 - [The Last Bargain](ideas/055_case_study_last_bargain.md)
 - [The Puritans: Tax Exemption Taken to the Extreme](ideas/060_case_study_puritan.md)
-- [Im Kkeokjeong and Jang Gil-san: When Mountains Build Order Before the State](ideas/063_case_study_imkkeokjeong_janggilsan.md)
 - [The Great Chain of Being: The Prison of One's Station](ideas/064_great_chain_of_being.md)
 - [Abandoned Coordinate](ideas/068_abandoned_coordinate.md)
 
@@ -108,9 +107,9 @@ Debut and Expansion
 - [Redefining the Doctorate](ideas/012_redefine_doctor_degree.md)
 - [The Borderline: When Expansion Becomes Enlargement](ideas/028_case_study_fukuzawa.md)
 - [On Patronage](ideas/029_on_patronage.md)
-- [Producer Theory: The One Who Builds the Turbine](ideas/049_producer_theory.md)
-- [Scout Theory: The Eye Before Curvature](ideas/050_scout_theory.md)
-- [Archive Theory: Insurance for Density](ideas/051_archive_theory.md)
+- [Producer Theory: The One Who Eats from Another's World](ideas/049_producer_theory.md)
+- [Scout Theory: The Unprovable Guarantee](ideas/050_scout_theory.md)
+- [Archive Theory: The One Who Saves Before the World Arrives](ideas/051_archive_theory.md)
 - [Produce 101: A Machine That Prepays Curvature](ideas/052_case_study_produce101.md)
 - [The Star Is a Crack in the System](ideas/057_star_as_crack.md)
 - [Reserve Currency](ideas/065_reserve_currency.md)
