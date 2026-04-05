@@ -56,7 +56,7 @@
 
 **先賢と原点** — [ツァラトゥストラ](scripture/zarathustra.md) · [五人の先賢](scripture/pioneers.md) · [孟嘗君](scripture/mengchangjun.md) · [羅蕙錫](scripture/na_hye_suk.md) · [起源](ideas/000_origin.md) · [三大公理](ideas/001_axioms.md) · [創造の原理](ideas/002_principles_of_creation.md) · [脱中心化精神体系OS](ideas/013_decentralized_mental_os.md) · [エポケー：破壊以前の破壊](ideas/059_epoche.md) · [魚に水を見せることはできるか](ideas/061_water_and_fish.md)
 
-**[ideas/](ideas/)** — 哲学・思想・宣言（66編）
+**[ideas/](ideas/)** — 哲学・思想・宣言（67編）
 
 アーティストと悪想
 - [有用性を超えて](ideas/003_beyond_usefulness.md)
@@ -112,6 +112,7 @@
 - [アーカイブ論：密度の保険](ideas/051_archive_theory.md)
 - [スターはシステムの亀裂である](ideas/057_star_as_crack.md)
 - [基軸通貨](ideas/065_reserve_currency.md)
+- [関係の金利](ideas/069_interest_rate_of_relationships.md)
 - [境界線 — 拡張が拡大になるとき](ideas/028_case_study_fukuzawa.md)
 - [プロデュース101：曲率を前払いする機械](ideas/052_case_study_produce101.md)
 

@@ -56,7 +56,7 @@ Create your own values like Nietzsche, embrace even the seemingly useless like M
 
 **Pioneers and Origin** — [Zarathustra](scripture/zarathustra.md) · [The Five Pioneers](scripture/pioneers.md) · [Mengchangjun](scripture/mengchangjun.md) · [Na Hye-seok](scripture/na_hye_suk.md) · [Origin](ideas/000_origin.md) · [The 3 Axioms](ideas/001_axioms.md) · [Principles of Creation](ideas/002_principles_of_creation.md) · [A Decentralized Mental OS](ideas/013_decentralized_mental_os.md) · [Epoché: The Destruction Before Destruction](ideas/059_epoche.md) · [Can You Show Water to a Fish?](ideas/061_water_and_fish.md)
 
-**[ideas/](ideas/)** — Philosophy, thought, declarations (66 essays)
+**[ideas/](ideas/)** — Philosophy, thought, declarations (67 essays)
 
 Artist and Aksang
 - [Beyond Usefulness](ideas/003_beyond_usefulness.md)
@@ -112,6 +112,7 @@ Debut and Expansion
 - [Archive Theory: Insurance for Density](ideas/051_archive_theory.md)
 - [The Star Is a Crack in the System](ideas/057_star_as_crack.md)
 - [Reserve Currency](ideas/065_reserve_currency.md)
+- [The Interest Rate of Relationships](ideas/069_interest_rate_of_relationships.md)
 - [The Borderline: When Expansion Becomes Enlargement](ideas/028_case_study_fukuzawa.md)
 - [Produce 101: A Machine That Prepays Curvature](ideas/052_case_study_produce101.md)
 

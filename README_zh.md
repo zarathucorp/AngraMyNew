@@ -56,7 +56,7 @@
 
 **先贤与原点** — [查拉图斯特拉](scripture/zarathustra.md) · [五位先贤](scripture/pioneers.md) · [孟尝君](scripture/mengchangjun.md) · [罗蕙锡](scripture/na_hye_suk.md) · [起源](ideas/000_origin.md) · [三大公理](ideas/001_axioms.md) · [创造的原理](ideas/002_principles_of_creation.md) · [去中心化精神体系OS](ideas/013_decentralized_mental_os.md) · [悬搁：破坏之前的破坏](ideas/059_epoche.md) · [能否让鱼看见水](ideas/061_water_and_fish.md)
 
-**[ideas/](ideas/)** — 哲学·思想·宣言（66篇）
+**[ideas/](ideas/)** — 哲学·思想·宣言（67篇）
 
 艺术家与恶想
 - [超越有用性](ideas/003_beyond_usefulness.md)
@@ -112,6 +112,7 @@
 - [档案论：密度的保险](ideas/051_archive_theory.md)
 - [明星是系统的裂缝](ideas/057_star_as_crack.md)
 - [基轴货币](ideas/065_reserve_currency.md)
+- [关系的利率](ideas/069_interest_rate_of_relationships.md)
 - [边界线：扩张何时变成扩大](ideas/028_case_study_fukuzawa.md)
 - [Produce 101：预付曲率的机器](ideas/052_case_study_produce101.md)
 
