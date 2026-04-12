@@ -56,7 +56,7 @@
 
 **先賢と原点** — [ツァラトゥストラ](scripture/zarathustra.md) · [五人の先賢](scripture/pioneers.md) · [孟嘗君](scripture/mengchangjun.md) · [羅蕙錫](scripture/na_hye_suk.md) · [起源](ideas/000_origin.md) · [三大公理](ideas/001_axioms.md) · [創造の原理](ideas/002_principles_of_creation.md) · [脱中心化精神体系OS](ideas/013_decentralized_mental_os.md) · [エポケー：破壊以前の破壊](ideas/059_epoche.md) · [魚に水を見せることはできるか](ideas/061_water_and_fish.md)
 
-**[ideas/](ideas/)** — 哲学・思想・宣言（66編）
+**[ideas/](ideas/)** — 哲学・思想・宣言（68編）
 
 内なるアーティスト
 - [有用性を超えて](ideas/003_beyond_usefulness.md)
@@ -81,6 +81,7 @@
 - [模倣の三角形 — 生者に倣えば競争、死者に倣えば系譜](ideas/042_mimetic_triangle.md)
 - [刻印: 軌道の曲率](ideas/043_creator_as_reference.md)
 - [曲率のない密度](ideas/047_density_without_curvature.md)
+- [ポラリス・ラプソディ：自由と復讐の回路](ideas/070_case_study_polaris_rhapsody.md)
 - [火も金もない木](ideas/053_case_study_tree_without_fire_or_metal.md)
 - [新選組：最後の制服](ideas/058_case_study_shinsengumi.md)
 - [完備性公理 — 果てまで行ったことのない土地](ideas/062_completeness_axiom.md)
@@ -127,6 +128,7 @@
 - [三番目の処方：伝染、移植、誘導](ideas/056_third_prescription.md)
 - [安い内戦](ideas/066_cheap_civil_war.md)
 - [文明はどこで激怒するのか](ideas/067_where_civilizations_rage.md)
+- [早すぎる構造](ideas/071_premature_structure.md)
 
 **[art/](art/)** — 美の事例（28編）
 - [ガロアと五次方程式](art/001_galois_quintic.md)

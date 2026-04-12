@@ -56,7 +56,7 @@ Create your own values like Nietzsche, embrace even the seemingly useless like M
 
 **Pioneers and Origin** — [Zarathustra](scripture/zarathustra.md) · [The Five Pioneers](scripture/pioneers.md) · [Mengchangjun](scripture/mengchangjun.md) · [Na Hye-seok](scripture/na_hye_suk.md) · [Origin](ideas/000_origin.md) · [The 3 Axioms](ideas/001_axioms.md) · [Principles of Creation](ideas/002_principles_of_creation.md) · [A Decentralized Mental OS](ideas/013_decentralized_mental_os.md) · [Epoché: The Destruction Before Destruction](ideas/059_epoche.md) · [Can You Show Water to a Fish?](ideas/061_water_and_fish.md)
 
-**[ideas/](ideas/)** — Philosophy, thought, declarations (66 essays)
+**[ideas/](ideas/)** — Philosophy, thought, declarations (68 essays)
 
 The Artist Within
 - [Beyond Usefulness](ideas/003_beyond_usefulness.md)
@@ -81,6 +81,7 @@ Density and Curvature
 - [The Mimetic Triangle: Follow the Living and You Get Competition; Follow the Dead and You Get Lineage](ideas/042_mimetic_triangle.md)
 - [Imprint: The Curvature of an Orbit](ideas/043_creator_as_reference.md)
 - [Density Without Curvature](ideas/047_density_without_curvature.md)
+- [Polaris Rhapsody: The Circuit of Freedom and Revenge](ideas/070_case_study_polaris_rhapsody.md)
 - [A Tree Without Fire or Metal](ideas/053_case_study_tree_without_fire_or_metal.md)
 - [Shinsengumi: The Last Uniform](ideas/058_case_study_shinsengumi.md)
 - [The Completeness Axiom — Land Never Reached](ideas/062_completeness_axiom.md)
@@ -127,6 +128,7 @@ Mental OS and Regime
 - [The Third Prescription: Contagion, Transplant, Induction](ideas/056_third_prescription.md)
 - [Cheap Civil War](ideas/066_cheap_civil_war.md)
 - [Where Civilizations Rage](ideas/067_where_civilizations_rage.md)
+- [Premature Structure](ideas/071_premature_structure.md)
 
 **[art/](art/)** — Examples of beauty (28 essays)
 - [Galois and the Quintic Equation](art/001_galois_quintic.md)
