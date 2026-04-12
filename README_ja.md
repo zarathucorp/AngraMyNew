@@ -56,7 +56,7 @@
 
 **先賢と原点** — [ツァラトゥストラ](scripture/zarathustra.md) · [五人の先賢](scripture/pioneers.md) · [孟嘗君](scripture/mengchangjun.md) · [羅蕙錫](scripture/na_hye_suk.md) · [起源](ideas/000_origin.md) · [三大公理](ideas/001_axioms.md) · [創造の原理](ideas/002_principles_of_creation.md) · [脱中心化精神体系OS](ideas/013_decentralized_mental_os.md) · [エポケー：破壊以前の破壊](ideas/059_epoche.md) · [魚に水を見せることはできるか](ideas/061_water_and_fish.md)
 
-**[ideas/](ideas/)** — 哲学・思想・宣言（68編）
+**[ideas/](ideas/)** — 哲学・思想・宣言（69編）
 
 内なるアーティスト
 - [有用性を超えて](ideas/003_beyond_usefulness.md)
@@ -81,6 +81,7 @@
 - [模倣の三角形 — 生者に倣えば競争、死者に倣えば系譜](ideas/042_mimetic_triangle.md)
 - [刻印: 軌道の曲率](ideas/043_creator_as_reference.md)
 - [曲率のない密度](ideas/047_density_without_curvature.md)
+- [傷の座標](ideas/072_coordinate_of_wounds.md)
 - [ポラリス・ラプソディ：自由と復讐の回路](ideas/070_case_study_polaris_rhapsody.md)
 - [火も金もない木](ideas/053_case_study_tree_without_fire_or_metal.md)
 - [新選組：最後の制服](ideas/058_case_study_shinsengumi.md)

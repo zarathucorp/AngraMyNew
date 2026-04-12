@@ -56,7 +56,7 @@
 
 **先贤与原点** — [查拉图斯特拉](scripture/zarathustra.md) · [五位先贤](scripture/pioneers.md) · [孟尝君](scripture/mengchangjun.md) · [罗蕙锡](scripture/na_hye_suk.md) · [起源](ideas/000_origin.md) · [三大公理](ideas/001_axioms.md) · [创造的原理](ideas/002_principles_of_creation.md) · [去中心化精神体系OS](ideas/013_decentralized_mental_os.md) · [悬搁：破坏之前的破坏](ideas/059_epoche.md) · [能否让鱼看见水](ideas/061_water_and_fish.md)
 
-**[ideas/](ideas/)** — 哲学·思想·宣言（68篇）
+**[ideas/](ideas/)** — 哲学·思想·宣言（69篇）
 
 内在的艺术家
 - [超越有用性](ideas/003_beyond_usefulness.md)
@@ -81,6 +81,7 @@
 - [模仿的三角形：追随活人成竞争，追随死者成谱系](ideas/042_mimetic_triangle.md)
 - [刻印: 轨道的曲率](ideas/043_creator_as_reference.md)
 - [没有曲率的密度](ideas/047_density_without_curvature.md)
+- [伤痕的坐标](ideas/072_coordinate_of_wounds.md)
 - [北极星狂想曲：自由与复仇的回路](ideas/070_case_study_polaris_rhapsody.md)
 - [没有火与金的树](ideas/053_case_study_tree_without_fire_or_metal.md)
 - [新选组：最后的制服](ideas/058_case_study_shinsengumi.md)
