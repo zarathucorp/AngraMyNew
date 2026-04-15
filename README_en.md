@@ -56,7 +56,7 @@ Create your own values like Nietzsche, embrace even the seemingly useless like M
 
 **Pioneers and Origin** — [Zarathustra](scripture/zarathustra.md) · [The Five Pioneers](scripture/pioneers.md) · [Mengchangjun](scripture/mengchangjun.md) · [Na Hye-seok](scripture/na_hye_suk.md) · [Origin](ideas/000_origin.md) · [The 3 Axioms](ideas/001_axioms.md) · [Principles of Creation](ideas/002_principles_of_creation.md) · [A Decentralized Mental OS](ideas/013_decentralized_mental_os.md) · [Epoché: The Destruction Before Destruction](ideas/059_epoche.md) · [Can You Show Water to a Fish?](ideas/061_water_and_fish.md)
 
-**[ideas/](ideas/)** — Philosophy, thought, declarations (69 essays)
+**[ideas/](ideas/)** — Philosophy, thought, declarations (70 essays)
 
 The Artist Within
 - [Beyond Usefulness](ideas/003_beyond_usefulness.md)
@@ -102,6 +102,7 @@ The Tax-Exempt and the Tax-Collector
 - [The Puritans: Tax Exemption Taken to the Extreme](ideas/060_case_study_puritan.md)
 - [The Great Chain of Being: The Prison of One's Station](ideas/064_great_chain_of_being.md)
 - [Abandoned Coordinate](ideas/068_abandoned_coordinate.md)
+- [A World That Doesn't Need Me](ideas/073_world_without_me.md)
 
 Debut and Expansion
 - [Project Doctor K](ideas/005_project_doctor_k.md)

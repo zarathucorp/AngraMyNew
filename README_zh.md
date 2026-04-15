@@ -56,7 +56,7 @@
 
 **先贤与原点** — [查拉图斯特拉](scripture/zarathustra.md) · [五位先贤](scripture/pioneers.md) · [孟尝君](scripture/mengchangjun.md) · [罗蕙锡](scripture/na_hye_suk.md) · [起源](ideas/000_origin.md) · [三大公理](ideas/001_axioms.md) · [创造的原理](ideas/002_principles_of_creation.md) · [去中心化精神体系OS](ideas/013_decentralized_mental_os.md) · [悬搁：破坏之前的破坏](ideas/059_epoche.md) · [能否让鱼看见水](ideas/061_water_and_fish.md)
 
-**[ideas/](ideas/)** — 哲学·思想·宣言（69篇）
+**[ideas/](ideas/)** — 哲学·思想·宣言（70篇）
 
 内在的艺术家
 - [超越有用性](ideas/003_beyond_usefulness.md)
@@ -102,6 +102,7 @@
 - [清教徒：免税的极端](ideas/060_case_study_puritan.md)
 - [存在的大锁链 — 本分之牢](ideas/064_great_chain_of_being.md)
 - [被遗弃的坐标](ideas/068_abandoned_coordinate.md)
+- [不需要我的世界](ideas/073_world_without_me.md)
 
 出道与扩展
 - [Project Doctor K](ideas/005_project_doctor_k.md)
