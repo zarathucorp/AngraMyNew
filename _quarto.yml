@@ -7,7 +7,7 @@ project:
 
 book:
   title: "AngraMyNew"
-  subtitle: "v11.4 — 파괴, 창조, 확장 — 의식 문명의 실험 장치"
+  subtitle: "v11.6 — 파괴, 창조, 확장 — 의식 문명의 실험 장치"
   author: "Zarathu"
   date: today
   cover-image: img/차라투패턴_무색.jpg
@@ -107,6 +107,8 @@ book:
         - ideas/066_cheap_civil_war.md
         - ideas/067_where_civilizations_rage.md
         - ideas/071_premature_structure.md
+        - ideas/074_case_study_moon_sun_myung.md
+        - ideas/075_one_person_state.md
     - part: "Art — 아름다움의 사례"
       chapters:
         - art/001_galois_quintic.md
