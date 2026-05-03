@@ -178,6 +178,9 @@ format:
     pdf-engine: xelatex
     toc: true
     toc-depth: 3
+    resource-path:
+      - .
+      - ..
     number-sections: true
     linestretch: 1.6
     colorlinks: true
@@ -218,9 +221,16 @@ format:
     toc-depth: 3
     number-sections: true
     reference-doc: canon/reference.docx
+    resource-path:
+      - .
+      - ..
   epub:
     toc: true
     toc-depth: 3
+    resource-path:
+      - .
+      - ..
+    cover-image: ../img/차라투패턴_무색.jpg
     lang: ko
     css: canon/epub.css
 
