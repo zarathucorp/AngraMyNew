@@ -7,7 +7,7 @@ project:
 
 book:
   title: "AngraMyNew"
-  subtitle: "v11.6 — 파괴, 창조, 확장 — 의식 문명의 실험 장치"
+  subtitle: "v11.7 — 파괴, 창조, 확장 — 의식 문명의 실험 장치"
   author: "Zarathu"
   date: today
   cover-image: img/차라투패턴_무색.jpg
@@ -61,6 +61,7 @@ book:
         - ideas/053_case_study_tree_without_fire_or_metal.md
         - ideas/058_case_study_shinsengumi.md
         - ideas/072_coordinate_of_wounds.md
+        - ideas/078_world_does_not_record_before_threshold.md
         - ideas/062_completeness_axiom.md
     - part: "면세인과 징세인"
       chapters:
@@ -79,6 +80,7 @@ book:
         - ideas/064_great_chain_of_being.md
         - ideas/068_abandoned_coordinate.md
         - ideas/073_world_without_me.md
+        - ideas/076_those_who_need_less_money.md
     - part: "데뷔와 확장"
       chapters:
         - ideas/005_project_doctor_k.md
@@ -109,6 +111,7 @@ book:
         - ideas/071_premature_structure.md
         - ideas/074_case_study_moon_sun_myung.md
         - ideas/075_one_person_state.md
+        - ideas/077_entanglement_as_person.md
     - part: "Art — 아름다움의 사례"
       chapters:
         - art/001_galois_quintic.md

@@ -56,7 +56,7 @@
 
 **先賢と原点** — [ツァラトゥストラ](scripture/zarathustra.md) · [五人の先賢](scripture/pioneers.md) · [孟嘗君](scripture/mengchangjun.md) · [羅蕙錫](scripture/na_hye_suk.md) · [起源](ideas/000_origin.md) · [三大公理](ideas/001_axioms.md) · [創造の原理](ideas/002_principles_of_creation.md) · [脱中心化精神体系OS](ideas/013_decentralized_mental_os.md) · [エポケー：破壊以前の破壊](ideas/059_epoche.md) · [魚に水を見せることはできるか](ideas/061_water_and_fish.md)
 
-**[ideas/](ideas/)** — 哲学・思想・宣言（72編）
+**[ideas/](ideas/)** — 哲学・思想・宣言（75編）
 
 内なるアーティスト
 - [有用性を超えて](ideas/003_beyond_usefulness.md)
@@ -82,6 +82,7 @@
 - [刻印: 軌道の曲率](ideas/043_creator_as_reference.md)
 - [曲率のない密度](ideas/047_density_without_curvature.md)
 - [傷の座標](ideas/072_coordinate_of_wounds.md)
+- [世界は閾値以前を記録しない](ideas/078_world_does_not_record_before_threshold.md)
 - [ポラリス・ラプソディ：自由と復讐の回路](ideas/070_case_study_polaris_rhapsody.md)
 - [火も金もない木](ideas/053_case_study_tree_without_fire_or_metal.md)
 - [新選組：最後の制服](ideas/058_case_study_shinsengumi.md)
@@ -103,6 +104,7 @@
 - [存在の大鎖 — 本分という牢獄](ideas/064_great_chain_of_being.md)
 - [捨てられた座標](ideas/068_abandoned_coordinate.md)
 - [私が要らない世界](ideas/073_world_without_me.md)
+- [お金が要らなくなる者](ideas/076_those_who_need_less_money.md)
 
 デビューと拡張
 - [Project Doctor K](ideas/005_project_doctor_k.md)
@@ -133,6 +135,7 @@
 - [早すぎる構造](ideas/071_premature_structure.md)
 - [文鮮明：メシアという座を発明した男](ideas/074_case_study_moon_sun_myung.md)
 - [すべての人は国家である](ideas/075_one_person_state.md)
+- [もつれとしての人](ideas/077_entanglement_as_person.md)
 
 **[art/](art/)** — 美の事例（28編）
 - [ガロアと五次方程式](art/001_galois_quintic.md)

@@ -56,7 +56,7 @@ Create your own values like Nietzsche, embrace even the seemingly useless like M
 
 **Pioneers and Origin** — [Zarathustra](scripture/zarathustra.md) · [The Five Pioneers](scripture/pioneers.md) · [Mengchangjun](scripture/mengchangjun.md) · [Na Hye-seok](scripture/na_hye_suk.md) · [Origin](ideas/000_origin.md) · [The 3 Axioms](ideas/001_axioms.md) · [Principles of Creation](ideas/002_principles_of_creation.md) · [A Decentralized Mental OS](ideas/013_decentralized_mental_os.md) · [Epoché: The Destruction Before Destruction](ideas/059_epoche.md) · [Can You Show Water to a Fish?](ideas/061_water_and_fish.md)
 
-**[ideas/](ideas/)** — Philosophy, thought, declarations (72 essays)
+**[ideas/](ideas/)** — Philosophy, thought, declarations (75 essays)
 
 The Artist Within
 - [Beyond Usefulness](ideas/003_beyond_usefulness.md)
@@ -82,6 +82,7 @@ Density and Curvature
 - [Imprint: The Curvature of an Orbit](ideas/043_creator_as_reference.md)
 - [Density Without Curvature](ideas/047_density_without_curvature.md)
 - [The Coordinate of Wounds](ideas/072_coordinate_of_wounds.md)
+- [The World Does Not Record What Happens Before the Threshold](ideas/078_world_does_not_record_before_threshold.md)
 - [Polaris Rhapsody: The Circuit of Freedom and Revenge](ideas/070_case_study_polaris_rhapsody.md)
 - [A Tree Without Fire or Metal](ideas/053_case_study_tree_without_fire_or_metal.md)
 - [Shinsengumi: The Last Uniform](ideas/058_case_study_shinsengumi.md)
@@ -103,6 +104,7 @@ The Tax-Exempt and the Tax-Collector
 - [The Great Chain of Being: The Prison of One's Station](ideas/064_great_chain_of_being.md)
 - [Abandoned Coordinate](ideas/068_abandoned_coordinate.md)
 - [A World That Doesn't Need Me](ideas/073_world_without_me.md)
+- [Those Who Need Less Money](ideas/076_those_who_need_less_money.md)
 
 Debut and Expansion
 - [Project Doctor K](ideas/005_project_doctor_k.md)
@@ -133,6 +135,7 @@ Mental OS and Regime
 - [Premature Structure](ideas/071_premature_structure.md)
 - [Moon Sun-myung: The Man Who Invented the Seat of the Messiah](ideas/074_case_study_moon_sun_myung.md)
 - [Everyone Is a State](ideas/075_one_person_state.md)
+- [The Person as Entanglement](ideas/077_entanglement_as_person.md)
 
 **[art/](art/)** — Examples of beauty (28 essays)
 - [Galois and the Quintic Equation](art/001_galois_quintic.md)

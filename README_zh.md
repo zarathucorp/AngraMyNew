@@ -56,7 +56,7 @@
 
 **先贤与原点** — [查拉图斯特拉](scripture/zarathustra.md) · [五位先贤](scripture/pioneers.md) · [孟尝君](scripture/mengchangjun.md) · [罗蕙锡](scripture/na_hye_suk.md) · [起源](ideas/000_origin.md) · [三大公理](ideas/001_axioms.md) · [创造的原理](ideas/002_principles_of_creation.md) · [去中心化精神体系OS](ideas/013_decentralized_mental_os.md) · [悬搁：破坏之前的破坏](ideas/059_epoche.md) · [能否让鱼看见水](ideas/061_water_and_fish.md)
 
-**[ideas/](ideas/)** — 哲学·思想·宣言（72篇）
+**[ideas/](ideas/)** — 哲学·思想·宣言（75篇）
 
 内在的艺术家
 - [超越有用性](ideas/003_beyond_usefulness.md)
@@ -82,6 +82,7 @@
 - [刻印: 轨道的曲率](ideas/043_creator_as_reference.md)
 - [没有曲率的密度](ideas/047_density_without_curvature.md)
 - [伤痕的坐标](ideas/072_coordinate_of_wounds.md)
+- [世界不记录门槛之前](ideas/078_world_does_not_record_before_threshold.md)
 - [北极星狂想曲：自由与复仇的回路](ideas/070_case_study_polaris_rhapsody.md)
 - [没有火与金的树](ideas/053_case_study_tree_without_fire_or_metal.md)
 - [新选组：最后的制服](ideas/058_case_study_shinsengumi.md)
@@ -103,6 +104,7 @@
 - [存在的大锁链 — 本分之牢](ideas/064_great_chain_of_being.md)
 - [被遗弃的坐标](ideas/068_abandoned_coordinate.md)
 - [不需要我的世界](ideas/073_world_without_me.md)
+- [需要更少钱的人](ideas/076_those_who_need_less_money.md)
 
 出道与扩展
 - [Project Doctor K](ideas/005_project_doctor_k.md)
@@ -133,6 +135,7 @@
 - [过早的结构](ideas/071_premature_structure.md)
 - [文鲜明：发明弥赛亚之座的人](ideas/074_case_study_moon_sun_myung.md)
 - [每个人都是国家](ideas/075_one_person_state.md)
+- [作为纠缠的人](ideas/077_entanglement_as_person.md)
 
 **[art/](art/)** — 美的案例（28篇）
 - [伽罗瓦与五次方程](art/001_galois_quintic.md)
