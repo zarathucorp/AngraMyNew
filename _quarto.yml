@@ -230,7 +230,7 @@ format:
     resource-path:
       - .
       - ..
-    cover-image: ../img/차라투패턴_무색.jpg
+    cover-image: img/차라투패턴_무색.jpg
     lang: ko
     css: canon/epub.css
 
