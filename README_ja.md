@@ -146,7 +146,6 @@
 - [見えなければ理解したことにならない](art/006_feynman_diagram.md)
 - [ナーガールジュナの空](art/007_nagarjuna_emptiness.md)
 - [クリムトの接吻](art/008_klimt_kiss.md)
-- [何も語らない音楽](art/009_mozart_pure_beauty.md)
 - [創世記伝 — メビウスの上のアンラ・マイニュ](art/010_war_of_genesis.md)
 - [証明なしに到着した数式](art/011_ramanujan_pi.md)
 - [真理より先に到着する感覚](art/012_dirac_beauty.md)

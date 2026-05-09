@@ -7,7 +7,7 @@ project:
 
 book:
   title: "AngraMyNew"
-  subtitle: "v11.7 — 파괴, 창조, 확장 — 의식 문명의 실험 장치"
+  subtitle: "v11.8 — 파괴, 창조, 확장 — 의식 문명의 실험 장치"
   author: "Zarathu"
   date: today
   cover-image: img/차라투패턴_무색.jpg
@@ -122,7 +122,6 @@ book:
         - art/006_feynman_diagram.md
         - art/007_nagarjuna_emptiness.md
         - art/008_klimt_kiss.md
-        - art/009_mozart_pure_beauty.md
         - art/010_war_of_genesis.md
         - art/011_ramanujan_pi.md
         - art/012_dirac_beauty.md
@@ -174,14 +173,14 @@ format:
     classoption:
       - openany
       - 10pt
-      - oneside
+      - twoside
     pdf-engine: xelatex
     toc: true
     toc-depth: 3
     resource-path:
       - .
       - ..
-    number-sections: true
+    number-sections: false
     linestretch: 1.6
     colorlinks: true
     linkcolor: black
@@ -190,8 +189,8 @@ format:
     geometry:
       - paperwidth=176mm
       - paperheight=248mm
-      - left=22mm
-      - right=22mm
+      - inner=28mm
+      - outer=16mm
       - top=20mm
       - bottom=25mm
       - headsep=8mm
@@ -213,13 +212,14 @@ format:
         \usepackage{fancyhdr}
         \pagestyle{fancy}
         \fancyhf{}
-        \fancyhead[R]{\small\rightmark}
-        \fancyfoot[C]{\thepage}
-        \fancypagestyle{plain}{\fancyhf{}\fancyfoot[C]{\thepage}\renewcommand{\headrulewidth}{0pt}}
+        \fancyhead[LE]{\small\leftmark}
+        \fancyhead[RO]{\small\rightmark}
+        \fancyfoot[LE,RO]{\thepage}
+        \fancypagestyle{plain}{\fancyhf{}\fancyfoot[LE,RO]{\thepage}\renewcommand{\headrulewidth}{0pt}}
   docx:
     toc: true
     toc-depth: 3
-    number-sections: true
+    number-sections: false
     reference-doc: canon/reference.docx
     resource-path:
       - .

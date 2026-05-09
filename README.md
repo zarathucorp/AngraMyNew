@@ -146,7 +146,6 @@
 - [보이지 않으면 이해한 것이 아니다](art/006_feynman_diagram.md)
 - [나가르주나의 공](art/007_nagarjuna_emptiness.md)
 - [클림트의 키스](art/008_klimt_kiss.md)
-- [아무것도 말하지 않는 음악](art/009_mozart_pure_beauty.md)
 - [창세기전: 뫼비우스 위의 앙그라마이뉴](art/010_war_of_genesis.md)
 - [증명 없이 도착한 수식](art/011_ramanujan_pi.md)
 - [진리보다 먼저 도착하는 감각](art/012_dirac_beauty.md)

@@ -146,7 +146,6 @@
 - [看不见就不算理解](art/006_feynman_diagram.md)
 - [龙树的空](art/007_nagarjuna_emptiness.md)
 - [克里姆特之吻](art/008_klimt_kiss.md)
-- [什么都不说的音乐](art/009_mozart_pure_beauty.md)
 - [创世记战：莫比乌斯带上的安格拉·曼纽](art/010_war_of_genesis.md)
 - [无需证明便抵达的公式](art/011_ramanujan_pi.md)
 - [先于真理抵达的感觉](art/012_dirac_beauty.md)

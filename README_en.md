@@ -146,7 +146,6 @@ Mental OS and Regime
 - [If You Can't See It, You Haven't Understood It](art/006_feynman_diagram.md)
 - [Nagarjuna's Emptiness](art/007_nagarjuna_emptiness.md)
 - [Klimt's Kiss](art/008_klimt_kiss.md)
-- [Music That Says Nothing](art/009_mozart_pure_beauty.md)
 - [The War of Genesis: Angra Mainyu on a Mobius Strip](art/010_war_of_genesis.md)
 - [A Formula Arrived Without Proof](art/011_ramanujan_pi.md)
 - [A Sense That Arrives Before Truth](art/012_dirac_beauty.md)

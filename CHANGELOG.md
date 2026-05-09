@@ -1,5 +1,31 @@
 # Changelog
 
+## v11.8 — 모차르트 삭제 + PDF 제본 설정 (2026-05-09)
+
+### PDF 제본용 레이아웃
+- `oneside` → `twoside` — 좌우 페이지 구분(홀수=우측, 짝수=좌측)
+- 좌우 균등 22mm → **inner 28mm / outer 16mm** — 안쪽(제본 쪽) 두껍게, 바깥쪽 타이트. 일반 POD 무선 따닥제본 비율
+- 헤더 양면 분리: 짝수쪽(LE) `\leftmark`(챕터), 홀수쪽(RO) `\rightmark`(섹션)
+- 페이지 번호 가운데 → 바깥쪽(LE,RO). 책 넘길 때 엄지로 보기 좋은 위치
+- `openany` 유지 — 챕터 사이 빈 페이지 안 만듦. ToC 끝의 빈 페이지는 단행본 표준(`\cleardoublepage`가 본문을 우측 페이지에서 시작시키는 관행)
+- `number-sections: false` — 100 넘는 섹션 번호 글자 겹침 방지
+
+### 삭제 (art/ 28편 → 27편)
+
+#### `art/009_mozart_pure_beauty.md` 제거
+- 사유: 음악 자체가 글에 실리지 않는 매체라 "방어할 수 없는 아름다움"의 효력이 글에서 충분히 살지 않음 — 텍스트만으로는 모차르트의 핵심을 전달하기 어렵다는 판단
+- art/ 번호 재정렬은 하지 않음 (009는 빈 번호로 유지, ideas/019·020·035 관행 따름)
+
+### 본문 비유 교체
+- `art/010_war_of_genesis.md` 맺음: "모차르트의 음이 메시지보다 먼저" → "라마누잔의 수식이 증명보다 먼저" — 허구가 이론을 선행한다는 글의 주제와 더 정확히 맞물림
+- `art/011_ramanujan_pi.md` 맺음: "모차르트의 음이 메시지보다 먼저" → "디랙의 아름다움이 진리보다 먼저" — 라마누잔과 디랙은 art/011·012로 인접 배치되어 있어 자연스럽게 호응
+
+### 참조 정리
+- `art/005_hangul_two_states.md`, `art/010_war_of_genesis.md`, `art/015_dostoevsky_polyphony.md` — 관련 문서 링크에서 모차르트 항목 제거
+- `_quarto.yml` — book 챕터 목록에서 제거
+- `README.md` / `README_en.md` / `README_ja.md` / `README_zh.md` — 4개 언어 사례 목록에서 제거
+- `fravashi/001_internal_manual.md` / `002_gpt_prompt.md` / `003_agent_prompt.md` / `004_agent_context_guide.md` — 사례 카탈로그에서 제거
+
 ## v11.7 — 면세 회계 + 양자 비유 3편 (2026-05-03)
 
 ### 추가 (ideas/ 72편 → 75편)
