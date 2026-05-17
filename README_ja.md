@@ -56,7 +56,7 @@
 
 **先賢と原点** — [ツァラトゥストラ](scripture/zarathustra.md) · [五人の先賢](scripture/pioneers.md) · [孟嘗君](scripture/mengchangjun.md) · [羅蕙錫](scripture/na_hye_suk.md) · [起源](ideas/000_origin.md) · [三大公理](ideas/001_axioms.md) · [創造の原理](ideas/002_principles_of_creation.md) · [脱中心化精神体系OS](ideas/013_decentralized_mental_os.md) · [エポケー：破壊以前の破壊](ideas/059_epoche.md) · [魚に水を見せることはできるか](ideas/061_water_and_fish.md)
 
-**[ideas/](ideas/)** — 哲学・思想・宣言（75編）
+**[ideas/](ideas/)** — 哲学・思想・宣言（76編）
 
 内なるアーティスト
 - [有用性を超えて](ideas/003_beyond_usefulness.md)
@@ -83,6 +83,7 @@
 - [曲率のない密度](ideas/047_density_without_curvature.md)
 - [傷の座標](ideas/072_coordinate_of_wounds.md)
 - [世界は閾値以前を記録しない](ideas/078_world_does_not_record_before_threshold.md)
+- [測定は凍結、もつれは更新](ideas/079_measurement_freezes_entanglement_grows.md)
 - [ポラリス・ラプソディ：自由と復讐の回路](ideas/070_case_study_polaris_rhapsody.md)
 - [火も金もない木](ideas/053_case_study_tree_without_fire_or_metal.md)
 - [新選組：最後の制服](ideas/058_case_study_shinsengumi.md)
@@ -137,7 +138,7 @@
 - [すべての人は国家である](ideas/075_one_person_state.md)
 - [もつれとしての人](ideas/077_entanglement_as_person.md)
 
-**[art/](art/)** — 美の事例（28編）
+**[art/](art/)** — 美の事例（27編）
 - [ガロアと五次方程式](art/001_galois_quintic.md)
 - [一般相対性理論](art/002_general_relativity.md)
 - [ひとつの模様がすべてになる](art/003_one_pattern.md)

@@ -56,7 +56,7 @@
 
 **선현과 원점** — [차라투스트라](scripture/zarathustra.md) · [5인의 선현](scripture/pioneers.md) · [맹상군](scripture/mengchangjun.md) · [나혜석](scripture/na_hye_suk.md) · [기원](ideas/000_origin.md) · [3대 공리](ideas/001_axioms.md) · [창조의 원리](ideas/002_principles_of_creation.md) · [탈중앙화 정신체계 OS](ideas/013_decentralized_mental_os.md) · [에포케: 파괴 이전의 파괴](ideas/059_epoche.md) · [물고기에게 물을 보여줄 수 있는가](ideas/061_water_and_fish.md)
 
-**[ideas/](ideas/)** — 철학·사상·선언 (75편)
+**[ideas/](ideas/)** — 철학·사상·선언 (76편)
 
 내면의 예술가
 - [쓸모를 넘어서](ideas/003_beyond_usefulness.md)
@@ -83,6 +83,7 @@
 - [곡률 없는 밀도](ideas/047_density_without_curvature.md)
 - [상처의 좌표](ideas/072_coordinate_of_wounds.md)
 - [세상은 문턱 이전을 기록하지 않는다](ideas/078_world_does_not_record_before_threshold.md)
+- [측정은 동결, 얽힘은 갱신](ideas/079_measurement_freezes_entanglement_grows.md)
 - [폴라리스 랩소디: 자유와 복수의 회로](ideas/070_case_study_polaris_rhapsody.md)
 - [불도 쇠도 없는 나무](ideas/053_case_study_tree_without_fire_or_metal.md)
 - [신센구미: 마지막 제복](ideas/058_case_study_shinsengumi.md)
@@ -137,7 +138,7 @@
 - [모든 사람은 국가다](ideas/075_one_person_state.md)
 - [얽힘으로서의 사람](ideas/077_entanglement_as_person.md)
 
-**[art/](art/)** — 아름다움의 사례 (28편)
+**[art/](art/)** — 아름다움의 사례 (27편)
 - [갈루아와 5차방정식](art/001_galois_quintic.md)
 - [일반상대성이론](art/002_general_relativity.md)
 - [하나의 무늬가 전부가 되다](art/003_one_pattern.md)

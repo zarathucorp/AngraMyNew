@@ -108,4 +108,5 @@
 - [스카우터론: 증명할 수 없는 보증](050_scout_theory.md) — 측정 이전의 밀도를 보는 자
 - [아카이브론: 세상이 오기 전에 남기는 자](051_archive_theory.md) — 측정 실패 이후에도 증거를 남기는 자
 - [부자, 면세인, 그리고 징세인](014_economics_of_beauty.md) — 측정값으로 자기를 판정하지 않는 자
+- [측정은 동결, 얽힘은 갱신](079_measurement_freezes_entanglement_grows.md) — 측정되지 못한 자가 다른 회로에서 측정되는 자리: 죽음 이후
 - [3대 공리](001_axioms.md)

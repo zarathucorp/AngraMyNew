@@ -67,3 +67,4 @@
 - [후원자론](029_on_patronage.md)
 - [매춘의 위상학](033_topology_of_prostitution.md)
 - [절단 프로토콜](../protocols/003_severance_protocol.md)
+- [측정은 동결, 얽힘은 갱신](079_measurement_freezes_entanglement_grows.md) — 같은 죽음의 둘째 장부: 사망일에 닫히지 않는 회계

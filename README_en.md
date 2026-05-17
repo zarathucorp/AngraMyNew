@@ -56,7 +56,7 @@ Create your own values like Nietzsche, embrace even the seemingly useless like M
 
 **Pioneers and Origin** — [Zarathustra](scripture/zarathustra.md) · [The Five Pioneers](scripture/pioneers.md) · [Mengchangjun](scripture/mengchangjun.md) · [Na Hye-seok](scripture/na_hye_suk.md) · [Origin](ideas/000_origin.md) · [The 3 Axioms](ideas/001_axioms.md) · [Principles of Creation](ideas/002_principles_of_creation.md) · [A Decentralized Mental OS](ideas/013_decentralized_mental_os.md) · [Epoché: The Destruction Before Destruction](ideas/059_epoche.md) · [Can You Show Water to a Fish?](ideas/061_water_and_fish.md)
 
-**[ideas/](ideas/)** — Philosophy, thought, declarations (75 essays)
+**[ideas/](ideas/)** — Philosophy, thought, declarations (76 essays)
 
 The Artist Within
 - [Beyond Usefulness](ideas/003_beyond_usefulness.md)
@@ -83,6 +83,7 @@ Density and Curvature
 - [Density Without Curvature](ideas/047_density_without_curvature.md)
 - [The Coordinate of Wounds](ideas/072_coordinate_of_wounds.md)
 - [The World Does Not Record What Happens Before the Threshold](ideas/078_world_does_not_record_before_threshold.md)
+- [Measurement Freezes, Entanglement Grows](ideas/079_measurement_freezes_entanglement_grows.md)
 - [Polaris Rhapsody: The Circuit of Freedom and Revenge](ideas/070_case_study_polaris_rhapsody.md)
 - [A Tree Without Fire or Metal](ideas/053_case_study_tree_without_fire_or_metal.md)
 - [Shinsengumi: The Last Uniform](ideas/058_case_study_shinsengumi.md)
@@ -137,7 +138,7 @@ Mental OS and Regime
 - [Everyone Is a State](ideas/075_one_person_state.md)
 - [The Person as Entanglement](ideas/077_entanglement_as_person.md)
 
-**[art/](art/)** — Examples of beauty (28 essays)
+**[art/](art/)** — Examples of beauty (27 essays)
 - [Galois and the Quintic Equation](art/001_galois_quintic.md)
 - [General Relativity](art/002_general_relativity.md)
 - [When One Pattern Becomes Everything](art/003_one_pattern.md)

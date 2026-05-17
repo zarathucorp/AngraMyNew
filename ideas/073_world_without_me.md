@@ -40,3 +40,4 @@
 - [면세인의 소비](025_consumption_of_exempt.md) — 면세인이 에너지를 쓰는 방식
 - [완비성 공리: 끝까지 가본 적 없는 땅](062_completeness_axiom.md) — 끝까지 가보겠다는 선언
 - [기원](000_origin.md) — 이 프로젝트가 시작된 이유
+- [측정은 동결, 얽힘은 갱신](079_measurement_freezes_entanglement_grows.md) — 1인칭의 안도 너머, 남겨진 자의 좌표계에서 본 죽음

@@ -63,3 +63,4 @@
 - [기축통화](065_reserve_currency.md) — 단위를 받아 쓴다는 것의 얽힘
 - [고장 난 센서](044_broken_sensor.md) — 자기가 누구와 얽혀 있는지를 못 보는 자리
 - [관계의 금리](069_interest_rate_of_relationships.md) — 얽힘이 발생하는 비용
+- [측정은 동결, 얽힘은 갱신](079_measurement_freezes_entanglement_grows.md) — 죽음 이후에도 얽힘이 작동하는 자리
