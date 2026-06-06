@@ -56,7 +56,7 @@ Create your own values like Nietzsche, embrace even the seemingly useless like M
 
 **Pioneers and Origin** — [Zarathustra](scripture/zarathustra.md) · [The Five Pioneers](scripture/pioneers.md) · [Mengchangjun](scripture/mengchangjun.md) · [Na Hye-seok](scripture/na_hye_suk.md) · [Origin](ideas/000_origin.md) · [The 3 Axioms](ideas/001_axioms.md) · [Principles of Creation](ideas/002_principles_of_creation.md) · [A Decentralized Mental OS](ideas/013_decentralized_mental_os.md) · [Epoché: The Destruction Before Destruction](ideas/059_epoche.md) · [Can You Show Water to a Fish?](ideas/061_water_and_fish.md)
 
-**[ideas/](ideas/)** — Philosophy, thought, declarations (76 essays)
+**[ideas/](ideas/)** — Philosophy, thought, declarations (79 essays)
 
 The Artist Within
 - [Beyond Usefulness](ideas/003_beyond_usefulness.md)
@@ -137,8 +137,11 @@ Mental OS and Regime
 - [Moon Sun-myung: The Man Who Invented the Seat of the Messiah](ideas/074_case_study_moon_sun_myung.md)
 - [Everyone Is a State](ideas/075_one_person_state.md)
 - [The Person as Entanglement](ideas/077_entanglement_as_person.md)
+- [The Sky Is Not Outside](ideas/080_sky_is_not_outside.md)
+- [Doctrine Without Doctrine](ideas/081_doctrine_without_doctrine.md)
+- [Techno-Shaman: Between Amplification and Replacement](ideas/082_techno_shaman.md)
 
-**[art/](art/)** — Examples of beauty (27 essays)
+**[art/](art/)** — Examples of beauty (28 essays)
 - [Galois and the Quintic Equation](art/001_galois_quintic.md)
 - [General Relativity](art/002_general_relativity.md)
 - [When One Pattern Becomes Everything](art/003_one_pattern.md)
@@ -166,6 +169,7 @@ Mental OS and Regime
 - [What Grows Clearer as It Is Erased](art/026_renormalization_group.md)
 - [The Heat It Takes to Forget](art/027_landauer_erasure.md)
 - [From Black to Color: Redon's Transformation](art/028_redon_noir_to_color.md)
+- [The Solid Remains on the Plane](art/029_rubiks_cube.md)
 
 **[fravashi/](fravashi/)** — Fravashi Archetype Engine
 

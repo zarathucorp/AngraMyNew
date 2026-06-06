@@ -7,7 +7,7 @@ project:
 
 book:
   title: "AngraMyNew"
-  subtitle: "v11.10 — 파괴, 창조, 확장 — 의식 문명의 실험 장치"
+  subtitle: "v12.0 — 파괴, 창조, 확장 — 의식 문명의 실험 장치"
   author: "Zarathu"
   date: today
   cover-image: img/차라투패턴_무색.jpg
@@ -113,6 +113,9 @@ book:
         - ideas/074_case_study_moon_sun_myung.md
         - ideas/075_one_person_state.md
         - ideas/077_entanglement_as_person.md
+        - ideas/080_sky_is_not_outside.md
+        - ideas/081_doctrine_without_doctrine.md
+        - ideas/082_techno_shaman.md
     - part: "Art — 아름다움의 사례"
       chapters:
         - art/001_galois_quintic.md
@@ -142,6 +145,7 @@ book:
         - art/026_renormalization_group.md
         - art/027_landauer_erasure.md
         - art/028_redon_noir_to_color.md
+        - art/029_rubiks_cube.md
     - part: "Protocols — 실행 프로토콜"
       chapters:
         - protocols/001_creator_operating_protocol.md
