@@ -22,7 +22,7 @@
 
 ### 拡張の公理 — デビュー
 
-自らの'My'を完成させたなら、他者の'My'をデビューさせる。孟嘗君の食客三千は役に立つから選ばれたのではない。鶏鳴狗盗が結局主人を救った。
+自らの'My'を完成させたなら、他者の'My'をデビューさせる。孟嘗君はまだ何の役に立つか分からない才能にも審査せず席を与えた。拡張の果ては、自分が必要とされ続ける世界ではなく、他者が自らの天下を持つ世界である。
 
 ## 象徴
 
@@ -40,7 +40,7 @@
 
 ## 先賢
 
-ニーチェのように自ら価値を創造し、孟嘗君のように無用に見える者も包容し、五人の先賢のように自分の場所で死ぬ。
+ニーチェのように自ら価値を創造し、孟嘗君のように役に立つと翻訳される前の才能も切り捨てず、五人の先賢のように自分の場所で死ぬ。
 
 - 金玉均 — 時代を先駆けた革命家、上海で暗殺される
 - 馬光洙 — 禁忌を破った芸術家、「美しくないか」と最後まで叫ぶ
@@ -56,7 +56,7 @@
 
 **先賢と原点** — [ツァラトゥストラ](scripture/zarathustra.md) · [五人の先賢](scripture/pioneers.md) · [孟嘗君](scripture/mengchangjun.md) · [羅蕙錫](scripture/na_hye_suk.md) · [起源](ideas/000_origin.md) · [三大公理](ideas/001_axioms.md) · [創造の原理](ideas/002_principles_of_creation.md) · [脱中心化精神体系OS](ideas/013_decentralized_mental_os.md) · [エポケー：破壊以前の破壊](ideas/059_epoche.md) · [魚に水を見せることはできるか](ideas/061_water_and_fish.md)
 
-**[ideas/](ideas/)** — 哲学・思想・宣言（79編）
+**[ideas/](ideas/)** — 哲学・思想・宣言（80編）
 
 内なるアーティスト
 - [有用性を超えて](ideas/003_beyond_usefulness.md)
@@ -120,6 +120,7 @@
 - [スターはシステムの亀裂である](ideas/057_star_as_crack.md)
 - [基軸通貨](ideas/065_reserve_currency.md)
 - [関係の金利](ideas/069_interest_rate_of_relationships.md)
+- [不要になることの二つの顔](ideas/083_two_faces_of_obsolescence.md)
 
 精神OSと体制
 - [美学国家論](ideas/006_aesthetic_nation.md)

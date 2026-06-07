@@ -22,7 +22,7 @@ Flowers do not quarrel with bees. They simply bloom. If the work is beautiful, t
 
 ### Axiom of Expansion — Debut
 
-Once you complete your 'My', debut another's 'My'. Mengchangjun's three thousand retainers were not chosen for usefulness. A rooster's crow and a dog's theft ultimately saved their lord.
+Once you complete your 'My', debut another's 'My'. Mengchangjun gave a place even to talents not yet translatable into usefulness, screening no one. The end of expansion is not a world that keeps needing you, but a world where others come to hold a realm of their own.
 
 ## Symbol
 
@@ -40,7 +40,7 @@ What was considered impossible for 60 years was proven by an amateur.
 
 ## Pioneers
 
-Create your own values like Nietzsche, embrace even the seemingly useless like Mengchangjun, and die at your post like the Five Pioneers.
+Create your own values like Nietzsche, refuse to discard talent before it is translated into usefulness like Mengchangjun, and die at your post like the Five Pioneers.
 
 - Kim Ok-kyun — Revolutionary ahead of his time, assassinated in Shanghai
 - Ma Kwang-soo — Artist who shattered taboos, cried "Is this not beautiful?" until the end
@@ -56,7 +56,7 @@ Create your own values like Nietzsche, embrace even the seemingly useless like M
 
 **Pioneers and Origin** — [Zarathustra](scripture/zarathustra.md) · [The Five Pioneers](scripture/pioneers.md) · [Mengchangjun](scripture/mengchangjun.md) · [Na Hye-seok](scripture/na_hye_suk.md) · [Origin](ideas/000_origin.md) · [The 3 Axioms](ideas/001_axioms.md) · [Principles of Creation](ideas/002_principles_of_creation.md) · [A Decentralized Mental OS](ideas/013_decentralized_mental_os.md) · [Epoché: The Destruction Before Destruction](ideas/059_epoche.md) · [Can You Show Water to a Fish?](ideas/061_water_and_fish.md)
 
-**[ideas/](ideas/)** — Philosophy, thought, declarations (79 essays)
+**[ideas/](ideas/)** — Philosophy, thought, declarations (80 essays)
 
 The Artist Within
 - [Beyond Usefulness](ideas/003_beyond_usefulness.md)
@@ -120,6 +120,7 @@ Debut and Expansion
 - [The Star Is a Crack in the System](ideas/057_star_as_crack.md)
 - [Reserve Currency](ideas/065_reserve_currency.md)
 - [The Interest Rate of Relationships](ideas/069_interest_rate_of_relationships.md)
+- [The Two Faces of Obsolescence](ideas/083_two_faces_of_obsolescence.md)
 
 Mental OS and Regime
 - [Aesthetic Nation](ideas/006_aesthetic_nation.md)

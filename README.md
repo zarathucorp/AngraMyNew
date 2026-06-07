@@ -22,7 +22,7 @@
 
 ### 확장의 공리 — 데뷔
 
-나의 'My'를 완성했다면, 타인의 'My'를 데뷔시킨다. 맹상군의 문객 삼천은 쓸모로 뽑힌 자들이 아니었다. 닭 울음 흉내와 개 도둑질이 결국 주인을 살렸다.
+나의 'My'를 완성했다면, 타인의 'My'를 데뷔시킨다. 맹상군은 아직 어디에 쓰일지 모르는 재능도 심사하지 않고 자리를 내주었다. 확장의 끝은 내가 계속 필요한 세계가 아니라, 타인이 자기 천하를 갖는 세계다.
 
 ## 상징
 
@@ -40,7 +40,7 @@
 
 ## 선현
 
-니체처럼 스스로 가치를 창조하고, 맹상군처럼 쓸모없어 보이는 자도 품고, 5인의 선현처럼 자기 자리에서 죽는다.
+니체처럼 스스로 가치를 창조하고, 맹상군처럼 쓸모로 번역되기 전의 재능도 내치지 않고, 5인의 선현처럼 자기 자리에서 죽는다.
 
 - 김옥균 — 시대를 앞서간 혁명가, 상하이에서 암살당하다
 - 마광수 — 금기를 파괴한 예술가, "아름답지 않느냐"를 끝까지 외치다
@@ -56,7 +56,7 @@
 
 **선현과 원점** — [차라투스트라](scripture/zarathustra.md) · [5인의 선현](scripture/pioneers.md) · [맹상군](scripture/mengchangjun.md) · [나혜석](scripture/na_hye_suk.md) · [기원](ideas/000_origin.md) · [3대 공리](ideas/001_axioms.md) · [창조의 원리](ideas/002_principles_of_creation.md) · [탈중앙화 정신체계 OS](ideas/013_decentralized_mental_os.md) · [에포케: 파괴 이전의 파괴](ideas/059_epoche.md) · [물고기에게 물을 보여줄 수 있는가](ideas/061_water_and_fish.md)
 
-**[ideas/](ideas/)** — 철학·사상·선언 (79편)
+**[ideas/](ideas/)** — 철학·사상·선언 (80편)
 
 내면의 예술가
 - [쓸모를 넘어서](ideas/003_beyond_usefulness.md)
@@ -120,6 +120,7 @@
 - [스타는 시스템의 균열이다](ideas/057_star_as_crack.md)
 - [기축통화](ideas/065_reserve_currency.md)
 - [관계의 금리](ideas/069_interest_rate_of_relationships.md)
+- [필요 없음의 두 얼굴](ideas/083_two_faces_of_obsolescence.md)
 
 정신 OS와 체제
 - [미학 국가론](ideas/006_aesthetic_nation.md)
