@@ -17,6 +17,8 @@ book:
   repo-branch: master
   repo-actions: [source]
   downloads: [pdf, epub, docx]
+  google-analytics: "G-ET9N91QJZ5"
+  cookie-consent: true
   sidebar:
     collapse-level: 1
   chapters:
