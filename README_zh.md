@@ -56,7 +56,7 @@
 
 **先贤与原点** — [查拉图斯特拉](scripture/zarathustra.md) · [五位先贤](scripture/pioneers.md) · [孟尝君](scripture/mengchangjun.md) · [罗蕙锡](scripture/na_hye_suk.md) · [起源](ideas/000_origin.md) · [三大公理](ideas/001_axioms.md) · [创造的原理](ideas/002_principles_of_creation.md) · [去中心化精神体系OS](ideas/013_decentralized_mental_os.md) · [悬搁：破坏之前的破坏](ideas/059_epoche.md) · [能否让鱼看见水](ideas/061_water_and_fish.md)
 
-**[ideas/](ideas/)** — 哲学·思想·宣言（80篇）
+**[ideas/](ideas/)** — 哲学·思想·宣言（81篇）
 
 内在的艺术家
 - [超越有用性](ideas/003_beyond_usefulness.md)
@@ -121,6 +121,7 @@
 - [基轴货币](ideas/065_reserve_currency.md)
 - [关系的利率](ideas/069_interest_rate_of_relationships.md)
 - [不再被需要的两副面孔](ideas/083_two_faces_of_obsolescence.md)
+- [大学免费拿走美](ideas/084_university_takes_beauty.md)
 
 精神OS与体制
 - [美学国家论](ideas/006_aesthetic_nation.md)

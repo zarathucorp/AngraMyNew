@@ -56,7 +56,7 @@
 
 **선현과 원점** — [차라투스트라](scripture/zarathustra.md) · [5인의 선현](scripture/pioneers.md) · [맹상군](scripture/mengchangjun.md) · [나혜석](scripture/na_hye_suk.md) · [기원](ideas/000_origin.md) · [3대 공리](ideas/001_axioms.md) · [창조의 원리](ideas/002_principles_of_creation.md) · [탈중앙화 정신체계 OS](ideas/013_decentralized_mental_os.md) · [에포케: 파괴 이전의 파괴](ideas/059_epoche.md) · [물고기에게 물을 보여줄 수 있는가](ideas/061_water_and_fish.md)
 
-**[ideas/](ideas/)** — 철학·사상·선언 (80편)
+**[ideas/](ideas/)** — 철학·사상·선언 (81편)
 
 내면의 예술가
 - [쓸모를 넘어서](ideas/003_beyond_usefulness.md)
@@ -121,6 +121,7 @@
 - [기축통화](ideas/065_reserve_currency.md)
 - [관계의 금리](ideas/069_interest_rate_of_relationships.md)
 - [필요 없음의 두 얼굴](ideas/083_two_faces_of_obsolescence.md)
+- [대학은 미를 공짜로 가져간다](ideas/084_university_takes_beauty.md)
 
 정신 OS와 체제
 - [미학 국가론](ideas/006_aesthetic_nation.md)

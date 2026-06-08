@@ -56,7 +56,7 @@
 
 **先賢と原点** — [ツァラトゥストラ](scripture/zarathustra.md) · [五人の先賢](scripture/pioneers.md) · [孟嘗君](scripture/mengchangjun.md) · [羅蕙錫](scripture/na_hye_suk.md) · [起源](ideas/000_origin.md) · [三大公理](ideas/001_axioms.md) · [創造の原理](ideas/002_principles_of_creation.md) · [脱中心化精神体系OS](ideas/013_decentralized_mental_os.md) · [エポケー：破壊以前の破壊](ideas/059_epoche.md) · [魚に水を見せることはできるか](ideas/061_water_and_fish.md)
 
-**[ideas/](ideas/)** — 哲学・思想・宣言（80編）
+**[ideas/](ideas/)** — 哲学・思想・宣言（81編）
 
 内なるアーティスト
 - [有用性を超えて](ideas/003_beyond_usefulness.md)
@@ -121,6 +121,7 @@
 - [基軸通貨](ideas/065_reserve_currency.md)
 - [関係の金利](ideas/069_interest_rate_of_relationships.md)
 - [不要になることの二つの顔](ideas/083_two_faces_of_obsolescence.md)
+- [大学は美を無償で持っていく](ideas/084_university_takes_beauty.md)
 
 精神OSと体制
 - [美学国家論](ideas/006_aesthetic_nation.md)

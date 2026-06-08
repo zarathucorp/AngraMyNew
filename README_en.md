@@ -56,7 +56,7 @@ Create your own values like Nietzsche, refuse to discard talent before it is tra
 
 **Pioneers and Origin** — [Zarathustra](scripture/zarathustra.md) · [The Five Pioneers](scripture/pioneers.md) · [Mengchangjun](scripture/mengchangjun.md) · [Na Hye-seok](scripture/na_hye_suk.md) · [Origin](ideas/000_origin.md) · [The 3 Axioms](ideas/001_axioms.md) · [Principles of Creation](ideas/002_principles_of_creation.md) · [A Decentralized Mental OS](ideas/013_decentralized_mental_os.md) · [Epoché: The Destruction Before Destruction](ideas/059_epoche.md) · [Can You Show Water to a Fish?](ideas/061_water_and_fish.md)
 
-**[ideas/](ideas/)** — Philosophy, thought, declarations (80 essays)
+**[ideas/](ideas/)** — Philosophy, thought, declarations (81 essays)
 
 The Artist Within
 - [Beyond Usefulness](ideas/003_beyond_usefulness.md)
@@ -121,6 +121,7 @@ Debut and Expansion
 - [Reserve Currency](ideas/065_reserve_currency.md)
 - [The Interest Rate of Relationships](ideas/069_interest_rate_of_relationships.md)
 - [The Two Faces of Obsolescence](ideas/083_two_faces_of_obsolescence.md)
+- [The University Takes Beauty for Free](ideas/084_university_takes_beauty.md)
 
 Mental OS and Regime
 - [Aesthetic Nation](ideas/006_aesthetic_nation.md)
