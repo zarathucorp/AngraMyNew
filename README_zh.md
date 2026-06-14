@@ -143,7 +143,7 @@
 - [没有教义的教义](ideas/081_doctrine_without_doctrine.md)
 - [技术萨满：在放大与替代之间](ideas/082_techno_shaman.md)
 
-**[art/](art/)** — 美的案例（28篇）
+**[art/](art/)** — 美的案例（27篇）
 - [伽罗瓦与五次方程](art/001_galois_quintic.md)
 - [广义相对论](art/002_general_relativity.md)
 - [一个图样成为全部](art/003_one_pattern.md)
@@ -163,7 +163,6 @@
 - [看不见的因子](art/018_gaussian_integer.md)
 - [不数而数](art/019_generating_function.md)
 - [最简单的数最为无理](art/020_continued_fraction.md)
-- [不需要灵感的证明](art/021_coordinate_guarantee.md)
 - [接近并非只有一种](art/022_p_adic_distance.md)
 - [无需构造的存在](art/023_probabilistic_method.md)
 - [在不存在之处建起几何](art/024_hodge_combinatorics.md)

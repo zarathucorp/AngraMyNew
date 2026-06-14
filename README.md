@@ -143,7 +143,7 @@
 - [교리 없는 교리](ideas/081_doctrine_without_doctrine.md)
 - [테크노 샤먼: 증폭과 대체 사이](ideas/082_techno_shaman.md)
 
-**[art/](art/)** — 아름다움의 사례 (28편)
+**[art/](art/)** — 아름다움의 사례 (27편)
 - [갈루아와 5차방정식](art/001_galois_quintic.md)
 - [일반상대성이론](art/002_general_relativity.md)
 - [하나의 무늬가 전부가 되다](art/003_one_pattern.md)
@@ -163,7 +163,6 @@
 - [보이지 않던 인수](art/018_gaussian_integer.md)
 - [세지 않고 센다](art/019_generating_function.md)
 - [가장 단순한 수가 가장 무리하다](art/020_continued_fraction.md)
-- [영감이 필요 없는 증명](art/021_coordinate_guarantee.md)
 - [가까움은 하나가 아니다](art/022_p_adic_distance.md)
 - [구성 없는 존재](art/023_probabilistic_method.md)
 - [없는 기하학을 지었다](art/024_hodge_combinatorics.md)

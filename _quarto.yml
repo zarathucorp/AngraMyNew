@@ -7,7 +7,7 @@ project:
 
 book:
   title: "AngraMyNew"
-  subtitle: "v12.2 — 파괴, 창조, 확장 — 의식 문명의 실험 장치"
+  subtitle: "v12.3 — 파괴, 창조, 확장 — 의식 문명의 실험 장치"
   author: "Zarathu"
   date: today
   cover-image: img/차라투패턴_무색.jpg
@@ -141,7 +141,6 @@ book:
         - art/018_gaussian_integer.md
         - art/019_generating_function.md
         - art/020_continued_fraction.md
-        - art/021_coordinate_guarantee.md
         - art/022_p_adic_distance.md
         - art/023_probabilistic_method.md
         - art/024_hodge_combinatorics.md

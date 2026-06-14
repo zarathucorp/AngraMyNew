@@ -54,4 +54,3 @@
 - [내면의 예술가](004_artist_within.md)
 - [포식자의 의무](010_predators_duty.md)
 - [계보로서의 창조](011_lineage_as_creation.md)
-- [영감이 필요 없는 증명](../art/021_coordinate_guarantee.md)

@@ -143,7 +143,7 @@
 - [教義なき教義](ideas/081_doctrine_without_doctrine.md)
 - [テクノ・シャーマン：増幅と代替のあいだ](ideas/082_techno_shaman.md)
 
-**[art/](art/)** — 美の事例（28編）
+**[art/](art/)** — 美の事例（27編）
 - [ガロアと五次方程式](art/001_galois_quintic.md)
 - [一般相対性理論](art/002_general_relativity.md)
 - [ひとつの模様がすべてになる](art/003_one_pattern.md)
@@ -163,7 +163,6 @@
 - [見えなかった因数](art/018_gaussian_integer.md)
 - [数えずに数える](art/019_generating_function.md)
 - [最も単純な数が最も無理をする](art/020_continued_fraction.md)
-- [ひらめきのいらない証明](art/021_coordinate_guarantee.md)
 - [近さはひとつではない](art/022_p_adic_distance.md)
 - [構成なき存在](art/023_probabilistic_method.md)
 - [ない幾何学を建てた](art/024_hodge_combinatorics.md)

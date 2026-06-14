@@ -143,7 +143,7 @@ Mental OS and Regime
 - [Doctrine Without Doctrine](ideas/081_doctrine_without_doctrine.md)
 - [Techno-Shaman: Between Amplification and Replacement](ideas/082_techno_shaman.md)
 
-**[art/](art/)** — Examples of beauty (28 essays)
+**[art/](art/)** — Examples of beauty (27 essays)
 - [Galois and the Quintic Equation](art/001_galois_quintic.md)
 - [General Relativity](art/002_general_relativity.md)
 - [When One Pattern Becomes Everything](art/003_one_pattern.md)
@@ -163,7 +163,6 @@ Mental OS and Regime
 - [The Factor You Couldn't See](art/018_gaussian_integer.md)
 - [Counting Without Counting](art/019_generating_function.md)
 - [The Simplest Number Is the Most Irrational](art/020_continued_fraction.md)
-- [Proof Without Inspiration](art/021_coordinate_guarantee.md)
 - [Nearness Is Not One Thing](art/022_p_adic_distance.md)
 - [Existence Without Construction](art/023_probabilistic_method.md)
 - [Geometry Built Where None Existed](art/024_hodge_combinatorics.md)

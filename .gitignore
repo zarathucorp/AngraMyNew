@@ -8,5 +8,6 @@ _book/
 
 /.quarto/
 todo.md
+drafts/
 
 **/*.quarto_ipynb
