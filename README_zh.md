@@ -56,7 +56,7 @@
 
 **先贤与原点** — [查拉图斯特拉](scripture/zarathustra.md) · [五位先贤](scripture/pioneers.md) · [孟尝君](scripture/mengchangjun.md) · [罗蕙锡](scripture/na_hye_suk.md) · [起源](ideas/000_origin.md) · [三大公理](ideas/001_axioms.md) · [创造的原理](ideas/002_principles_of_creation.md) · [去中心化精神体系OS](ideas/013_decentralized_mental_os.md) · [悬搁：破坏之前的破坏](ideas/059_epoche.md) · [能否让鱼看见水](ideas/061_water_and_fish.md)
 
-**[ideas/](ideas/)** — 哲学·思想·宣言（82篇）
+**[ideas/](ideas/)** — 哲学·思想·宣言（83篇）
 
 内在的艺术家
 - [超越有用性](ideas/003_beyond_usefulness.md)
@@ -139,6 +139,7 @@
 - [过早的结构](ideas/071_premature_structure.md)
 - [文鲜明：发明弥赛亚之座的人](ideas/074_case_study_moon_sun_myung.md)
 - [每个人都是国家](ideas/075_one_person_state.md)
+- [等级制消失了，仪表盘来了](ideas/086_caste_to_dashboard.md)
 - [作为纠缠的人](ideas/077_entanglement_as_person.md)
 - [天空不在外面](ideas/080_sky_is_not_outside.md)
 - [没有教义的教义](ideas/081_doctrine_without_doctrine.md)

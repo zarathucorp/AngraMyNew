@@ -56,7 +56,7 @@
 
 **先賢と原点** — [ツァラトゥストラ](scripture/zarathustra.md) · [五人の先賢](scripture/pioneers.md) · [孟嘗君](scripture/mengchangjun.md) · [羅蕙錫](scripture/na_hye_suk.md) · [起源](ideas/000_origin.md) · [三大公理](ideas/001_axioms.md) · [創造の原理](ideas/002_principles_of_creation.md) · [脱中心化精神体系OS](ideas/013_decentralized_mental_os.md) · [エポケー：破壊以前の破壊](ideas/059_epoche.md) · [魚に水を見せることはできるか](ideas/061_water_and_fish.md)
 
-**[ideas/](ideas/)** — 哲学・思想・宣言（82編）
+**[ideas/](ideas/)** — 哲学・思想・宣言（83編）
 
 内なるアーティスト
 - [有用性を超えて](ideas/003_beyond_usefulness.md)
@@ -139,6 +139,7 @@
 - [早すぎる構造](ideas/071_premature_structure.md)
 - [文鮮明：メシアという座を発明した男](ideas/074_case_study_moon_sun_myung.md)
 - [すべての人は国家である](ideas/075_one_person_state.md)
+- [身分制は消え、計器盤が来た](ideas/086_caste_to_dashboard.md)
 - [もつれとしての人](ideas/077_entanglement_as_person.md)
 - [空は外にない](ideas/080_sky_is_not_outside.md)
 - [教義なき教義](ideas/081_doctrine_without_doctrine.md)
