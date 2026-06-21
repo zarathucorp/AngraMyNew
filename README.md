@@ -56,11 +56,12 @@
 
 **선현과 원점** — [차라투스트라](scripture/zarathustra.md) · [5인의 선현](scripture/pioneers.md) · [맹상군](scripture/mengchangjun.md) · [나혜석](scripture/na_hye_suk.md) · [기원](ideas/000_origin.md) · [3대 공리](ideas/001_axioms.md) · [창조의 원리](ideas/002_principles_of_creation.md) · [탈중앙화 정신체계 OS](ideas/013_decentralized_mental_os.md) · [에포케: 파괴 이전의 파괴](ideas/059_epoche.md) · [물고기에게 물을 보여줄 수 있는가](ideas/061_water_and_fish.md)
 
-**[ideas/](ideas/)** — 철학·사상·선언 (81편)
+**[ideas/](ideas/)** — 철학·사상·선언 (82편)
 
 내면의 예술가
 - [쓸모를 넘어서](ideas/003_beyond_usefulness.md)
 - [내면의 예술가](ideas/004_artist_within.md)
+- [아티스트에게 커리어란 없다, 서사만 있을 뿐](ideas/085_no_career_only_narrative.md)
 - [미완의 정리](ideas/007_case_study_unfinished_theorem.md)
 - [투쟁과 유혹](ideas/008_seduction_of_creation.md)
 - [정의에 대한 분노](ideas/009_rage_against_definition.md)

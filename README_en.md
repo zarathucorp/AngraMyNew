@@ -56,11 +56,12 @@ Create your own values like Nietzsche, refuse to discard talent before it is tra
 
 **Pioneers and Origin** — [Zarathustra](scripture/zarathustra.md) · [The Five Pioneers](scripture/pioneers.md) · [Mengchangjun](scripture/mengchangjun.md) · [Na Hye-seok](scripture/na_hye_suk.md) · [Origin](ideas/000_origin.md) · [The 3 Axioms](ideas/001_axioms.md) · [Principles of Creation](ideas/002_principles_of_creation.md) · [A Decentralized Mental OS](ideas/013_decentralized_mental_os.md) · [Epoché: The Destruction Before Destruction](ideas/059_epoche.md) · [Can You Show Water to a Fish?](ideas/061_water_and_fish.md)
 
-**[ideas/](ideas/)** — Philosophy, thought, declarations (81 essays)
+**[ideas/](ideas/)** — Philosophy, thought, declarations (82 essays)
 
 The Artist Within
 - [Beyond Usefulness](ideas/003_beyond_usefulness.md)
 - [The Artist Within](ideas/004_artist_within.md)
+- [An Artist Has No Career, Only a Narrative](ideas/085_no_career_only_narrative.md)
 - [The Unfinished Theorem](ideas/007_case_study_unfinished_theorem.md)
 - [Struggle and Seduction](ideas/008_seduction_of_creation.md)
 - [Rage Against Definition](ideas/009_rage_against_definition.md)
