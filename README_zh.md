@@ -56,7 +56,7 @@
 
 **先贤与原点** — [查拉图斯特拉](scripture/zarathustra.md) · [五位先贤](scripture/pioneers.md) · [孟尝君](scripture/mengchangjun.md) · [罗蕙锡](scripture/na_hye_suk.md) · [起源](ideas/000_origin.md) · [三大公理](ideas/001_axioms.md) · [创造的原理](ideas/002_principles_of_creation.md) · [去中心化精神体系OS](ideas/013_decentralized_mental_os.md) · [悬搁：破坏之前的破坏](ideas/059_epoche.md) · [能否让鱼看见水](ideas/061_water_and_fish.md)
 
-**[ideas/](ideas/)** — 哲学·思想·宣言（83篇）
+**[ideas/](ideas/)** — 哲学·思想·宣言（85篇）
 
 内在的艺术家
 - [超越有用性](ideas/003_beyond_usefulness.md)
@@ -98,6 +98,7 @@
 - [免税人的消费](ideas/025_consumption_of_exempt.md)
 - [卖春的拓扑学](ideas/033_topology_of_prostitution.md)
 - [死亡：系统征收的最后一税](ideas/034_death_the_final_tax.md)
+- [置于身边的死亡](ideas/088_death_kept_close.md)
 - [K-矩阵：出口成本的社会](ideas/036_k_matrix_single_orbit.md)
 - [负斜率：下坡的微积分](ideas/037_negative_slope.md)
 - [故障的传感器](ideas/044_broken_sensor.md)
@@ -142,6 +143,7 @@
 - [等级制消失了，仪表盘来了](ideas/086_caste_to_dashboard.md)
 - [作为纠缠的人](ideas/077_entanglement_as_person.md)
 - [天空不在外面](ideas/080_sky_is_not_outside.md)
+- [建造双射](ideas/087_build_the_bijection.md)
 - [没有教义的教义](ideas/081_doctrine_without_doctrine.md)
 - [技术萨满：在放大与替代之间](ideas/082_techno_shaman.md)
 

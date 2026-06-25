@@ -56,7 +56,7 @@ Create your own values like Nietzsche, refuse to discard talent before it is tra
 
 **Pioneers and Origin** — [Zarathustra](scripture/zarathustra.md) · [The Five Pioneers](scripture/pioneers.md) · [Mengchangjun](scripture/mengchangjun.md) · [Na Hye-seok](scripture/na_hye_suk.md) · [Origin](ideas/000_origin.md) · [The 3 Axioms](ideas/001_axioms.md) · [Principles of Creation](ideas/002_principles_of_creation.md) · [A Decentralized Mental OS](ideas/013_decentralized_mental_os.md) · [Epoché: The Destruction Before Destruction](ideas/059_epoche.md) · [Can You Show Water to a Fish?](ideas/061_water_and_fish.md)
 
-**[ideas/](ideas/)** — Philosophy, thought, declarations (83 essays)
+**[ideas/](ideas/)** — Philosophy, thought, declarations (85 essays)
 
 The Artist Within
 - [Beyond Usefulness](ideas/003_beyond_usefulness.md)
@@ -98,6 +98,7 @@ The Tax-Exempt and the Tax-Collector
 - [Consumption of the Tax-Exempt](ideas/025_consumption_of_exempt.md)
 - [The Topology of Prostitution](ideas/033_topology_of_prostitution.md)
 - [Death: The Final Tax](ideas/034_death_the_final_tax.md)
+- [Death Kept Close](ideas/088_death_kept_close.md)
 - [K-Matrix: A Society of Exit Costs](ideas/036_k_matrix_single_orbit.md)
 - [Negative Slope: The Calculus of Descent](ideas/037_negative_slope.md)
 - [The Broken Sensor](ideas/044_broken_sensor.md)
@@ -142,6 +143,7 @@ Mental OS and Regime
 - [The Caste System Vanished, the Dashboard Arrived](ideas/086_caste_to_dashboard.md)
 - [The Person as Entanglement](ideas/077_entanglement_as_person.md)
 - [The Sky Is Not Outside](ideas/080_sky_is_not_outside.md)
+- [Build the Bijection](ideas/087_build_the_bijection.md)
 - [Doctrine Without Doctrine](ideas/081_doctrine_without_doctrine.md)
 - [Techno-Shaman: Between Amplification and Replacement](ideas/082_techno_shaman.md)
 

@@ -56,7 +56,7 @@
 
 **先賢と原点** — [ツァラトゥストラ](scripture/zarathustra.md) · [五人の先賢](scripture/pioneers.md) · [孟嘗君](scripture/mengchangjun.md) · [羅蕙錫](scripture/na_hye_suk.md) · [起源](ideas/000_origin.md) · [三大公理](ideas/001_axioms.md) · [創造の原理](ideas/002_principles_of_creation.md) · [脱中心化精神体系OS](ideas/013_decentralized_mental_os.md) · [エポケー：破壊以前の破壊](ideas/059_epoche.md) · [魚に水を見せることはできるか](ideas/061_water_and_fish.md)
 
-**[ideas/](ideas/)** — 哲学・思想・宣言（83編）
+**[ideas/](ideas/)** — 哲学・思想・宣言（85編）
 
 内なるアーティスト
 - [有用性を超えて](ideas/003_beyond_usefulness.md)
@@ -98,6 +98,7 @@
 - [免税人の消費](ideas/025_consumption_of_exempt.md)
 - [売春のトポロジー](ideas/033_topology_of_prostitution.md)
 - [死 — システムが徴収する最後の税](ideas/034_death_the_final_tax.md)
+- [傍らに置いた死](ideas/088_death_kept_close.md)
 - [K-マトリクス — 出口コストの社会](ideas/036_k_matrix_single_orbit.md)
 - [負の傾き — 下り坂の微積分学](ideas/037_negative_slope.md)
 - [壊れたセンサー](ideas/044_broken_sensor.md)
@@ -142,6 +143,7 @@
 - [身分制は消え、計器盤が来た](ideas/086_caste_to_dashboard.md)
 - [もつれとしての人](ideas/077_entanglement_as_person.md)
 - [空は外にない](ideas/080_sky_is_not_outside.md)
+- [全単射を建てよ](ideas/087_build_the_bijection.md)
 - [教義なき教義](ideas/081_doctrine_without_doctrine.md)
 - [テクノ・シャーマン：増幅と代替のあいだ](ideas/082_techno_shaman.md)
 
