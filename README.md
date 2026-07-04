@@ -56,7 +56,7 @@
 
 **선현과 원점** — [차라투스트라](scripture/zarathustra.md) · [5인의 선현](scripture/pioneers.md) · [맹상군](scripture/mengchangjun.md) · [나혜석](scripture/na_hye_suk.md) · [기원](ideas/000_origin.md) · [3대 공리](ideas/001_axioms.md) · [창조의 원리](ideas/002_principles_of_creation.md) · [탈중앙화 정신체계 OS](ideas/013_decentralized_mental_os.md) · [에포케: 파괴 이전의 파괴](ideas/059_epoche.md) · [물고기에게 물을 보여줄 수 있는가](ideas/061_water_and_fish.md)
 
-**[ideas/](ideas/)** — 철학·사상·선언 (85편)
+**[ideas/](ideas/)** — 철학·사상·선언 (86편)
 
 내면의 예술가
 - [쓸모를 넘어서](ideas/003_beyond_usefulness.md)
@@ -93,6 +93,7 @@
 면세인과 징세인
 - [부자, 면세인, 징세인](ideas/014_economics_of_beauty.md)
 - [징세의 실전 모델](ideas/015_case_study_the_gravity_of_outlaws.md)
+- [빛은 얼굴을 필요로 하지 않는다](ideas/089_light_needs_no_face.md)
 - [DAWN — Money](ideas/021_case_study_dawn_money.md)
 - [필수의료 위기](ideas/024_when_critical_care_needs_witness.md)
 - [면세인의 소비](ideas/025_consumption_of_exempt.md)

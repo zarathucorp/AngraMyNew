@@ -56,7 +56,7 @@ Create your own values like Nietzsche, refuse to discard talent before it is tra
 
 **Pioneers and Origin** — [Zarathustra](scripture/zarathustra.md) · [The Five Pioneers](scripture/pioneers.md) · [Mengchangjun](scripture/mengchangjun.md) · [Na Hye-seok](scripture/na_hye_suk.md) · [Origin](ideas/000_origin.md) · [The 3 Axioms](ideas/001_axioms.md) · [Principles of Creation](ideas/002_principles_of_creation.md) · [A Decentralized Mental OS](ideas/013_decentralized_mental_os.md) · [Epoché: The Destruction Before Destruction](ideas/059_epoche.md) · [Can You Show Water to a Fish?](ideas/061_water_and_fish.md)
 
-**[ideas/](ideas/)** — Philosophy, thought, declarations (85 essays)
+**[ideas/](ideas/)** — Philosophy, thought, declarations (86 essays)
 
 The Artist Within
 - [Beyond Usefulness](ideas/003_beyond_usefulness.md)
@@ -93,6 +93,7 @@ Density and Curvature
 The Tax-Exempt and the Tax-Collector
 - [The Rich, the Tax-Exempt, and the Tax-Collector](ideas/014_economics_of_beauty.md)
 - [A Practical Model of Taxation](ideas/015_case_study_the_gravity_of_outlaws.md)
+- [Light Does Not Need a Face](ideas/089_light_needs_no_face.md)
 - [DAWN — Money](ideas/021_case_study_dawn_money.md)
 - [When Critical Care Needs Witness](ideas/024_when_critical_care_needs_witness.md)
 - [Consumption of the Tax-Exempt](ideas/025_consumption_of_exempt.md)

@@ -56,7 +56,7 @@
 
 **先贤与原点** — [查拉图斯特拉](scripture/zarathustra.md) · [五位先贤](scripture/pioneers.md) · [孟尝君](scripture/mengchangjun.md) · [罗蕙锡](scripture/na_hye_suk.md) · [起源](ideas/000_origin.md) · [三大公理](ideas/001_axioms.md) · [创造的原理](ideas/002_principles_of_creation.md) · [去中心化精神体系OS](ideas/013_decentralized_mental_os.md) · [悬搁：破坏之前的破坏](ideas/059_epoche.md) · [能否让鱼看见水](ideas/061_water_and_fish.md)
 
-**[ideas/](ideas/)** — 哲学·思想·宣言（85篇）
+**[ideas/](ideas/)** — 哲学·思想·宣言（86篇）
 
 内在的艺术家
 - [超越有用性](ideas/003_beyond_usefulness.md)
@@ -93,6 +93,7 @@
 免税人与征税人
 - [富人、免税人、征税人](ideas/014_economics_of_beauty.md)
 - [征税的实战模型](ideas/015_case_study_the_gravity_of_outlaws.md)
+- [光不需要脸](ideas/089_light_needs_no_face.md)
 - [DAWN — Money](ideas/021_case_study_dawn_money.md)
 - [必要医疗危机](ideas/024_when_critical_care_needs_witness.md)
 - [免税人的消费](ideas/025_consumption_of_exempt.md)
