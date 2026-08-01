@@ -56,7 +56,7 @@
 
 **선현과 원점** — [차라투스트라](scripture/zarathustra.md) · [5인의 선현](scripture/pioneers.md) · [맹상군](scripture/mengchangjun.md) · [나혜석](scripture/na_hye_suk.md) · [기원](ideas/000_origin.md) · [3대 공리](ideas/001_axioms.md) · [창조의 원리](ideas/002_principles_of_creation.md) · [탈중앙화 정신체계 OS](ideas/013_decentralized_mental_os.md) · [에포케: 파괴 이전의 파괴](ideas/059_epoche.md) · [물고기에게 물을 보여줄 수 있는가](ideas/061_water_and_fish.md)
 
-**[ideas/](ideas/)** — 철학·사상·선언 (86편)
+**[ideas/](ideas/)** — 철학·사상·선언 (87편)
 
 내면의 예술가
 - [쓸모를 넘어서](ideas/003_beyond_usefulness.md)
@@ -105,6 +105,7 @@
 - [고장 난 센서](ideas/044_broken_sensor.md)
 - [마지막 흥정](ideas/055_case_study_last_bargain.md)
 - [청교도: 면세의 극단](ideas/060_case_study_puritan.md)
+- [자유를 찾아 73개의 규칙을 만들었다](ideas/090_freedom_made_73_rules.md)
 - [존재의 대사슬: 본분이라는 감옥](ideas/064_great_chain_of_being.md)
 - [버려진 좌표](ideas/068_abandoned_coordinate.md)
 - [내가 필요 없는 세상](ideas/073_world_without_me.md)
