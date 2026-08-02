@@ -183,6 +183,7 @@ format:
     lang: ko
     toc: true
     toc-depth: 3
+    number-sections: false
   pdf:
     documentclass: book
     classoption:
@@ -242,6 +243,7 @@ format:
   epub:
     toc: true
     toc-depth: 3
+    number-sections: false
     resource-path:
       - .
       - ..
