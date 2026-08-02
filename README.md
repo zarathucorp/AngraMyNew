@@ -149,7 +149,7 @@
 - [교리 없는 교리](ideas/081_doctrine_without_doctrine.md)
 - [테크노 샤먼: 증폭과 대체 사이](ideas/082_techno_shaman.md)
 
-**[art/](art/)** — 아름다움의 사례 (27편)
+**[art/](art/)** — 아름다움의 사례 (28편)
 - [갈루아와 5차방정식](art/001_galois_quintic.md)
 - [일반상대성이론](art/002_general_relativity.md)
 - [하나의 무늬가 전부가 되다](art/003_one_pattern.md)
@@ -177,6 +177,7 @@
 - [잊는 데 드는 열](art/027_landauer_erasure.md)
 - [검은 그림이 색을 얻기까지](art/028_redon_noir_to_color.md)
 - [입체는 평면에 남는다](art/029_rubiks_cube.md)
+- [아무것도 차지하지 않으면서 모든 방향을 품는다](art/030_kakeya_set.md)
 
 **[fravashi/](fravashi/)** — Fravashi 원형 해석 엔진
 

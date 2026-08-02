@@ -149,7 +149,7 @@ Mental OS and Regime
 - [Doctrine Without Doctrine](ideas/081_doctrine_without_doctrine.md)
 - [Techno-Shaman: Between Amplification and Replacement](ideas/082_techno_shaman.md)
 
-**[art/](art/)** — Examples of beauty (27 essays)
+**[art/](art/)** — Examples of beauty (28 essays)
 - [Galois and the Quintic Equation](art/001_galois_quintic.md)
 - [General Relativity](art/002_general_relativity.md)
 - [When One Pattern Becomes Everything](art/003_one_pattern.md)
@@ -177,6 +177,7 @@ Mental OS and Regime
 - [The Heat It Takes to Forget](art/027_landauer_erasure.md)
 - [From Black to Color: Redon's Transformation](art/028_redon_noir_to_color.md)
 - [The Solid Remains on the Plane](art/029_rubiks_cube.md)
+- [Occupying Nothing, Containing Every Direction](art/030_kakeya_set.md)
 
 **[fravashi/](fravashi/)** — Fravashi Archetype Engine
 

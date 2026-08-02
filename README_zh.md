@@ -149,7 +149,7 @@
 - [没有教义的教义](ideas/081_doctrine_without_doctrine.md)
 - [技术萨满：在放大与替代之间](ideas/082_techno_shaman.md)
 
-**[art/](art/)** — 美的案例（27篇）
+**[art/](art/)** — 美的案例（28篇）
 - [伽罗瓦与五次方程](art/001_galois_quintic.md)
 - [广义相对论](art/002_general_relativity.md)
 - [一个图样成为全部](art/003_one_pattern.md)
@@ -177,6 +177,7 @@
 - [遗忘所需的热量](art/027_landauer_erasure.md)
 - [黑画获得色彩之前](art/028_redon_noir_to_color.md)
 - [立体留在平面上](art/029_rubiks_cube.md)
+- [不占据任何空间，却容纳所有方向](art/030_kakeya_set.md)
 
 **[fravashi/](fravashi/)** — Fravashi 原型解析引擎
 

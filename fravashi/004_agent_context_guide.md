@@ -41,7 +41,7 @@ AngraMyNew는 **철학·예술·실험 운동**이다. Quarto Book으로 빌드�
 ## 폴더 구조
 
 - `ideas/` — 철학·사상·선언 (87편, 019/020/035 삭제됨)
-- `art/` — 아름다움의 사례 (27편, 029_rubiks_cube 최신)
+- `art/` — 아름다움의 사례 (28편, 030_kakeya_set 최신)
 - `scripture/` — 선현 (zarathustra, pioneers, mengchangjun, na_hye_suk)
 - `fravashi/` — Fravashi 원형 해석 엔진 (4종: 내부매뉴얼, GPT 프롬프트, 에이전트 프롬프트, Claude 컨텍스트 가이드)
 - `protocols/` — 실행 프로토콜 (002는 대속→상환으로 완전 재작성됨)

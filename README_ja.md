@@ -149,7 +149,7 @@
 - [教義なき教義](ideas/081_doctrine_without_doctrine.md)
 - [テクノ・シャーマン：増幅と代替のあいだ](ideas/082_techno_shaman.md)
 
-**[art/](art/)** — 美の事例（27編）
+**[art/](art/)** — 美の事例（28編）
 - [ガロアと五次方程式](art/001_galois_quintic.md)
 - [一般相対性理論](art/002_general_relativity.md)
 - [ひとつの模様がすべてになる](art/003_one_pattern.md)
@@ -177,6 +177,7 @@
 - [忘れるのに必要な熱](art/027_landauer_erasure.md)
 - [黒い絵が色を得るまで](art/028_redon_noir_to_color.md)
 - [立体は平面に残る](art/029_rubiks_cube.md)
+- [何も占めずに、すべての方向を抱く](art/030_kakeya_set.md)
 
 **[fravashi/](fravashi/)** — Fravashi 原型解析エンジン
 
