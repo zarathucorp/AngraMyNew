@@ -122,7 +122,7 @@
 - [아카이브론: 세상이 오기 전에 남기는 자](ideas/051_archive_theory.md)
 - [프로듀스101: 곡률을 선지급하는 기계](ideas/052_case_study_produce101.md)
 - [스타는 시스템의 균열이다](ideas/057_star_as_crack.md)
-- [기축통화](ideas/065_reserve_currency.md)
+- [내 화폐를 발행하라](ideas/065_reserve_currency.md)
 - [관계의 금리](ideas/069_interest_rate_of_relationships.md)
 - [필요 없음의 두 얼굴](ideas/083_two_faces_of_obsolescence.md)
 - [대학은 미를 공짜로 가져간다](ideas/084_university_takes_beauty.md)

@@ -63,4 +63,4 @@
 - [창조의 원리](../ideas/002_principles_of_creation.md) — 파괴 없는 창조는 없다
 - [향수: 칼날이 밖을 향한 남자](../ideas/027_case_study_perfume.md) — 그르누이는 이 흐름을 모른 채 칼날을 밖으로 향했다. 르동은 안으로 향했다
 - [독백의 두 얼굴](../ideas/040_two_faces_of_monologue.md) — 누아르는 배설이 아니라 편집이다. 구획을 인식한 자만이 내면을 지도로 그릴 수 있다
-- [기축통화](../ideas/065_reserve_currency.md) — 르동은 내면의 풍경이라는 단위를 발행했고, 상징주의가 그 단위를 채택했다
+- [내 화폐를 발행하라](../ideas/065_reserve_currency.md) — 르동은 내면의 풍경이라는 단위를 발행했고, 상징주의가 그 단위를 채택했다

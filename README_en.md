@@ -122,7 +122,7 @@ Debut and Expansion
 - [Archive Theory: The One Who Saves Before the World Arrives](ideas/051_archive_theory.md)
 - [Produce 101: A Machine That Prepays Curvature](ideas/052_case_study_produce101.md)
 - [The Star Is a Crack in the System](ideas/057_star_as_crack.md)
-- [Reserve Currency](ideas/065_reserve_currency.md)
+- [Issue Your Own Currency](ideas/065_reserve_currency.md)
 - [The Interest Rate of Relationships](ideas/069_interest_rate_of_relationships.md)
 - [The Two Faces of Obsolescence](ideas/083_two_faces_of_obsolescence.md)
 - [The University Takes Beauty for Free](ideas/084_university_takes_beauty.md)

@@ -122,7 +122,7 @@
 - [档案论：在世界到来之前留下的人](ideas/051_archive_theory.md)
 - [Produce 101：预付曲率的机器](ideas/052_case_study_produce101.md)
 - [明星是系统的裂缝](ideas/057_star_as_crack.md)
-- [基轴货币](ideas/065_reserve_currency.md)
+- [发行你自己的货币](ideas/065_reserve_currency.md)
 - [关系的利率](ideas/069_interest_rate_of_relationships.md)
 - [不再被需要的两副面孔](ideas/083_two_faces_of_obsolescence.md)
 - [大学免费拿走美](ideas/084_university_takes_beauty.md)

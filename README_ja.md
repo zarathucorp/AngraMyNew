@@ -122,7 +122,7 @@
 - [アーカイブ論：世界が来る前に残す者](ideas/051_archive_theory.md)
 - [プロデュース101：曲率を前払いする機械](ideas/052_case_study_produce101.md)
 - [スターはシステムの亀裂である](ideas/057_star_as_crack.md)
-- [基軸通貨](ideas/065_reserve_currency.md)
+- [自分の通貨を発行せよ](ideas/065_reserve_currency.md)
 - [関係の金利](ideas/069_interest_rate_of_relationships.md)
 - [不要になることの二つの顔](ideas/083_two_faces_of_obsolescence.md)
 - [大学は美を無償で持っていく](ideas/084_university_takes_beauty.md)
